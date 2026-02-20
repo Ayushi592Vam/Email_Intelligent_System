@@ -1,4 +1,13 @@
+# Virtual env
 venv/
+
+# Generated data
+data/ocr/
+data/summaries/
+
+# Raw claim data (optional – recommended)
+data/raw/
+
+# Python cache
 __pycache__/
 *.pyc
-.env
