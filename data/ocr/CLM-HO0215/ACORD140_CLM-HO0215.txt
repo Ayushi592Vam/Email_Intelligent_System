@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/03/2019
+INSURED INFORMATION
+Name: David Moore
+Property Address: 159 Main Ln
+Miami, FL 54698
+Phone: 363-716-5322
+Email: david.moore@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000215
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1988
+Square Footage: 2727 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0215
+Date of Loss: 09/01/2019
+Time of Loss: 2:30 AM
+Cause of Loss: Water Damage
+Estimated Damage: $22,412
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals significant water int
+rusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0088",
+  "policy_number": "AU1000088",
+  "insured_name": "John Davis",
+  "carrier": "Farmers",
+  "date_of_loss": "11/29/2019",
+  "estimated_amount": "48268",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Honda Accord",
+  "vin": "HV43MCYWBZ2UXHXTR",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

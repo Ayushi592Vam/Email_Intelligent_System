@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Brown
+Claim: CLM-AU0001
+Total Estimated Repairs: $12,684
+Prepared for: Allstate

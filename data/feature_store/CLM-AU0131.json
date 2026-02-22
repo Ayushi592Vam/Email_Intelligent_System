@@ -1,0 +1,24 @@
+{
+  "claim_number": "CLM-AU0131",
+  "claim_type": "AUTO",
+  "has_medical": true,
+  "has_police": true,
+  "has_legal": false,
+  "num_attachments": 6,
+  "num_photos": 1,
+  "severity": "CRITICAL",
+  "severity_score": 95,
+  "signals": [
+    "INJURY_REPORTED",
+    "POLICE_INVOLVEMENT",
+    "HIGH_LOSS_AMOUNT",
+    "AUTO_BODILY_INJURY"
+  ],
+  "files_present": [
+    "ACORD",
+    "MEDICAL",
+    "PHOTOS",
+    "POLICE",
+    "REPAIR_ESTIMATE"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0020",
+  "policy_number": "HO2000020",
+  "insured_name": "Patricia Smith",
+  "carrier": "Allstate",
+  "date_of_loss": "10/07/2019",
+  "estimated_amount": "22526",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3963 Park Ct, New York, NY 90923",
+  "loss_type": "natural disaster"
+}

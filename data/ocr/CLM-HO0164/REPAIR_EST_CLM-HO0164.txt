@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Brown
+Claim: CLM-HO0164
+Total Estimated Repairs: $125,629
+Prepared for: Allstate

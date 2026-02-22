@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0113.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/05/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Barbara Moore
+4025 Stockard Drive, Suite 876 6154 Maple St
+Frisco, TX 75034 Phoenix, AZ 54895
+Phone: 303-450-1113 Phone: 856-864-9452
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000113
+Effective Date: 09/01/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000113 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0113
+Date of Loss: 09/01/2019
+Estimated Amount: $11,569
+Vehicle: 2018 Toyota Camry, VIN: ZWD8GZW4R80XZNH6R
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0113.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0113.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Phoenix Police Department Report #: 2019030508
+INCIDENT INFORMATION
+Date/Time: 09/01/2019 at 13:04
+Location: 6292 Park Ave, Phoenix, AZ
+Type: Collision
+Weather: Foggy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Barbara Moore
+License: AZ90102852
+Vehicle: 2018 Toyota Camry, VIN: ZWD8GZW4R80XZNH6R
+Driver 2: Joseph Rodriguez
+Vehicle: 2018 Toyota Camry
+NARRATIVE
+On 09/01/2019, at approximately 17:47, officers responded to
+a collision at the intersection of 7227 Oak Ln. Upon arrival, officers observed
+when Driver 2 (Joseph Rodriguez) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 7706
+Date: 09/05/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0113.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Barbara Moore
+Claim: CLM-AU0113
+Total Estimated Repairs: $11,569
+Prepared for: Allstate

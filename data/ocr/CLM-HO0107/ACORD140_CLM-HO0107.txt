@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/21/2019
+INSURED INFORMATION
+Name: Elizabeth Hernandez
+Property Address: 6990 Park Dr
+Phoenix, AZ 72915
+Phone: 243-488-5637
+Email: elizabeth.hernandez@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000107
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1991
+Square Footage: 1750 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0107
+Date of Loss: 09/21/2019
+Time of Loss: 11:00 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $13,551
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals significant water
+intrusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

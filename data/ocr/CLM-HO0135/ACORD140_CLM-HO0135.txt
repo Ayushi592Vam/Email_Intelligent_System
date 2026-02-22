@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/29/2019
+INSURED INFORMATION
+Name: Karen Jones
+Property Address: 2518 Park Ln
+Dallas, TX 68683
+Phone: 385-827-2584
+Email: karen.jones@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000135
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2013
+Square Footage: 2660 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0135
+Date of Loss: 08/27/2019
+Time of Loss: 9:00 PM
+Cause of Loss: Vandalism
+Estimated Damage: $13,513
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

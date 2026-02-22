@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Smith
+Claim: CLM-AU0192
+Total Estimated Repairs: $46,499
+Prepared for: Allstate

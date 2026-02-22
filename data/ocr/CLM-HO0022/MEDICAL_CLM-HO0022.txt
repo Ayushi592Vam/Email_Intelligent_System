@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/12/2019 Claim: CLM-HO0022
+PATIENT INFORMATION
+Name: David Jackson DOB: 11/18/1978
+SSN: 407-79-3344 Phone: 494-572-9134
+Address: 6027 Maple Ln, Houston, TX 24481
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 10/10/2019 Treating Physician: Dr. Miller
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 10/10/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Wilson, MD
+License: 552160
+Date: 10/12/2019

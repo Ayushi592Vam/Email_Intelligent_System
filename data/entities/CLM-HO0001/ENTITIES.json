@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0001",
+  "policy_number": "HO2000001",
+  "insured_name": "Patricia Miller",
+  "carrier": "Geico",
+  "date_of_loss": "10/13/2019",
+  "estimated_amount": "70018",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8856 Cedar St, New York, NY 16685",
+  "loss_type": "natural disaster"
+}

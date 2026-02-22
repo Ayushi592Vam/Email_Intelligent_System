@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Johnson
+Claim: CLM-HO0010
+Total Estimated Repairs: $9,785
+Prepared for: Nationwide

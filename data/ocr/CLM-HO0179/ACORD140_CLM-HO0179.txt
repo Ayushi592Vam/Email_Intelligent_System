@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/31/2019
+INSURED INFORMATION
+Name: Linda Rodriguez
+Property Address: 8313 Maple St
+Atlanta, GA 41981
+Phone: 270-527-2358
+Email: linda.rodriguez@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000179
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1971
+Square Footage: 3333 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0179
+Date of Loss: 12/30/2019
+Time of Loss: 3:15 AM
+Cause of Loss: Natural Disaster
+Estimated Damage: $13,294
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals structural damage
+requiring immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

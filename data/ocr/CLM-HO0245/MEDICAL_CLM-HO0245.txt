@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/30/2019 Claim: CLM-HO0245
+PATIENT INFORMATION
+Name: Robert Jackson DOB: 02/03/1972
+SSN: 806-26-5272 Phone: 283-328-3511
+Address: 8826 Washington Ct, New York, NY 24046
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 12/26/2019 Treating Physician: Dr. Moore
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 12/26/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Taylor, MD
+License: 861270
+Date: 12/30/2019

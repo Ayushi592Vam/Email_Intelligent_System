@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0011",
+  "policy_number": "AU1000011",
+  "insured_name": "Karen Anderson",
+  "carrier": "State Farm",
+  "date_of_loss": "12/09/2019",
+  "estimated_amount": "11521",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2020 Honda Accord",
+  "vin": "9VHZDRV64VU79D8YR",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Lopez
+Claim: CLM-AU0029
+Total Estimated Repairs: $7,998
+Prepared for: Liberty Mutual

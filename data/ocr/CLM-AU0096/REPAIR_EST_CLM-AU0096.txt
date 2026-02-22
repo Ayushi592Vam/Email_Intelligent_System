@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Rodriguez
+Claim: CLM-AU0096
+Total Estimated Repairs: $35,304
+Prepared for: Liberty Mutual

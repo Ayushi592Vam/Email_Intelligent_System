@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Garcia
+Claim: CLM-AU0111
+Total Estimated Repairs: $24,835
+Prepared for: Geico

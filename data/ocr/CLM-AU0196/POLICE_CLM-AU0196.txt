@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Atlanta Police Department Report #: 2019791856
+INCIDENT INFORMATION
+Date/Time: 11/15/2019 at 14:21
+Location: 1707 Pine Blvd, Atlanta, GA
+Type: Collision
+Weather: Cloudy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Michael Moore
+License: GA53247221
+Vehicle: 2017 Tesla Model 3, VIN: LJU5YVZB4E08KGPH9
+Driver 2: Jennifer Garcia
+Vehicle: 2010 Tesla Model 3
+NARRATIVE
+On 11/15/2019, at approximately 09:08, officers responded to
+a collision at the intersection of 283 Park Blvd. Upon arrival, officers observed
+when Driver 2 (Jennifer Garcia) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 7936
+Date: 11/16/2019

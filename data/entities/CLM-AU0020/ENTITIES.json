@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0020",
+  "policy_number": "AU1000020",
+  "insured_name": "James Moore",
+  "carrier": "Geico",
+  "date_of_loss": "08/08/2019",
+  "estimated_amount": "33836",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 Toyota Camry",
+  "vin": "1K2XXCLTM5Y1VYYRA",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

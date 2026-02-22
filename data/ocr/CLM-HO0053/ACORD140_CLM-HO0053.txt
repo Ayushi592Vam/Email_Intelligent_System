@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/08/2019
+INSURED INFORMATION
+Name: Susan Jones
+Property Address: 6664 Washington Dr
+Dallas, TX 50438
+Phone: 594-286-3008
+Email: susan.jones@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000053
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1986
+Square Footage: 2559 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0053
+Date of Loss: 11/06/2019
+Time of Loss: 12:30 PM
+Cause of Loss: Liability
+Estimated Damage: $12,790
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals structural damage requir
+ing immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

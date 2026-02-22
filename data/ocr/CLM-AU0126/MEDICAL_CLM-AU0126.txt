@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/15/2019 Claim: CLM-AU0126
+PATIENT INFORMATION
+Name: Thomas Moore DOB: 02/13/1991
+SSN: 352-76-8156 Phone: 444-763-3147
+Address: 5306 Maple Ln, Dallas, TX 22179
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 11/14/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 11/14/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Hernandez, MD
+License: 494898
+Date: 11/15/2019

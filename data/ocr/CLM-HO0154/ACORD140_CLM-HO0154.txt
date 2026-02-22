@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/18/2019
+INSURED INFORMATION
+Name: Patricia Hernandez
+Property Address: 6982 Maple Dr
+New York, NY 33694
+Phone: 399-276-1968
+Email: patricia.hernandez@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000154
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1972
+Square Footage: 2442 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0154
+Date of Loss: 09/18/2019
+Time of Loss: 7:30 AM
+Cause of Loss: Liability
+Estimated Damage: $31,120
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

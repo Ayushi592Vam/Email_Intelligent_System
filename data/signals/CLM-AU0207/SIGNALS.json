@@ -1,0 +1,13 @@
+{
+  "claim_number": "CLM-AU0207",
+  "claim_type": "AUTO",
+  "severity": "CRITICAL",
+  "severity_score": 135,
+  "signals_detected": [
+    "INJURY_REPORTED",
+    "POLICE_INVOLVEMENT",
+    "LEGAL_INVOLVEMENT",
+    "HIGH_LOSS_AMOUNT",
+    "AUTO_BODILY_INJURY"
+  ]
+}

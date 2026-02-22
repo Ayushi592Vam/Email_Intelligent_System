@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0214",
+  "policy_number": "AU1000214",
+  "insured_name": "Linda Williams",
+  "carrier": "Farmers",
+  "date_of_loss": "08/16/2019",
+  "estimated_amount": "10920",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2015 Ford F",
+  "vin": "867PH0JMYHUZ2J2UX",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

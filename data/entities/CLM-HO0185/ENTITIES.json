@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0185",
+  "policy_number": "HO2000185",
+  "insured_name": "Richard Miller",
+  "carrier": "Farmers",
+  "date_of_loss": "12/15/2019",
+  "estimated_amount": "58646",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "520 Washington Ln, Chicago, IL 87389",
+  "loss_type": "water damage"
+}

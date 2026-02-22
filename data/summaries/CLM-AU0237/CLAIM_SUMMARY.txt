@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0237
+Policy Number: AU1000237
+Insured: Patricia Jones
+Carrier: Nationwide
+Date of Loss: 12/02/2019
+Estimated Amount: $50,098
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2015 Tesla Model | VIN: FKAWRJJPWJ3MUJYEY
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,79 @@
+
+===== FILE: ACORD25_CLM-AU0085.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/02/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Elizabeth Martin
+4025 Stockard Drive, Suite 876 1351 Cedar Dr
+Frisco, TX 75034 Houston, TX 70611
+Phone: 785-552-4190 Phone: 587-743-3619
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000085
+Effective Date: 11/27/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000085 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0085
+Date of Loss: 11/27/2019
+Estimated Amount: $62,069
+Vehicle: 2016 BMW 3 Series, VIN: SGXE2PYATZB6UZL5X
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0085.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0085.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0085.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/02/2019 Claim: CLM-AU0085
+PATIENT INFORMATION
+Name: Elizabeth Martin DOB: 07/11/1977
+SSN: 615-54-9655 Phone: 587-743-3619
+Address: 1351 Cedar Dr, Houston, TX 70611
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 11/27/2019 Treating Physician: Dr. Anderson
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 11/27/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Lopez, MD
+License: 831824
+Date: 12/02/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0085.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Martin
+Claim: CLM-AU0085
+Total Estimated Repairs: $62,069
+Prepared for: Allstate

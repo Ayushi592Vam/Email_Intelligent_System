@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/11/2019 Claim: CLM-AU0127
+PATIENT INFORMATION
+Name: Susan Garcia DOB: 02/24/1995
+SSN: 203-25-2210 Phone: 272-691-1305
+Address: 6178 Cedar St, Dallas, TX 28471
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 10/11/2019 Treating Physician: Dr. Hernandez
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 10/11/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Miller, MD
+License: 924717
+Date: 10/11/2019

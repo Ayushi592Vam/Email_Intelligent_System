@@ -1,0 +1,104 @@
+
+===== FILE: ACORD25_CLM-AU0247.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/02/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Karen Davis
+4025 Stockard Drive, Suite 876 8811 Pine Ave
+Frisco, TX 75034 New York, NY 11364
+Phone: 915-601-6107 Phone: 203-391-2829
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Travelers
+Policy Number: AU1000247
+Effective Date: 09/02/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000247 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0247
+Date of Loss: 09/02/2019
+Estimated Amount: $61,693
+Vehicle: 2017 Chevrolet Silverado, VIN: 26ML91P9BW5WDE605
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0247.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0247.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/02/2019 Claim: CLM-AU0247
+PATIENT INFORMATION
+Name: Karen Davis DOB: 12/07/1951
+SSN: 875-34-1752 Phone: 203-391-2829
+Address: 8811 Pine Ave, New York, NY 11364
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 09/02/2019 Treating Physician: Dr. Taylor
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 09/02/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Hernandez, MD
+License: 425248
+Date: 09/02/2019
+
+
+===== FILE: POLICE_CLM-AU0247.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+New York Police Department Report #: 2019342502
+INCIDENT INFORMATION
+Date/Time: 09/02/2019 at 21:36
+Location: 876 Oak Ln, New York, NY
+Type: Uninsured Motorist
+Weather: Clear, Road: Dry
+PARTIES INVOLVED
+Driver 1: Karen Davis
+License: NY19517082
+Vehicle: 2017 Chevrolet Silverado, VIN: 26ML91P9BW5WDE605
+Driver 2: Thomas Gonzalez
+Vehicle: 2012 Tesla Model 3
+NARRATIVE
+On 09/02/2019, at approximately 17:22, officers responded to
+a uninsured motorist at the intersection of 9565 Washington Dr. Upon arrival, officers observed
+when Driver 2 (Thomas Gonzalez) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 8990
+Date: 09/02/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0247.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Karen Davis
+Claim: CLM-AU0247
+Total Estimated Repairs: $61,693
+Prepared for: Travelers

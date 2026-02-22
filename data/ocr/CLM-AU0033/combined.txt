@@ -1,0 +1,111 @@
+
+===== FILE: ACORD25_CLM-AU0033.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/18/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Joseph Moore
+4025 Stockard Drive, Suite 876 7583 Elm St
+Frisco, TX 75034 Houston, TX 10603
+Phone: 441-590-3320 Phone: 831-970-6059
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000033
+Effective Date: 09/17/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000033 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0033
+Date of Loss: 09/17/2019
+Estimated Amount: $20,224
+Vehicle: 2016 Ford F-150, VIN: NXBU35M8TR3AB97XP
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0033.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0033.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+5600 Park Ct
+Houston, TX 10603
+Phone: 412-351-5527 | Fax: 842-794-6924
+Date: 09/18/2019
+Allstate
+Claims Department
+P.O. Box 12345
+Houston, AZ 76147
+RE: Demand for Settlement - Joseph Moore
+Claim Number: CLM-AU0033
+Date of Loss: 09/17/2019
+Your Insured: Joseph Moore
+Dear Claims Adjuster:
+This firm represents Joseph Moore in connection with the above-referenced claim.
+On 09/17/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $21,240
+Lost Wages: $7,411
+Property Damage: $20,224
+Pain and Suffering: $42,190
+TOTAL DEMAND: $50,814
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Johnson & Associates
+Attorney for Joseph Moore
+
+
+===== FILE: POLICE_CLM-AU0033.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Houston Police Department Report #: 2019329438
+INCIDENT INFORMATION
+Date/Time: 09/17/2019 at 21:43
+Location: 6673 Pine Dr, Houston, TX
+Type: Comprehensive
+Weather: Rainy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Joseph Moore
+License: TX97411949
+Vehicle: 2016 Ford F-150, VIN: NXBU35M8TR3AB97XP
+Driver 2: Susan Williams
+Vehicle: 2014 Toyota Camry
+NARRATIVE
+On 09/17/2019, at approximately 14:05, officers responded to
+a comprehensive at the intersection of 812 Oak Dr. Upon arrival, officers observed
+when Driver 2 (Susan Williams) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 2562
+Date: 09/18/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0033.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Moore
+Claim: CLM-AU0033
+Total Estimated Repairs: $20,224
+Prepared for: Allstate

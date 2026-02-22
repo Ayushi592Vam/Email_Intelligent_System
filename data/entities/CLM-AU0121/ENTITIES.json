@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0121",
+  "policy_number": "AU1000121",
+  "insured_name": "Joseph Rodriguez",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "10/04/2019",
+  "estimated_amount": "52882",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 Chevrolet Silverado",
+  "vin": "LL54V4YRU5UCSZ3R7",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

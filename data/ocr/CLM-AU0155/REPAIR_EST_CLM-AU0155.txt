@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Lopez
+Claim: CLM-AU0155
+Total Estimated Repairs: $7,219
+Prepared for: Allstate

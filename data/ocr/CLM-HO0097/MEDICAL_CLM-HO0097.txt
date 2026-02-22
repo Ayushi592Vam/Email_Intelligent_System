@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/29/2019 Claim: CLM-HO0097
+PATIENT INFORMATION
+Name: Barbara Rodriguez DOB: 12/09/1980
+SSN: 225-71-3878 Phone: 793-826-1083
+Address: 2831 Pine St, New York, NY 72744
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 11/27/2019 Treating Physician: Dr. Williams
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 11/27/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Garcia, MD
+License: 762404
+Date: 11/29/2019

@@ -1,0 +1,9 @@
+{
+  "claim_number": "CLM-HO0137",
+  "claim_type": "HOME",
+  "severity": "LOW",
+  "severity_score": 0,
+  "signals_detected": [
+    "HOME_LOSS_LIABILITY"
+  ]
+}

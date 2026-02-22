@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Richard Williams
+Claim: CLM-AU0017
+Total Estimated Repairs: $20,517
+Prepared for: State Farm

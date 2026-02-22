@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0205",
+  "policy_number": "HO2000205",
+  "insured_name": "Jessica Davis",
+  "carrier": "Geico",
+  "date_of_loss": "12/11/2019",
+  "estimated_amount": "13595",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9200 Cedar Ct, New York, NY 16463",
+  "loss_type": "fire"
+}

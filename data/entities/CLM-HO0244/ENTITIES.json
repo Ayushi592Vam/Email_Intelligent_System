@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0244",
+  "policy_number": "HO2000244",
+  "insured_name": "Richard Martinez",
+  "carrier": "Allstate",
+  "date_of_loss": "12/07/2019",
+  "estimated_amount": "8867",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7141 Oak Blvd, New York, NY 58118",
+  "loss_type": "vandalism"
+}

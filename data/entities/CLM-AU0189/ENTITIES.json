@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0189",
+  "policy_number": "AU1000189",
+  "insured_name": "Karen Moore",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "10/12/2019",
+  "estimated_amount": "58688",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2019 Audi A4",
+  "vin": "XYFMRHYYDKK6JK8TF",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0244",
+  "policy_number": "AU1000244",
+  "insured_name": "Christopher Martin",
+  "carrier": "Travelers",
+  "date_of_loss": "12/20/2019",
+  "estimated_amount": "44774",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Ford F",
+  "vin": "XNHBA1WK3R4JER570",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

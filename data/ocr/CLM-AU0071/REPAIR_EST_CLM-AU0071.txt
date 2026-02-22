@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Jones
+Claim: CLM-AU0071
+Total Estimated Repairs: $14,651
+Prepared for: Progressive

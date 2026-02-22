@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0081
+Policy Number: AU1000081
+Insured: Robert Wilson
+Carrier: Liberty Mutual
+Date of Loss: 09/11/2019
+Estimated Amount: $60,993
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 Toyota Camry | VIN: 711GDR8L1P2YTN6A2
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

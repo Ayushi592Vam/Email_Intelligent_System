@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0125
+Policy Number: AU1000125
+Insured: Elizabeth Taylor
+Carrier: Liberty Mutual
+Date of Loss: 11/02/2019
+Estimated Amount: $17,497
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2017 Toyota Camry | VIN: 02KZZZV2J9SMTZV6W
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

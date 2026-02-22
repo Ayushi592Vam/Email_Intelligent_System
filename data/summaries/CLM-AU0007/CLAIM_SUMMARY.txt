@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0007
+Policy Number: AU1000007
+Insured: Patricia Smith
+Carrier: Progressive
+Date of Loss: 07/15/2019
+Estimated Amount: $5,519
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2020 Toyota Camry | VIN: SZ7BNTMAKRF6W9SDZ
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

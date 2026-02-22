@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0133",
+  "policy_number": "AU1000133",
+  "insured_name": "Michael Lopez",
+  "carrier": "Geico",
+  "date_of_loss": "09/06/2019",
+  "estimated_amount": "14416",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Toyota Camry",
+  "vin": "BYSSSMGLYFUW3S0LR",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,104 @@
+
+===== FILE: ACORD25_CLM-AU0077.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/13/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Linda Taylor
+4025 Stockard Drive, Suite 876 7224 Oak St
+Frisco, TX 75034 Los Angeles, CA 33068
+Phone: 538-832-7169 Phone: 397-769-3678
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000077
+Effective Date: 08/12/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000077 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0077
+Date of Loss: 08/12/2019
+Estimated Amount: $19,461
+Vehicle: 2015 Chevrolet Silverado, VIN: 8T8DURP54VRARLE8P
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0077.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0077.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/13/2019 Claim: CLM-AU0077
+PATIENT INFORMATION
+Name: Linda Taylor DOB: 11/21/1957
+SSN: 297-27-6947 Phone: 397-769-3678
+Address: 7224 Oak St, Los Angeles, CA 33068
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 08/12/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 08/12/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Rodriguez, MD
+License: 784620
+Date: 08/13/2019
+
+
+===== FILE: POLICE_CLM-AU0077.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Los Angeles Police Department Report #: 2019612515
+INCIDENT INFORMATION
+Date/Time: 08/12/2019 at 11:56
+Location: 9079 Pine Ave, Los Angeles, CA
+Type: Uninsured Motorist
+Weather: Rainy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Linda Taylor
+License: CA61826993
+Vehicle: 2015 Chevrolet Silverado, VIN: 8T8DURP54VRARLE8P
+Driver 2: Robert Hernandez
+Vehicle: 2019 Audi A4
+NARRATIVE
+On 08/12/2019, at approximately 15:27, officers responded to
+a uninsured motorist at the intersection of 4372 Main St. Upon arrival, officers observed
+when Driver 2 (Robert Hernandez) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 9714
+Date: 08/13/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0077.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Linda Taylor
+Claim: CLM-AU0077
+Total Estimated Repairs: $19,461
+Prepared for: Progressive

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0180",
+  "policy_number": "HO2000180",
+  "insured_name": "Linda Rodriguez",
+  "carrier": "State Farm",
+  "date_of_loss": "09/23/2019",
+  "estimated_amount": "92943",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3858 Maple Dr, Miami, FL 19085",
+  "loss_type": "natural disaster"
+}

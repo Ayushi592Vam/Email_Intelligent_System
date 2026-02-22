@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0157",
+  "policy_number": "HO2000157",
+  "insured_name": "Karen Anderson",
+  "carrier": "Nationwide",
+  "date_of_loss": "12/25/2019",
+  "estimated_amount": "64783",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7657 Park Ct, Chicago, IL 40613",
+  "loss_type": "theft"
+}

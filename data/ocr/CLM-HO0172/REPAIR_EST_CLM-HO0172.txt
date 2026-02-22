@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Brown
+Claim: CLM-HO0172
+Total Estimated Repairs: $20,921
+Prepared for: Travelers

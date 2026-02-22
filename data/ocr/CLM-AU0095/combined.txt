@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0095.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/29/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services David Jackson
+4025 Stockard Drive, Suite 876 2223 Elm Ave
+Frisco, TX 75034 Los Angeles, CA 70439
+Phone: 252-869-6412 Phone: 995-930-9036
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000095
+Effective Date: 10/25/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000095 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0095
+Date of Loss: 10/25/2019
+Estimated Amount: $24,267
+Vehicle: 2017 Honda Accord, VIN: KCH2PELXXDM60K851
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0095.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0095.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0095.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/29/2019 Claim: CLM-AU0095
+PATIENT INFORMATION
+Name: David Jackson DOB: 02/18/1970
+SSN: 468-95-3317 Phone: 995-930-9036
+Address: 2223 Elm Ave, Los Angeles, CA 70439
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 10/25/2019 Treating Physician: Dr. Moore
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 10/25/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Garcia, MD
+License: 229084
+Date: 10/29/2019
+
+
+===== FILE: POLICE_CLM-AU0095.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Los Angeles Police Department Report #: 2019527670
+INCIDENT INFORMATION
+Date/Time: 10/25/2019 at 07:44
+Location: 2405 Maple St, Los Angeles, CA
+Type: Uninsured Motorist
+Weather: Cloudy, Road: Dry
+PARTIES INVOLVED
+Driver 1: David Jackson
+License: CA59643135
+Vehicle: 2017 Honda Accord, VIN: KCH2PELXXDM60K851
+Driver 2: Robert Gonzalez
+Vehicle: 2017 Chevrolet Silverado
+NARRATIVE
+On 10/25/2019, at approximately 14:58, officers responded to
+a uninsured motorist at the intersection of 6012 Maple Ave. Upon arrival, officers observed
+when Driver 2 (Robert Gonzalez) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 7239
+Date: 10/29/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0095.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Jackson
+Claim: CLM-AU0095
+Total Estimated Repairs: $24,267
+Prepared for: Progressive

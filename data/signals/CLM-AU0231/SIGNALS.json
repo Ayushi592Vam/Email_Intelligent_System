@@ -1,0 +1,11 @@
+{
+  "claim_number": "CLM-AU0231",
+  "claim_type": "AUTO",
+  "severity": "HIGH",
+  "severity_score": 75,
+  "signals_detected": [
+    "INJURY_REPORTED",
+    "HIGH_LOSS_AMOUNT",
+    "AUTO_BODILY_INJURY"
+  ]
+}

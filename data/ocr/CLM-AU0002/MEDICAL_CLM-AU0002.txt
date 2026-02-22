@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/21/2019 Claim: CLM-AU0002
+PATIENT INFORMATION
+Name: James Miller DOB: 06/28/1988
+SSN: 183-19-3763 Phone: 809-408-8584
+Address: 7895 Main Ave, New York, NY 55328
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 11/17/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 11/17/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Garcia, MD
+License: 191214
+Date: 11/21/2019

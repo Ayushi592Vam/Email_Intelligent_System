@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/07/2019 Claim: CLM-AU0014
+PATIENT INFORMATION
+Name: Joseph Lopez DOB: 02/16/1989
+SSN: 735-61-5820 Phone: 805-412-1545
+Address: 1648 Elm Ave, Dallas, TX 23937
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 12/05/2019 Treating Physician: Dr. Anderson
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 12/05/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Gonzalez, MD
+License: 389800
+Date: 12/07/2019

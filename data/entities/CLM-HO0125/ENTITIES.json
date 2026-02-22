@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0125",
+  "policy_number": "HO2000125",
+  "insured_name": "James Davis",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "08/14/2019",
+  "estimated_amount": "87922",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8598 Maple Dr, Dallas, TX 18817",
+  "loss_type": "liability"
+}

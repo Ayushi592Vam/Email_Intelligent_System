@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0245",
+  "policy_number": "HO2000245",
+  "insured_name": "Robert Jackson",
+  "carrier": "Nationwide",
+  "date_of_loss": "12/26/2019",
+  "estimated_amount": "30883",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8826 Washington Ct, New York, NY 24046",
+  "loss_type": "theft"
+}

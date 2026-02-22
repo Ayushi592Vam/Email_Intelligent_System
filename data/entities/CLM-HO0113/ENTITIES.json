@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0113",
+  "policy_number": "HO2000113",
+  "insured_name": "Linda Taylor",
+  "carrier": "Nationwide",
+  "date_of_loss": "07/30/2019",
+  "estimated_amount": "70888",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8792 Pine Ct, Los Angeles, CA 24210",
+  "loss_type": "water damage"
+}

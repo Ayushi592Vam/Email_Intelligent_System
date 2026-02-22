@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Jackson
+Claim: CLM-HO0227
+Total Estimated Repairs: $69,845
+Prepared for: Travelers

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0057",
+  "policy_number": "AU1000057",
+  "insured_name": "Sarah Garcia",
+  "carrier": "Geico",
+  "date_of_loss": "11/29/2019",
+  "estimated_amount": "10126",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Toyota Camry",
+  "vin": "XE48DDXMREC2US8UT",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

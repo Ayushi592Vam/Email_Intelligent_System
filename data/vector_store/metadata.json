@@ -1,0 +1,3002 @@
+[
+  {
+    "claim_number": "CLM-AU0001",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0002",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0003",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0004",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0005",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0006",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0007",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0008",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-AU0009",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-AU0010",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-AU0011",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0012",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0013",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0014",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0015",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0016",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0017",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0018",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0019",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 75
+  },
+  {
+    "claim_number": "CLM-AU0020",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0021",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 135
+  },
+  {
+    "claim_number": "CLM-AU0022",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0023",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 100
+  },
+  {
+    "claim_number": "CLM-AU0024",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0025",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0026",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0027",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0028",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0029",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0030",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-AU0031",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0032",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0033",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0034",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0035",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0036",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 150
+  },
+  {
+    "claim_number": "CLM-AU0037",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0038",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0039",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-AU0040",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-AU0041",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0042",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0043",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0044",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 75
+  },
+  {
+    "claim_number": "CLM-AU0045",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 100
+  },
+  {
+    "claim_number": "CLM-AU0046",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-AU0047",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-AU0048",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0049",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0050",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0051",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0052",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0053",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-AU0054",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0055",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0056",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0057",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0058",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0059",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0060",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0061",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-AU0062",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0063",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 85
+  },
+  {
+    "claim_number": "CLM-AU0064",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0065",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-AU0066",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0067",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0068",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0069",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0070",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-AU0071",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0072",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0073",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 75
+  },
+  {
+    "claim_number": "CLM-AU0074",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0075",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-AU0076",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 90
+  },
+  {
+    "claim_number": "CLM-AU0077",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0078",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0079",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0080",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0081",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-AU0082",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0083",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0084",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 150
+  },
+  {
+    "claim_number": "CLM-AU0085",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 90
+  },
+  {
+    "claim_number": "CLM-AU0086",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0087",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0088",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0089",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0090",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0091",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0092",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0093",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 80
+  },
+  {
+    "claim_number": "CLM-AU0094",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0095",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0096",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0097",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0098",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0099",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 90
+  },
+  {
+    "claim_number": "CLM-AU0100",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0101",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0102",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0103",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0104",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0105",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 90
+  },
+  {
+    "claim_number": "CLM-AU0106",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0107",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0108",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0109",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0110",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0111",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0112",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-AU0113",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0114",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0115",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 85
+  },
+  {
+    "claim_number": "CLM-AU0116",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0117",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0118",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0119",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0120",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0121",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 90
+  },
+  {
+    "claim_number": "CLM-AU0122",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0123",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0124",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0125",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0126",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0127",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 135
+  },
+  {
+    "claim_number": "CLM-AU0128",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-AU0129",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 85
+  },
+  {
+    "claim_number": "CLM-AU0130",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0131",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-AU0132",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-AU0133",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0134",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0135",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0136",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0137",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0138",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0139",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0140",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0141",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0142",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 75
+  },
+  {
+    "claim_number": "CLM-AU0143",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0144",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0145",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0146",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0147",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0148",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0149",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-AU0150",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 130
+  },
+  {
+    "claim_number": "CLM-AU0151",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-AU0152",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 115
+  },
+  {
+    "claim_number": "CLM-AU0153",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 85
+  },
+  {
+    "claim_number": "CLM-AU0154",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-AU0155",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0156",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0157",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-AU0158",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0159",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0160",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0161",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0162",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0163",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0164",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0165",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 85
+  },
+  {
+    "claim_number": "CLM-AU0166",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0167",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0168",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0169",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0170",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0171",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0172",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 90
+  },
+  {
+    "claim_number": "CLM-AU0173",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0174",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0175",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 90
+  },
+  {
+    "claim_number": "CLM-AU0176",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 135
+  },
+  {
+    "claim_number": "CLM-AU0177",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0178",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-AU0179",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-AU0180",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0181",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0182",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0183",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0184",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0185",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0186",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0187",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0188",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0189",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 100
+  },
+  {
+    "claim_number": "CLM-AU0190",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0191",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0192",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 75
+  },
+  {
+    "claim_number": "CLM-AU0193",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0194",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0195",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-AU0196",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0197",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0198",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0199",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0200",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0201",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0202",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0203",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 130
+  },
+  {
+    "claim_number": "CLM-AU0204",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0205",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0206",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 130
+  },
+  {
+    "claim_number": "CLM-AU0207",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 135
+  },
+  {
+    "claim_number": "CLM-AU0208",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0209",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0210",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 150
+  },
+  {
+    "claim_number": "CLM-AU0211",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 135
+  },
+  {
+    "claim_number": "CLM-AU0212",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 90
+  },
+  {
+    "claim_number": "CLM-AU0213",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0214",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0215",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0216",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-AU0217",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-AU0218",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0219",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 75
+  },
+  {
+    "claim_number": "CLM-AU0220",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0221",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 115
+  },
+  {
+    "claim_number": "CLM-AU0222",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-AU0223",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0224",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 75
+  },
+  {
+    "claim_number": "CLM-AU0225",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0226",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0227",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0228",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 85
+  },
+  {
+    "claim_number": "CLM-AU0229",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 135
+  },
+  {
+    "claim_number": "CLM-AU0230",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-AU0231",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 75
+  },
+  {
+    "claim_number": "CLM-AU0232",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0233",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 75
+  },
+  {
+    "claim_number": "CLM-AU0234",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0235",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0236",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0237",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 100
+  },
+  {
+    "claim_number": "CLM-AU0238",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0239",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0240",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 60
+  },
+  {
+    "claim_number": "CLM-AU0241",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0242",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0243",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-AU0244",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 45
+  },
+  {
+    "claim_number": "CLM-AU0245",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0246",
+    "claim_type": "AUTO",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-AU0247",
+    "claim_type": "AUTO",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-AU0248",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-AU0249",
+    "claim_type": "AUTO",
+    "severity": "LOW",
+    "severity_score": 20
+  },
+  {
+    "claim_number": "CLM-AU0250",
+    "claim_type": "AUTO",
+    "severity": "MEDIUM",
+    "severity_score": 50
+  },
+  {
+    "claim_number": "CLM-HO0001",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0002",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0003",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0004",
+    "claim_type": "HOME",
+    "severity": "CRITICAL",
+    "severity_score": 80
+  },
+  {
+    "claim_number": "CLM-HO0005",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0006",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0007",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0008",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0009",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0010",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0011",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0012",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0013",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0014",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0015",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0016",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0017",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0018",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0019",
+    "claim_type": "HOME",
+    "severity": "CRITICAL",
+    "severity_score": 80
+  },
+  {
+    "claim_number": "CLM-HO0020",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0021",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0022",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0023",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0024",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0025",
+    "claim_type": "HOME",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-HO0026",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0027",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0028",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0029",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0030",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0031",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0032",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0033",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0034",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0035",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0036",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0037",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0038",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0039",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0040",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0041",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0042",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0043",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0044",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0045",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0046",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0047",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0048",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0049",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0050",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0051",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0052",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0053",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0054",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0055",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0056",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0057",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 30
+  },
+  {
+    "claim_number": "CLM-HO0058",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0059",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0060",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0061",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0062",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0063",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0064",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0065",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0066",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0067",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0068",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0069",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0070",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0071",
+    "claim_type": "HOME",
+    "severity": "CRITICAL",
+    "severity_score": 80
+  },
+  {
+    "claim_number": "CLM-HO0072",
+    "claim_type": "HOME",
+    "severity": "CRITICAL",
+    "severity_score": 95
+  },
+  {
+    "claim_number": "CLM-HO0073",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0074",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0075",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0076",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0077",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0078",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0079",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0080",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0081",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0082",
+    "claim_type": "HOME",
+    "severity": "CRITICAL",
+    "severity_score": 80
+  },
+  {
+    "claim_number": "CLM-HO0083",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0084",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0085",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0086",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0087",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0088",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0089",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0090",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0091",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0092",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 30
+  },
+  {
+    "claim_number": "CLM-HO0093",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0094",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0095",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0096",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-HO0097",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0098",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0099",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0100",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0101",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0102",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0103",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0104",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0105",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0106",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0107",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0108",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0109",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0110",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0111",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0112",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0113",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0114",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0115",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0116",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0117",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0118",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0119",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0120",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0121",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0122",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0123",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0124",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0125",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0126",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0127",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0128",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0129",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0130",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0131",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0132",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0133",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0134",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0135",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0136",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0137",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0138",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0139",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0140",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0141",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0142",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0143",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0144",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0145",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0146",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0147",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0148",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 30
+  },
+  {
+    "claim_number": "CLM-HO0149",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0150",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0151",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0152",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0153",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0154",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0155",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0156",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0157",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0158",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0159",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0160",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0161",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0162",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0163",
+    "claim_type": "HOME",
+    "severity": "CRITICAL",
+    "severity_score": 80
+  },
+  {
+    "claim_number": "CLM-HO0164",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0165",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0166",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0167",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0168",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0169",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0170",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0171",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0172",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0173",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0174",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0175",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0176",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0177",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0178",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 30
+  },
+  {
+    "claim_number": "CLM-HO0179",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0180",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0181",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0182",
+    "claim_type": "HOME",
+    "severity": "CRITICAL",
+    "severity_score": 110
+  },
+  {
+    "claim_number": "CLM-HO0183",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0184",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 25
+  },
+  {
+    "claim_number": "CLM-HO0185",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0186",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0187",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0188",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0189",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0190",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0191",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0192",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0193",
+    "claim_type": "HOME",
+    "severity": "CRITICAL",
+    "severity_score": 80
+  },
+  {
+    "claim_number": "CLM-HO0194",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0195",
+    "claim_type": "HOME",
+    "severity": "CRITICAL",
+    "severity_score": 80
+  },
+  {
+    "claim_number": "CLM-HO0196",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0197",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0198",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0199",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0200",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0201",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0202",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0203",
+    "claim_type": "HOME",
+    "severity": "CRITICAL",
+    "severity_score": 80
+  },
+  {
+    "claim_number": "CLM-HO0204",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0205",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0206",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0207",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0208",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0209",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0210",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0211",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0212",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0213",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0214",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0215",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0216",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0217",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0218",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0219",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0220",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 30
+  },
+  {
+    "claim_number": "CLM-HO0221",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0222",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0223",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0224",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0225",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0226",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0227",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0228",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 65
+  },
+  {
+    "claim_number": "CLM-HO0229",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0230",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0231",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0232",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0233",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0234",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0235",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0236",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0237",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0238",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0239",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0240",
+    "claim_type": "HOME",
+    "severity": "HIGH",
+    "severity_score": 70
+  },
+  {
+    "claim_number": "CLM-HO0241",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0242",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0243",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0244",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0245",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 55
+  },
+  {
+    "claim_number": "CLM-HO0246",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0247",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0248",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  },
+  {
+    "claim_number": "CLM-HO0249",
+    "claim_type": "HOME",
+    "severity": "MEDIUM",
+    "severity_score": 40
+  },
+  {
+    "claim_number": "CLM-HO0250",
+    "claim_type": "HOME",
+    "severity": "LOW",
+    "severity_score": 0
+  }
+]

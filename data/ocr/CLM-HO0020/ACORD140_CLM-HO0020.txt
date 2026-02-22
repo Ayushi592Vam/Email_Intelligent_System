@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/09/2019
+INSURED INFORMATION
+Name: Patricia Smith
+Property Address: 3963 Park Ct
+New York, NY 90923
+Phone: 302-834-7862
+Email: patricia.smith@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000020
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1987
+Square Footage: 2169 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0020
+Date of Loss: 10/07/2019
+Time of Loss: 6:00 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $22,526
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals moderate damage t
+o interior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

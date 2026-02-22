@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0143
+Policy Number: AU1000143
+Insured: Linda Moore
+Carrier: Geico
+Date of Loss: 08/05/2019
+Estimated Amount: $3,165
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2017 Tesla Model | VIN: 3U0SLPABRK0HFCTKD
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

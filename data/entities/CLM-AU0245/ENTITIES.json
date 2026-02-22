@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0245",
+  "policy_number": "AU1000245",
+  "insured_name": "Elizabeth Taylor",
+  "carrier": "Farmers",
+  "date_of_loss": "10/27/2019",
+  "estimated_amount": "9681",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2017 BMW 3",
+  "vin": "G022YX1J4WE04XTU0",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

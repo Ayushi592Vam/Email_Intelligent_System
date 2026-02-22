@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0005",
+  "policy_number": "AU1000005",
+  "insured_name": "Sarah Williams",
+  "carrier": "Nationwide",
+  "date_of_loss": "10/03/2019",
+  "estimated_amount": "10008",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2019 BMW 3",
+  "vin": "ELGW67G1WFVE3XYXU",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

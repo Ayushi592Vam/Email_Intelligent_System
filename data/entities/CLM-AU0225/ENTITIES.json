@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0225",
+  "policy_number": "AU1000225",
+  "insured_name": "Christopher Anderson",
+  "carrier": "State Farm",
+  "date_of_loss": "09/01/2019",
+  "estimated_amount": "20734",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2020 Ford F",
+  "vin": "6MFPM7JMH1G8YRGYD",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

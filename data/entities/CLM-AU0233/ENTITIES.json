@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0233",
+  "policy_number": "AU1000233",
+  "insured_name": "Elizabeth Anderson",
+  "carrier": "Geico",
+  "date_of_loss": "10/19/2019",
+  "estimated_amount": "30232",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2017 BMW 3",
+  "vin": "PUPD1E7C3B5JFM0UN",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0081",
+  "policy_number": "AU1000081",
+  "insured_name": "Robert Wilson",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "09/11/2019",
+  "estimated_amount": "60993",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Toyota Camry",
+  "vin": "711GDR8L1P2YTN6A2",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

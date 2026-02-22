@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0128",
+  "policy_number": "HO2000128",
+  "insured_name": "Susan Smith",
+  "carrier": "Nationwide",
+  "date_of_loss": "10/12/2019",
+  "estimated_amount": "14181",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1750 Washington Dr, New York, NY 78618",
+  "loss_type": "vandalism"
+}

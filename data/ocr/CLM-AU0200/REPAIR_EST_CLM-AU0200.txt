@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Karen Smith
+Claim: CLM-AU0200
+Total Estimated Repairs: $16,084
+Prepared for: Allstate

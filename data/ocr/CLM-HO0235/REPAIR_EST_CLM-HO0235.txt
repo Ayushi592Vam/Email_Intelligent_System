@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Taylor
+Claim: CLM-HO0235
+Total Estimated Repairs: $71,202
+Prepared for: Progressive

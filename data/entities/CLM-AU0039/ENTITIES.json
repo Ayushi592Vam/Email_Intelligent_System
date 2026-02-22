@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0039",
+  "policy_number": "AU1000039",
+  "insured_name": "Susan Miller",
+  "carrier": "Allstate",
+  "date_of_loss": "10/01/2019",
+  "estimated_amount": "56367",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 BMW 3",
+  "vin": "WTKE1ETD6FBDGG8SJ",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

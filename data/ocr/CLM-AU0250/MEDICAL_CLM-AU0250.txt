@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/13/2019 Claim: CLM-AU0250
+PATIENT INFORMATION
+Name: Michael Wilson DOB: 02/27/1967
+SSN: 489-31-6982 Phone: 289-602-3216
+Address: 8961 Washington St, Houston, TX 93768
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 11/13/2019 Treating Physician: Dr. Gonzalez
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 11/13/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Garcia, MD
+License: 330291
+Date: 11/13/2019

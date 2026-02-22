@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Jackson
+Claim: CLM-AU0095
+Total Estimated Repairs: $24,267
+Prepared for: Progressive

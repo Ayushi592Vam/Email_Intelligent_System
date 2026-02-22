@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0203
+Policy Number: AU1000203
+Insured: James Anderson
+Carrier: Geico
+Date of Loss: 09/01/2019
+Estimated Amount: $65,380
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: Yes
+
+Vehicle: 2018 Toyota Camry | VIN: 4G66KCLAKC512AEZV
+
+Severity: CRITICAL (90)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

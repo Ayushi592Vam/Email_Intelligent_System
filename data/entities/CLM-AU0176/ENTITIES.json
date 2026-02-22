@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0176",
+  "policy_number": "AU1000176",
+  "insured_name": "John Garcia",
+  "carrier": "State Farm",
+  "date_of_loss": "08/11/2019",
+  "estimated_amount": "34384",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2018 Tesla Model",
+  "vin": "4WD31YRPVYW5RV1LG",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

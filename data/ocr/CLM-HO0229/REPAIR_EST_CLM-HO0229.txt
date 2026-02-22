@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Wilson
+Claim: CLM-HO0229
+Total Estimated Repairs: $58,948
+Prepared for: Geico

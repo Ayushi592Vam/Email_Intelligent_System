@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0210",
+  "policy_number": "HO2000210",
+  "insured_name": "Susan Smith",
+  "carrier": "Allstate",
+  "date_of_loss": "12/16/2019",
+  "estimated_amount": "5340",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "5630 Elm Blvd, Miami, FL 92822",
+  "loss_type": "natural disaster"
+}

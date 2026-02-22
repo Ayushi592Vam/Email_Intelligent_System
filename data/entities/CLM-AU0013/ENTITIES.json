@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0013",
+  "policy_number": "AU1000013",
+  "insured_name": "Thomas Brown",
+  "carrier": "Progressive",
+  "date_of_loss": "08/27/2019",
+  "estimated_amount": "13553",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Ford F",
+  "vin": "UYNWCNGT7JSV1GC5U",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

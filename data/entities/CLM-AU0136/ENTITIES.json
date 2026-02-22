@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0136",
+  "policy_number": "AU1000136",
+  "insured_name": "Thomas Johnson",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "07/25/2019",
+  "estimated_amount": "14773",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Toyota Camry",
+  "vin": "FF2A9W4B563C84515",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0180
+Policy Number: AU1000180
+Insured: Robert Martin
+Carrier: Travelers
+Date of Loss: 12/25/2019
+Estimated Amount: $17,810
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2020 BMW 3 | VIN: BTS8B9ERJ5CFHN91R
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

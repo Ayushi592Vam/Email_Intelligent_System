@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0011",
+  "policy_number": "HO2000011",
+  "insured_name": "Joseph Smith",
+  "carrier": "Farmers",
+  "date_of_loss": "10/12/2019",
+  "estimated_amount": "13234",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8259 Elm Ct, Chicago, IL 66607",
+  "loss_type": "liability"
+}

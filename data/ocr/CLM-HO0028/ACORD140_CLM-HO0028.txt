@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/12/2019
+INSURED INFORMATION
+Name: Jessica Hernandez
+Property Address: 1209 Pine Ct
+Houston, TX 27336
+Phone: 835-421-1541
+Email: jessica.hernandez@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000028
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2002
+Square Footage: 2326 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0028
+Date of Loss: 12/12/2019
+Time of Loss: 1:15 AM
+Cause of Loss: Vandalism
+Estimated Damage: $44,943
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

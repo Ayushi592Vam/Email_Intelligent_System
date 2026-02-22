@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0067.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/14/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services William Williams
+4025 Stockard Drive, Suite 876 572 Park St
+Frisco, TX 75034 Phoenix, AZ 48394
+Phone: 452-221-7593 Phone: 238-702-9625
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000067
+Effective Date: 11/12/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000067 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0067
+Date of Loss: 11/12/2019
+Estimated Amount: $4,292
+Vehicle: 2018 Audi A4, VIN: BJ1U6FBR1CLB0D77S
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0067.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0067.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0067.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Phoenix Police Department Report #: 2019251667
+INCIDENT INFORMATION
+Date/Time: 11/12/2019 at 12:49
+Location: 4907 Oak Ave, Phoenix, AZ
+Type: Comprehensive
+Weather: Foggy, Road: Dry
+PARTIES INVOLVED
+Driver 1: William Williams
+License: AZ49398436
+Vehicle: 2018 Audi A4, VIN: BJ1U6FBR1CLB0D77S
+Driver 2: Christopher Jackson
+Vehicle: 2013 Ford F-150
+NARRATIVE
+On 11/12/2019, at approximately 14:14, officers responded to
+a comprehensive at the intersection of 7962 Cedar St. Upon arrival, officers observed
+when Driver 2 (Christopher Jackson) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 5797
+Date: 11/14/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0067.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Williams
+Claim: CLM-AU0067
+Total Estimated Repairs: $4,292
+Prepared for: Nationwide

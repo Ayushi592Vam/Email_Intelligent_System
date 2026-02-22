@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/05/2019 Claim: CLM-HO0072
+PATIENT INFORMATION
+Name: Susan Jones DOB: 08/06/1970
+SSN: 242-90-5761 Phone: 476-818-7174
+Address: 5331 Main Blvd, Phoenix, AZ 11555
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 12/04/2019 Treating Physician: Dr. Rodriguez
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 12/04/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Miller, MD
+License: 623372
+Date: 12/05/2019

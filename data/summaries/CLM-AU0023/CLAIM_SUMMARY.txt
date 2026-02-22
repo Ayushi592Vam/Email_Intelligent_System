@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0023
+Policy Number: AU1000023
+Insured: James Miller
+Carrier: Geico
+Date of Loss: 01/09/2020
+Estimated Amount: $56,399
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2018 Ford F | VIN: UE94MTX7S2B7CPTVT
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

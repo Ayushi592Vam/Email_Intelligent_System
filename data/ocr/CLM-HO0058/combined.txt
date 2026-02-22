@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0058.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/26/2019
+INSURED INFORMATION
+Name: Joseph Brown
+Property Address: 5270 Washington Dr
+Chicago, IL 18103
+Phone: 218-219-3057
+Email: joseph.brown@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000058
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2012
+Square Footage: 1414 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0058
+Date of Loss: 12/21/2019
+Time of Loss: 11:30 AM
+Cause of Loss: Theft
+Estimated Damage: $104,272
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals significant water intrusion
+affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0058.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0058.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/26/2019 Claim: CLM-HO0058
+PATIENT INFORMATION
+Name: Joseph Brown DOB: 03/25/1990
+SSN: 819-38-2465 Phone: 218-219-3057
+Address: 5270 Washington Dr, Chicago, IL 18103
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 12/21/2019 Treating Physician: Dr. Brown
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 12/21/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Rodriguez, MD
+License: 548264
+Date: 12/26/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0058.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Brown
+Claim: CLM-HO0058
+Total Estimated Repairs: $104,272
+Prepared for: Farmers

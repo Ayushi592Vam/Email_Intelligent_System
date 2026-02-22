@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0087.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/27/2019
+INSURED INFORMATION
+Name: Michael Smith
+Property Address: 3822 Main Ave
+Atlanta, GA 52087
+Phone: 983-513-5132
+Email: michael.smith@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000087
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1985
+Square Footage: 2836 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0087
+Date of Loss: 08/24/2019
+Time of Loss: 7:00 AM
+Cause of Loss: Water Damage
+Estimated Damage: $113,921
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals moderate damage to in
+terior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0087.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0087.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/27/2019 Claim: CLM-HO0087
+PATIENT INFORMATION
+Name: Michael Smith DOB: 02/26/1955
+SSN: 548-39-7593 Phone: 983-513-5132
+Address: 3822 Main Ave, Atlanta, GA 52087
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 08/24/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 08/24/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Lopez, MD
+License: 527936
+Date: 08/27/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0087.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Smith
+Claim: CLM-HO0087
+Total Estimated Repairs: $113,921
+Prepared for: Geico

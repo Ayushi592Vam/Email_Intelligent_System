@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0234",
+  "policy_number": "AU1000234",
+  "insured_name": "Christopher Smith",
+  "carrier": "State Farm",
+  "date_of_loss": "08/14/2019",
+  "estimated_amount": "5915",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Ford F",
+  "vin": "8NEW207G4Z1CE058V",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

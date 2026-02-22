@@ -1,0 +1,115 @@
+
+===== FILE: ACORD25_CLM-AU0166.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/05/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Jessica Taylor
+4025 Stockard Drive, Suite 876 557 Washington Ln
+Frisco, TX 75034 Miami, FL 14956
+Phone: 969-384-4562 Phone: 899-355-5660
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000166
+Effective Date: 09/03/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000166 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0166
+Date of Loss: 09/03/2019
+Estimated Amount: $10,969
+Vehicle: 2015 Ford F-150, VIN: WTUM369LHC1VREXA5
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0166.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0166.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0166.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+9916 Pine Dr
+Miami, FL 14956
+Phone: 647-367-6296 | Fax: 383-278-4436
+Date: 09/05/2019
+State Farm
+Claims Department
+P.O. Box 12345
+Houston, AZ 76507
+RE: Demand for Settlement - Jessica Taylor
+Claim Number: CLM-AU0166
+Date of Loss: 09/03/2019
+Your Insured: Jessica Taylor
+Dear Claims Adjuster:
+This firm represents Jessica Taylor in connection with the above-referenced claim.
+On 09/03/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $8,727
+Lost Wages: $3,780
+Property Damage: $10,969
+Pain and Suffering: $49,274
+TOTAL DEMAND: $78,823
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+John Smith, Esq.
+Johnson & Associates
+Attorney for Jessica Taylor
+
+
+===== FILE: POLICE_CLM-AU0166.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019931981
+INCIDENT INFORMATION
+Date/Time: 09/03/2019 at 09:27
+Location: 6191 Main Blvd, Miami, FL
+Type: Uninsured Motorist
+Weather: Clear, Road: Dry
+PARTIES INVOLVED
+Driver 1: Jessica Taylor
+License: FL89969216
+Vehicle: 2015 Ford F-150, VIN: WTUM369LHC1VREXA5
+Driver 2: Robert Wilson
+Vehicle: 2011 Toyota Camry
+NARRATIVE
+On 09/03/2019, at approximately 09:17, officers responded to
+a uninsured motorist at the intersection of 1703 Main Ave. Upon arrival, officers observed
+when Driver 2 (Robert Wilson) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 3570
+Date: 09/05/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0166.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Taylor
+Claim: CLM-AU0166
+Total Estimated Repairs: $10,969
+Prepared for: State Farm

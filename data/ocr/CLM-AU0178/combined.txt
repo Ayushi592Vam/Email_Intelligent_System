@@ -1,0 +1,104 @@
+
+===== FILE: ACORD25_CLM-AU0178.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/08/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Richard Taylor
+4025 Stockard Drive, Suite 876 1467 Park St
+Frisco, TX 75034 Atlanta, GA 22259
+Phone: 651-529-2979 Phone: 234-800-5161
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Liberty Mutual
+Policy Number: AU1000178
+Effective Date: 10/06/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000178 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0178
+Date of Loss: 10/06/2019
+Estimated Amount: $38,099
+Vehicle: 2018 Audi A4, VIN: NUDC7HXBV0F1LW9NX
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0178.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0178.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/08/2019 Claim: CLM-AU0178
+PATIENT INFORMATION
+Name: Richard Taylor DOB: 11/18/1963
+SSN: 265-65-9645 Phone: 234-800-5161
+Address: 1467 Park St, Atlanta, GA 22259
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 10/06/2019 Treating Physician: Dr. Johnson
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 10/06/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Moore, MD
+License: 684826
+Date: 10/08/2019
+
+
+===== FILE: POLICE_CLM-AU0178.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Atlanta Police Department Report #: 2019095307
+INCIDENT INFORMATION
+Date/Time: 10/06/2019 at 20:18
+Location: 6340 Pine Blvd, Atlanta, GA
+Type: Comprehensive
+Weather: Rainy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Richard Taylor
+License: GA80551286
+Vehicle: 2018 Audi A4, VIN: NUDC7HXBV0F1LW9NX
+Driver 2: John Brown
+Vehicle: 2015 Tesla Model 3
+NARRATIVE
+On 10/06/2019, at approximately 21:20, officers responded to
+a comprehensive at the intersection of 7107 Elm Dr. Upon arrival, officers observed
+when Driver 2 (John Brown) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 2723
+Date: 10/08/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0178.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Richard Taylor
+Claim: CLM-AU0178
+Total Estimated Repairs: $38,099
+Prepared for: Liberty Mutual

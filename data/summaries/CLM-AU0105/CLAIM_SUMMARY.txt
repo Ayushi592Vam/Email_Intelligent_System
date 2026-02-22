@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0105
+Policy Number: AU1000105
+Insured: Mary Brown
+Carrier: Liberty Mutual
+Date of Loss: 09/07/2019
+Estimated Amount: $60,444
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2019 Chevrolet Silverado | VIN: UC2WEBW2MHMNWW36B
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Williams
+Claim: CLM-AU0012
+Total Estimated Repairs: $13,767
+Prepared for: State Farm

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Barbara Brown
+Claim: CLM-HO0230
+Total Estimated Repairs: $22,246
+Prepared for: Allstate

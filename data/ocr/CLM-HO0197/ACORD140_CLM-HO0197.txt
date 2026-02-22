@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/12/2019
+INSURED INFORMATION
+Name: Sarah Anderson
+Property Address: 7650 Oak Ct
+Los Angeles, CA 11265
+Phone: 209-566-1186
+Email: sarah.anderson@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000197
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1982
+Square Footage: 1893 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0197
+Date of Loss: 11/07/2019
+Time of Loss: 12:00 PM
+Cause of Loss: Theft
+Estimated Damage: $24,865
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

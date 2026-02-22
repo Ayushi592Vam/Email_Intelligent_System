@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0187",
+  "policy_number": "AU1000187",
+  "insured_name": "Jessica Davis",
+  "carrier": "State Farm",
+  "date_of_loss": "10/24/2019",
+  "estimated_amount": "17033",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2019 Chevrolet Silverado",
+  "vin": "JX03N0KWHGN3JDMZF",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

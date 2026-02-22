@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Jackson
+Claim: CLM-AU0042
+Total Estimated Repairs: $5,204
+Prepared for: Geico

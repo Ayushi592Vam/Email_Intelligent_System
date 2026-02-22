@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0136.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/17/2019
+INSURED INFORMATION
+Name: Jessica Moore
+Property Address: 3924 Washington St
+Houston, TX 76453
+Phone: 937-602-3191
+Email: jessica.moore@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000136
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1999
+Square Footage: 2170 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0136
+Date of Loss: 09/13/2019
+Time of Loss: 1:15 AM
+Cause of Loss: Liability
+Estimated Damage: $71,480
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals structural damage requir
+ing immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0136.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0136.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0136.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Moore
+Claim: CLM-HO0136
+Total Estimated Repairs: $71,480
+Prepared for: Allstate

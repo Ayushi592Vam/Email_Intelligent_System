@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Moore
+Claim: CLM-AU0196
+Total Estimated Repairs: $7,914
+Prepared for: Allstate

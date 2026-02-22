@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0136",
+  "policy_number": "HO2000136",
+  "insured_name": "Jessica Moore",
+  "carrier": "Allstate",
+  "date_of_loss": "09/13/2019",
+  "estimated_amount": "71480",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3924 Washington St, Houston, TX 76453",
+  "loss_type": "liability"
+}

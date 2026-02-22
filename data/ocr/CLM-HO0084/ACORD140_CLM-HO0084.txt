@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/29/2019
+INSURED INFORMATION
+Name: Thomas Miller
+Property Address: 4408 Maple Ct
+Chicago, IL 46611
+Phone: 775-243-3378
+Email: thomas.miller@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000084
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2011
+Square Footage: 2905 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0084
+Date of Loss: 11/28/2019
+Time of Loss: 7:45 PM
+Cause of Loss: Theft
+Estimated Damage: $6,023
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Moore
+Claim: CLM-HO0161
+Total Estimated Repairs: $16,595
+Prepared for: Allstate

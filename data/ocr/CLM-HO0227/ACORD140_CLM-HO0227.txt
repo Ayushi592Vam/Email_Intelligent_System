@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/16/2019
+INSURED INFORMATION
+Name: James Jackson
+Property Address: 7541 Main Dr
+Los Angeles, CA 67325
+Phone: 370-845-9708
+Email: james.jackson@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000227
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1985
+Square Footage: 1946 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0227
+Date of Loss: 10/12/2019
+Time of Loss: 3:30 AM
+Cause of Loss: Water Damage
+Estimated Damage: $69,845
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals significant water int
+rusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

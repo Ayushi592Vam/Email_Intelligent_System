@@ -1,0 +1,145 @@
+
+===== FILE: ACORD25_CLM-AU0176.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/13/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services John Garcia
+4025 Stockard Drive, Suite 876 3461 Pine Ave
+Frisco, TX 75034 Phoenix, AZ 17848
+Phone: 920-822-8305 Phone: 792-490-6476
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000176
+Effective Date: 08/11/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000176 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0176
+Date of Loss: 08/11/2019
+Estimated Amount: $34,384
+Vehicle: 2018 Tesla Model 3, VIN: 4WD31YRPVYW5RV1LG
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0176.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0176.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0176.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+1188 Main Dr
+Phoenix, AZ 17848
+Phone: 856-507-5082 | Fax: 889-467-3463
+Date: 08/13/2019
+State Farm
+Claims Department
+P.O. Box 12345
+Houston, AZ 72256
+RE: Demand for Settlement - John Garcia
+Claim Number: CLM-AU0176
+Date of Loss: 08/11/2019
+Your Insured: John Garcia
+Dear Claims Adjuster:
+This firm represents John Garcia in connection with the above-referenced claim.
+On 08/11/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $33,515
+Lost Wages: $9,674
+Property Damage: $34,384
+Pain and Suffering: $58,710
+TOTAL DEMAND: $85,490
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Johnson & Associates
+Attorney for John Garcia
+
+
+===== FILE: MEDICAL_CLM-AU0176.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/13/2019 Claim: CLM-AU0176
+PATIENT INFORMATION
+Name: John Garcia DOB: 12/08/1972
+SSN: 723-85-1038 Phone: 792-490-6476
+Address: 3461 Pine Ave, Phoenix, AZ 17848
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 08/11/2019 Treating Physician: Dr. Johnson
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 08/11/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Gonzalez, MD
+License: 175241
+Date: 08/13/2019
+
+
+===== FILE: POLICE_CLM-AU0176.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Phoenix Police Department Report #: 2019014103
+INCIDENT INFORMATION
+Date/Time: 08/11/2019 at 20:39
+Location: 1800 Elm Ct, Phoenix, AZ
+Type: Collision
+Weather: Cloudy, Road: Dry
+PARTIES INVOLVED
+Driver 1: John Garcia
+License: AZ38300009
+Vehicle: 2018 Tesla Model 3, VIN: 4WD31YRPVYW5RV1LG
+Driver 2: William Smith
+Vehicle: 2019 Honda Accord
+NARRATIVE
+On 08/11/2019, at approximately 14:42, officers responded to
+a collision at the intersection of 6275 Pine Ln. Upon arrival, officers observed
+when Driver 2 (William Smith) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 5584
+Date: 08/13/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0176.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Garcia
+Claim: CLM-AU0176
+Total Estimated Repairs: $34,384
+Prepared for: State Farm

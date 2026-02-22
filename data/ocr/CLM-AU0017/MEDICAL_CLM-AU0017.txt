@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/10/2020 Claim: CLM-AU0017
+PATIENT INFORMATION
+Name: Richard Williams DOB: 06/16/1985
+SSN: 260-21-8462 Phone: 323-764-3721
+Address: 9680 Oak St, Chicago, IL 54282
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 01/07/2020 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 01/07/2020.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Taylor, MD
+License: 998119
+Date: 01/10/2020

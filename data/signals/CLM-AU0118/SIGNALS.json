@@ -1,0 +1,10 @@
+{
+  "claim_number": "CLM-AU0118",
+  "claim_type": "AUTO",
+  "severity": "MEDIUM",
+  "severity_score": 50,
+  "signals_detected": [
+    "INJURY_REPORTED",
+    "AUTO_BODILY_INJURY"
+  ]
+}

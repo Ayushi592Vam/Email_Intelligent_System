@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0209.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 01/09/2020
+INSURED INFORMATION
+Name: John Moore
+Property Address: 1685 Park Blvd
+Los Angeles, CA 53349
+Phone: 985-669-6218
+Email: john.moore@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000209
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2000
+Square Footage: 1497 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0209
+Date of Loss: 01/08/2020
+Time of Loss: 10:30 PM
+Cause of Loss: Water Damage
+Estimated Damage: $55,192
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals moderate damage to in
+terior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0209.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0209.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0209.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Moore
+Claim: CLM-HO0209
+Total Estimated Repairs: $55,192
+Prepared for: Geico

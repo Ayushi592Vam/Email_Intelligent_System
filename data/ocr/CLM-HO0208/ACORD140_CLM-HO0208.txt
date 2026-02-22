@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/03/2019
+INSURED INFORMATION
+Name: Robert Rodriguez
+Property Address: 5793 Pine Ln
+Chicago, IL 30799
+Phone: 880-502-1120
+Email: robert.rodriguez@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000208
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1985
+Square Footage: 1460 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0208
+Date of Loss: 12/02/2019
+Time of Loss: 5:45 PM
+Cause of Loss: Vandalism
+Estimated Damage: $13,726
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

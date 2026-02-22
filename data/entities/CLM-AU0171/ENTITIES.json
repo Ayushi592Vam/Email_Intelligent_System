@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0171",
+  "policy_number": "AU1000171",
+  "insured_name": "Michael Johnson",
+  "carrier": "Travelers",
+  "date_of_loss": "07/16/2019",
+  "estimated_amount": "43223",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Tesla Model",
+  "vin": "63GKHST1PE4LTCF9S",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Chicago Police Department Report #: 2019327416
+INCIDENT INFORMATION
+Date/Time: 08/14/2019 at 15:46
+Location: 4195 Elm Ln, Chicago, IL
+Type: Uninsured Motorist
+Weather: Cloudy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Karen Davis
+License: IL97174424
+Vehicle: 2017 Tesla Model 3, VIN: 2BNWG2W5E1DJM3Z2V
+Driver 2: Mary Jones
+Vehicle: 2010 Honda Accord
+NARRATIVE
+On 08/14/2019, at approximately 10:05, officers responded to
+a uninsured motorist at the intersection of 8402 Elm Blvd. Upon arrival, officers observed
+when Driver 2 (Mary Jones) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 1330
+Date: 08/18/2019

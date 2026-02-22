@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0211",
+  "policy_number": "HO2000211",
+  "insured_name": "John Anderson",
+  "carrier": "State Farm",
+  "date_of_loss": "10/14/2019",
+  "estimated_amount": "37195",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "957 Washington Dr, Atlanta, GA 21242",
+  "loss_type": "liability"
+}

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Jones
+Claim: CLM-HO0133
+Total Estimated Repairs: $35,000
+Prepared for: Farmers

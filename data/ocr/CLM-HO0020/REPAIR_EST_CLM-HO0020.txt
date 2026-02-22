@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Patricia Smith
+Claim: CLM-HO0020
+Total Estimated Repairs: $22,526
+Prepared for: Allstate

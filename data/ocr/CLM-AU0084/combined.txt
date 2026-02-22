@@ -1,0 +1,145 @@
+
+===== FILE: ACORD25_CLM-AU0084.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/26/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Jessica Taylor
+4025 Stockard Drive, Suite 876 9651 Cedar Ave
+Frisco, TX 75034 Phoenix, AZ 19676
+Phone: 911-523-2846 Phone: 735-659-4745
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000084
+Effective Date: 09/25/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000084 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0084
+Date of Loss: 09/25/2019
+Estimated Amount: $67,708
+Vehicle: 2015 Toyota Camry, VIN: 6DZT4PLRLRYVAEUWJ
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0084.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0084.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0084.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+7305 Maple Ave
+Phoenix, AZ 19676
+Phone: 306-216-5744 | Fax: 994-766-2877
+Date: 09/26/2019
+Allstate
+Claims Department
+P.O. Box 12345
+Dallas, AZ 84549
+RE: Demand for Settlement - Jessica Taylor
+Claim Number: CLM-AU0084
+Date of Loss: 09/25/2019
+Your Insured: Jessica Taylor
+Dear Claims Adjuster:
+This firm represents Jessica Taylor in connection with the above-referenced claim.
+On 09/25/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $24,825
+Lost Wages: $9,033
+Property Damage: $67,708
+Pain and Suffering: $45,641
+TOTAL DEMAND: $121,953
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Johnson & Associates
+Attorney for Jessica Taylor
+
+
+===== FILE: MEDICAL_CLM-AU0084.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/26/2019 Claim: CLM-AU0084
+PATIENT INFORMATION
+Name: Jessica Taylor DOB: 07/15/1992
+SSN: 342-86-6409 Phone: 735-659-4745
+Address: 9651 Cedar Ave, Phoenix, AZ 19676
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 09/25/2019 Treating Physician: Dr. Johnson
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 09/25/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Williams, MD
+License: 954903
+Date: 09/26/2019
+
+
+===== FILE: POLICE_CLM-AU0084.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Phoenix Police Department Report #: 2019816370
+INCIDENT INFORMATION
+Date/Time: 09/25/2019 at 11:45
+Location: 1251 Maple Ct, Phoenix, AZ
+Type: Uninsured Motorist
+Weather: Foggy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Jessica Taylor
+License: AZ94520262
+Vehicle: 2015 Toyota Camry, VIN: 6DZT4PLRLRYVAEUWJ
+Driver 2: David Wilson
+Vehicle: 2016 Tesla Model 3
+NARRATIVE
+On 09/25/2019, at approximately 12:51, officers responded to
+a uninsured motorist at the intersection of 3148 Washington Blvd. Upon arrival, officers observ
+when Driver 2 (David Wilson) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 8374
+Date: 09/26/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0084.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Taylor
+Claim: CLM-AU0084
+Total Estimated Repairs: $67,708
+Prepared for: Allstate

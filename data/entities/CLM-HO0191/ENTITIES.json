@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0191",
+  "policy_number": "HO2000191",
+  "insured_name": "Barbara Miller",
+  "carrier": "Allstate",
+  "date_of_loss": "12/14/2019",
+  "estimated_amount": "32579",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9895 Pine Dr, Miami, FL 49917",
+  "loss_type": "liability"
+}

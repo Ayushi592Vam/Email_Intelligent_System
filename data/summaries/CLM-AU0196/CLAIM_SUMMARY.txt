@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0196
+Policy Number: AU1000196
+Insured: Michael Moore
+Carrier: Allstate
+Date of Loss: 11/15/2019
+Estimated Amount: $7,914
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2017 Tesla Model | VIN: LJU5YVZB4E08KGPH9
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

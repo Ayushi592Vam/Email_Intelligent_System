@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0224
+Policy Number: AU1000224
+Insured: Mary Hernandez
+Carrier: Farmers
+Date of Loss: 10/03/2019
+Estimated Amount: $34,132
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 BMW 3 | VIN: 4RT3BYMHYXZKXTB4G
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

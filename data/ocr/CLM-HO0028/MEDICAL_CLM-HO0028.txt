@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/12/2019 Claim: CLM-HO0028
+PATIENT INFORMATION
+Name: Jessica Hernandez DOB: 09/28/1994
+SSN: 728-37-5650 Phone: 835-421-1541
+Address: 1209 Pine Ct, Houston, TX 27336
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 12/12/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 12/12/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Davis, MD
+License: 994657
+Date: 12/12/2019

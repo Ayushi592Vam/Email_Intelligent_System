@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/03/2019
+INSURED INFORMATION
+Name: Patricia Smith
+Property Address: 8094 Oak Dr
+New York, NY 38688
+Phone: 484-933-2428
+Email: patricia.smith@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000130
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2012
+Square Footage: 2881 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0130
+Date of Loss: 10/01/2019
+Time of Loss: 10:00 AM
+Cause of Loss: Fire
+Estimated Damage: $20,723
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals significant water intrusion a
+ffecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

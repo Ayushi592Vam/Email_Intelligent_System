@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/13/2019 Claim: CLM-AU0176
+PATIENT INFORMATION
+Name: John Garcia DOB: 12/08/1972
+SSN: 723-85-1038 Phone: 792-490-6476
+Address: 3461 Pine Ave, Phoenix, AZ 17848
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 08/11/2019 Treating Physician: Dr. Johnson
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 08/11/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Gonzalez, MD
+License: 175241
+Date: 08/13/2019

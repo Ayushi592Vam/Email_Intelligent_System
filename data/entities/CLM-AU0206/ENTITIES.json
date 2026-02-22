@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0206",
+  "policy_number": "AU1000206",
+  "insured_name": "Robert Taylor",
+  "carrier": "Geico",
+  "date_of_loss": "08/20/2019",
+  "estimated_amount": "57508",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": "2017 Honda Accord",
+  "vin": "HND290PTKAUEXWUVA",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

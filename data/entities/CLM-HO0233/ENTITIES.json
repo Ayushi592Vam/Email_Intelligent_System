@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0233",
+  "policy_number": "HO2000233",
+  "insured_name": "John Smith",
+  "carrier": "Nationwide",
+  "date_of_loss": "07/30/2019",
+  "estimated_amount": "23976",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3509 Main Dr, Dallas, TX 33002",
+  "loss_type": "fire"
+}

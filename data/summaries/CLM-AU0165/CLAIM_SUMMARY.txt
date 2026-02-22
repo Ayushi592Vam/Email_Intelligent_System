@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0165
+Policy Number: AU1000165
+Insured: Linda Gonzalez
+Carrier: Geico
+Date of Loss: 10/04/2019
+Estimated Amount: $42,492
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2018 Chevrolet Silverado | VIN: 3T1W3WL0J4A3ND4XW
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

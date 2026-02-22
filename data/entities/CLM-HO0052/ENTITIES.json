@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0052",
+  "policy_number": "HO2000052",
+  "insured_name": "John Martinez",
+  "carrier": "Progressive",
+  "date_of_loss": "07/25/2019",
+  "estimated_amount": "71585",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "5611 Main Ave, Phoenix, AZ 75798",
+  "loss_type": "liability"
+}

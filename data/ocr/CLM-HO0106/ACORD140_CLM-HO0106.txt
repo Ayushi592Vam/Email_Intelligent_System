@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/29/2019
+INSURED INFORMATION
+Name: Mary Jackson
+Property Address: 1661 Oak Dr
+Atlanta, GA 56562
+Phone: 280-466-3295
+Email: mary.jackson@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000106
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1991
+Square Footage: 3093 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0106
+Date of Loss: 08/29/2019
+Time of Loss: 10:30 PM
+Cause of Loss: Fire
+Estimated Damage: $105,788
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals moderate damage to interior a
+nd exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

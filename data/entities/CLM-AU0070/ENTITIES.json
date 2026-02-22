@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0070",
+  "policy_number": "AU1000070",
+  "insured_name": "Christopher Jones",
+  "carrier": "Progressive",
+  "date_of_loss": "01/02/2020",
+  "estimated_amount": "61082",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 BMW 3",
+  "vin": "JM231NPWBK0MFFUFB",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

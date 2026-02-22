@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/21/2019 Claim: CLM-HO0057
+PATIENT INFORMATION
+Name: Mary Anderson DOB: 12/04/1981
+SSN: 730-32-6697 Phone: 441-703-9571
+Address: 2859 Maple Ct, Los Angeles, CA 65249
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 08/17/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 08/17/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Martinez, MD
+License: 112582
+Date: 08/21/2019

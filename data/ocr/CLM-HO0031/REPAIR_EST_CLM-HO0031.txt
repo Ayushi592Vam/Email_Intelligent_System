@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Anderson
+Claim: CLM-HO0031
+Total Estimated Repairs: $116,081
+Prepared for: State Farm

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0141",
+  "policy_number": "HO2000141",
+  "insured_name": "Barbara Johnson",
+  "carrier": "State Farm",
+  "date_of_loss": "09/07/2019",
+  "estimated_amount": "26181",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "804 Oak Ct, Chicago, IL 91366",
+  "loss_type": "natural disaster"
+}

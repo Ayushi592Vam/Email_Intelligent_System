@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0123
+Policy Number: AU1000123
+Insured: Jennifer Jones
+Carrier: Liberty Mutual
+Date of Loss: 09/01/2019
+Estimated Amount: $17,146
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 Chevrolet Silverado | VIN: 2L1N0KAMTVPA6HGXP
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

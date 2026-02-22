@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0019",
+  "policy_number": "HO2000019",
+  "insured_name": "Jessica Jackson",
+  "carrier": "Farmers",
+  "date_of_loss": "11/05/2019",
+  "estimated_amount": "66488",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "103 Oak St, Los Angeles, CA 35653",
+  "loss_type": "vandalism"
+}

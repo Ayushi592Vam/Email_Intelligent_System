@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0098",
+  "policy_number": "HO2000098",
+  "insured_name": "Barbara Hernandez",
+  "carrier": "Farmers",
+  "date_of_loss": "12/11/2019",
+  "estimated_amount": "90985",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "2699 Cedar St, Atlanta, GA 92989",
+  "loss_type": "fire"
+}

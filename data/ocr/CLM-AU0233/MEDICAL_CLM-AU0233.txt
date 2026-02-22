@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/24/2019 Claim: CLM-AU0233
+PATIENT INFORMATION
+Name: Elizabeth Anderson DOB: 02/07/1965
+SSN: 606-26-9089 Phone: 454-958-6632
+Address: 2425 Main Dr, New York, NY 41532
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 10/19/2019 Treating Physician: Dr. Brown
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 10/19/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Rodriguez, MD
+License: 183697
+Date: 10/24/2019

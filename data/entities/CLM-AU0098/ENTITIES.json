@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0098",
+  "policy_number": "AU1000098",
+  "insured_name": "Susan Hernandez",
+  "carrier": "Nationwide",
+  "date_of_loss": "09/12/2019",
+  "estimated_amount": "6053",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 BMW 3",
+  "vin": "GY6RAEWG0A458NKZF",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

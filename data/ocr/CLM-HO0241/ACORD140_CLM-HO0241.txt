@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/23/2019
+INSURED INFORMATION
+Name: Joseph Hernandez
+Property Address: 2808 Park Ct
+Dallas, TX 47845
+Phone: 710-269-1781
+Email: joseph.hernandez@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000241
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1977
+Square Footage: 2245 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0241
+Date of Loss: 10/20/2019
+Time of Loss: 2:45 AM
+Cause of Loss: Liability
+Estimated Damage: $11,974
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals moderate damage to inter
+ior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

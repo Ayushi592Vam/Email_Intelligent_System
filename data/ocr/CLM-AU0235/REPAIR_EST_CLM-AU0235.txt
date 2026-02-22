@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Gonzalez
+Claim: CLM-AU0235
+Total Estimated Repairs: $18,609
+Prepared for: Nationwide

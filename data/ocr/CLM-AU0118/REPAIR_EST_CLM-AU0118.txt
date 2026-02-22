@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Jones
+Claim: CLM-AU0118
+Total Estimated Repairs: $22,234
+Prepared for: Progressive

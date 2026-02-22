@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0224.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/05/2019
+INSURED INFORMATION
+Name: David Jones
+Property Address: 3813 Oak Ave
+Houston, TX 29245
+Phone: 237-854-1721
+Email: david.jones@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000224
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2000
+Square Footage: 2527 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0224
+Date of Loss: 12/03/2019
+Time of Loss: 10:00 AM
+Cause of Loss: Liability
+Estimated Damage: $69,471
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0224.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0224.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Jones
+Claim: CLM-HO0224
+Total Estimated Repairs: $69,471
+Prepared for: Liberty Mutual

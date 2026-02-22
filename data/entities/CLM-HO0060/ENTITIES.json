@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0060",
+  "policy_number": "HO2000060",
+  "insured_name": "Thomas Jones",
+  "carrier": "State Farm",
+  "date_of_loss": "10/22/2019",
+  "estimated_amount": "121884",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "5684 Maple St, New York, NY 84429",
+  "loss_type": "theft"
+}

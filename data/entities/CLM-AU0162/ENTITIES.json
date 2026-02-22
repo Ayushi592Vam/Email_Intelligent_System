@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0162",
+  "policy_number": "AU1000162",
+  "insured_name": "William Gonzalez",
+  "carrier": "Progressive",
+  "date_of_loss": "11/10/2019",
+  "estimated_amount": "7567",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Audi A4",
+  "vin": "7EYLUU1BWWL33U8VK",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

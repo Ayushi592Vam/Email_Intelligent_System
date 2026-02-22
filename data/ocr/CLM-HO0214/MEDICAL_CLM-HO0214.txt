@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/02/2019 Claim: CLM-HO0214
+PATIENT INFORMATION
+Name: Mary Smith DOB: 05/12/1957
+SSN: 254-87-9175 Phone: 672-848-2879
+Address: 1101 Washington Ln, Atlanta, GA 30893
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 10/28/2019 Treating Physician: Dr. Brown
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 10/28/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Johnson, MD
+License: 398722
+Date: 11/02/2019

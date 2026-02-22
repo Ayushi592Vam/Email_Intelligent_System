@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0178.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/21/2019
+INSURED INFORMATION
+Name: Karen Hernandez
+Property Address: 6279 Main Ct
+Los Angeles, CA 35200
+Phone: 738-864-2188
+Email: karen.hernandez@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000178
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1993
+Square Footage: 3380 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0178
+Date of Loss: 08/21/2019
+Time of Loss: 1:45 PM
+Cause of Loss: Theft
+Estimated Damage: $23,390
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals structural damage requiring
+immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0178.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0178.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/21/2019 Claim: CLM-HO0178
+PATIENT INFORMATION
+Name: Karen Hernandez DOB: 09/13/1984
+SSN: 250-93-4296 Phone: 738-864-2188
+Address: 6279 Main Ct, Los Angeles, CA 35200
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 08/21/2019 Treating Physician: Dr. Johnson
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 08/21/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Martinez, MD
+License: 987061
+Date: 08/21/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0178.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Karen Hernandez
+Claim: CLM-HO0178
+Total Estimated Repairs: $23,390
+Prepared for: Travelers

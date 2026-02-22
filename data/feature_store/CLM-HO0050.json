@@ -1,0 +1,21 @@
+{
+  "claim_number": "CLM-HO0050",
+  "claim_type": "HOME",
+  "has_medical": false,
+  "has_police": false,
+  "has_legal": true,
+  "num_attachments": 5,
+  "num_photos": 1,
+  "severity": "MEDIUM",
+  "severity_score": 40,
+  "signals": [
+    "LEGAL_INVOLVEMENT",
+    "HOME_LOSS_THEFT"
+  ],
+  "files_present": [
+    "ACORD",
+    "LEGAL",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

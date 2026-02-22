@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0114",
+  "policy_number": "AU1000114",
+  "insured_name": "John Gonzalez",
+  "carrier": "State Farm",
+  "date_of_loss": "11/24/2019",
+  "estimated_amount": "16254",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Toyota Camry",
+  "vin": "H1MC6G97PMRJU08GL",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

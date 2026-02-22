@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0224",
+  "policy_number": "AU1000224",
+  "insured_name": "Mary Hernandez",
+  "carrier": "Farmers",
+  "date_of_loss": "10/03/2019",
+  "estimated_amount": "34132",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 BMW 3",
+  "vin": "4RT3BYMHYXZKXTB4G",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

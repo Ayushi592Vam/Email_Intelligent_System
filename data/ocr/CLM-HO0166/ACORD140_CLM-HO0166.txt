@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 01/06/2020
+INSURED INFORMATION
+Name: Elizabeth Anderson
+Property Address: 8948 Washington Dr
+Chicago, IL 18602
+Phone: 535-483-5840
+Email: elizabeth.anderson@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000166
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2003
+Square Footage: 3131 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0166
+Date of Loss: 01/04/2020
+Time of Loss: 7:45 AM
+Cause of Loss: Natural Disaster
+Estimated Damage: $75,611
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals extensive fire da
+mage to roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

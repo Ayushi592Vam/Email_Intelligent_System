@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0117",
+  "policy_number": "AU1000117",
+  "insured_name": "Robert Miller",
+  "carrier": "Travelers",
+  "date_of_loss": "07/24/2019",
+  "estimated_amount": "12645",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2020 BMW 3",
+  "vin": "8DTR30BXZV703E3LV",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

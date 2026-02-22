@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0149",
+  "policy_number": "AU1000149",
+  "insured_name": "Thomas Johnson",
+  "carrier": "Farmers",
+  "date_of_loss": "12/03/2019",
+  "estimated_amount": "54227",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Chevrolet Silverado",
+  "vin": "X9YPJB039C783F631",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

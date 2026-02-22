@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Chicago Police Department Report #: 2019865749
+INCIDENT INFORMATION
+Date/Time: 11/29/2019 at 17:21
+Location: 6149 Oak Ln, Chicago, IL
+Type: Uninsured Motorist
+Weather: Cloudy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Patricia Johnson
+License: IL15670808
+Vehicle: 2015 Tesla Model 3, VIN: 0HLH5ZEVNWRTFVY2S
+Driver 2: Sarah Martinez
+Vehicle: 2011 Chevrolet Silverado
+NARRATIVE
+On 11/29/2019, at approximately 14:31, officers responded to
+a uninsured motorist at the intersection of 398 Oak St. Upon arrival, officers observed
+when Driver 2 (Sarah Martinez) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 1120
+Date: 12/02/2019

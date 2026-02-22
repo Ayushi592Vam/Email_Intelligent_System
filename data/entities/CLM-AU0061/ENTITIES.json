@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0061",
+  "policy_number": "AU1000061",
+  "insured_name": "Joseph Jackson",
+  "carrier": "Allstate",
+  "date_of_loss": "09/13/2019",
+  "estimated_amount": "61722",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Honda Accord",
+  "vin": "DXV5G6BUE2M4FMBS8",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

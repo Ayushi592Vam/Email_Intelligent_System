@@ -1,0 +1,111 @@
+
+===== FILE: ACORD25_CLM-AU0045.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/14/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Robert Jackson
+4025 Stockard Drive, Suite 876 7634 Oak Ln
+Frisco, TX 75034 New York, NY 77441
+Phone: 739-845-5199 Phone: 384-293-3818
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Geico
+Policy Number: AU1000045
+Effective Date: 10/09/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000045 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0045
+Date of Loss: 10/09/2019
+Estimated Amount: $53,624
+Vehicle: 2020 Audi A4, VIN: KEJGD83C744D59FK0
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0045.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0045.pdf =====
+--- PAGE 1 ---
+BROWN & PARTNERS LLP
+Attorneys at Law
+9496 Washington Blvd
+New York, NY 77441
+Phone: 452-306-5653 | Fax: 612-430-4099
+Date: 10/14/2019
+Geico
+Claims Department
+P.O. Box 12345
+Dallas, AZ 74557
+RE: Demand for Settlement - Robert Jackson
+Claim Number: CLM-AU0045
+Date of Loss: 10/09/2019
+Your Insured: Robert Jackson
+Dear Claims Adjuster:
+This firm represents Robert Jackson in connection with the above-referenced claim.
+On 10/09/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $34,606
+Lost Wages: $9,094
+Property Damage: $53,624
+Pain and Suffering: $55,776
+TOTAL DEMAND: $101,172
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Brown & Partners LLP
+Attorney for Robert Jackson
+
+
+===== FILE: POLICE_CLM-AU0045.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+New York Police Department Report #: 2019363788
+INCIDENT INFORMATION
+Date/Time: 10/09/2019 at 09:10
+Location: 1322 Washington Ave, New York, NY
+Type: Collision
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Robert Jackson
+License: NY68802232
+Vehicle: 2020 Audi A4, VIN: KEJGD83C744D59FK0
+Driver 2: David Smith
+Vehicle: 2019 Audi A4
+NARRATIVE
+On 10/09/2019, at approximately 07:41, officers responded to
+a collision at the intersection of 2883 Elm Ave. Upon arrival, officers observed
+when Driver 2 (David Smith) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 5062
+Date: 10/14/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0045.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Jackson
+Claim: CLM-AU0045
+Total Estimated Repairs: $53,624
+Prepared for: Geico

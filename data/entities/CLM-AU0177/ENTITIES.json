@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0177",
+  "policy_number": "AU1000177",
+  "insured_name": "Jennifer Miller",
+  "carrier": "Geico",
+  "date_of_loss": "12/02/2019",
+  "estimated_amount": "42269",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2015 BMW 3",
+  "vin": "96531924LULZZS27J",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

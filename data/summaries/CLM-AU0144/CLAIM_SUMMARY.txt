@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0144
+Policy Number: AU1000144
+Insured: Richard Moore
+Carrier: Allstate
+Date of Loss: 01/02/2020
+Estimated Amount: $11,292
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2020 Tesla Model | VIN: NTFJGFVZKDZXRKAA6
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0228",
+  "policy_number": "AU1000228",
+  "insured_name": "Robert Martinez",
+  "carrier": "Nationwide",
+  "date_of_loss": "11/20/2019",
+  "estimated_amount": "42331",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2018 Audi A4",
+  "vin": "59FGW9HHGTPVDJ1ZD",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

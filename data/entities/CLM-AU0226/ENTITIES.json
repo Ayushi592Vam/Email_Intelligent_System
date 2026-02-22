@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0226",
+  "policy_number": "AU1000226",
+  "insured_name": "Barbara Lopez",
+  "carrier": "Farmers",
+  "date_of_loss": "10/08/2019",
+  "estimated_amount": "11322",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2018 Toyota Camry",
+  "vin": "EE0X7NWMHL6ASL8JT",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

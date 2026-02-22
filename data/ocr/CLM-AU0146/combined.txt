@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0146.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/24/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Linda Hernandez
+4025 Stockard Drive, Suite 876 6912 Main Ave
+Frisco, TX 75034 Chicago, IL 16916
+Phone: 376-209-1861 Phone: 845-419-7955
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Travelers
+Policy Number: AU1000146
+Effective Date: 10/22/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000146 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0146
+Date of Loss: 10/22/2019
+Estimated Amount: $14,664
+Vehicle: 2020 Chevrolet Silverado, VIN: 23W4MAKNJVSH39GAH
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0146.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0146.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Chicago Police Department Report #: 2019753174
+INCIDENT INFORMATION
+Date/Time: 10/22/2019 at 14:18
+Location: 1156 Park Ln, Chicago, IL
+Type: Collision
+Weather: Clear, Road: Dry
+PARTIES INVOLVED
+Driver 1: Linda Hernandez
+License: IL34859607
+Vehicle: 2020 Chevrolet Silverado, VIN: 23W4MAKNJVSH39GAH
+Driver 2: John Moore
+Vehicle: 2019 Audi A4
+NARRATIVE
+On 10/22/2019, at approximately 16:01, officers responded to
+a collision at the intersection of 2213 Elm Ln. Upon arrival, officers observed
+when Driver 2 (John Moore) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 4716
+Date: 10/24/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0146.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Linda Hernandez
+Claim: CLM-AU0146
+Total Estimated Repairs: $14,664
+Prepared for: Travelers

@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/29/2019
+INSURED INFORMATION
+Name: Karen Hernandez
+Property Address: 6416 Oak Dr
+Houston, TX 14500
+Phone: 903-902-8910
+Email: karen.hernandez@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000075
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1997
+Square Footage: 2408 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0075
+Date of Loss: 11/25/2019
+Time of Loss: 8:00 AM
+Cause of Loss: Fire
+Estimated Damage: $113,985
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals structural damage requiring i
+mmediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Martin
+Claim: CLM-AU0069
+Total Estimated Repairs: $42,876
+Prepared for: Geico

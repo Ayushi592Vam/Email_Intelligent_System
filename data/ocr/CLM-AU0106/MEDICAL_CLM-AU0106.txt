@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/10/2019 Claim: CLM-AU0106
+PATIENT INFORMATION
+Name: Linda Jones DOB: 12/02/1970
+SSN: 305-79-8463 Phone: 242-506-2324
+Address: 2215 Main Ct, Phoenix, AZ 54771
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 09/10/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 09/10/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Brown, MD
+License: 980336
+Date: 09/10/2019

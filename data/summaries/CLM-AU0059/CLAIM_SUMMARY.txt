@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0059
+Policy Number: AU1000059
+Insured: John Johnson
+Carrier: Allstate
+Date of Loss: 08/26/2019
+Estimated Amount: $7,695
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2020 Ford F | VIN: SWKP7UPJEU7ZZEH79
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,141 @@
+
+===== FILE: ACORD25_CLM-AU0127.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/11/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Susan Garcia
+4025 Stockard Drive, Suite 876 6178 Cedar St
+Frisco, TX 75034 Dallas, TX 28471
+Phone: 691-826-2719 Phone: 272-691-1305
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Liberty Mutual
+Policy Number: AU1000127
+Effective Date: 10/11/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000127 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0127
+Date of Loss: 10/11/2019
+Estimated Amount: $45,452
+Vehicle: 2016 Chevrolet Silverado, VIN: DGXZ53DB2XVSZJF8H
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0127.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0127.pdf =====
+--- PAGE 1 ---
+BROWN & PARTNERS LLP
+Attorneys at Law
+8158 Washington St
+Dallas, TX 28471
+Phone: 951-434-6828 | Fax: 629-580-7272
+Date: 10/11/2019
+Liberty Mutual
+Claims Department
+P.O. Box 12345
+Houston, AZ 76813
+RE: Demand for Settlement - Susan Garcia
+Claim Number: CLM-AU0127
+Date of Loss: 10/11/2019
+Your Insured: Susan Garcia
+Dear Claims Adjuster:
+This firm represents Susan Garcia in connection with the above-referenced claim.
+On 10/11/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $19,446
+Lost Wages: $8,354
+Property Damage: $45,452
+Pain and Suffering: $49,899
+TOTAL DEMAND: $139,771
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Brown & Partners LLP
+Attorney for Susan Garcia
+
+
+===== FILE: MEDICAL_CLM-AU0127.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/11/2019 Claim: CLM-AU0127
+PATIENT INFORMATION
+Name: Susan Garcia DOB: 02/24/1995
+SSN: 203-25-2210 Phone: 272-691-1305
+Address: 6178 Cedar St, Dallas, TX 28471
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 10/11/2019 Treating Physician: Dr. Hernandez
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 10/11/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Miller, MD
+License: 924717
+Date: 10/11/2019
+
+
+===== FILE: POLICE_CLM-AU0127.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019604320
+INCIDENT INFORMATION
+Date/Time: 10/11/2019 at 17:51
+Location: 6360 Pine Ct, Dallas, TX
+Type: Collision
+Weather: Cloudy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Susan Garcia
+License: TX21962690
+Vehicle: 2016 Chevrolet Silverado, VIN: DGXZ53DB2XVSZJF8H
+Driver 2: Mary Johnson
+Vehicle: 2011 Audi A4
+NARRATIVE
+On 10/11/2019, at approximately 15:52, officers responded to
+a collision at the intersection of 2418 Park Ct. Upon arrival, officers observed
+when Driver 2 (Mary Johnson) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 8421
+Date: 10/11/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0127.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Garcia
+Claim: CLM-AU0127
+Total Estimated Repairs: $45,452
+Prepared for: Liberty Mutual

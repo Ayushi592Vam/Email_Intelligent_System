@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0148",
+  "policy_number": "AU1000148",
+  "insured_name": "Elizabeth Davis",
+  "carrier": "Nationwide",
+  "date_of_loss": "01/04/2020",
+  "estimated_amount": "14088",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2019 Toyota Camry",
+  "vin": "WL83C20PL4KY6MRGW",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

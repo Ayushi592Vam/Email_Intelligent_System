@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0206
+Policy Number: AU1000206
+Insured: Robert Taylor
+Carrier: Geico
+Date of Loss: 08/20/2019
+Estimated Amount: $57,508
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: Yes
+
+Vehicle: 2017 Honda Accord | VIN: HND290PTKAUEXWUVA
+
+Severity: CRITICAL (90)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

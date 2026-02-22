@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/22/2019
+INSURED INFORMATION
+Name: Christopher Rodriguez
+Property Address: 9449 Washington Dr
+New York, NY 43899
+Phone: 570-225-7715
+Email: christopher.rodriguez@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000212
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2008
+Square Footage: 1283 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0212
+Date of Loss: 11/21/2019
+Time of Loss: 10:15 AM
+Cause of Loss: Theft
+Estimated Damage: $37,159
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

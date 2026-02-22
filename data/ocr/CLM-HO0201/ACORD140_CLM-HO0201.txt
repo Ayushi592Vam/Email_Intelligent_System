@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/29/2019
+INSURED INFORMATION
+Name: Patricia Hernandez
+Property Address: 4049 Oak Ct
+Chicago, IL 83280
+Phone: 748-378-6438
+Email: patricia.hernandez@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000201
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2007
+Square Footage: 1815 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0201
+Date of Loss: 10/26/2019
+Time of Loss: 8:45 PM
+Cause of Loss: Water Damage
+Estimated Damage: $10,736
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals moderate damage to in
+terior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0221",
+  "policy_number": "AU1000221",
+  "insured_name": "Richard Williams",
+  "carrier": "Farmers",
+  "date_of_loss": "12/15/2019",
+  "estimated_amount": "46799",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": "2017 Chevrolet Silverado",
+  "vin": "3K69MG7VF25EV2JMZ",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

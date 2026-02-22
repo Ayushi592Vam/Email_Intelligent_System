@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0246",
+  "policy_number": "HO2000246",
+  "insured_name": "James Hernandez",
+  "carrier": "Travelers",
+  "date_of_loss": "08/18/2019",
+  "estimated_amount": "11436",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4994 Washington Ct, New York, NY 57955",
+  "loss_type": "liability"
+}

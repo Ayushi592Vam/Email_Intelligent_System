@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Taylor
+Claim: CLM-AU0016
+Total Estimated Repairs: $7,647
+Prepared for: Progressive

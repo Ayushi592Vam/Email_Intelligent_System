@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0180.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/24/2019
+INSURED INFORMATION
+Name: Linda Rodriguez
+Property Address: 3858 Maple Dr
+Miami, FL 19085
+Phone: 489-807-3228
+Email: linda.rodriguez@example.com
+INSURANCE COMPANY
+Company: State Farm
+Policy Number: HO2000180
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1978
+Square Footage: 3306 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0180
+Date of Loss: 09/23/2019
+Time of Loss: 12:45 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $92,943
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals significant water
+intrusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0180.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0180.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Linda Rodriguez
+Claim: CLM-HO0180
+Total Estimated Repairs: $92,943
+Prepared for: State Farm

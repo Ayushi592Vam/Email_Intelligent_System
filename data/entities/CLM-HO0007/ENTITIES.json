@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0007",
+  "policy_number": "HO2000007",
+  "insured_name": "Linda Hernandez",
+  "carrier": "Nationwide",
+  "date_of_loss": "08/01/2019",
+  "estimated_amount": "133018",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "277 Park Ln, Phoenix, AZ 67379",
+  "loss_type": "theft"
+}

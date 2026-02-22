@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/04/2019 Claim: CLM-AU0119
+PATIENT INFORMATION
+Name: Jennifer Williams DOB: 09/26/1979
+SSN: 304-42-9753 Phone: 364-425-8219
+Address: 1567 Main Ave, Phoenix, AZ 16914
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 09/01/2019 Treating Physician: Dr. Taylor
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 09/01/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Brown, MD
+License: 188178
+Date: 09/04/2019

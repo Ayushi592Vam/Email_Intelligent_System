@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0184
+Policy Number: AU1000184
+Insured: James Taylor
+Carrier: Nationwide
+Date of Loss: 08/31/2019
+Estimated Amount: $18,741
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2016 BMW 3 | VIN: 43RHETZ9DG2YPY5HC
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

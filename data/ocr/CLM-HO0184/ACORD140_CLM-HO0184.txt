@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/30/2019
+INSURED INFORMATION
+Name: Mary Gonzalez
+Property Address: 7292 Park Blvd
+Chicago, IL 20660
+Phone: 850-499-7235
+Email: mary.gonzalez@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000184
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2011
+Square Footage: 1747 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0184
+Date of Loss: 11/28/2019
+Time of Loss: 1:45 AM
+Cause of Loss: Vandalism
+Estimated Damage: $45,841
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals structural damage requir
+ing immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Anderson
+Claim: CLM-AU0213
+Total Estimated Repairs: $6,373
+Prepared for: State Farm

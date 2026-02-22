@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0190
+Policy Number: AU1000190
+Insured: John Taylor
+Carrier: Nationwide
+Date of Loss: 09/07/2019
+Estimated Amount: $6,118
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2018 BMW 3 | VIN: 4ASLH7FNWT1CU68M1
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

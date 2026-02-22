@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0126",
+  "policy_number": "AU1000126",
+  "insured_name": "Thomas Moore",
+  "carrier": "Allstate",
+  "date_of_loss": "11/14/2019",
+  "estimated_amount": "22039",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Honda Accord",
+  "vin": "BRDCZ8KN4B3Y0596T",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

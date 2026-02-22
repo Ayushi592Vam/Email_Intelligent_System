@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Garcia
+Claim: CLM-AU0024
+Total Estimated Repairs: $21,943
+Prepared for: Travelers

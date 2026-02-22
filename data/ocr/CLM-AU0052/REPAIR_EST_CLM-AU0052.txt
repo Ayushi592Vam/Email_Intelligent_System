@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Jackson
+Claim: CLM-AU0052
+Total Estimated Repairs: $37,300
+Prepared for: Travelers

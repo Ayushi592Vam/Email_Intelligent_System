@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Richard Jones
+Claim: CLM-HO0015
+Total Estimated Repairs: $5,451
+Prepared for: Farmers

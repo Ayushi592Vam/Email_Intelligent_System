@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Jones
+Claim: CLM-HO0093
+Total Estimated Repairs: $18,484
+Prepared for: Liberty Mutual

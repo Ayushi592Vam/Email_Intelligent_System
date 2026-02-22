@@ -1,0 +1,22 @@
+{
+  "claim_number": "CLM-AU0019",
+  "claim_type": "AUTO",
+  "has_medical": true,
+  "has_police": false,
+  "has_legal": false,
+  "num_attachments": 5,
+  "num_photos": 1,
+  "severity": "HIGH",
+  "severity_score": 75,
+  "signals": [
+    "INJURY_REPORTED",
+    "HIGH_LOSS_AMOUNT",
+    "AUTO_BODILY_INJURY"
+  ],
+  "files_present": [
+    "ACORD",
+    "MEDICAL",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

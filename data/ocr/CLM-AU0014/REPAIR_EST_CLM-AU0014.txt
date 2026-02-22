@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Lopez
+Claim: CLM-AU0014
+Total Estimated Repairs: $23,495
+Prepared for: Farmers

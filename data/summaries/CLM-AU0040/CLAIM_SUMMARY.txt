@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0040
+Policy Number: AU1000040
+Insured: David Davis
+Carrier: Geico
+Date of Loss: 09/26/2019
+Estimated Amount: $35,205
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: Yes
+
+Vehicle: 2017 Ford F | VIN: BABFSVNNVEEUSX4U4
+
+Severity: HIGH (60)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

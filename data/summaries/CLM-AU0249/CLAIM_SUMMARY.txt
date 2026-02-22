@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0249
+Policy Number: AU1000249
+Insured: Jennifer Taylor
+Carrier: Travelers
+Date of Loss: 08/27/2019
+Estimated Amount: $9,673
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2018 Tesla Model | VIN: 9LU92B7K8FLNMLVET
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

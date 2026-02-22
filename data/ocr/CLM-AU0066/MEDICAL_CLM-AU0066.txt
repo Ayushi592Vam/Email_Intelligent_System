@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/23/2019 Claim: CLM-AU0066
+PATIENT INFORMATION
+Name: Thomas Hernandez DOB: 02/12/1980
+SSN: 872-59-8109 Phone: 213-551-7350
+Address: 6520 Washington Dr, Houston, TX 59757
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 08/18/2019 Treating Physician: Dr. Rodriguez
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 08/18/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Miller, MD
+License: 312930
+Date: 08/23/2019

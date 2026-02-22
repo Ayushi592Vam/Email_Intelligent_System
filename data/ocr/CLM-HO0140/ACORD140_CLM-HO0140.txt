@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/14/2019
+INSURED INFORMATION
+Name: James Garcia
+Property Address: 8898 Cedar Ln
+Houston, TX 19727
+Phone: 814-268-8043
+Email: james.garcia@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000140
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2004
+Square Footage: 3113 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0140
+Date of Loss: 08/11/2019
+Time of Loss: 1:15 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $33,906
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals structural damage
+requiring immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

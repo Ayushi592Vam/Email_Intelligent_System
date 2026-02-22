@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Hernandez
+Claim: CLM-AU0060
+Total Estimated Repairs: $46,877
+Prepared for: Progressive

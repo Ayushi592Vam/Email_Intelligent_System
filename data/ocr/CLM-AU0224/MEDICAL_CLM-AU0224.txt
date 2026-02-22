@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/07/2019 Claim: CLM-AU0224
+PATIENT INFORMATION
+Name: Mary Hernandez DOB: 01/04/1990
+SSN: 179-28-5937 Phone: 354-357-3108
+Address: 9795 Maple Dr, Houston, TX 54820
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 10/03/2019 Treating Physician: Dr. Hernandez
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 10/03/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Jones, MD
+License: 812727
+Date: 10/07/2019

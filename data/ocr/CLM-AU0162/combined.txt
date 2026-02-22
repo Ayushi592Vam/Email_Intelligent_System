@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0162.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/15/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services William Gonzalez
+4025 Stockard Drive, Suite 876 1221 Maple Ave
+Frisco, TX 75034 Dallas, TX 15374
+Phone: 893-474-5379 Phone: 975-834-7267
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000162
+Effective Date: 11/10/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000162 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0162
+Date of Loss: 11/10/2019
+Estimated Amount: $7,567
+Vehicle: 2019 Audi A4, VIN: 7EYLUU1BWWL33U8VK
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0162.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0162.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019173824
+INCIDENT INFORMATION
+Date/Time: 11/10/2019 at 15:27
+Location: 140 Maple Ave, Dallas, TX
+Type: Comprehensive
+Weather: Clear, Road: Dry
+PARTIES INVOLVED
+Driver 1: William Gonzalez
+License: TX46017876
+Vehicle: 2019 Audi A4, VIN: 7EYLUU1BWWL33U8VK
+Driver 2: Robert Moore
+Vehicle: 2015 Honda Accord
+NARRATIVE
+On 11/10/2019, at approximately 11:15, officers responded to
+a comprehensive at the intersection of 3455 Cedar Dr. Upon arrival, officers observed
+when Driver 2 (Robert Moore) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 2050
+Date: 11/15/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0162.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Gonzalez
+Claim: CLM-AU0162
+Total Estimated Repairs: $7,567
+Prepared for: Progressive

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0238",
+  "policy_number": "AU1000238",
+  "insured_name": "Linda Davis",
+  "carrier": "Allstate",
+  "date_of_loss": "10/22/2019",
+  "estimated_amount": "3730",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Tesla Model",
+  "vin": "4XSHS67ZDW00GBPYV",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

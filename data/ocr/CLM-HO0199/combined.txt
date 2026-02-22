@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0199.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/24/2019
+INSURED INFORMATION
+Name: Patricia Anderson
+Property Address: 8717 Maple Ln
+Dallas, TX 53290
+Phone: 933-891-7393
+Email: patricia.anderson@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000199
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2005
+Square Footage: 2278 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0199
+Date of Loss: 11/23/2019
+Time of Loss: 10:30 PM
+Cause of Loss: Liability
+Estimated Damage: $119,609
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0199.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0199.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Patricia Anderson
+Claim: CLM-HO0199
+Total Estimated Repairs: $119,609
+Prepared for: Liberty Mutual

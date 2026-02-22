@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/21/2019 Claim: CLM-HO0025
+PATIENT INFORMATION
+Name: William Smith DOB: 06/14/1975
+SSN: 966-64-8357 Phone: 927-218-4554
+Address: 6341 Pine St, Houston, TX 10931
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 12/16/2019 Treating Physician: Dr. Miller
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 12/16/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Moore, MD
+License: 301291
+Date: 12/21/2019

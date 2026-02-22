@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Moore
+Claim: CLM-AU0020
+Total Estimated Repairs: $33,836
+Prepared for: Geico

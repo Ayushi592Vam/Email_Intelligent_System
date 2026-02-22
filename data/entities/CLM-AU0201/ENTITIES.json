@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0201",
+  "policy_number": "AU1000201",
+  "insured_name": "Susan Jones",
+  "carrier": "Nationwide",
+  "date_of_loss": "10/27/2019",
+  "estimated_amount": "4321",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2015 Ford F",
+  "vin": "R3AHCPHGVV5LJL6LF",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

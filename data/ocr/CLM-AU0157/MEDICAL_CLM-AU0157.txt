@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 07/20/2019 Claim: CLM-AU0157
+PATIENT INFORMATION
+Name: John Taylor DOB: 01/11/1985
+SSN: 177-62-5348 Phone: 509-688-4349
+Address: 1566 Cedar St, Los Angeles, CA 76055
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 07/15/2019 Treating Physician: Dr. Anderson
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 07/15/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Davis, MD
+License: 226691
+Date: 07/20/2019

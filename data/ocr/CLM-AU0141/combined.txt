@@ -1,0 +1,111 @@
+
+===== FILE: ACORD25_CLM-AU0141.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 07/20/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services David Hernandez
+4025 Stockard Drive, Suite 876 8250 Pine Ln
+Frisco, TX 75034 New York, NY 33804
+Phone: 375-742-2978 Phone: 405-416-6482
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000141
+Effective Date: 07/18/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000141 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0141
+Date of Loss: 07/18/2019
+Estimated Amount: $12,680
+Vehicle: 2020 Honda Accord, VIN: BYX9WD6SM1Y9PB0NH
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0141.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0141.pdf =====
+--- PAGE 1 ---
+SMITH LEGAL GROUP
+Attorneys at Law
+1117 Park Blvd
+New York, NY 33804
+Phone: 777-808-1993 | Fax: 689-261-7540
+Date: 07/20/2019
+Nationwide
+Claims Department
+P.O. Box 12345
+Houston, TX 82269
+RE: Demand for Settlement - David Hernandez
+Claim Number: CLM-AU0141
+Date of Loss: 07/18/2019
+Your Insured: David Hernandez
+Dear Claims Adjuster:
+This firm represents David Hernandez in connection with the above-referenced claim.
+On 07/18/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $23,067
+Lost Wages: $3,266
+Property Damage: $12,680
+Pain and Suffering: $66,992
+TOTAL DEMAND: $109,902
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Smith Legal Group
+Attorney for David Hernandez
+
+
+===== FILE: POLICE_CLM-AU0141.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+New York Police Department Report #: 2019883906
+INCIDENT INFORMATION
+Date/Time: 07/18/2019 at 11:03
+Location: 426 Main Ln, New York, NY
+Type: Collision
+Weather: Clear, Road: Wet
+PARTIES INVOLVED
+Driver 1: David Hernandez
+License: NY51943288
+Vehicle: 2020 Honda Accord, VIN: BYX9WD6SM1Y9PB0NH
+Driver 2: John Taylor
+Vehicle: 2010 Ford F-150
+NARRATIVE
+On 07/18/2019, at approximately 09:24, officers responded to
+a collision at the intersection of 6882 Park Ave. Upon arrival, officers observed
+when Driver 2 (John Taylor) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 8227
+Date: 07/20/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0141.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Hernandez
+Claim: CLM-AU0141
+Total Estimated Repairs: $12,680
+Prepared for: Nationwide

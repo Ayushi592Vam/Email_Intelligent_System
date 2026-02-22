@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0221.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/19/2019
+INSURED INFORMATION
+Name: Jessica Martinez
+Property Address: 7273 Washington Ln
+Dallas, TX 18049
+Phone: 349-487-5516
+Email: jessica.martinez@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000221
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1995
+Square Footage: 2573 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0221
+Date of Loss: 08/15/2019
+Time of Loss: 11:30 AM
+Cause of Loss: Water Damage
+Estimated Damage: $6,865
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals extensive fire damage
+to roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0221.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0221.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Martinez
+Claim: CLM-HO0221
+Total Estimated Repairs: $6,865
+Prepared for: Farmers

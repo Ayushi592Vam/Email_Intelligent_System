@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Johnson
+Claim: CLM-AU0100
+Total Estimated Repairs: $21,697
+Prepared for: Farmers

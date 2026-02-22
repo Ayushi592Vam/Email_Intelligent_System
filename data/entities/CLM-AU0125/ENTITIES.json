@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0125",
+  "policy_number": "AU1000125",
+  "insured_name": "Elizabeth Taylor",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "11/02/2019",
+  "estimated_amount": "17497",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2017 Toyota Camry",
+  "vin": "02KZZZV2J9SMTZV6W",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

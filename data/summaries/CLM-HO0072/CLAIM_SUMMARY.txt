@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-HO0072
+Policy Number: HO2000072
+Insured: Susan Jones
+Carrier: Unknown
+Date of Loss: 12/04/2019
+Estimated Amount: $34,039
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: Yes
+
+Vehicle: N/A
+
+Severity: CRITICAL (90)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

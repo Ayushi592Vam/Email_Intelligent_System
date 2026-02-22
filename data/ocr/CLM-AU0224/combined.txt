@@ -1,0 +1,79 @@
+
+===== FILE: ACORD25_CLM-AU0224.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/07/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Mary Hernandez
+4025 Stockard Drive, Suite 876 9795 Maple Dr
+Frisco, TX 75034 Houston, TX 54820
+Phone: 677-217-5165 Phone: 354-357-3108
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Farmers
+Policy Number: AU1000224
+Effective Date: 10/03/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000224 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0224
+Date of Loss: 10/03/2019
+Estimated Amount: $34,132
+Vehicle: 2016 BMW 3 Series, VIN: 4RT3BYMHYXZKXTB4G
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0224.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0224.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0224.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/07/2019 Claim: CLM-AU0224
+PATIENT INFORMATION
+Name: Mary Hernandez DOB: 01/04/1990
+SSN: 179-28-5937 Phone: 354-357-3108
+Address: 9795 Maple Dr, Houston, TX 54820
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 10/03/2019 Treating Physician: Dr. Hernandez
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 10/03/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Jones, MD
+License: 812727
+Date: 10/07/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0224.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Hernandez
+Claim: CLM-AU0224
+Total Estimated Repairs: $34,132
+Prepared for: Farmers

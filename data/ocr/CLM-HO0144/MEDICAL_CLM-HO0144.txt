@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/06/2019 Claim: CLM-HO0144
+PATIENT INFORMATION
+Name: Robert Miller DOB: 10/27/1995
+SSN: 626-61-4974 Phone: 867-796-2206
+Address: 2542 Maple Ln, Dallas, TX 88800
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 08/02/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 08/02/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Lopez, MD
+License: 990430
+Date: 08/06/2019

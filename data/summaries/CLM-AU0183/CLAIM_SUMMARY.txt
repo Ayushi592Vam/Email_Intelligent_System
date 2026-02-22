@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0183
+Policy Number: AU1000183
+Insured: Richard Hernandez
+Carrier: Geico
+Date of Loss: 12/24/2019
+Estimated Amount: $13,166
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2017 Honda Accord | VIN: Z5C6UA5KHSX56FD7M
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

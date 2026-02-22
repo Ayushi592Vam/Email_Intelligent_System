@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0015",
+  "policy_number": "AU1000015",
+  "insured_name": "Jessica Wilson",
+  "carrier": "Progressive",
+  "date_of_loss": "08/17/2019",
+  "estimated_amount": "4439",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2018 Ford F",
+  "vin": "MZSKH2C58TGVHVSR7",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

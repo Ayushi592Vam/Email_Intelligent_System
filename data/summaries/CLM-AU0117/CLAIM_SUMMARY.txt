@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0117
+Policy Number: AU1000117
+Insured: Robert Miller
+Carrier: Travelers
+Date of Loss: 07/24/2019
+Estimated Amount: $12,645
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2020 BMW 3 | VIN: 8DTR30BXZV703E3LV
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

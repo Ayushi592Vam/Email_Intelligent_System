@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Brown
+Claim: CLM-HO0188
+Total Estimated Repairs: $9,158
+Prepared for: Progressive

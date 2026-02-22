@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Moore
+Claim: CLM-AU0033
+Total Estimated Repairs: $20,224
+Prepared for: Allstate

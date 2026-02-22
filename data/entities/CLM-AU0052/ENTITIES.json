@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0052",
+  "policy_number": "AU1000052",
+  "insured_name": "Susan Jackson",
+  "carrier": "Travelers",
+  "date_of_loss": "10/17/2019",
+  "estimated_amount": "37300",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Audi A4",
+  "vin": "KP4SPBEUW6MG6EL2R",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

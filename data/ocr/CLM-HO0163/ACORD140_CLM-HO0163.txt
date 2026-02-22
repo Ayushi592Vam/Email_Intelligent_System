@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/25/2019
+INSURED INFORMATION
+Name: Mary Martinez
+Property Address: 6542 Park Blvd
+Atlanta, GA 32045
+Phone: 533-685-4849
+Email: mary.martinez@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000163
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1976
+Square Footage: 2842 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0163
+Date of Loss: 11/23/2019
+Time of Loss: 7:15 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $71,235
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals extensive fire da
+mage to roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

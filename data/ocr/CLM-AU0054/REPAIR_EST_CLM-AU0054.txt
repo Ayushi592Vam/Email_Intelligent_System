@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Williams
+Claim: CLM-AU0054
+Total Estimated Repairs: $17,579
+Prepared for: Travelers

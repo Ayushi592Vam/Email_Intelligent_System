@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0248",
+  "policy_number": "AU1000248",
+  "insured_name": "Joseph Wilson",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "08/13/2019",
+  "estimated_amount": "22536",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2017 Audi A4",
+  "vin": "8MER17W30NFHC5MMJ",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

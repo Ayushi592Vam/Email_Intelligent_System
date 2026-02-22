@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0218.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/05/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Barbara Johnson
+4025 Stockard Drive, Suite 876 7550 Maple St
+Frisco, TX 75034 Chicago, IL 65132
+Phone: 917-690-5665 Phone: 706-375-1267
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000218
+Effective Date: 08/03/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000218 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0218
+Date of Loss: 08/03/2019
+Estimated Amount: $6,490
+Vehicle: 2018 BMW 3 Series, VIN: 7CLXRC43XL01PZ2F3
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0218.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0218.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0218.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Chicago Police Department Report #: 2019091778
+INCIDENT INFORMATION
+Date/Time: 08/03/2019 at 18:42
+Location: 1339 Park Ct, Chicago, IL
+Type: Uninsured Motorist
+Weather: Cloudy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Barbara Johnson
+License: IL57703702
+Vehicle: 2018 BMW 3 Series, VIN: 7CLXRC43XL01PZ2F3
+Driver 2: Thomas Hernandez
+Vehicle: 2013 Honda Accord
+NARRATIVE
+On 08/03/2019, at approximately 20:07, officers responded to
+a uninsured motorist at the intersection of 8948 Cedar Ln. Upon arrival, officers observed
+when Driver 2 (Thomas Hernandez) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 1498
+Date: 08/05/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0218.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Barbara Johnson
+Claim: CLM-AU0218
+Total Estimated Repairs: $6,490
+Prepared for: Allstate

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Moore
+Claim: CLM-HO0215
+Total Estimated Repairs: $22,412
+Prepared for: Geico

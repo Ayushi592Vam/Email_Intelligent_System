@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/31/2019 Claim: CLM-AU0229
+PATIENT INFORMATION
+Name: Elizabeth Jackson DOB: 09/25/1982
+SSN: 945-15-2024 Phone: 240-992-8172
+Address: 556 Main Ave, New York, NY 60123
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 08/29/2019 Treating Physician: Dr. Brown
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 08/29/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Brown, MD
+License: 895837
+Date: 08/31/2019

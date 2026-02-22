@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0051",
+  "policy_number": "HO2000051",
+  "insured_name": "Jessica Martinez",
+  "carrier": "Travelers",
+  "date_of_loss": "07/19/2019",
+  "estimated_amount": "98448",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3748 Pine Dr, Los Angeles, CA 82289",
+  "loss_type": "fire"
+}

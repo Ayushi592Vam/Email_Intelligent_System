@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/21/2019
+INSURED INFORMATION
+Name: Mary Martinez
+Property Address: 9018 Cedar St
+Dallas, TX 64173
+Phone: 762-677-3103
+Email: mary.martinez@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000237
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1995
+Square Footage: 2812 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0237
+Date of Loss: 07/21/2019
+Time of Loss: 3:15 PM
+Cause of Loss: Liability
+Estimated Damage: $8,978
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

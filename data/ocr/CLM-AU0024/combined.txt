@@ -1,0 +1,75 @@
+
+===== FILE: ACORD25_CLM-AU0024.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/20/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Thomas Garcia
+4025 Stockard Drive, Suite 876 6721 Maple Blvd
+Frisco, TX 75034 New York, NY 70114
+Phone: 743-794-1018 Phone: 214-343-6086
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Travelers
+Policy Number: AU1000024
+Effective Date: 08/16/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000024 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0024
+Date of Loss: 08/16/2019
+Estimated Amount: $21,943
+Vehicle: 2015 Honda Accord, VIN: NU5NBSA79HY313YEL
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0024.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0024.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/20/2019 Claim: CLM-AU0024
+PATIENT INFORMATION
+Name: Thomas Garcia DOB: 10/26/1967
+SSN: 671-18-2373 Phone: 214-343-6086
+Address: 6721 Maple Blvd, New York, NY 70114
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 08/16/2019 Treating Physician: Dr. Williams
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 08/16/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Miller, MD
+License: 117731
+Date: 08/20/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0024.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Garcia
+Claim: CLM-AU0024
+Total Estimated Repairs: $21,943
+Prepared for: Travelers

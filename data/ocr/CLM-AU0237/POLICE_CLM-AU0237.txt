@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Chicago Police Department Report #: 2019116195
+INCIDENT INFORMATION
+Date/Time: 12/02/2019 at 12:26
+Location: 7311 Cedar Blvd, Chicago, IL
+Type: Collision
+Weather: Foggy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Patricia Jones
+License: IL84573251
+Vehicle: 2015 Tesla Model 3, VIN: FKAWRJJPWJ3MUJYEY
+Driver 2: Richard Hernandez
+Vehicle: 2013 Tesla Model 3
+NARRATIVE
+On 12/02/2019, at approximately 09:29, officers responded to
+a collision at the intersection of 4557 Cedar St. Upon arrival, officers observed
+when Driver 2 (Richard Hernandez) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 1360
+Date: 12/06/2019

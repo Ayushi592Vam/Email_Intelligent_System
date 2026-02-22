@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+New York Police Department Report #: 2019363788
+INCIDENT INFORMATION
+Date/Time: 10/09/2019 at 09:10
+Location: 1322 Washington Ave, New York, NY
+Type: Collision
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Robert Jackson
+License: NY68802232
+Vehicle: 2020 Audi A4, VIN: KEJGD83C744D59FK0
+Driver 2: David Smith
+Vehicle: 2019 Audi A4
+NARRATIVE
+On 10/09/2019, at approximately 07:41, officers responded to
+a collision at the intersection of 2883 Elm Ave. Upon arrival, officers observed
+when Driver 2 (David Smith) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 5062
+Date: 10/14/2019

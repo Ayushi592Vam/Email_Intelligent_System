@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/28/2019
+INSURED INFORMATION
+Name: James Rodriguez
+Property Address: 5605 Cedar Ln
+Los Angeles, CA 91507
+Phone: 538-863-3018
+Email: james.rodriguez@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000236
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1987
+Square Footage: 2384 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0236
+Date of Loss: 07/25/2019
+Time of Loss: 10:30 AM
+Cause of Loss: Liability
+Estimated Damage: $113,139
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

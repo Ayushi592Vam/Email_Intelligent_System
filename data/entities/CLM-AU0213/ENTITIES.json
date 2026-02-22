@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0213",
+  "policy_number": "AU1000213",
+  "insured_name": "Thomas Anderson",
+  "carrier": "State Farm",
+  "date_of_loss": "11/09/2019",
+  "estimated_amount": "6373",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Toyota Camry",
+  "vin": "TF3UY2KLRJ2V14EP5",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0170",
+  "policy_number": "AU1000170",
+  "insured_name": "Elizabeth Lopez",
+  "carrier": "Nationwide",
+  "date_of_loss": "12/11/2019",
+  "estimated_amount": "8970",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 Chevrolet Silverado",
+  "vin": "Z2WZWN9Y7W3KLJV1G",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

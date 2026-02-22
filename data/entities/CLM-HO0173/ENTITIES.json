@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0173",
+  "policy_number": "HO2000173",
+  "insured_name": "Susan Rodriguez",
+  "carrier": "Farmers",
+  "date_of_loss": "10/19/2019",
+  "estimated_amount": "13771",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8715 Pine Ave, Phoenix, AZ 79976",
+  "loss_type": "liability"
+}

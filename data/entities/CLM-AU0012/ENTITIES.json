@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0012",
+  "policy_number": "AU1000012",
+  "insured_name": "Thomas Williams",
+  "carrier": "State Farm",
+  "date_of_loss": "10/27/2019",
+  "estimated_amount": "13767",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Ford F",
+  "vin": "4W3YVJFF0KCA188GK",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

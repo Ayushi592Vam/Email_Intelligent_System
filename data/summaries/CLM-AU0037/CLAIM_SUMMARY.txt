@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0037
+Policy Number: AU1000037
+Insured: Jennifer Brown
+Carrier: Geico
+Date of Loss: 11/25/2019
+Estimated Amount: $23,507
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2015 Chevrolet Silverado | VIN: 9AVVJL0119F3ZW3KD
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,115 @@
+
+===== FILE: ACORD25_CLM-AU0004.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/03/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services Susan Martin
+4025 Stockard Drive, Suite 876 6673 Maple St
+Frisco, TX 75034 Phoenix, AZ 22719
+Phone: 755-715-7092 Phone: 643-666-1215
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000004
+Effective Date: 12/29/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000004 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0004
+Date of Loss: 12/29/2019
+Estimated Amount: $15,331
+Vehicle: 2016 Tesla Model 3, VIN: P8WAT63CDC7ZF0BZZ
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0004.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0004.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0004.pdf =====
+--- PAGE 1 ---
+WILLIAMS LAW FIRM
+Attorneys at Law
+5355 Elm Ave
+Phoenix, AZ 22719
+Phone: 748-404-1759 | Fax: 833-854-8836
+Date: 01/03/2020
+Nationwide
+Claims Department
+P.O. Box 12345
+Houston, AZ 71375
+RE: Demand for Settlement - Susan Martin
+Claim Number: CLM-AU0004
+Date of Loss: 12/29/2019
+Your Insured: Susan Martin
+Dear Claims Adjuster:
+This firm represents Susan Martin in connection with the above-referenced claim.
+On 12/29/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $27,936
+Lost Wages: $14,944
+Property Damage: $15,331
+Pain and Suffering: $68,608
+TOTAL DEMAND: $66,067
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Williams Law Firm
+Attorney for Susan Martin
+
+
+===== FILE: POLICE_CLM-AU0004.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Phoenix Police Department Report #: 2019771662
+INCIDENT INFORMATION
+Date/Time: 12/29/2019 at 09:07
+Location: 3423 Elm Dr, Phoenix, AZ
+Type: Collision
+Weather: Foggy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Susan Martin
+License: AZ31854956
+Vehicle: 2016 Tesla Model 3, VIN: P8WAT63CDC7ZF0BZZ
+Driver 2: Thomas Johnson
+Vehicle: 2013 Honda Accord
+NARRATIVE
+On 12/29/2019, at approximately 21:07, officers responded to
+a collision at the intersection of 1888 Pine Dr. Upon arrival, officers observed
+when Driver 2 (Thomas Johnson) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 9787
+Date: 01/03/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0004.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Martin
+Claim: CLM-AU0004
+Total Estimated Repairs: $15,331
+Prepared for: Nationwide

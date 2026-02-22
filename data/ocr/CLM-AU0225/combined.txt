@@ -1,0 +1,111 @@
+
+===== FILE: ACORD25_CLM-AU0225.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/03/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Christopher Anderson
+4025 Stockard Drive, Suite 876 3368 Main St
+Frisco, TX 75034 Houston, TX 46788
+Phone: 463-994-6840 Phone: 493-554-2821
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000225
+Effective Date: 09/01/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000225 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0225
+Date of Loss: 09/01/2019
+Estimated Amount: $20,734
+Vehicle: 2020 Ford F-150, VIN: 6MFPM7JMH1G8YRGYD
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0225.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0225.pdf =====
+--- PAGE 1 ---
+WILLIAMS LAW FIRM
+Attorneys at Law
+4881 Cedar Ave
+Houston, TX 46788
+Phone: 212-958-7403 | Fax: 234-296-4682
+Date: 09/03/2019
+State Farm
+Claims Department
+P.O. Box 12345
+Phoenix, AZ 79085
+RE: Demand for Settlement - Christopher Anderson
+Claim Number: CLM-AU0225
+Date of Loss: 09/01/2019
+Your Insured: Christopher Anderson
+Dear Claims Adjuster:
+This firm represents Christopher Anderson in connection with the above-referenced claim.
+On 09/01/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $24,720
+Lost Wages: $9,764
+Property Damage: $20,734
+Pain and Suffering: $50,469
+TOTAL DEMAND: $55,168
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+John Smith, Esq.
+Williams Law Firm
+Attorney for Christopher Anderson
+
+
+===== FILE: POLICE_CLM-AU0225.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Houston Police Department Report #: 2019350318
+INCIDENT INFORMATION
+Date/Time: 09/01/2019 at 09:46
+Location: 9563 Cedar Blvd, Houston, TX
+Type: Collision
+Weather: Rainy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Christopher Anderson
+License: TX41726064
+Vehicle: 2020 Ford F-150, VIN: 6MFPM7JMH1G8YRGYD
+Driver 2: Michael Hernandez
+Vehicle: 2014 Honda Accord
+NARRATIVE
+On 09/01/2019, at approximately 20:07, officers responded to
+a collision at the intersection of 9603 Pine Ct. Upon arrival, officers observed
+when Driver 2 (Michael Hernandez) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 1340
+Date: 09/03/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0225.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Christopher Anderson
+Claim: CLM-AU0225
+Total Estimated Repairs: $20,734
+Prepared for: State Farm

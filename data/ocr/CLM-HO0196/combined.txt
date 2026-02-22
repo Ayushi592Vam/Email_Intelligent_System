@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0196.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/29/2019
+INSURED INFORMATION
+Name: Sarah Smith
+Property Address: 6302 Park Ln
+Miami, FL 22082
+Phone: 419-762-8705
+Email: sarah.smith@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000196
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2012
+Square Footage: 2769 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0196
+Date of Loss: 12/28/2019
+Time of Loss: 5:15 PM
+Cause of Loss: Theft
+Estimated Damage: $51,913
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals extensive fire damage to roo
+f and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0196.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0196.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/29/2019 Claim: CLM-HO0196
+PATIENT INFORMATION
+Name: Sarah Smith DOB: 12/21/1956
+SSN: 107-92-2387 Phone: 419-762-8705
+Address: 6302 Park Ln, Miami, FL 22082
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 12/28/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 12/28/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Davis, MD
+License: 644087
+Date: 12/29/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0196.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Smith
+Claim: CLM-HO0196
+Total Estimated Repairs: $51,913
+Prepared for: Travelers

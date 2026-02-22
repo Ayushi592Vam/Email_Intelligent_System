@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Jones
+Claim: CLM-HO0073
+Total Estimated Repairs: $38,149
+Prepared for: Progressive

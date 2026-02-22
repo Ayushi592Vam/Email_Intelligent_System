@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Johnson
+Claim: CLM-AU0136
+Total Estimated Repairs: $14,773
+Prepared for: Liberty Mutual

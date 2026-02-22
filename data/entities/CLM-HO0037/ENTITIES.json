@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0037",
+  "policy_number": "HO2000037",
+  "insured_name": "Robert Miller",
+  "carrier": "Geico",
+  "date_of_loss": "09/03/2019",
+  "estimated_amount": "6255",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1997 Washington Blvd, Dallas, TX 22321",
+  "loss_type": "liability"
+}

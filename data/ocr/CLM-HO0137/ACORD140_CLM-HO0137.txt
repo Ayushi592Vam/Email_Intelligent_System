@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/15/2019
+INSURED INFORMATION
+Name: Elizabeth Miller
+Property Address: 7777 Washington Blvd
+Chicago, IL 72556
+Phone: 643-294-1001
+Email: elizabeth.miller@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000137
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2008
+Square Footage: 3053 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0137
+Date of Loss: 10/11/2019
+Time of Loss: 12:45 PM
+Cause of Loss: Liability
+Estimated Damage: $9,843
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Richard Davis
+Claim: CLM-HO0054
+Total Estimated Repairs: $95,225
+Prepared for: Progressive

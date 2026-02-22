@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0151
+Policy Number: AU1000151
+Insured: James Hernandez
+Carrier: Allstate
+Date of Loss: 08/18/2019
+Estimated Amount: $69,694
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2020 Chevrolet Silverado | VIN: BLPDSUH8ZXL0HL7VL
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

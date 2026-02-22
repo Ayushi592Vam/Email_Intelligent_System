@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0192",
+  "policy_number": "AU1000192",
+  "insured_name": "Thomas Smith",
+  "carrier": "Allstate",
+  "date_of_loss": "09/02/2019",
+  "estimated_amount": "46499",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 Audi A4",
+  "vin": "HWL3NSU8PGJRDXEXE",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

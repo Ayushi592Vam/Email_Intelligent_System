@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Brown
+Claim: CLM-HO0194
+Total Estimated Repairs: $44,973
+Prepared for: State Farm

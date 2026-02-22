@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0200.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/27/2019
+INSURED INFORMATION
+Name: Karen Martinez
+Property Address: 5010 Elm Dr
+Houston, TX 78081
+Phone: 385-791-5833
+Email: karen.martinez@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000200
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2007
+Square Footage: 2110 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0200
+Date of Loss: 07/23/2019
+Time of Loss: 1:15 PM
+Cause of Loss: Fire
+Estimated Damage: $5,231
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals moderate damage to interior a
+nd exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0200.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0200.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Karen Martinez
+Claim: CLM-HO0200
+Total Estimated Repairs: $5,231
+Prepared for: Geico

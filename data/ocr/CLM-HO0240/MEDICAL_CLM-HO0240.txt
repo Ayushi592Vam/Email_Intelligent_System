@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/17/2019 Claim: CLM-HO0240
+PATIENT INFORMATION
+Name: Susan Miller DOB: 12/23/1991
+SSN: 460-24-9227 Phone: 205-274-5661
+Address: 4315 Washington Blvd, Chicago, IL 10739
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 08/15/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 08/15/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Moore, MD
+License: 928099
+Date: 08/17/2019

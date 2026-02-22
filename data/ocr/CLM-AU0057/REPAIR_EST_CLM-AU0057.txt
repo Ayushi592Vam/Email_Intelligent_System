@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Garcia
+Claim: CLM-AU0057
+Total Estimated Repairs: $10,126
+Prepared for: Geico

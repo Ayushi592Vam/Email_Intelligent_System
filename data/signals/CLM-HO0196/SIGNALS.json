@@ -1,0 +1,11 @@
+{
+  "claim_number": "CLM-HO0196",
+  "claim_type": "HOME",
+  "severity": "HIGH",
+  "severity_score": 70,
+  "signals_detected": [
+    "INJURY_REPORTED",
+    "SEVERE_LOSS_AMOUNT",
+    "HOME_LOSS_THEFT"
+  ]
+}

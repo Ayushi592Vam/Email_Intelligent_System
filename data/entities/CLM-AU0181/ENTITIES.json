@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0181",
+  "policy_number": "AU1000181",
+  "insured_name": "William Martinez",
+  "carrier": "Allstate",
+  "date_of_loss": "01/08/2020",
+  "estimated_amount": "23842",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Tesla Model",
+  "vin": "UJXJBB9LHELSN3M18",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

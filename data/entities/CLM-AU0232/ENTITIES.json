@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0232",
+  "policy_number": "AU1000232",
+  "insured_name": "William Davis",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "10/19/2019",
+  "estimated_amount": "3152",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Ford F",
+  "vin": "85G6FLANAJCYMTV3G",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

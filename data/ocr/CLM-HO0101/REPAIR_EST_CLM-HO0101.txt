@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Wilson
+Claim: CLM-HO0101
+Total Estimated Repairs: $18,947
+Prepared for: State Farm

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0003",
+  "policy_number": "AU1000003",
+  "insured_name": "John Wilson",
+  "carrier": "Progressive",
+  "date_of_loss": "09/16/2019",
+  "estimated_amount": "11270",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2017 Honda Accord",
+  "vin": "T6J7AH8USURFPN0EG",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

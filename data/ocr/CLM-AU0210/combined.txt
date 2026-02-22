@@ -1,0 +1,141 @@
+
+===== FILE: ACORD25_CLM-AU0210.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/09/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Linda Hernandez
+4025 Stockard Drive, Suite 876 1002 Elm Dr
+Frisco, TX 75034 Miami, FL 37204
+Phone: 738-488-3062 Phone: 438-764-3753
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000210
+Effective Date: 12/09/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000210 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0210
+Date of Loss: 12/09/2019
+Estimated Amount: $74,011
+Vehicle: 2018 Ford F-150, VIN: G7P22ZCP414ZF0YL5
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0210.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0210.pdf =====
+--- PAGE 1 ---
+BROWN & PARTNERS LLP
+Attorneys at Law
+4175 Main Ave
+Miami, FL 37204
+Phone: 801-792-6018 | Fax: 985-925-7905
+Date: 12/09/2019
+Nationwide
+Claims Department
+P.O. Box 12345
+Houston, AZ 74877
+RE: Demand for Settlement - Linda Hernandez
+Claim Number: CLM-AU0210
+Date of Loss: 12/09/2019
+Your Insured: Linda Hernandez
+Dear Claims Adjuster:
+This firm represents Linda Hernandez in connection with the above-referenced claim.
+On 12/09/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $21,493
+Lost Wages: $10,072
+Property Damage: $74,011
+Pain and Suffering: $65,884
+TOTAL DEMAND: $109,134
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Brown & Partners LLP
+Attorney for Linda Hernandez
+
+
+===== FILE: MEDICAL_CLM-AU0210.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/09/2019 Claim: CLM-AU0210
+PATIENT INFORMATION
+Name: Linda Hernandez DOB: 12/14/1966
+SSN: 919-87-7328 Phone: 438-764-3753
+Address: 1002 Elm Dr, Miami, FL 37204
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 12/09/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 12/09/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Johnson, MD
+License: 339775
+Date: 12/09/2019
+
+
+===== FILE: POLICE_CLM-AU0210.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019488776
+INCIDENT INFORMATION
+Date/Time: 12/09/2019 at 09:58
+Location: 2458 Pine Blvd, Miami, FL
+Type: Comprehensive
+Weather: Clear, Road: Icy
+PARTIES INVOLVED
+Driver 1: Linda Hernandez
+License: FL30361573
+Vehicle: 2018 Ford F-150, VIN: G7P22ZCP414ZF0YL5
+Driver 2: Richard Martin
+Vehicle: 2013 Chevrolet Silverado
+NARRATIVE
+On 12/09/2019, at approximately 21:27, officers responded to
+a comprehensive at the intersection of 5108 Park Ave. Upon arrival, officers observed
+when Driver 2 (Richard Martin) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 9494
+Date: 12/09/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0210.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Linda Hernandez
+Claim: CLM-AU0210
+Total Estimated Repairs: $74,011
+Prepared for: Nationwide

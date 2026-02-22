@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0004",
+  "policy_number": "AU1000004",
+  "insured_name": "Susan Martin",
+  "carrier": "Nationwide",
+  "date_of_loss": "12/29/2019",
+  "estimated_amount": "15331",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2016 Tesla Model",
+  "vin": "P8WAT63CDC7ZF0BZZ",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

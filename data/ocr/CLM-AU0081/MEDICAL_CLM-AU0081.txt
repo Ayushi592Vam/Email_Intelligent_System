@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/15/2019 Claim: CLM-AU0081
+PATIENT INFORMATION
+Name: Robert Wilson DOB: 09/13/1958
+SSN: 208-81-5438 Phone: 896-947-6351
+Address: 3667 Main St, Dallas, TX 37670
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 09/11/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 09/11/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Jones, MD
+License: 198569
+Date: 09/15/2019

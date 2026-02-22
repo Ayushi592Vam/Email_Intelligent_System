@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0212.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/22/2019
+INSURED INFORMATION
+Name: Christopher Rodriguez
+Property Address: 9449 Washington Dr
+New York, NY 43899
+Phone: 570-225-7715
+Email: christopher.rodriguez@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000212
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2008
+Square Footage: 1283 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0212
+Date of Loss: 11/21/2019
+Time of Loss: 10:15 AM
+Cause of Loss: Theft
+Estimated Damage: $37,159
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0212.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0212.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/22/2019 Claim: CLM-HO0212
+PATIENT INFORMATION
+Name: Christopher Rodriguez DOB: 08/12/1962
+SSN: 915-52-2779 Phone: 570-225-7715
+Address: 9449 Washington Dr, New York, NY 43899
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 11/21/2019 Treating Physician: Dr. Anderson
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 11/21/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Davis, MD
+License: 399324
+Date: 11/22/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0212.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Christopher Rodriguez
+Claim: CLM-HO0212
+Total Estimated Repairs: $37,159
+Prepared for: Liberty Mutual

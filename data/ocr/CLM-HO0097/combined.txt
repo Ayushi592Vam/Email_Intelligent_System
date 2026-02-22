@@ -1,0 +1,79 @@
+
+===== FILE: ACORD140_CLM-HO0097.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/29/2019
+INSURED INFORMATION
+Name: Barbara Rodriguez
+Property Address: 2831 Pine St
+New York, NY 72744
+Phone: 793-826-1083
+Email: barbara.rodriguez@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000097
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2015
+Square Footage: 1948 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0097
+Date of Loss: 11/27/2019
+Time of Loss: 1:15 AM
+Cause of Loss: Fire
+Estimated Damage: $154,152
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals structural damage requiring i
+mmediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0097.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0097.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0097.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/29/2019 Claim: CLM-HO0097
+PATIENT INFORMATION
+Name: Barbara Rodriguez DOB: 12/09/1980
+SSN: 225-71-3878 Phone: 793-826-1083
+Address: 2831 Pine St, New York, NY 72744
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 11/27/2019 Treating Physician: Dr. Williams
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 11/27/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Garcia, MD
+License: 762404
+Date: 11/29/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0097.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Barbara Rodriguez
+Claim: CLM-HO0097
+Total Estimated Repairs: $154,152
+Prepared for: Geico

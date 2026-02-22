@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0050
+Policy Number: AU1000050
+Insured: Robert Gonzalez
+Carrier: Allstate
+Date of Loss: 07/22/2019
+Estimated Amount: $6,458
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2020 Chevrolet Silverado | VIN: 46P73U71J1HP9HTKT
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

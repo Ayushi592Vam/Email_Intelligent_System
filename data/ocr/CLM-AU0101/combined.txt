@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0101.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/20/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Robert Wilson
+4025 Stockard Drive, Suite 876 7760 Pine Blvd
+Frisco, TX 75034 Atlanta, GA 59702
+Phone: 924-537-6234 Phone: 554-498-4197
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Travelers
+Policy Number: AU1000101
+Effective Date: 12/17/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000101 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0101
+Date of Loss: 12/17/2019
+Estimated Amount: $3,219
+Vehicle: 2018 Toyota Camry, VIN: 51DG0SBW3ZHZ7P9XD
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0101.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0101.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Atlanta Police Department Report #: 2019249877
+INCIDENT INFORMATION
+Date/Time: 12/17/2019 at 20:58
+Location: 2813 Elm Blvd, Atlanta, GA
+Type: Comprehensive
+Weather: Cloudy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Robert Wilson
+License: GA34643440
+Vehicle: 2018 Toyota Camry, VIN: 51DG0SBW3ZHZ7P9XD
+Driver 2: James Jackson
+Vehicle: 2018 Honda Accord
+NARRATIVE
+On 12/17/2019, at approximately 09:49, officers responded to
+a comprehensive at the intersection of 326 Pine St. Upon arrival, officers observed
+when Driver 2 (James Jackson) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 9903
+Date: 12/20/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0101.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Wilson
+Claim: CLM-AU0101
+Total Estimated Repairs: $3,219
+Prepared for: Travelers

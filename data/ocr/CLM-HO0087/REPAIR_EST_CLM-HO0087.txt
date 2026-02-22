@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Smith
+Claim: CLM-HO0087
+Total Estimated Repairs: $113,921
+Prepared for: Geico

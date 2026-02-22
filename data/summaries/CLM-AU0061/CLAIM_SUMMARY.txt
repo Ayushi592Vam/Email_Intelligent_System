@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0061
+Policy Number: AU1000061
+Insured: Joseph Jackson
+Carrier: Allstate
+Date of Loss: 09/13/2019
+Estimated Amount: $61,722
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 Honda Accord | VIN: DXV5G6BUE2M4FMBS8
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

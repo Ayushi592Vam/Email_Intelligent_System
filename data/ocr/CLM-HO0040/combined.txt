@@ -1,0 +1,79 @@
+
+===== FILE: ACORD140_CLM-HO0040.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/07/2019
+INSURED INFORMATION
+Name: Elizabeth Anderson
+Property Address: 6111 Pine Dr
+Phoenix, AZ 15033
+Phone: 370-605-5575
+Email: elizabeth.anderson@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000040
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2003
+Square Footage: 1308 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0040
+Date of Loss: 10/02/2019
+Time of Loss: 3:45 PM
+Cause of Loss: Water Damage
+Estimated Damage: $134,695
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals extensive fire damage
+to roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0040.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0040.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0040.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/07/2019 Claim: CLM-HO0040
+PATIENT INFORMATION
+Name: Elizabeth Anderson DOB: 01/09/1972
+SSN: 208-90-7722 Phone: 370-605-5575
+Address: 6111 Pine Dr, Phoenix, AZ 15033
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 10/02/2019 Treating Physician: Dr. Miller
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 10/02/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Taylor, MD
+License: 695225
+Date: 10/07/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0040.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Anderson
+Claim: CLM-HO0040
+Total Estimated Repairs: $134,695
+Prepared for: Nationwide

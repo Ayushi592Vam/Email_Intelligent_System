@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0243",
+  "policy_number": "HO2000243",
+  "insured_name": "Karen Rodriguez",
+  "carrier": "Farmers",
+  "date_of_loss": "08/13/2019",
+  "estimated_amount": "8554",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8690 Park Ct, Chicago, IL 52003",
+  "loss_type": "fire"
+}

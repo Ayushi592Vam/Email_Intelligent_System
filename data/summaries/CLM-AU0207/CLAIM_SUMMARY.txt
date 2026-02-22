@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0207
+Policy Number: AU1000207
+Insured: William Hernandez
+Carrier: Nationwide
+Date of Loss: 08/04/2019
+Estimated Amount: $45,467
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2017 Honda Accord | VIN: MA0US2AJL10VBUV67
+
+Severity: CRITICAL (110)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

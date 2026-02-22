@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0030.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/08/2019
+INSURED INFORMATION
+Name: Patricia Brown
+Property Address: 1992 Cedar Ave
+Miami, FL 18868
+Phone: 830-825-7318
+Email: patricia.brown@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000030
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1976
+Square Footage: 1485 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0030
+Date of Loss: 09/07/2019
+Time of Loss: 12:15 AM
+Cause of Loss: Theft
+Estimated Damage: $115,313
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0030.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0030.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0030.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Patricia Brown
+Claim: CLM-HO0030
+Total Estimated Repairs: $115,313
+Prepared for: Allstate

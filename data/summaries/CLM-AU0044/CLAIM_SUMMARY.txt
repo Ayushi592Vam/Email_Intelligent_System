@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0044
+Policy Number: AU1000044
+Insured: Richard Gonzalez
+Carrier: Farmers
+Date of Loss: 12/14/2019
+Estimated Amount: $47,459
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 Chevrolet Silverado | VIN: HLTSBA4DU4BXFX0PK
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

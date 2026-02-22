@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0160
+Policy Number: AU1000160
+Insured: Barbara Miller
+Carrier: Farmers
+Date of Loss: 11/12/2019
+Estimated Amount: $16,976
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2020 BMW 3 | VIN: AC0WDBTA4R15ABZH0
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

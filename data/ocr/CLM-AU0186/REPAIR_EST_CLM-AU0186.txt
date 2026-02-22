@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Anderson
+Claim: CLM-AU0186
+Total Estimated Repairs: $11,045
+Prepared for: State Farm

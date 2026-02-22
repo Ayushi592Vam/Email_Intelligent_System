@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0038",
+  "policy_number": "AU1000038",
+  "insured_name": "Richard Martin",
+  "carrier": "Travelers",
+  "date_of_loss": "12/19/2019",
+  "estimated_amount": "4493",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2016 BMW 3",
+  "vin": "HRV1KUG5ABEDJB7BX",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,22 @@
+{
+  "claim_number": "CLM-HO0239",
+  "claim_type": "HOME",
+  "has_medical": true,
+  "has_police": false,
+  "has_legal": false,
+  "num_attachments": 6,
+  "num_photos": 2,
+  "severity": "MEDIUM",
+  "severity_score": 55,
+  "signals": [
+    "INJURY_REPORTED",
+    "HIGH_LOSS_AMOUNT",
+    "HOME_LOSS_VANDALISM"
+  ],
+  "files_present": [
+    "ACORD",
+    "MEDICAL",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

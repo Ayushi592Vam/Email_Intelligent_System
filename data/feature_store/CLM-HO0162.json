@@ -1,0 +1,22 @@
+{
+  "claim_number": "CLM-HO0162",
+  "claim_type": "HOME",
+  "has_medical": true,
+  "has_police": false,
+  "has_legal": false,
+  "num_attachments": 5,
+  "num_photos": 1,
+  "severity": "HIGH",
+  "severity_score": 70,
+  "signals": [
+    "INJURY_REPORTED",
+    "SEVERE_LOSS_AMOUNT",
+    "HOME_LOSS_NATURAL_DISASTER"
+  ],
+  "files_present": [
+    "ACORD",
+    "MEDICAL",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

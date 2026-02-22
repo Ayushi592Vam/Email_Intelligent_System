@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0074",
+  "policy_number": "HO2000074",
+  "insured_name": "Mary Martin",
+  "carrier": "Travelers",
+  "date_of_loss": "10/15/2019",
+  "estimated_amount": "115022",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6009 Oak Ct, Dallas, TX 88304",
+  "loss_type": "liability"
+}

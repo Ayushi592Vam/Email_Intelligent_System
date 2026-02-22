@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/02/2019
+INSURED INFORMATION
+Name: Karen Moore
+Property Address: 3943 Elm Ave
+Dallas, TX 97080
+Phone: 902-916-7821
+Email: karen.moore@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000247
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1998
+Square Footage: 1225 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0247
+Date of Loss: 11/02/2019
+Time of Loss: 10:00 PM
+Cause of Loss: Liability
+Estimated Damage: $107,485
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals structural damage requir
+ing immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

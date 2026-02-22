@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Smith
+Claim: CLM-HO0011
+Total Estimated Repairs: $13,234
+Prepared for: Farmers

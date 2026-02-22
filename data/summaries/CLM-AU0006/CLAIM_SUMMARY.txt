@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0006
+Policy Number: AU1000006
+Insured: Patricia Wilson
+Carrier: Nationwide
+Date of Loss: 12/29/2019
+Estimated Amount: $6,902
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 BMW 3 | VIN: SCFF9A9BJUFUGKZCV
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

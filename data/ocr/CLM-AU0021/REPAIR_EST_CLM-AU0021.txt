@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Wilson
+Claim: CLM-AU0021
+Total Estimated Repairs: $43,493
+Prepared for: Nationwide

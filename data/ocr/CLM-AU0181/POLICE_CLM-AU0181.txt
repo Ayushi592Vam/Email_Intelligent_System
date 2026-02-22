@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019066012
+INCIDENT INFORMATION
+Date/Time: 01/08/2020 at 18:55
+Location: 3798 Maple St, Miami, FL
+Type: Collision
+Weather: Cloudy, Road: Dry
+PARTIES INVOLVED
+Driver 1: William Martinez
+License: FL34097090
+Vehicle: 2015 Tesla Model 3, VIN: UJXJBB9LHELSN3M18
+Driver 2: William Taylor
+Vehicle: 2010 Audi A4
+NARRATIVE
+On 01/08/2020, at approximately 07:29, officers responded to
+a collision at the intersection of 1604 Oak Ln. Upon arrival, officers observed
+when Driver 2 (William Taylor) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 4906
+Date: 01/13/2020

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0119
+Policy Number: AU1000119
+Insured: Jennifer Williams
+Carrier: Progressive
+Date of Loss: 09/01/2019
+Estimated Amount: $24,860
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2015 Audi A4 | VIN: 81U35FUSCJXVEA64D
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

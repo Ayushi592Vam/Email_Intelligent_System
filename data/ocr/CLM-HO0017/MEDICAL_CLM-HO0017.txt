@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/17/2019 Claim: CLM-HO0017
+PATIENT INFORMATION
+Name: Patricia Hernandez DOB: 07/11/1956
+SSN: 427-97-6242 Phone: 847-274-5867
+Address: 235 Cedar Ct, Atlanta, GA 87329
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 10/17/2019 Treating Physician: Dr. Davis
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 10/17/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Brown, MD
+License: 608629
+Date: 10/17/2019

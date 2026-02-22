@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0007.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/01/2019
+INSURED INFORMATION
+Name: Linda Hernandez
+Property Address: 277 Park Ln
+Phoenix, AZ 67379
+Phone: 761-369-3366
+Email: linda.hernandez@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000007
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1974
+Square Footage: 3025 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0007
+Date of Loss: 08/01/2019
+Time of Loss: 5:30 AM
+Cause of Loss: Theft
+Estimated Damage: $133,018
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0007.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0007.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Linda Hernandez
+Claim: CLM-HO0007
+Total Estimated Repairs: $133,018
+Prepared for: Nationwide

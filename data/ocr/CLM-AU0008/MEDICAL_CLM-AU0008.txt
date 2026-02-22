@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/28/2019 Claim: CLM-AU0008
+PATIENT INFORMATION
+Name: Elizabeth Anderson DOB: 01/21/1992
+SSN: 443-18-4115 Phone: 797-396-1268
+Address: 5215 Elm Blvd, Atlanta, GA 13612
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 11/28/2019 Treating Physician: Dr. Gonzalez
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 11/28/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Gonzalez, MD
+License: 567840
+Date: 11/28/2019

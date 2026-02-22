@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/01/2019
+INSURED INFORMATION
+Name: Jennifer Martin
+Property Address: 3242 Oak Ln
+Phoenix, AZ 69365
+Phone: 704-595-2120
+Email: jennifer.martin@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000094
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1994
+Square Footage: 2590 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0094
+Date of Loss: 08/31/2019
+Time of Loss: 10:45 AM
+Cause of Loss: Liability
+Estimated Damage: $17,496
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

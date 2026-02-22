@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Johnson
+Claim: CLM-AU0219
+Total Estimated Repairs: $26,277
+Prepared for: State Farm

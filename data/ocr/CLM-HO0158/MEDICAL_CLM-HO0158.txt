@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/02/2019 Claim: CLM-HO0158
+PATIENT INFORMATION
+Name: Thomas Gonzalez DOB: 08/08/1986
+SSN: 373-89-7159 Phone: 294-200-1704
+Address: 813 Park Dr, Atlanta, GA 47287
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 11/28/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 11/28/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Miller, MD
+License: 405852
+Date: 12/02/2019

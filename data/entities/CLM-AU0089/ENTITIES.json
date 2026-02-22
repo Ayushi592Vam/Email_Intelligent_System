@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0089",
+  "policy_number": "AU1000089",
+  "insured_name": "William Brown",
+  "carrier": "Progressive",
+  "date_of_loss": "09/01/2019",
+  "estimated_amount": "45791",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Toyota Camry",
+  "vin": "2TK3E3T4VA6SHX387",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

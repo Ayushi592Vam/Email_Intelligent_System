@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Williams
+Claim: CLM-AU0005
+Total Estimated Repairs: $10,008
+Prepared for: Nationwide

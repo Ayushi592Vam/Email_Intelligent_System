@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0058",
+  "policy_number": "AU1000058",
+  "insured_name": "David Jones",
+  "carrier": "Travelers",
+  "date_of_loss": "01/07/2020",
+  "estimated_amount": "12188",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Toyota Camry",
+  "vin": "PR3RBMRC4CAA006V0",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/14/2019
+INSURED INFORMATION
+Name: Barbara Hernandez
+Property Address: 2699 Cedar St
+Atlanta, GA 92989
+Phone: 514-465-7836
+Email: barbara.hernandez@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000098
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1980
+Square Footage: 3256 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0098
+Date of Loss: 12/11/2019
+Time of Loss: 9:30 PM
+Cause of Loss: Fire
+Estimated Damage: $90,985
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals significant water intrusion a
+ffecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

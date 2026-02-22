@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/15/2019 Claim: CLM-AU0168
+PATIENT INFORMATION
+Name: Sarah Rodriguez DOB: 05/10/1969
+SSN: 342-33-3231 Phone: 347-664-9549
+Address: 8221 Maple Ave, Chicago, IL 67169
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 12/15/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 12/15/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Taylor, MD
+License: 328898
+Date: 12/15/2019

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Anderson
+Claim: CLM-AU0230
+Total Estimated Repairs: $17,948
+Prepared for: Allstate

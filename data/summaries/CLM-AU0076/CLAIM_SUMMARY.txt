@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0076
+Policy Number: AU1000076
+Insured: William Wilson
+Carrier: Liberty Mutual
+Date of Loss: 10/12/2019
+Estimated Amount: $53,182
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 Ford F | VIN: NA6HTBL83F1CJR66N
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

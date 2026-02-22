@@ -1,0 +1,79 @@
+
+===== FILE: ACORD140_CLM-HO0003.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/18/2019
+INSURED INFORMATION
+Name: Robert Brown
+Property Address: 8685 Maple St
+Los Angeles, CA 99155
+Phone: 811-446-2897
+Email: robert.brown@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000003
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1971
+Square Footage: 2427 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0003
+Date of Loss: 07/16/2019
+Time of Loss: 7:00 AM
+Cause of Loss: Theft
+Estimated Damage: $94,595
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0003.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0003.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0003.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 07/18/2019 Claim: CLM-HO0003
+PATIENT INFORMATION
+Name: Robert Brown DOB: 03/11/1978
+SSN: 280-24-4370 Phone: 811-446-2897
+Address: 8685 Maple St, Los Angeles, CA 99155
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 07/16/2019 Treating Physician: Dr. Taylor
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 07/16/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Jones, MD
+License: 550763
+Date: 07/18/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0003.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Brown
+Claim: CLM-HO0003
+Total Estimated Repairs: $94,595
+Prepared for: Travelers

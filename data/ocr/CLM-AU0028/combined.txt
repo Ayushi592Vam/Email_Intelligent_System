@@ -1,0 +1,115 @@
+
+===== FILE: ACORD25_CLM-AU0028.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 07/27/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Barbara Rodriguez
+4025 Stockard Drive, Suite 876 1800 Oak Ct
+Frisco, TX 75034 Miami, FL 58483
+Phone: 361-583-7737 Phone: 838-710-4019
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Travelers
+Policy Number: AU1000028
+Effective Date: 07/25/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000028 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0028
+Date of Loss: 07/25/2019
+Estimated Amount: $8,578
+Vehicle: 2015 Honda Accord, VIN: HVZXUEHDP9UPZGYYX
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0028.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0028.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0028.pdf =====
+--- PAGE 1 ---
+WILLIAMS LAW FIRM
+Attorneys at Law
+841 Park Dr
+Miami, FL 58483
+Phone: 354-913-2445 | Fax: 463-953-2768
+Date: 07/27/2019
+Travelers
+Claims Department
+P.O. Box 12345
+Dallas, AZ 81235
+RE: Demand for Settlement - Barbara Rodriguez
+Claim Number: CLM-AU0028
+Date of Loss: 07/25/2019
+Your Insured: Barbara Rodriguez
+Dear Claims Adjuster:
+This firm represents Barbara Rodriguez in connection with the above-referenced claim.
+On 07/25/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $21,993
+Lost Wages: $5,281
+Property Damage: $8,578
+Pain and Suffering: $63,400
+TOTAL DEMAND: $80,888
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Williams Law Firm
+Attorney for Barbara Rodriguez
+
+
+===== FILE: POLICE_CLM-AU0028.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019378849
+INCIDENT INFORMATION
+Date/Time: 07/25/2019 at 21:19
+Location: 5774 Oak St, Miami, FL
+Type: Comprehensive
+Weather: Clear, Road: Icy
+PARTIES INVOLVED
+Driver 1: Barbara Rodriguez
+License: FL69962442
+Vehicle: 2015 Honda Accord, VIN: HVZXUEHDP9UPZGYYX
+Driver 2: Elizabeth Lopez
+Vehicle: 2015 Toyota Camry
+NARRATIVE
+On 07/25/2019, at approximately 15:21, officers responded to
+a comprehensive at the intersection of 8948 Elm Blvd. Upon arrival, officers observed
+when Driver 2 (Elizabeth Lopez) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 8297
+Date: 07/27/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0028.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Barbara Rodriguez
+Claim: CLM-AU0028
+Total Estimated Repairs: $8,578
+Prepared for: Travelers

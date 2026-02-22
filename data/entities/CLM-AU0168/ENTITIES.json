@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0168",
+  "policy_number": "AU1000168",
+  "insured_name": "Sarah Rodriguez",
+  "carrier": "State Farm",
+  "date_of_loss": "12/15/2019",
+  "estimated_amount": "22618",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 Honda Accord",
+  "vin": "83R1WX97E1XL1H9F8",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

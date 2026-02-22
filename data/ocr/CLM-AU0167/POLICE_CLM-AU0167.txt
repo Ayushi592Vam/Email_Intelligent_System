@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+New York Police Department Report #: 2019931383
+INCIDENT INFORMATION
+Date/Time: 09/10/2019 at 10:30
+Location: 3251 Washington St, New York, NY
+Type: Collision
+Weather: Clear, Road: Icy
+PARTIES INVOLVED
+Driver 1: Karen Rodriguez
+License: NY57660766
+Vehicle: 2018 BMW 3 Series, VIN: ZW09YPALJV4MN2FM2
+Driver 2: Sarah Gonzalez
+Vehicle: 2018 Toyota Camry
+NARRATIVE
+On 09/10/2019, at approximately 09:08, officers responded to
+a collision at the intersection of 3227 Elm Ln. Upon arrival, officers observed
+when Driver 2 (Sarah Gonzalez) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 5926
+Date: 09/11/2019

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0172",
+  "policy_number": "AU1000172",
+  "insured_name": "Jessica Rodriguez",
+  "carrier": "State Farm",
+  "date_of_loss": "11/12/2019",
+  "estimated_amount": "66088",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2019 Chevrolet Silverado",
+  "vin": "B9KUDMD7659JPWZSE",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

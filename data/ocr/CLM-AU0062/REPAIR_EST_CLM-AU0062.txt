@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Garcia
+Claim: CLM-AU0062
+Total Estimated Repairs: $36,556
+Prepared for: State Farm

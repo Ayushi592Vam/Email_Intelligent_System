@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/12/2019
+INSURED INFORMATION
+Name: Sarah Anderson
+Property Address: 4445 Oak Dr
+Dallas, TX 64402
+Phone: 343-829-6118
+Email: sarah.anderson@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000218
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1998
+Square Footage: 2194 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0218
+Date of Loss: 12/10/2019
+Time of Loss: 7:45 AM
+Cause of Loss: Water Damage
+Estimated Damage: $33,379
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals significant water int
+rusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

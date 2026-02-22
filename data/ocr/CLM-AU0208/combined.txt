@@ -1,0 +1,75 @@
+
+===== FILE: ACORD25_CLM-AU0208.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 07/28/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Jessica Smith
+4025 Stockard Drive, Suite 876 5088 Oak St
+Frisco, TX 75034 Miami, FL 45979
+Phone: 257-604-8460 Phone: 787-293-5153
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000208
+Effective Date: 07/23/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000208 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0208
+Date of Loss: 07/23/2019
+Estimated Amount: $15,906
+Vehicle: 2018 Honda Accord, VIN: ESHZ12MKMRCL9Z8YB
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0208.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0208.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 07/28/2019 Claim: CLM-AU0208
+PATIENT INFORMATION
+Name: Jessica Smith DOB: 09/06/1965
+SSN: 468-55-9411 Phone: 787-293-5153
+Address: 5088 Oak St, Miami, FL 45979
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 07/23/2019 Treating Physician: Dr. Gonzalez
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 07/23/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Miller, MD
+License: 870154
+Date: 07/28/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0208.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Smith
+Claim: CLM-AU0208
+Total Estimated Repairs: $15,906
+Prepared for: State Farm

@@ -1,0 +1,23 @@
+{
+  "ACORD140_CLM-HO0004.txt": [
+    "ACORD"
+  ],
+  "combined.txt": [
+    "ACORD",
+    "LEGAL",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ],
+  "DAMAGE_1_CLM-HO0004.txt": [
+    "PHOTOS"
+  ],
+  "DAMAGE_2_CLM-HO0004.txt": [
+    "PHOTOS"
+  ],
+  "LEGAL_CLM-HO0004.txt": [
+    "LEGAL"
+  ],
+  "REPAIR_EST_CLM-HO0004.txt": [
+    "REPAIR_ESTIMATE"
+  ]
+}

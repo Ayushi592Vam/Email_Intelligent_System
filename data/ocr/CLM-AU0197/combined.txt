@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0197.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/27/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services William Miller
+4025 Stockard Drive, Suite 876 102 Park Ave
+Frisco, TX 75034 Los Angeles, CA 53697
+Phone: 901-464-2190 Phone: 297-611-9472
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000197
+Effective Date: 09/22/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000197 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0197
+Date of Loss: 09/22/2019
+Estimated Amount: $14,834
+Vehicle: 2017 Tesla Model 3, VIN: 5VGP6LAWR37BSVH4H
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0197.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0197.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0197.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/27/2019 Claim: CLM-AU0197
+PATIENT INFORMATION
+Name: William Miller DOB: 12/04/1993
+SSN: 370-81-5415 Phone: 297-611-9472
+Address: 102 Park Ave, Los Angeles, CA 53697
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 09/22/2019 Treating Physician: Dr. Moore
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 09/22/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Davis, MD
+License: 671339
+Date: 09/27/2019
+
+
+===== FILE: POLICE_CLM-AU0197.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Los Angeles Police Department Report #: 2019932180
+INCIDENT INFORMATION
+Date/Time: 09/22/2019 at 17:02
+Location: 6893 Park Ln, Los Angeles, CA
+Type: Uninsured Motorist
+Weather: Clear, Road: Dry
+PARTIES INVOLVED
+Driver 1: William Miller
+License: CA87844455
+Vehicle: 2017 Tesla Model 3, VIN: 5VGP6LAWR37BSVH4H
+Driver 2: Linda Martin
+Vehicle: 2015 Toyota Camry
+NARRATIVE
+On 09/22/2019, at approximately 10:54, officers responded to
+a uninsured motorist at the intersection of 1166 Main Ave. Upon arrival, officers observed
+when Driver 2 (Linda Martin) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 4700
+Date: 09/27/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0197.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Miller
+Claim: CLM-AU0197
+Total Estimated Repairs: $14,834
+Prepared for: Nationwide

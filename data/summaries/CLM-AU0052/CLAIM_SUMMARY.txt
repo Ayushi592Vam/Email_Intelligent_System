@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0052
+Policy Number: AU1000052
+Insured: Susan Jackson
+Carrier: Travelers
+Date of Loss: 10/17/2019
+Estimated Amount: $37,300
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 Audi A4 | VIN: KP4SPBEUW6MG6EL2R
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

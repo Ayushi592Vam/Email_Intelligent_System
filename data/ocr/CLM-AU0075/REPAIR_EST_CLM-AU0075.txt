@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Johnson
+Claim: CLM-AU0075
+Total Estimated Repairs: $31,309
+Prepared for: Travelers

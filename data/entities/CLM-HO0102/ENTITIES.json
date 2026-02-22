@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0102",
+  "policy_number": "HO2000102",
+  "insured_name": "Mary Martinez",
+  "carrier": "State Farm",
+  "date_of_loss": "12/22/2019",
+  "estimated_amount": "21002",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7116 Main St, Chicago, IL 84722",
+  "loss_type": "fire"
+}

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0176
+Policy Number: AU1000176
+Insured: John Garcia
+Carrier: State Farm
+Date of Loss: 08/11/2019
+Estimated Amount: $34,384
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2018 Tesla Model | VIN: 4WD31YRPVYW5RV1LG
+
+Severity: CRITICAL (110)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

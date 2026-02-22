@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0048.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 07/25/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Susan Williams
+4025 Stockard Drive, Suite 876 5103 Pine Ave
+Frisco, TX 75034 Atlanta, GA 32293
+Phone: 605-861-6134 Phone: 371-654-8088
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000048
+Effective Date: 07/20/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000048 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0048
+Date of Loss: 07/20/2019
+Estimated Amount: $14,792
+Vehicle: 2019 Tesla Model 3, VIN: 5L9R3DCAX37FXFBEN
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0048.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0048.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0048.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 07/25/2019 Claim: CLM-AU0048
+PATIENT INFORMATION
+Name: Susan Williams DOB: 03/02/1962
+SSN: 483-91-2500 Phone: 371-654-8088
+Address: 5103 Pine Ave, Atlanta, GA 32293
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 07/20/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 07/20/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Davis, MD
+License: 826167
+Date: 07/25/2019
+
+
+===== FILE: POLICE_CLM-AU0048.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Atlanta Police Department Report #: 2019392708
+INCIDENT INFORMATION
+Date/Time: 07/20/2019 at 09:34
+Location: 9546 Pine Ave, Atlanta, GA
+Type: Comprehensive
+Weather: Rainy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Susan Williams
+License: GA56167888
+Vehicle: 2019 Tesla Model 3, VIN: 5L9R3DCAX37FXFBEN
+Driver 2: Sarah Garcia
+Vehicle: 2015 Ford F-150
+NARRATIVE
+On 07/20/2019, at approximately 14:10, officers responded to
+a comprehensive at the intersection of 3687 Park Blvd. Upon arrival, officers observed
+when Driver 2 (Sarah Garcia) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 2401
+Date: 07/25/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0048.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Williams
+Claim: CLM-AU0048
+Total Estimated Repairs: $14,792
+Prepared for: Nationwide

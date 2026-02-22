@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/12/2019
+INSURED INFORMATION
+Name: Joseph Smith
+Property Address: 8259 Elm Ct
+Chicago, IL 66607
+Phone: 504-213-3458
+Email: joseph.smith@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000011
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1994
+Square Footage: 2613 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0011
+Date of Loss: 10/12/2019
+Time of Loss: 5:45 AM
+Cause of Loss: Liability
+Estimated Damage: $13,234
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

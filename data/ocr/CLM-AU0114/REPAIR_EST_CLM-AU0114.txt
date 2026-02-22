@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Gonzalez
+Claim: CLM-AU0114
+Total Estimated Repairs: $16,254
+Prepared for: State Farm

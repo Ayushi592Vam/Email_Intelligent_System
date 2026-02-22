@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0246",
+  "policy_number": "AU1000246",
+  "insured_name": "David Hernandez",
+  "carrier": "Allstate",
+  "date_of_loss": "10/25/2019",
+  "estimated_amount": "18699",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 Honda Accord",
+  "vin": "WLV2JU4HWMHCC50RM",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

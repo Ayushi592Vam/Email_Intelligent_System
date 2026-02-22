@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Richard Smith
+Claim: CLM-HO0042
+Total Estimated Repairs: $50,285
+Prepared for: Nationwide

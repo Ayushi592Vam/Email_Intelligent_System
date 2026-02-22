@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Wilson
+Claim: CLM-AU0101
+Total Estimated Repairs: $3,219
+Prepared for: Travelers

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0205
+Policy Number: AU1000205
+Insured: Robert Anderson
+Carrier: Farmers
+Date of Loss: 10/03/2019
+Estimated Amount: $24,895
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2020 Tesla Model | VIN: HDC9NE898M9NG5JZT
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

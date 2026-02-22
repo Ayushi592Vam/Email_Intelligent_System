@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0140
+Policy Number: AU1000140
+Insured: Mary Martin
+Carrier: Farmers
+Date of Loss: 11/05/2019
+Estimated Amount: $3,232
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2017 Toyota Camry | VIN: P1GXED8TGW3NSKBGD
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

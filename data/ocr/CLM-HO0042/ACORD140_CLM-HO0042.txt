@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/22/2019
+INSURED INFORMATION
+Name: Richard Smith
+Property Address: 8597 Maple Blvd
+Chicago, IL 60060
+Phone: 228-575-3883
+Email: richard.smith@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000042
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1997
+Square Footage: 3481 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0042
+Date of Loss: 08/19/2019
+Time of Loss: 5:30 AM
+Cause of Loss: Fire
+Estimated Damage: $50,285
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals significant water intrusion a
+ffecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

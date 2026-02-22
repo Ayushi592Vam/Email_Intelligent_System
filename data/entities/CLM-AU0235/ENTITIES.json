@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0235",
+  "policy_number": "AU1000235",
+  "insured_name": "John Gonzalez",
+  "carrier": "Nationwide",
+  "date_of_loss": "01/06/2020",
+  "estimated_amount": "18609",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2017 Tesla Model",
+  "vin": "RG406VAA2D6RVWY2X",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

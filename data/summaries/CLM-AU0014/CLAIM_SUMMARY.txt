@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0014
+Policy Number: AU1000014
+Insured: Joseph Lopez
+Carrier: Farmers
+Date of Loss: 12/05/2019
+Estimated Amount: $23,495
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2015 Chevrolet Silverado | VIN: 90FCLDRE8CGG8C12E
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

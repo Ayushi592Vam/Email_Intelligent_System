@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0035",
+  "policy_number": "HO2000035",
+  "insured_name": "Joseph Gonzalez",
+  "carrier": "Progressive",
+  "date_of_loss": "10/19/2019",
+  "estimated_amount": "100531",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1056 Washington Blvd, Houston, TX 65245",
+  "loss_type": "theft"
+}

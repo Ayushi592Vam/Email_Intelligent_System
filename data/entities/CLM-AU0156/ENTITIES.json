@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0156",
+  "policy_number": "AU1000156",
+  "insured_name": "Robert Williams",
+  "carrier": "Travelers",
+  "date_of_loss": "11/01/2019",
+  "estimated_amount": "6561",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Toyota Camry",
+  "vin": "72BAEKSB5VF59SKKK",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

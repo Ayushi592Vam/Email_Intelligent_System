@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/30/2019
+INSURED INFORMATION
+Name: John Johnson
+Property Address: 6132 Cedar Ave
+Dallas, TX 80835
+Phone: 960-538-8167
+Email: john.johnson@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000063
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1988
+Square Footage: 2675 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0063
+Date of Loss: 08/27/2019
+Time of Loss: 10:45 PM
+Cause of Loss: Liability
+Estimated Damage: $24,576
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals moderate damage to inter
+ior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

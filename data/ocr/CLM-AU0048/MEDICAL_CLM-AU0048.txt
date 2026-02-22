@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 07/25/2019 Claim: CLM-AU0048
+PATIENT INFORMATION
+Name: Susan Williams DOB: 03/02/1962
+SSN: 483-91-2500 Phone: 371-654-8088
+Address: 5103 Pine Ave, Atlanta, GA 32293
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 07/20/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 07/20/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Davis, MD
+License: 826167
+Date: 07/25/2019

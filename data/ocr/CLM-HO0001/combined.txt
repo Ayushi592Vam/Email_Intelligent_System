@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0001.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/16/2019
+INSURED INFORMATION
+Name: Patricia Miller
+Property Address: 8856 Cedar St
+New York, NY 16685
+Phone: 584-444-6296
+Email: patricia.miller@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000001
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1982
+Square Footage: 3212 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0001
+Date of Loss: 10/13/2019
+Time of Loss: 9:30 AM
+Cause of Loss: Natural Disaster
+Estimated Damage: $70,018
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals moderate damage t
+o interior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0001.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0001.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/16/2019 Claim: CLM-HO0001
+PATIENT INFORMATION
+Name: Patricia Miller DOB: 11/25/1994
+SSN: 545-33-8598 Phone: 584-444-6296
+Address: 8856 Cedar St, New York, NY 16685
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 10/13/2019 Treating Physician: Dr. Gonzalez
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 10/13/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Garcia, MD
+License: 583651
+Date: 10/16/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0001.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Patricia Miller
+Claim: CLM-HO0001
+Total Estimated Repairs: $70,018
+Prepared for: Geico

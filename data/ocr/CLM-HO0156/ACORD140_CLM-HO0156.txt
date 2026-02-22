@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/19/2019
+INSURED INFORMATION
+Name: Joseph Lopez
+Property Address: 7593 Main Dr
+Miami, FL 19961
+Phone: 231-711-3305
+Email: joseph.lopez@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000156
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1990
+Square Footage: 3446 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0156
+Date of Loss: 11/18/2019
+Time of Loss: 5:45 PM
+Cause of Loss: Theft
+Estimated Damage: $21,827
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

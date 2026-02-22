@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Rodriguez
+Claim: CLM-AU0019
+Total Estimated Repairs: $32,677
+Prepared for: Progressive

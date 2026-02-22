@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0006.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/03/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services Patricia Wilson
+4025 Stockard Drive, Suite 876 3853 Maple Ct
+Frisco, TX 75034 Houston, TX 91165
+Phone: 520-887-4781 Phone: 204-325-1650
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000006
+Effective Date: 12/29/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000006 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0006
+Date of Loss: 12/29/2019
+Estimated Amount: $6,902
+Vehicle: 2019 BMW 3 Series, VIN: SCFF9A9BJUFUGKZCV
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0006.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0006.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0006.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Houston Police Department Report #: 2019821261
+INCIDENT INFORMATION
+Date/Time: 12/29/2019 at 16:21
+Location: 8272 Park Ln, Houston, TX
+Type: Comprehensive
+Weather: Foggy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Patricia Wilson
+License: TX49566715
+Vehicle: 2019 BMW 3 Series, VIN: SCFF9A9BJUFUGKZCV
+Driver 2: Mary Hernandez
+Vehicle: 2013 Audi A4
+NARRATIVE
+On 12/29/2019, at approximately 11:17, officers responded to
+a comprehensive at the intersection of 5178 Cedar Ct. Upon arrival, officers observed
+when Driver 2 (Mary Hernandez) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 1849
+Date: 01/03/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0006.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Patricia Wilson
+Claim: CLM-AU0006
+Total Estimated Repairs: $6,902
+Prepared for: Nationwide

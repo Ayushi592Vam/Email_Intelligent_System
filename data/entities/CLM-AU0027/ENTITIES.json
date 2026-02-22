@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0027",
+  "policy_number": "AU1000027",
+  "insured_name": "Sarah Martin",
+  "carrier": "Travelers",
+  "date_of_loss": "09/14/2019",
+  "estimated_amount": "12572",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2016 BMW 3",
+  "vin": "MZSX5RKUVU5968A2H",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

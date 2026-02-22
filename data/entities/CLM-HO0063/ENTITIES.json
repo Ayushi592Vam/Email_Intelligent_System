@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0063",
+  "policy_number": "HO2000063",
+  "insured_name": "John Johnson",
+  "carrier": "Geico",
+  "date_of_loss": "08/27/2019",
+  "estimated_amount": "24576",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6132 Cedar Ave, Dallas, TX 80835",
+  "loss_type": "liability"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0164",
+  "policy_number": "AU1000164",
+  "insured_name": "Christopher Rodriguez",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "10/05/2019",
+  "estimated_amount": "8602",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2016 BMW 3",
+  "vin": "G4LV4CKZS5CCT3U99",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

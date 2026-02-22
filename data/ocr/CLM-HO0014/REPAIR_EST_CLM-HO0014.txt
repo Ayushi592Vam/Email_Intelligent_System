@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Garcia
+Claim: CLM-HO0014
+Total Estimated Repairs: $7,945
+Prepared for: State Farm

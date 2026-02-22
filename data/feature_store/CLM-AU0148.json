@@ -1,0 +1,21 @@
+{
+  "claim_number": "CLM-AU0148",
+  "claim_type": "AUTO",
+  "has_medical": true,
+  "has_police": false,
+  "has_legal": false,
+  "num_attachments": 6,
+  "num_photos": 2,
+  "severity": "MEDIUM",
+  "severity_score": 50,
+  "signals": [
+    "INJURY_REPORTED",
+    "AUTO_BODILY_INJURY"
+  ],
+  "files_present": [
+    "ACORD",
+    "MEDICAL",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

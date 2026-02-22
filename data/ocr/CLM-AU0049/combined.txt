@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0049.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/09/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Sarah Taylor
+4025 Stockard Drive, Suite 876 8901 Washington Ln
+Frisco, TX 75034 Miami, FL 81683
+Phone: 591-580-9732 Phone: 255-707-9279
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Farmers
+Policy Number: AU1000049
+Effective Date: 11/05/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000049 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0049
+Date of Loss: 11/05/2019
+Estimated Amount: $14,501
+Vehicle: 2019 Chevrolet Silverado, VIN: AABMBWA1F5W17AL04
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0049.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0049.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0049.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019342127
+INCIDENT INFORMATION
+Date/Time: 11/05/2019 at 17:08
+Location: 727 Park Ct, Miami, FL
+Type: Comprehensive
+Weather: Cloudy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Sarah Taylor
+License: FL64399485
+Vehicle: 2019 Chevrolet Silverado, VIN: AABMBWA1F5W17AL04
+Driver 2: Barbara Lopez
+Vehicle: 2013 Ford F-150
+NARRATIVE
+On 11/05/2019, at approximately 11:40, officers responded to
+a comprehensive at the intersection of 990 Pine St. Upon arrival, officers observed
+when Driver 2 (Barbara Lopez) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 1647
+Date: 11/09/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0049.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Taylor
+Claim: CLM-AU0049
+Total Estimated Repairs: $14,501
+Prepared for: Farmers

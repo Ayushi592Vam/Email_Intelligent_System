@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0027.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/15/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Sarah Martin
+4025 Stockard Drive, Suite 876 5462 Washington Ave
+Frisco, TX 75034 Houston, TX 65348
+Phone: 253-321-3735 Phone: 410-647-1307
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Travelers
+Policy Number: AU1000027
+Effective Date: 09/14/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000027 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0027
+Date of Loss: 09/14/2019
+Estimated Amount: $12,572
+Vehicle: 2016 BMW 3 Series, VIN: MZSX5RKUVU5968A2H
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0027.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0027.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Houston Police Department Report #: 2019660250
+INCIDENT INFORMATION
+Date/Time: 09/14/2019 at 07:24
+Location: 8874 Cedar Ave, Houston, TX
+Type: Comprehensive
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Sarah Martin
+License: TX79075512
+Vehicle: 2016 BMW 3 Series, VIN: MZSX5RKUVU5968A2H
+Driver 2: Patricia Martin
+Vehicle: 2016 Chevrolet Silverado
+NARRATIVE
+On 09/14/2019, at approximately 19:46, officers responded to
+a comprehensive at the intersection of 7140 Washington St. Upon arrival, officers observed
+when Driver 2 (Patricia Martin) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 6954
+Date: 09/15/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0027.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Martin
+Claim: CLM-AU0027
+Total Estimated Repairs: $12,572
+Prepared for: Travelers

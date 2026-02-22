@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/06/2019 Claim: CLM-AU0149
+PATIENT INFORMATION
+Name: Thomas Johnson DOB: 06/25/1975
+SSN: 871-24-3569 Phone: 790-523-6546
+Address: 1809 Maple Ave, Chicago, IL 29359
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 12/03/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 12/03/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Moore, MD
+License: 398848
+Date: 12/06/2019

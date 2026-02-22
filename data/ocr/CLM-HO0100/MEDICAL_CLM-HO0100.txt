@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/30/2019 Claim: CLM-HO0100
+PATIENT INFORMATION
+Name: Jessica Martinez DOB: 01/16/1968
+SSN: 512-83-3988 Phone: 415-704-3658
+Address: 3347 Maple Ct, Los Angeles, CA 72215
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 10/28/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 10/28/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Jones, MD
+License: 881954
+Date: 10/30/2019

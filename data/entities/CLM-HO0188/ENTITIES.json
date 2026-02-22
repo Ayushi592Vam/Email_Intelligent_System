@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0188",
+  "policy_number": "HO2000188",
+  "insured_name": "Michael Brown",
+  "carrier": "Progressive",
+  "date_of_loss": "12/17/2019",
+  "estimated_amount": "9158",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "783 Cedar St, Atlanta, GA 36627",
+  "loss_type": "fire"
+}

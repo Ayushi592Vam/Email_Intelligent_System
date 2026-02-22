@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0172
+Policy Number: AU1000172
+Insured: Jessica Rodriguez
+Carrier: State Farm
+Date of Loss: 11/12/2019
+Estimated Amount: $66,088
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2019 Chevrolet Silverado | VIN: B9KUDMD7659JPWZSE
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

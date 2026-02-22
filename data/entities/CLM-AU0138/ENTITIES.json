@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0138",
+  "policy_number": "AU1000138",
+  "insured_name": "Karen Martin",
+  "carrier": "Nationwide",
+  "date_of_loss": "08/13/2019",
+  "estimated_amount": "7484",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2017 Toyota Camry",
+  "vin": "BAGNPW5U9DL00S3XX",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

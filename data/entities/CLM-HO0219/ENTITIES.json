@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0219",
+  "policy_number": "HO2000219",
+  "insured_name": "Jessica Wilson",
+  "carrier": "Progressive",
+  "date_of_loss": "09/10/2019",
+  "estimated_amount": "34363",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "449 Oak Blvd, Atlanta, GA 49880",
+  "loss_type": "water damage"
+}

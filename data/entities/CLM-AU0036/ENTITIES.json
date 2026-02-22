@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0036",
+  "policy_number": "AU1000036",
+  "insured_name": "Karen Garcia",
+  "carrier": "Nationwide",
+  "date_of_loss": "08/20/2019",
+  "estimated_amount": "50296",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2017 Audi A4",
+  "vin": "YET3CF8ZX61PLP09F",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

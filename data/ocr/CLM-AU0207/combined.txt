@@ -1,0 +1,141 @@
+
+===== FILE: ACORD25_CLM-AU0207.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/07/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services William Hernandez
+4025 Stockard Drive, Suite 876 7810 Main Blvd
+Frisco, TX 75034 Chicago, IL 63843
+Phone: 846-825-8303 Phone: 706-985-2842
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000207
+Effective Date: 08/04/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000207 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0207
+Date of Loss: 08/04/2019
+Estimated Amount: $45,467
+Vehicle: 2017 Honda Accord, VIN: MA0US2AJL10VBUV67
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0207.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0207.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+1030 Washington Dr
+Chicago, IL 63843
+Phone: 870-375-8953 | Fax: 737-640-9341
+Date: 08/07/2019
+Nationwide
+Claims Department
+P.O. Box 12345
+Phoenix, TX 74974
+RE: Demand for Settlement - William Hernandez
+Claim Number: CLM-AU0207
+Date of Loss: 08/04/2019
+Your Insured: William Hernandez
+Dear Claims Adjuster:
+This firm represents William Hernandez in connection with the above-referenced claim.
+On 08/04/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $19,888
+Lost Wages: $5,584
+Property Damage: $45,467
+Pain and Suffering: $56,139
+TOTAL DEMAND: $112,031
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Johnson & Associates
+Attorney for William Hernandez
+
+
+===== FILE: MEDICAL_CLM-AU0207.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/07/2019 Claim: CLM-AU0207
+PATIENT INFORMATION
+Name: William Hernandez DOB: 09/22/1953
+SSN: 136-58-7859 Phone: 706-985-2842
+Address: 7810 Main Blvd, Chicago, IL 63843
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 08/04/2019 Treating Physician: Dr. Miller
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 08/04/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Martinez, MD
+License: 140369
+Date: 08/07/2019
+
+
+===== FILE: POLICE_CLM-AU0207.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Chicago Police Department Report #: 2019232848
+INCIDENT INFORMATION
+Date/Time: 08/04/2019 at 14:07
+Location: 9361 Park Ln, Chicago, IL
+Type: Uninsured Motorist
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: William Hernandez
+License: IL19837483
+Vehicle: 2017 Honda Accord, VIN: MA0US2AJL10VBUV67
+Driver 2: Sarah Gonzalez
+Vehicle: 2015 Toyota Camry
+NARRATIVE
+On 08/04/2019, at approximately 13:16, officers responded to
+a uninsured motorist at the intersection of 4111 Park Dr. Upon arrival, officers observed
+when Driver 2 (Sarah Gonzalez) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 8215
+Date: 08/07/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0207.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Hernandez
+Claim: CLM-AU0207
+Total Estimated Repairs: $45,467
+Prepared for: Nationwide

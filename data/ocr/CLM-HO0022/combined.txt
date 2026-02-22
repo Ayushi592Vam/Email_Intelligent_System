@@ -1,0 +1,79 @@
+
+===== FILE: ACORD140_CLM-HO0022.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/12/2019
+INSURED INFORMATION
+Name: David Jackson
+Property Address: 6027 Maple Ln
+Houston, TX 24481
+Phone: 494-572-9134
+Email: david.jackson@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000022
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2010
+Square Footage: 2317 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0022
+Date of Loss: 10/10/2019
+Time of Loss: 3:00 PM
+Cause of Loss: Fire
+Estimated Damage: $40,892
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals significant water intrusion a
+ffecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0022.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0022.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0022.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/12/2019 Claim: CLM-HO0022
+PATIENT INFORMATION
+Name: David Jackson DOB: 11/18/1978
+SSN: 407-79-3344 Phone: 494-572-9134
+Address: 6027 Maple Ln, Houston, TX 24481
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 10/10/2019 Treating Physician: Dr. Miller
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 10/10/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Wilson, MD
+License: 552160
+Date: 10/12/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0022.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Jackson
+Claim: CLM-HO0022
+Total Estimated Repairs: $40,892
+Prepared for: Geico

@@ -1,0 +1,11 @@
+{
+  "claim_number": "CLM-HO0082",
+  "claim_type": "HOME",
+  "severity": "CRITICAL",
+  "severity_score": 80,
+  "signals_detected": [
+    "LEGAL_INVOLVEMENT",
+    "SEVERE_LOSS_AMOUNT",
+    "HOME_LOSS_THEFT"
+  ]
+}

@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/08/2019
+INSURED INFORMATION
+Name: Jessica Jackson
+Property Address: 103 Oak St
+Los Angeles, CA 35653
+Phone: 314-542-4467
+Email: jessica.jackson@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000019
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1995
+Square Footage: 3215 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0019
+Date of Loss: 11/05/2019
+Time of Loss: 7:15 AM
+Cause of Loss: Vandalism
+Estimated Damage: $66,488
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals moderate damage to inter
+ior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

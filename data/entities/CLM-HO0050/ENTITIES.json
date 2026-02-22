@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0050",
+  "policy_number": "HO2000050",
+  "insured_name": "Thomas Miller",
+  "carrier": "Nationwide",
+  "date_of_loss": "10/19/2019",
+  "estimated_amount": "15311",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "2423 Elm St, Dallas, TX 53197",
+  "loss_type": "theft"
+}

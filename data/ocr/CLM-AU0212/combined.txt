@@ -1,0 +1,75 @@
+
+===== FILE: ACORD25_CLM-AU0212.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/10/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services Robert Martin
+4025 Stockard Drive, Suite 876 9242 Cedar Ct
+Frisco, TX 75034 Phoenix, AZ 83320
+Phone: 856-468-3387 Phone: 345-532-3017
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000212
+Effective Date: 01/07/2020
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000212 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0212
+Date of Loss: 01/07/2020
+Estimated Amount: $65,613
+Vehicle: 2017 Toyota Camry, VIN: 38PVALN454JXHHMZ3
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0212.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0212.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/10/2020 Claim: CLM-AU0212
+PATIENT INFORMATION
+Name: Robert Martin DOB: 07/09/1978
+SSN: 257-34-6841 Phone: 345-532-3017
+Address: 9242 Cedar Ct, Phoenix, AZ 83320
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 01/07/2020 Treating Physician: Dr. Davis
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 01/07/2020.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Smith, MD
+License: 964617
+Date: 01/10/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0212.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Martin
+Claim: CLM-AU0212
+Total Estimated Repairs: $65,613
+Prepared for: State Farm

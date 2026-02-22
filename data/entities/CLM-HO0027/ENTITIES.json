@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0027",
+  "policy_number": "HO2000027",
+  "insured_name": "John Jones",
+  "carrier": "Farmers",
+  "date_of_loss": "08/26/2019",
+  "estimated_amount": "61036",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6547 Oak Blvd, New York, NY 86381",
+  "loss_type": "theft"
+}

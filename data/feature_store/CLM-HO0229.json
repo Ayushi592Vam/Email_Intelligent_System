@@ -1,0 +1,20 @@
+{
+  "claim_number": "CLM-HO0229",
+  "claim_type": "HOME",
+  "has_medical": false,
+  "has_police": false,
+  "has_legal": false,
+  "num_attachments": 4,
+  "num_photos": 1,
+  "severity": "MEDIUM",
+  "severity_score": 40,
+  "signals": [
+    "SEVERE_LOSS_AMOUNT",
+    "HOME_LOSS_NATURAL_DISASTER"
+  ],
+  "files_present": [
+    "ACORD",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

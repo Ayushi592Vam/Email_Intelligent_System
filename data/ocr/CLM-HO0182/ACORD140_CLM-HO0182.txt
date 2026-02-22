@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/07/2019
+INSURED INFORMATION
+Name: Karen Miller
+Property Address: 3070 Washington Blvd
+Atlanta, GA 66571
+Phone: 353-299-5479
+Email: karen.miller@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000182
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1997
+Square Footage: 1794 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0182
+Date of Loss: 12/06/2019
+Time of Loss: 8:15 PM
+Cause of Loss: Vandalism
+Estimated Damage: $75,042
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

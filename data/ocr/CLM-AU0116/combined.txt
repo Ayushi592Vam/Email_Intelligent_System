@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0116.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/06/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services Jessica Hernandez
+4025 Stockard Drive, Suite 876 637 Elm Ln
+Frisco, TX 75034 Houston, TX 52986
+Phone: 743-702-1484 Phone: 718-440-2826
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000116
+Effective Date: 01/04/2020
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000116 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0116
+Date of Loss: 01/04/2020
+Estimated Amount: $14,414
+Vehicle: 2018 Tesla Model 3, VIN: DRYU18YXU8A90V4V5
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0116.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0116.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Houston Police Department Report #: 2019881658
+INCIDENT INFORMATION
+Date/Time: 01/04/2020 at 07:19
+Location: 4189 Park St, Houston, TX
+Type: Uninsured Motorist
+Weather: Rainy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Jessica Hernandez
+License: TX54149275
+Vehicle: 2018 Tesla Model 3, VIN: DRYU18YXU8A90V4V5
+Driver 2: Joseph Davis
+Vehicle: 2018 Tesla Model 3
+NARRATIVE
+On 01/04/2020, at approximately 19:40, officers responded to
+a uninsured motorist at the intersection of 5261 Pine St. Upon arrival, officers observed
+when Driver 2 (Joseph Davis) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 8410
+Date: 01/06/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0116.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Hernandez
+Claim: CLM-AU0116
+Total Estimated Repairs: $14,414
+Prepared for: State Farm

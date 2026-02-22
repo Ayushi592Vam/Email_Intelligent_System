@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0055.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/20/2019
+INSURED INFORMATION
+Name: Karen Martinez
+Property Address: 7515 Oak Ct
+Chicago, IL 19448
+Phone: 234-389-2415
+Email: karen.martinez@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000055
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2003
+Square Footage: 1781 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0055
+Date of Loss: 07/15/2019
+Time of Loss: 4:00 AM
+Cause of Loss: Fire
+Estimated Damage: $24,352
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals moderate damage to interior a
+nd exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0055.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0055.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0055.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Karen Martinez
+Claim: CLM-HO0055
+Total Estimated Repairs: $24,352
+Prepared for: Geico

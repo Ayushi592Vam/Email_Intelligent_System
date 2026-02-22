@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/02/2019
+INSURED INFORMATION
+Name: Jennifer Martin
+Property Address: 3425 Washington Ln
+Dallas, TX 73547
+Phone: 346-473-2590
+Email: jennifer.martin@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000056
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2004
+Square Footage: 2268 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0056
+Date of Loss: 08/02/2019
+Time of Loss: 11:30 AM
+Cause of Loss: Water Damage
+Estimated Damage: $123,568
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals extensive fire damage
+to roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

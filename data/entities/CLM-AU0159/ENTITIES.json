@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0159",
+  "policy_number": "AU1000159",
+  "insured_name": "Joseph Hernandez",
+  "carrier": "Allstate",
+  "date_of_loss": "10/20/2019",
+  "estimated_amount": "14731",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Honda Accord",
+  "vin": "58JEFPU615S14Z5ZR",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

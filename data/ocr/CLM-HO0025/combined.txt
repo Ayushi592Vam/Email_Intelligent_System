@@ -1,0 +1,116 @@
+
+===== FILE: ACORD140_CLM-HO0025.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/21/2019
+INSURED INFORMATION
+Name: William Smith
+Property Address: 6341 Pine St
+Houston, TX 10931
+Phone: 927-218-4554
+Email: william.smith@example.com
+INSURANCE COMPANY
+Company: State Farm
+Policy Number: HO2000025
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1999
+Square Footage: 2535 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0025
+Date of Loss: 12/16/2019
+Time of Loss: 11:00 PM
+Cause of Loss: Theft
+Estimated Damage: $171,920
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals structural damage requiring
+immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0025.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0025.png =====
+
+
+
+===== FILE: LEGAL_CLM-HO0025.pdf =====
+--- PAGE 1 ---
+WILLIAMS LAW FIRM
+Attorneys at Law
+5298 Pine Ct
+Houston, TX 10931
+Phone: 817-385-6839 | Fax: 341-733-4330
+Date: 12/21/2019
+State Farm
+Claims Department
+P.O. Box 12345
+Dallas, AZ 73949
+RE: Demand for Settlement - William Smith
+Claim Number: CLM-HO0025
+Date of Loss: 12/16/2019
+Your Insured: William Smith
+Dear Claims Adjuster:
+This firm represents William Smith in connection with the above-referenced claim.
+On 12/16/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $11,512
+Lost Wages: $13,269
+Property Damage: $171,920
+Pain and Suffering: $57,017
+TOTAL DEMAND: $208,378
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Williams Law Firm
+Attorney for William Smith
+
+
+===== FILE: MEDICAL_CLM-HO0025.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/21/2019 Claim: CLM-HO0025
+PATIENT INFORMATION
+Name: William Smith DOB: 06/14/1975
+SSN: 966-64-8357 Phone: 927-218-4554
+Address: 6341 Pine St, Houston, TX 10931
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 12/16/2019 Treating Physician: Dr. Miller
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 12/16/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Moore, MD
+License: 301291
+Date: 12/21/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0025.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Smith
+Claim: CLM-HO0025
+Total Estimated Repairs: $171,920
+Prepared for: State Farm

@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/15/2019 Claim: CLM-AU0152
+PATIENT INFORMATION
+Name: William Davis DOB: 05/18/1963
+SSN: 537-10-9877 Phone: 663-668-9718
+Address: 2955 Cedar Ct, Los Angeles, CA 96691
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 12/10/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 12/10/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Gonzalez, MD
+License: 327861
+Date: 12/15/2019

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0242
+Policy Number: AU1000242
+Insured: John Wilson
+Carrier: Liberty Mutual
+Date of Loss: 11/10/2019
+Estimated Amount: $35,190
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2015 Honda Accord | VIN: FE1JMSMN7RV5PT695
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

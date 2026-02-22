@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0156",
+  "policy_number": "HO2000156",
+  "insured_name": "Joseph Lopez",
+  "carrier": "Farmers",
+  "date_of_loss": "11/18/2019",
+  "estimated_amount": "21827",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7593 Main Dr, Miami, FL 19961",
+  "loss_type": "theft"
+}

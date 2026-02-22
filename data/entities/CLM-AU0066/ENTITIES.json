@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0066",
+  "policy_number": "AU1000066",
+  "insured_name": "Thomas Hernandez",
+  "carrier": "Travelers",
+  "date_of_loss": "08/18/2019",
+  "estimated_amount": "10793",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2019 BMW 3",
+  "vin": "XJE4GT22R130HY8ZE",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

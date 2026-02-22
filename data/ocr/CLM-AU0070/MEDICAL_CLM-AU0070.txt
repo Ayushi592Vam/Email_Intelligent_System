@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/03/2020 Claim: CLM-AU0070
+PATIENT INFORMATION
+Name: Christopher Jones DOB: 11/25/1976
+SSN: 922-24-1273 Phone: 386-587-6428
+Address: 8214 Oak St, Los Angeles, CA 25742
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 01/02/2020 Treating Physician: Dr. Hernandez
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 01/02/2020.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Wilson, MD
+License: 609270
+Date: 01/03/2020

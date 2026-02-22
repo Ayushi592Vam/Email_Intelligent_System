@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/08/2020 Claim: CLM-HO0189
+PATIENT INFORMATION
+Name: Patricia Williams DOB: 02/24/1951
+SSN: 623-38-7562 Phone: 332-507-5289
+Address: 2842 Oak Ct, Dallas, TX 67529
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 01/07/2020 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 01/07/2020.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Taylor, MD
+License: 977533
+Date: 01/08/2020

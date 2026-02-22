@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0145",
+  "policy_number": "AU1000145",
+  "insured_name": "Robert Martin",
+  "carrier": "Allstate",
+  "date_of_loss": "01/07/2020",
+  "estimated_amount": "3359",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2017 Audi A4",
+  "vin": "RFU3EZNZ7TFBP9SFT",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

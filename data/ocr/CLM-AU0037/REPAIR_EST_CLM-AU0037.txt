@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jennifer Brown
+Claim: CLM-AU0037
+Total Estimated Repairs: $23,507
+Prepared for: Geico

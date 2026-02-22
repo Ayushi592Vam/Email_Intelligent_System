@@ -1,0 +1,10 @@
+{
+  "claim_number": "CLM-HO0168",
+  "claim_type": "HOME",
+  "severity": "MEDIUM",
+  "severity_score": 40,
+  "signals_detected": [
+    "LEGAL_INVOLVEMENT",
+    "HOME_LOSS_THEFT"
+  ]
+}

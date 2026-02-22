@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Martinez
+Claim: CLM-HO0102
+Total Estimated Repairs: $21,002
+Prepared for: State Farm

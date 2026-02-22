@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/01/2019 Claim: CLM-AU0128
+PATIENT INFORMATION
+Name: Patricia Williams DOB: 08/17/1987
+SSN: 527-90-8133 Phone: 942-889-4976
+Address: 1104 Maple St, Miami, FL 31018
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 12/01/2019 Treating Physician: Dr. Williams
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 12/01/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Anderson, MD
+License: 835763
+Date: 12/01/2019

@@ -1,0 +1,104 @@
+
+===== FILE: ACORD25_CLM-AU0246.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/30/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services David Hernandez
+4025 Stockard Drive, Suite 876 8734 Pine Dr
+Frisco, TX 75034 Dallas, TX 52709
+Phone: 852-320-6567 Phone: 534-326-5375
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000246
+Effective Date: 10/25/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000246 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0246
+Date of Loss: 10/25/2019
+Estimated Amount: $18,699
+Vehicle: 2020 Honda Accord, VIN: WLV2JU4HWMHCC50RM
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0246.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0246.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/30/2019 Claim: CLM-AU0246
+PATIENT INFORMATION
+Name: David Hernandez DOB: 04/20/1956
+SSN: 390-44-6369 Phone: 534-326-5375
+Address: 8734 Pine Dr, Dallas, TX 52709
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 10/25/2019 Treating Physician: Dr. Miller
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 10/25/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Lopez, MD
+License: 356307
+Date: 10/30/2019
+
+
+===== FILE: POLICE_CLM-AU0246.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019024846
+INCIDENT INFORMATION
+Date/Time: 10/25/2019 at 13:56
+Location: 4963 Oak Ln, Dallas, TX
+Type: Uninsured Motorist
+Weather: Foggy, Road: Icy
+PARTIES INVOLVED
+Driver 1: David Hernandez
+License: TX93211400
+Vehicle: 2020 Honda Accord, VIN: WLV2JU4HWMHCC50RM
+Driver 2: Joseph Williams
+Vehicle: 2019 BMW 3 Series
+NARRATIVE
+On 10/25/2019, at approximately 15:09, officers responded to
+a uninsured motorist at the intersection of 290 Maple St. Upon arrival, officers observed
+when Driver 2 (Joseph Williams) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 8961
+Date: 10/30/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0246.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Hernandez
+Claim: CLM-AU0246
+Total Estimated Repairs: $18,699
+Prepared for: Allstate

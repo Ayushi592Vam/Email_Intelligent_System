@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0008",
+  "policy_number": "AU1000008",
+  "insured_name": "Elizabeth Anderson",
+  "carrier": "Geico",
+  "date_of_loss": "11/28/2019",
+  "estimated_amount": "52079",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Audi A4",
+  "vin": "GZZYLSLFFTC9D3VDP",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

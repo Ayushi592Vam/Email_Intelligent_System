@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0140",
+  "policy_number": "HO2000140",
+  "insured_name": "James Garcia",
+  "carrier": "Allstate",
+  "date_of_loss": "08/11/2019",
+  "estimated_amount": "33906",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8898 Cedar Ln, Houston, TX 19727",
+  "loss_type": "natural disaster"
+}

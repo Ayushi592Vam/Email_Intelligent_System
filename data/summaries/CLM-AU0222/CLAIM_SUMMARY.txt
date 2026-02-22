@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0222
+Policy Number: AU1000222
+Insured: Jessica Gonzalez
+Carrier: Farmers
+Date of Loss: 09/08/2019
+Estimated Amount: $24,847
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: Yes
+
+Vehicle: 2018 Ford F | VIN: AEFSG1FTA8XB5994N
+
+Severity: HIGH (60)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

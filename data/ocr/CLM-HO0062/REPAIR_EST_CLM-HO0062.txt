@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Smith
+Claim: CLM-HO0062
+Total Estimated Repairs: $5,194
+Prepared for: Liberty Mutual

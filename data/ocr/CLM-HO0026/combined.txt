@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0026.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/06/2019
+INSURED INFORMATION
+Name: Susan Jackson
+Property Address: 2932 Elm Dr
+New York, NY 25841
+Phone: 497-873-2797
+Email: susan.jackson@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000026
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1982
+Square Footage: 2441 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0026
+Date of Loss: 10/02/2019
+Time of Loss: 3:30 PM
+Cause of Loss: Liability
+Estimated Damage: $19,372
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0026.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0026.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0026.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Jackson
+Claim: CLM-HO0026
+Total Estimated Repairs: $19,372
+Prepared for: Progressive

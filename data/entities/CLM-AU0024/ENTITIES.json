@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0024",
+  "policy_number": "AU1000024",
+  "insured_name": "Thomas Garcia",
+  "carrier": "Travelers",
+  "date_of_loss": "08/16/2019",
+  "estimated_amount": "21943",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2015 Honda Accord",
+  "vin": "NU5NBSA79HY313YEL",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

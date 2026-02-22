@@ -1,0 +1,115 @@
+
+===== FILE: ACORD25_CLM-AU0115.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/07/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Jennifer Smith
+4025 Stockard Drive, Suite 876 8935 Cedar Dr
+Frisco, TX 75034 Atlanta, GA 58366
+Phone: 335-951-1584 Phone: 646-527-4939
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000115
+Effective Date: 08/03/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000115 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0115
+Date of Loss: 08/03/2019
+Estimated Amount: $33,553
+Vehicle: 2016 Chevrolet Silverado, VIN: 7RK3TNRH5GNGBM733
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0115.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0115.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0115.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+2531 Washington St
+Atlanta, GA 58366
+Phone: 633-785-2106 | Fax: 453-538-3012
+Date: 08/07/2019
+State Farm
+Claims Department
+P.O. Box 12345
+Houston, AZ 71383
+RE: Demand for Settlement - Jennifer Smith
+Claim Number: CLM-AU0115
+Date of Loss: 08/03/2019
+Your Insured: Jennifer Smith
+Dear Claims Adjuster:
+This firm represents Jennifer Smith in connection with the above-referenced claim.
+On 08/03/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $22,022
+Lost Wages: $10,600
+Property Damage: $33,553
+Pain and Suffering: $57,767
+TOTAL DEMAND: $74,282
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Johnson & Associates
+Attorney for Jennifer Smith
+
+
+===== FILE: POLICE_CLM-AU0115.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Atlanta Police Department Report #: 2019036495
+INCIDENT INFORMATION
+Date/Time: 08/03/2019 at 18:27
+Location: 7568 Oak St, Atlanta, GA
+Type: Uninsured Motorist
+Weather: Rainy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Jennifer Smith
+License: GA70351434
+Vehicle: 2016 Chevrolet Silverado, VIN: 7RK3TNRH5GNGBM733
+Driver 2: Mary Brown
+Vehicle: 2013 Ford F-150
+NARRATIVE
+On 08/03/2019, at approximately 11:53, officers responded to
+a uninsured motorist at the intersection of 3872 Main Ave. Upon arrival, officers observed
+when Driver 2 (Mary Brown) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 1029
+Date: 08/07/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0115.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jennifer Smith
+Claim: CLM-AU0115
+Total Estimated Repairs: $33,553
+Prepared for: State Farm

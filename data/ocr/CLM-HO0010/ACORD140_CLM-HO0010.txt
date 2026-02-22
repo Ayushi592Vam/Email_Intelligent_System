@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/06/2019
+INSURED INFORMATION
+Name: John Johnson
+Property Address: 8031 Maple St
+Dallas, TX 44646
+Phone: 415-824-9410
+Email: john.johnson@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000010
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2009
+Square Footage: 2674 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0010
+Date of Loss: 08/01/2019
+Time of Loss: 7:30 PM
+Cause of Loss: Theft
+Estimated Damage: $9,785
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals significant water intrusion
+affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

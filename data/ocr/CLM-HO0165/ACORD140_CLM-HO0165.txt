@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/03/2019
+INSURED INFORMATION
+Name: Michael Brown
+Property Address: 7124 Washington Blvd
+Dallas, TX 18423
+Phone: 399-769-4431
+Email: michael.brown@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000165
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1996
+Square Footage: 3337 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0165
+Date of Loss: 11/28/2019
+Time of Loss: 12:30 AM
+Cause of Loss: Natural Disaster
+Estimated Damage: $22,891
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals structural damage
+requiring immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

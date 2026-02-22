@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0012",
+  "policy_number": "HO2000012",
+  "insured_name": "Jennifer Hernandez",
+  "carrier": "Travelers",
+  "date_of_loss": "09/13/2019",
+  "estimated_amount": "24911",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8244 Cedar Ct, Los Angeles, CA 97332",
+  "loss_type": "fire"
+}

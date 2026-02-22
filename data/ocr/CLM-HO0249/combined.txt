@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0249.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/25/2019
+INSURED INFORMATION
+Name: Susan Martin
+Property Address: 1654 Main Ln
+Dallas, TX 62129
+Phone: 940-613-8287
+Email: susan.martin@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000249
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1995
+Square Footage: 1861 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0249
+Date of Loss: 11/24/2019
+Time of Loss: 4:15 AM
+Cause of Loss: Water Damage
+Estimated Damage: $108,495
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals structural damage req
+uiring immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0249.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0249.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Martin
+Claim: CLM-HO0249
+Total Estimated Repairs: $108,495
+Prepared for: Geico

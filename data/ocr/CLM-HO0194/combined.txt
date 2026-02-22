@@ -1,0 +1,79 @@
+
+===== FILE: ACORD140_CLM-HO0194.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/18/2019
+INSURED INFORMATION
+Name: William Brown
+Property Address: 7791 Pine Blvd
+Atlanta, GA 87233
+Phone: 515-236-9497
+Email: william.brown@example.com
+INSURANCE COMPANY
+Company: State Farm
+Policy Number: HO2000194
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1971
+Square Footage: 2302 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0194
+Date of Loss: 12/16/2019
+Time of Loss: 1:45 PM
+Cause of Loss: Theft
+Estimated Damage: $44,973
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0194.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0194.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0194.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/18/2019 Claim: CLM-HO0194
+PATIENT INFORMATION
+Name: William Brown DOB: 09/09/1982
+SSN: 352-71-8275 Phone: 515-236-9497
+Address: 7791 Pine Blvd, Atlanta, GA 87233
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 12/16/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 12/16/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Martinez, MD
+License: 693833
+Date: 12/18/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0194.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Brown
+Claim: CLM-HO0194
+Total Estimated Repairs: $44,973
+Prepared for: State Farm

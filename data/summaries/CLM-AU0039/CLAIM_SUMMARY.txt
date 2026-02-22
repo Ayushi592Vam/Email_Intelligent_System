@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0039
+Policy Number: AU1000039
+Insured: Susan Miller
+Carrier: Allstate
+Date of Loss: 10/01/2019
+Estimated Amount: $56,367
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2020 BMW 3 | VIN: WTKE1ETD6FBDGG8SJ
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

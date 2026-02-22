@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0004",
+  "policy_number": "HO2000004",
+  "insured_name": "Joseph Taylor",
+  "carrier": "Nationwide",
+  "date_of_loss": "11/20/2019",
+  "estimated_amount": "64822",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "2698 Oak St, Houston, TX 82002",
+  "loss_type": "liability"
+}

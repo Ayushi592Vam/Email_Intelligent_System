@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0027
+Policy Number: AU1000027
+Insured: Sarah Martin
+Carrier: Travelers
+Date of Loss: 09/14/2019
+Estimated Amount: $12,572
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2016 BMW 3 | VIN: MZSX5RKUVU5968A2H
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

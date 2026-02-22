@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Moore
+Claim: CLM-HO0217
+Total Estimated Repairs: $18,309
+Prepared for: Progressive

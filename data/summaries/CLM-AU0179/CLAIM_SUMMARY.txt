@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0179
+Policy Number: AU1000179
+Insured: Susan Wilson
+Carrier: Geico
+Date of Loss: 07/15/2019
+Estimated Amount: $16,314
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: Yes
+
+Vehicle: 2019 Tesla Model | VIN: Y2HEUS3YXM51L5ABV
+
+Severity: HIGH (60)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

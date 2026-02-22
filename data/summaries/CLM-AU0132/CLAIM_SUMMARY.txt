@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0132
+Policy Number: AU1000132
+Insured: Richard Taylor
+Carrier: Nationwide
+Date of Loss: 07/23/2019
+Estimated Amount: $51,345
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2016 Toyota Camry | VIN: NK946JPJXBEZ6YZ7V
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

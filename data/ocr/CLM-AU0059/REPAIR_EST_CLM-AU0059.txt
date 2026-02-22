@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Johnson
+Claim: CLM-AU0059
+Total Estimated Repairs: $7,695
+Prepared for: Allstate

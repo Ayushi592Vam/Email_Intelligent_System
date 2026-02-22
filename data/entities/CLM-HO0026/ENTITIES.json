@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0026",
+  "policy_number": "HO2000026",
+  "insured_name": "Susan Jackson",
+  "carrier": "Progressive",
+  "date_of_loss": "10/02/2019",
+  "estimated_amount": "19372",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "2932 Elm Dr, New York, NY 25841",
+  "loss_type": "liability"
+}

@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/12/2019 Claim: CLM-HO0239
+PATIENT INFORMATION
+Name: Jennifer Davis DOB: 11/12/1963
+SSN: 248-67-7594 Phone: 968-473-6852
+Address: 7587 Elm Ave, Dallas, TX 72509
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 12/09/2019 Treating Physician: Dr. Rodriguez
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 12/09/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Taylor, MD
+License: 891396
+Date: 12/12/2019

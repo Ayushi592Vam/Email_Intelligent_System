@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0175",
+  "policy_number": "HO2000175",
+  "insured_name": "Karen Hernandez",
+  "carrier": "Progressive",
+  "date_of_loss": "08/22/2019",
+  "estimated_amount": "127479",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9732 Oak Ave, Los Angeles, CA 58862",
+  "loss_type": "fire"
+}

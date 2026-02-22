@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0083",
+  "policy_number": "AU1000083",
+  "insured_name": "Michael Anderson",
+  "carrier": "Farmers",
+  "date_of_loss": "08/23/2019",
+  "estimated_amount": "11825",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2020 Toyota Camry",
+  "vin": "A9JE0WHESPDZBAKZU",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

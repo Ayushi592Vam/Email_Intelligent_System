@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0190",
+  "policy_number": "AU1000190",
+  "insured_name": "John Taylor",
+  "carrier": "Nationwide",
+  "date_of_loss": "09/07/2019",
+  "estimated_amount": "6118",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 BMW 3",
+  "vin": "4ASLH7FNWT1CU68M1",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

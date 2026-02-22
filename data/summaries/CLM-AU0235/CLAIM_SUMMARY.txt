@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0235
+Policy Number: AU1000235
+Insured: John Gonzalez
+Carrier: Nationwide
+Date of Loss: 01/06/2020
+Estimated Amount: $18,609
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2017 Tesla Model | VIN: RG406VAA2D6RVWY2X
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

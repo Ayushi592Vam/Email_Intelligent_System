@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0093",
+  "policy_number": "HO2000093",
+  "insured_name": "Thomas Jones",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "12/30/2019",
+  "estimated_amount": "18484",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1272 Main St, New York, NY 64815",
+  "loss_type": "liability"
+}

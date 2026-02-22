@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0227
+Policy Number: AU1000227
+Insured: Patricia Gonzalez
+Carrier: Allstate
+Date of Loss: 07/30/2019
+Estimated Amount: $10,561
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2015 Chevrolet Silverado | VIN: 5LT8U0Z76E06SKYVF
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0229",
+  "policy_number": "HO2000229",
+  "insured_name": "Thomas Wilson",
+  "carrier": "Geico",
+  "date_of_loss": "11/17/2019",
+  "estimated_amount": "58948",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3515 Maple Dr, Chicago, IL 21834",
+  "loss_type": "natural disaster"
+}

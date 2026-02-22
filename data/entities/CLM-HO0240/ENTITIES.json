@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0240",
+  "policy_number": "HO2000240",
+  "insured_name": "Susan Miller",
+  "carrier": "Allstate",
+  "date_of_loss": "08/15/2019",
+  "estimated_amount": "75297",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4315 Washington Blvd, Chicago, IL 10739",
+  "loss_type": "liability"
+}

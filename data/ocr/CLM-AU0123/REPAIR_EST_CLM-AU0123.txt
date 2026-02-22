@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jennifer Jones
+Claim: CLM-AU0123
+Total Estimated Repairs: $17,146
+Prepared for: Liberty Mutual

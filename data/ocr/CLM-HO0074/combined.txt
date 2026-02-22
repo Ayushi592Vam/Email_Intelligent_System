@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0074.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/20/2019
+INSURED INFORMATION
+Name: Mary Martin
+Property Address: 6009 Oak Ct
+Dallas, TX 88304
+Phone: 729-209-9504
+Email: mary.martin@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000074
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2015
+Square Footage: 1723 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0074
+Date of Loss: 10/15/2019
+Time of Loss: 9:00 AM
+Cause of Loss: Liability
+Estimated Damage: $115,022
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0074.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0074.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Martin
+Claim: CLM-HO0074
+Total Estimated Repairs: $115,022
+Prepared for: Travelers

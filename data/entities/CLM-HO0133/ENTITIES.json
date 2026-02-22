@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0133",
+  "policy_number": "HO2000133",
+  "insured_name": "Susan Jones",
+  "carrier": "Farmers",
+  "date_of_loss": "11/01/2019",
+  "estimated_amount": "35000",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4859 Cedar Blvd, Atlanta, GA 20808",
+  "loss_type": "natural disaster"
+}

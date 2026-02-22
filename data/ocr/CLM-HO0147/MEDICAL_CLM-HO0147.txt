@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/09/2019 Claim: CLM-HO0147
+PATIENT INFORMATION
+Name: Sarah Rodriguez DOB: 06/25/1980
+SSN: 134-48-2561 Phone: 386-706-7636
+Address: 7631 Cedar Ct, Chicago, IL 94822
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 08/04/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 08/04/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Wilson, MD
+License: 882286
+Date: 08/09/2019

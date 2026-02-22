@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0096
+Policy Number: AU1000096
+Insured: Mary Rodriguez
+Carrier: Liberty Mutual
+Date of Loss: 08/24/2019
+Estimated Amount: $35,304
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2017 Honda Accord | VIN: 025A2M2UNXLU68S01
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

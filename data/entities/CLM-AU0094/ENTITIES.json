@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0094",
+  "policy_number": "AU1000094",
+  "insured_name": "Karen Wilson",
+  "carrier": "Geico",
+  "date_of_loss": "11/30/2019",
+  "estimated_amount": "24262",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 Toyota Camry",
+  "vin": "D96R1A6T51YEHHSKE",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

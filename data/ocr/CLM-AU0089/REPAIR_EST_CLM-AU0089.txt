@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Brown
+Claim: CLM-AU0089
+Total Estimated Repairs: $45,791
+Prepared for: Progressive

@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/05/2019 Claim: CLM-AU0192
+PATIENT INFORMATION
+Name: Thomas Smith DOB: 12/25/1976
+SSN: 744-87-9512 Phone: 351-835-6755
+Address: 780 Main Ct, Atlanta, GA 12625
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 09/02/2019 Treating Physician: Dr. Taylor
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 09/02/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Johnson, MD
+License: 234821
+Date: 09/05/2019

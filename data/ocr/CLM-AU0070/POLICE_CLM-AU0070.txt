@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Los Angeles Police Department Report #: 2019136803
+INCIDENT INFORMATION
+Date/Time: 01/02/2020 at 11:53
+Location: 7753 Oak Ave, Los Angeles, CA
+Type: Collision
+Weather: Rainy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Christopher Jones
+License: CA40354811
+Vehicle: 2018 BMW 3 Series, VIN: JM231NPWBK0MFFUFB
+Driver 2: Jessica Williams
+Vehicle: 2011 Ford F-150
+NARRATIVE
+On 01/02/2020, at approximately 17:31, officers responded to
+a collision at the intersection of 264 Elm St. Upon arrival, officers observed
+when Driver 2 (Jessica Williams) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 7488
+Date: 01/03/2020

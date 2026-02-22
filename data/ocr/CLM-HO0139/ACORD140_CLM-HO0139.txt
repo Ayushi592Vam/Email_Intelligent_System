@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/11/2019
+INSURED INFORMATION
+Name: Michael Gonzalez
+Property Address: 1709 Washington Ln
+New York, NY 40423
+Phone: 825-661-1330
+Email: michael.gonzalez@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000139
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1989
+Square Footage: 2153 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0139
+Date of Loss: 10/08/2019
+Time of Loss: 7:15 PM
+Cause of Loss: Theft
+Estimated Damage: $42,714
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals extensive fire damage to roo
+f and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

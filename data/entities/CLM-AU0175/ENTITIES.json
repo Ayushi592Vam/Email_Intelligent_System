@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0175",
+  "policy_number": "AU1000175",
+  "insured_name": "Christopher Jackson",
+  "carrier": "Nationwide",
+  "date_of_loss": "10/16/2019",
+  "estimated_amount": "56713",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2017 Honda Accord",
+  "vin": "F3LTN5AL6X368989H",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

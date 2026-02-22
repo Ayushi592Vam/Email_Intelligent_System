@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0195",
+  "policy_number": "HO2000195",
+  "insured_name": "Mary Jackson",
+  "carrier": "Progressive",
+  "date_of_loss": "07/19/2019",
+  "estimated_amount": "92725",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "5396 Maple Ln, Dallas, TX 19630",
+  "loss_type": "theft"
+}

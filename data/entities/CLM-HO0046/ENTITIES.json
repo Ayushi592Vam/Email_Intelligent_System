@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0046",
+  "policy_number": "HO2000046",
+  "insured_name": "Elizabeth Brown",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "10/24/2019",
+  "estimated_amount": "10326",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9338 Elm Dr, Houston, TX 43776",
+  "loss_type": "fire"
+}

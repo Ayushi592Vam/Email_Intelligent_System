@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0010",
+  "policy_number": "AU1000010",
+  "insured_name": "Patricia Brown",
+  "carrier": "Farmers",
+  "date_of_loss": "09/20/2019",
+  "estimated_amount": "57727",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Honda Accord",
+  "vin": "0EK0359LJRX7VXWFB",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

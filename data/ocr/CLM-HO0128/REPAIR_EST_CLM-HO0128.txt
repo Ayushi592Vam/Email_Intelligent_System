@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Smith
+Claim: CLM-HO0128
+Total Estimated Repairs: $14,181
+Prepared for: Nationwide

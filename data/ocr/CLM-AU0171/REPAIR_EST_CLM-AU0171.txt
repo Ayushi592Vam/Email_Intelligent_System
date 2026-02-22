@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Johnson
+Claim: CLM-AU0171
+Total Estimated Repairs: $43,223
+Prepared for: Travelers

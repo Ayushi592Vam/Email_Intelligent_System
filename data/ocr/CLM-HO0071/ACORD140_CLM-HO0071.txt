@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/24/2019
+INSURED INFORMATION
+Name: Sarah Wilson
+Property Address: 5233 Washington St
+Houston, TX 18203
+Phone: 282-448-7561
+Email: sarah.wilson@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000071
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2013
+Square Footage: 3027 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0071
+Date of Loss: 09/19/2019
+Time of Loss: 7:45 PM
+Cause of Loss: Water Damage
+Estimated Damage: $72,759
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals moderate damage to in
+terior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

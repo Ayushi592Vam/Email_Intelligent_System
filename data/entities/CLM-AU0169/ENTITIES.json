@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0169",
+  "policy_number": "AU1000169",
+  "insured_name": "Patricia Lopez",
+  "carrier": "State Farm",
+  "date_of_loss": "08/20/2019",
+  "estimated_amount": "13851",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 Chevrolet Silverado",
+  "vin": "M4JDJZGKDAK23RGBW",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

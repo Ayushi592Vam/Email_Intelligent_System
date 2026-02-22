@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0127.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/03/2019
+INSURED INFORMATION
+Name: James Martin
+Property Address: 6048 Washington Dr
+Los Angeles, CA 12035
+Phone: 219-393-7518
+Email: james.martin@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000127
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1974
+Square Footage: 1992 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0127
+Date of Loss: 10/02/2019
+Time of Loss: 12:15 AM
+Cause of Loss: Natural Disaster
+Estimated Damage: $110,357
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals significant water
+intrusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0127.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0127.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0127.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Martin
+Claim: CLM-HO0127
+Total Estimated Repairs: $110,357
+Prepared for: Nationwide

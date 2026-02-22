@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0194",
+  "policy_number": "AU1000194",
+  "insured_name": "Linda Gonzalez",
+  "carrier": "Nationwide",
+  "date_of_loss": "10/20/2019",
+  "estimated_amount": "12753",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2016 Honda Accord",
+  "vin": "BZEGTLN41U57EW1F2",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

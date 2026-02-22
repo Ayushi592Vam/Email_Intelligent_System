@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0154.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/29/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Christopher Jackson
+4025 Stockard Drive, Suite 876 2171 Main Ln
+Frisco, TX 75034 Houston, TX 57786
+Phone: 409-546-8245 Phone: 559-257-3662
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000154
+Effective Date: 09/24/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000154 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0154
+Date of Loss: 09/24/2019
+Estimated Amount: $50,541
+Vehicle: 2016 BMW 3 Series, VIN: A6LK471ETYYRPVJ57
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0154.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0154.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0154.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/29/2019 Claim: CLM-AU0154
+PATIENT INFORMATION
+Name: Christopher Jackson DOB: 10/24/1956
+SSN: 454-90-6421 Phone: 559-257-3662
+Address: 2171 Main Ln, Houston, TX 57786
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 09/24/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 09/24/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Jackson, MD
+License: 238680
+Date: 09/29/2019
+
+
+===== FILE: POLICE_CLM-AU0154.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Houston Police Department Report #: 2019623781
+INCIDENT INFORMATION
+Date/Time: 09/24/2019 at 10:38
+Location: 9761 Park St, Houston, TX
+Type: Comprehensive
+Weather: Clear, Road: Wet
+PARTIES INVOLVED
+Driver 1: Christopher Jackson
+License: TX88887247
+Vehicle: 2016 BMW 3 Series, VIN: A6LK471ETYYRPVJ57
+Driver 2: Patricia Miller
+Vehicle: 2011 Toyota Camry
+NARRATIVE
+On 09/24/2019, at approximately 15:22, officers responded to
+a comprehensive at the intersection of 8170 Maple Ct. Upon arrival, officers observed
+when Driver 2 (Patricia Miller) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 1519
+Date: 09/29/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0154.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Christopher Jackson
+Claim: CLM-AU0154
+Total Estimated Repairs: $50,541
+Prepared for: Nationwide

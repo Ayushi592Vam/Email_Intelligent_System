@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0045",
+  "policy_number": "AU1000045",
+  "insured_name": "Robert Jackson",
+  "carrier": "Geico",
+  "date_of_loss": "10/09/2019",
+  "estimated_amount": "53624",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2020 Audi A4",
+  "vin": "KEJGD83C744D59FK0",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

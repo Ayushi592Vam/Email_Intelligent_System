@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Martinez
+Claim: CLM-HO0237
+Total Estimated Repairs: $8,978
+Prepared for: Liberty Mutual

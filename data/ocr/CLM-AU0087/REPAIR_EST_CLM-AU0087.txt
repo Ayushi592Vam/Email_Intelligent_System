@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Linda Smith
+Claim: CLM-AU0087
+Total Estimated Repairs: $7,197
+Prepared for: State Farm

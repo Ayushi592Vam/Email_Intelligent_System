@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0057.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/04/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Sarah Garcia
+4025 Stockard Drive, Suite 876 2449 Oak Ave
+Frisco, TX 75034 Houston, TX 18520
+Phone: 644-505-5036 Phone: 243-797-6962
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Geico
+Policy Number: AU1000057
+Effective Date: 11/29/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000057 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0057
+Date of Loss: 11/29/2019
+Estimated Amount: $10,126
+Vehicle: 2019 Toyota Camry, VIN: XE48DDXMREC2US8UT
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0057.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0057.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0057.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Houston Police Department Report #: 2019134706
+INCIDENT INFORMATION
+Date/Time: 11/29/2019 at 08:04
+Location: 5904 Cedar St, Houston, TX
+Type: Uninsured Motorist
+Weather: Foggy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Sarah Garcia
+License: TX66602355
+Vehicle: 2019 Toyota Camry, VIN: XE48DDXMREC2US8UT
+Driver 2: John Lopez
+Vehicle: 2018 Audi A4
+NARRATIVE
+On 11/29/2019, at approximately 14:42, officers responded to
+a uninsured motorist at the intersection of 4997 Washington Ave. Upon arrival, officers observe
+when Driver 2 (John Lopez) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 1754
+Date: 12/04/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0057.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Garcia
+Claim: CLM-AU0057
+Total Estimated Repairs: $10,126
+Prepared for: Geico

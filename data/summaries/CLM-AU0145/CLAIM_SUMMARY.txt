@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0145
+Policy Number: AU1000145
+Insured: Robert Martin
+Carrier: Allstate
+Date of Loss: 01/07/2020
+Estimated Amount: $3,359
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2017 Audi A4 | VIN: RFU3EZNZ7TFBP9SFT
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

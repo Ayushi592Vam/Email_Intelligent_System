@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0197
+Policy Number: AU1000197
+Insured: William Miller
+Carrier: Nationwide
+Date of Loss: 09/22/2019
+Estimated Amount: $14,834
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2017 Tesla Model | VIN: 5VGP6LAWR37BSVH4H
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

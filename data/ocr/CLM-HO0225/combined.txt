@@ -1,0 +1,82 @@
+
+===== FILE: ACORD140_CLM-HO0225.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/01/2019
+INSURED INFORMATION
+Name: Sarah Taylor
+Property Address: 8372 Park Ln
+Dallas, TX 28391
+Phone: 587-669-5181
+Email: sarah.taylor@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000225
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2000
+Square Footage: 2468 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0225
+Date of Loss: 11/28/2019
+Time of Loss: 12:00 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $24,706
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals moderate damage t
+o interior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0225.png =====
+
+
+
+===== FILE: LEGAL_CLM-HO0225.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+5726 Oak Ln
+Dallas, TX 28391
+Phone: 716-649-2695 | Fax: 508-805-1276
+Date: 12/01/2019
+Allstate
+Claims Department
+P.O. Box 12345
+Houston, TX 73837
+RE: Demand for Settlement - Sarah Taylor
+Claim Number: CLM-HO0225
+Date of Loss: 11/28/2019
+Your Insured: Sarah Taylor
+Dear Claims Adjuster:
+This firm represents Sarah Taylor in connection with the above-referenced claim.
+On 11/28/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $12,642
+Lost Wages: $8,977
+Property Damage: $24,706
+Pain and Suffering: $47,792
+TOTAL DEMAND: $60,360
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Johnson & Associates
+Attorney for Sarah Taylor
+
+
+===== FILE: REPAIR_EST_CLM-HO0225.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Taylor
+Claim: CLM-HO0225
+Total Estimated Repairs: $24,706
+Prepared for: Allstate

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0197",
+  "policy_number": "AU1000197",
+  "insured_name": "William Miller",
+  "carrier": "Nationwide",
+  "date_of_loss": "09/22/2019",
+  "estimated_amount": "14834",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2017 Tesla Model",
+  "vin": "5VGP6LAWR37BSVH4H",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

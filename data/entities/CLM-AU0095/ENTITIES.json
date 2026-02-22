@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0095",
+  "policy_number": "AU1000095",
+  "insured_name": "David Jackson",
+  "carrier": "Progressive",
+  "date_of_loss": "10/25/2019",
+  "estimated_amount": "24267",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2017 Honda Accord",
+  "vin": "KCH2PELXXDM60K851",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

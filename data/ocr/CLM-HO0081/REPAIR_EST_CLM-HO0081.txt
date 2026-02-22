@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Jackson
+Claim: CLM-HO0081
+Total Estimated Repairs: $30,272
+Prepared for: Farmers

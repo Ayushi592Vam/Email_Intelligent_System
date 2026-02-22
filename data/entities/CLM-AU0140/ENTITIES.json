@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0140",
+  "policy_number": "AU1000140",
+  "insured_name": "Mary Martin",
+  "carrier": "Farmers",
+  "date_of_loss": "11/05/2019",
+  "estimated_amount": "3232",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2017 Toyota Camry",
+  "vin": "P1GXED8TGW3NSKBGD",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

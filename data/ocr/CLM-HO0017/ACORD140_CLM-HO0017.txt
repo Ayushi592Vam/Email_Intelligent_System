@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/17/2019
+INSURED INFORMATION
+Name: Patricia Hernandez
+Property Address: 235 Cedar Ct
+Atlanta, GA 87329
+Phone: 847-274-5867
+Email: patricia.hernandez@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000017
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1973
+Square Footage: 3236 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0017
+Date of Loss: 10/17/2019
+Time of Loss: 6:30 AM
+Cause of Loss: Natural Disaster
+Estimated Damage: $36,987
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals moderate damage t
+o interior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

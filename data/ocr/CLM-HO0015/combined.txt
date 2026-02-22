@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0015.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 01/11/2020
+INSURED INFORMATION
+Name: Richard Jones
+Property Address: 5610 Main Ct
+New York, NY 57790
+Phone: 306-309-8570
+Email: richard.jones@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000015
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1995
+Square Footage: 1841 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0015
+Date of Loss: 01/09/2020
+Time of Loss: 3:30 PM
+Cause of Loss: Theft
+Estimated Damage: $5,451
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals structural damage requiring
+immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0015.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0015.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0015.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Richard Jones
+Claim: CLM-HO0015
+Total Estimated Repairs: $5,451
+Prepared for: Farmers

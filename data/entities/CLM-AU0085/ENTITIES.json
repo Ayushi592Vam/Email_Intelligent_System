@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0085",
+  "policy_number": "AU1000085",
+  "insured_name": "Elizabeth Martin",
+  "carrier": "Allstate",
+  "date_of_loss": "11/27/2019",
+  "estimated_amount": "62069",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 BMW 3",
+  "vin": "SGXE2PYATZB6UZL5X",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0125.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/03/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Elizabeth Taylor
+4025 Stockard Drive, Suite 876 8473 Washington St
+Frisco, TX 75034 Los Angeles, CA 64032
+Phone: 679-807-4381 Phone: 457-978-2588
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Liberty Mutual
+Policy Number: AU1000125
+Effective Date: 11/02/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000125 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0125
+Date of Loss: 11/02/2019
+Estimated Amount: $17,497
+Vehicle: 2017 Toyota Camry, VIN: 02KZZZV2J9SMTZV6W
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0125.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0125.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0125.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/03/2019 Claim: CLM-AU0125
+PATIENT INFORMATION
+Name: Elizabeth Taylor DOB: 09/08/1978
+SSN: 555-12-1491 Phone: 457-978-2588
+Address: 8473 Washington St, Los Angeles, CA 64032
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 11/02/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 11/02/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Anderson, MD
+License: 235297
+Date: 11/03/2019
+
+
+===== FILE: POLICE_CLM-AU0125.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Los Angeles Police Department Report #: 2019925325
+INCIDENT INFORMATION
+Date/Time: 11/02/2019 at 07:23
+Location: 4169 Cedar Ave, Los Angeles, CA
+Type: Uninsured Motorist
+Weather: Rainy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Elizabeth Taylor
+License: CA43749449
+Vehicle: 2017 Toyota Camry, VIN: 02KZZZV2J9SMTZV6W
+Driver 2: Jessica Moore
+Vehicle: 2011 Chevrolet Silverado
+NARRATIVE
+On 11/02/2019, at approximately 10:38, officers responded to
+a uninsured motorist at the intersection of 2021 Washington Blvd. Upon arrival, officers observ
+when Driver 2 (Jessica Moore) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 4926
+Date: 11/03/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0125.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Taylor
+Claim: CLM-AU0125
+Total Estimated Repairs: $17,497
+Prepared for: Liberty Mutual

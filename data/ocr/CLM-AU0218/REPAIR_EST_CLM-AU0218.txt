@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Barbara Johnson
+Claim: CLM-AU0218
+Total Estimated Repairs: $6,490
+Prepared for: Allstate

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Rodriguez
+Claim: CLM-AU0220
+Total Estimated Repairs: $39,592
+Prepared for: Travelers

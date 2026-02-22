@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0121
+Policy Number: AU1000121
+Insured: Joseph Rodriguez
+Carrier: Liberty Mutual
+Date of Loss: 10/04/2019
+Estimated Amount: $52,882
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 Chevrolet Silverado | VIN: LL54V4YRU5UCSZ3R7
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

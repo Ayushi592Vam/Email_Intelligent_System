@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0144",
+  "policy_number": "HO2000144",
+  "insured_name": "Robert Miller",
+  "carrier": "Travelers",
+  "date_of_loss": "08/02/2019",
+  "estimated_amount": "53107",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "2542 Maple Ln, Dallas, TX 88800",
+  "loss_type": "water damage"
+}

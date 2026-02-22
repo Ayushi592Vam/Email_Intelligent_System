@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0105",
+  "policy_number": "AU1000105",
+  "insured_name": "Mary Brown",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "09/07/2019",
+  "estimated_amount": "60444",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2019 Chevrolet Silverado",
+  "vin": "UC2WEBW2MHMNWW36B",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,19 @@
+{
+  "claim_number": "CLM-AU0124",
+  "claim_type": "AUTO",
+  "has_medical": false,
+  "has_police": false,
+  "has_legal": false,
+  "num_attachments": 5,
+  "num_photos": 2,
+  "severity": "LOW",
+  "severity_score": 25,
+  "signals": [
+    "HIGH_LOSS_AMOUNT"
+  ],
+  "files_present": [
+    "ACORD",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

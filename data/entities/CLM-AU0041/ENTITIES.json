@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0041",
+  "policy_number": "AU1000041",
+  "insured_name": "Michael Jones",
+  "carrier": "State Farm",
+  "date_of_loss": "08/26/2019",
+  "estimated_amount": "31494",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2019 BMW 3",
+  "vin": "AFNHAZ64VVJ975T4H",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

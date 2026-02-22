@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Gonzalez
+Claim: CLM-HO0035
+Total Estimated Repairs: $100,531
+Prepared for: Progressive

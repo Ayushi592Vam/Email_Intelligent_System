@@ -1,0 +1,115 @@
+
+===== FILE: ACORD25_CLM-AU0228.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/21/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Robert Martinez
+4025 Stockard Drive, Suite 876 2142 Main Ct
+Frisco, TX 75034 Los Angeles, CA 99465
+Phone: 595-820-2827 Phone: 716-695-5644
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000228
+Effective Date: 11/20/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000228 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0228
+Date of Loss: 11/20/2019
+Estimated Amount: $42,331
+Vehicle: 2018 Audi A4, VIN: 59FGW9HHGTPVDJ1ZD
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0228.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0228.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0228.pdf =====
+--- PAGE 1 ---
+SMITH LEGAL GROUP
+Attorneys at Law
+8352 Washington Blvd
+Los Angeles, CA 99465
+Phone: 266-958-9716 | Fax: 914-680-5987
+Date: 11/21/2019
+Nationwide
+Claims Department
+P.O. Box 12345
+Houston, TX 83344
+RE: Demand for Settlement - Robert Martinez
+Claim Number: CLM-AU0228
+Date of Loss: 11/20/2019
+Your Insured: Robert Martinez
+Dear Claims Adjuster:
+This firm represents Robert Martinez in connection with the above-referenced claim.
+On 11/20/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $25,554
+Lost Wages: $5,560
+Property Damage: $42,331
+Pain and Suffering: $61,204
+TOTAL DEMAND: $79,946
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Smith Legal Group
+Attorney for Robert Martinez
+
+
+===== FILE: POLICE_CLM-AU0228.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Los Angeles Police Department Report #: 2019755961
+INCIDENT INFORMATION
+Date/Time: 11/20/2019 at 08:40
+Location: 3639 Pine Ave, Los Angeles, CA
+Type: Uninsured Motorist
+Weather: Foggy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Robert Martinez
+License: CA71649567
+Vehicle: 2018 Audi A4, VIN: 59FGW9HHGTPVDJ1ZD
+Driver 2: William Rodriguez
+Vehicle: 2013 Toyota Camry
+NARRATIVE
+On 11/20/2019, at approximately 10:49, officers responded to
+a uninsured motorist at the intersection of 9047 Washington Ct. Upon arrival, officers observed
+when Driver 2 (William Rodriguez) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 4582
+Date: 11/21/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0228.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Martinez
+Claim: CLM-AU0228
+Total Estimated Repairs: $42,331
+Prepared for: Nationwide

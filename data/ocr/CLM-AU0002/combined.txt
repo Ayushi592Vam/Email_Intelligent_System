@@ -1,0 +1,79 @@
+
+===== FILE: ACORD25_CLM-AU0002.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/21/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services James Miller
+4025 Stockard Drive, Suite 876 7895 Main Ave
+Frisco, TX 75034 New York, NY 55328
+Phone: 545-435-3937 Phone: 809-408-8584
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Travelers
+Policy Number: AU1000002
+Effective Date: 11/17/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000002 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0002
+Date of Loss: 11/17/2019
+Estimated Amount: $22,118
+Vehicle: 2020 Chevrolet Silverado, VIN: TTFC713CEX7S6Z3N7
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0002.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0002.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0002.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/21/2019 Claim: CLM-AU0002
+PATIENT INFORMATION
+Name: James Miller DOB: 06/28/1988
+SSN: 183-19-3763 Phone: 809-408-8584
+Address: 7895 Main Ave, New York, NY 55328
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 11/17/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 11/17/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Garcia, MD
+License: 191214
+Date: 11/21/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0002.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Miller
+Claim: CLM-AU0002
+Total Estimated Repairs: $22,118
+Prepared for: Travelers

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0162
+Policy Number: AU1000162
+Insured: William Gonzalez
+Carrier: Progressive
+Date of Loss: 11/10/2019
+Estimated Amount: $7,567
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 Audi A4 | VIN: 7EYLUU1BWWL33U8VK
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

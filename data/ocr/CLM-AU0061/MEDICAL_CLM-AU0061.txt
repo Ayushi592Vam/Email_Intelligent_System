@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/17/2019 Claim: CLM-AU0061
+PATIENT INFORMATION
+Name: Joseph Jackson DOB: 07/03/1968
+SSN: 847-27-1224 Phone: 643-569-4866
+Address: 5067 Maple St, Atlanta, GA 44255
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 09/13/2019 Treating Physician: Dr. Rodriguez
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 09/13/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Lopez, MD
+License: 564733
+Date: 09/17/2019

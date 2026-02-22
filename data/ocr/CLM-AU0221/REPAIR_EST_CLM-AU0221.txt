@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Richard Williams
+Claim: CLM-AU0221
+Total Estimated Repairs: $46,799
+Prepared for: Farmers

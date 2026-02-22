@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0227",
+  "policy_number": "AU1000227",
+  "insured_name": "Patricia Gonzalez",
+  "carrier": "Allstate",
+  "date_of_loss": "07/30/2019",
+  "estimated_amount": "10561",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Chevrolet Silverado",
+  "vin": "5LT8U0Z76E06SKYVF",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0126.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 01/03/2020
+INSURED INFORMATION
+Name: Richard Smith
+Property Address: 9737 Maple Ave
+Dallas, TX 24800
+Phone: 383-765-9105
+Email: richard.smith@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000126
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1985
+Square Footage: 1646 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0126
+Date of Loss: 12/31/2019
+Time of Loss: 3:00 PM
+Cause of Loss: Theft
+Estimated Damage: $100,502
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0126.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0126.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0126.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Richard Smith
+Claim: CLM-HO0126
+Total Estimated Repairs: $100,502
+Prepared for: Nationwide

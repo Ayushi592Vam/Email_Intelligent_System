@@ -1,0 +1,79 @@
+
+===== FILE: ACORD25_CLM-AU0233.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/24/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Elizabeth Anderson
+4025 Stockard Drive, Suite 876 2425 Main Dr
+Frisco, TX 75034 New York, NY 41532
+Phone: 981-747-6585 Phone: 454-958-6632
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Geico
+Policy Number: AU1000233
+Effective Date: 10/19/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000233 $250,000 Each Accident
+Category: Personal Liability $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0233
+Date of Loss: 10/19/2019
+Estimated Amount: $30,232
+Vehicle: 2017 BMW 3 Series, VIN: PUPD1E7C3B5JFM0UN
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0233.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0233.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0233.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/24/2019 Claim: CLM-AU0233
+PATIENT INFORMATION
+Name: Elizabeth Anderson DOB: 02/07/1965
+SSN: 606-26-9089 Phone: 454-958-6632
+Address: 2425 Main Dr, New York, NY 41532
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 10/19/2019 Treating Physician: Dr. Brown
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 10/19/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Rodriguez, MD
+License: 183697
+Date: 10/24/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0233.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Anderson
+Claim: CLM-AU0233
+Total Estimated Repairs: $30,232
+Prepared for: Geico

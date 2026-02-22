@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0042
+Policy Number: AU1000042
+Insured: Thomas Jackson
+Carrier: Geico
+Date of Loss: 11/22/2019
+Estimated Amount: $5,204
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2020 Tesla Model | VIN: G1PXVYFZ9RNEV5JR5
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

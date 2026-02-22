@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/21/2019
+INSURED INFORMATION
+Name: William Smith
+Property Address: 6341 Pine St
+Houston, TX 10931
+Phone: 927-218-4554
+Email: william.smith@example.com
+INSURANCE COMPANY
+Company: State Farm
+Policy Number: HO2000025
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1999
+Square Footage: 2535 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0025
+Date of Loss: 12/16/2019
+Time of Loss: 11:00 PM
+Cause of Loss: Theft
+Estimated Damage: $171,920
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals structural damage requiring
+immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

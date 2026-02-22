@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Taylor
+Claim: CLM-HO0091
+Total Estimated Repairs: $39,295
+Prepared for: Geico

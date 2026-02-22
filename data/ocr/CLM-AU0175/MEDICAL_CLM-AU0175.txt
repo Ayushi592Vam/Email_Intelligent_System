@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/16/2019 Claim: CLM-AU0175
+PATIENT INFORMATION
+Name: Christopher Jackson DOB: 04/27/1975
+SSN: 899-39-4298 Phone: 705-973-3697
+Address: 133 Elm St, Chicago, IL 88797
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 10/16/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 10/16/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Martinez, MD
+License: 390396
+Date: 10/16/2019

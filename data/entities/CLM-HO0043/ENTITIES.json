@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0043",
+  "policy_number": "HO2000043",
+  "insured_name": "Joseph Davis",
+  "carrier": "Travelers",
+  "date_of_loss": "07/20/2019",
+  "estimated_amount": "120923",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9565 Cedar Ln, Los Angeles, CA 70835",
+  "loss_type": "vandalism"
+}

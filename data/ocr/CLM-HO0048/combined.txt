@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0048.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/03/2019
+INSURED INFORMATION
+Name: Christopher Lopez
+Property Address: 4413 Park Blvd
+New York, NY 98804
+Phone: 350-447-2819
+Email: christopher.lopez@example.com
+INSURANCE COMPANY
+Company: State Farm
+Policy Number: HO2000048
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1996
+Square Footage: 2926 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0048
+Date of Loss: 08/02/2019
+Time of Loss: 9:30 PM
+Cause of Loss: Theft
+Estimated Damage: $88,540
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals structural damage requiring
+immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0048.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0048.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/03/2019 Claim: CLM-HO0048
+PATIENT INFORMATION
+Name: Christopher Lopez DOB: 09/22/1966
+SSN: 438-16-8639 Phone: 350-447-2819
+Address: 4413 Park Blvd, New York, NY 98804
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 08/02/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 08/02/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Rodriguez, MD
+License: 626239
+Date: 08/03/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0048.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Christopher Lopez
+Claim: CLM-HO0048
+Total Estimated Repairs: $88,540
+Prepared for: State Farm

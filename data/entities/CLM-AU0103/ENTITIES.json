@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0103",
+  "policy_number": "AU1000103",
+  "insured_name": "William Martinez",
+  "carrier": "Allstate",
+  "date_of_loss": "11/25/2019",
+  "estimated_amount": "11221",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 Honda Accord",
+  "vin": "JC74S6ZY4MRZN4MPY",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

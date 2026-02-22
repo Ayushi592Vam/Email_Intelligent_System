@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Jackson
+Claim: CLM-HO0170
+Total Estimated Repairs: $121,796
+Prepared for: Allstate

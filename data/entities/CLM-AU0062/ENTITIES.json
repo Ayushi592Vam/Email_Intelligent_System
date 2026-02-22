@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0062",
+  "policy_number": "AU1000062",
+  "insured_name": "Michael Garcia",
+  "carrier": "State Farm",
+  "date_of_loss": "12/25/2019",
+  "estimated_amount": "36556",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2017 BMW 3",
+  "vin": "C8WBC55VNLLJULDRP",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

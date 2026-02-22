@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0129",
+  "policy_number": "HO2000129",
+  "insured_name": "Elizabeth Brown",
+  "carrier": "Geico",
+  "date_of_loss": "12/28/2019",
+  "estimated_amount": "47299",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6870 Oak Blvd, Los Angeles, CA 18961",
+  "loss_type": "vandalism"
+}

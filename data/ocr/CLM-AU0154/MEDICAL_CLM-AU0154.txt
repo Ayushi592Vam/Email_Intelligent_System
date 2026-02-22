@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/29/2019 Claim: CLM-AU0154
+PATIENT INFORMATION
+Name: Christopher Jackson DOB: 10/24/1956
+SSN: 454-90-6421 Phone: 559-257-3662
+Address: 2171 Main Ln, Houston, TX 57786
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 09/24/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 09/24/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Jackson, MD
+License: 238680
+Date: 09/29/2019

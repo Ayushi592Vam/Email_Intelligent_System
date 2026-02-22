@@ -1,0 +1,24 @@
+{
+  "claim_number": "CLM-AU0206",
+  "claim_type": "AUTO",
+  "has_medical": true,
+  "has_police": false,
+  "has_legal": true,
+  "num_attachments": 7,
+  "num_photos": 2,
+  "severity": "CRITICAL",
+  "severity_score": 130,
+  "signals": [
+    "INJURY_REPORTED",
+    "LEGAL_INVOLVEMENT",
+    "SEVERE_LOSS_AMOUNT",
+    "AUTO_BODILY_INJURY"
+  ],
+  "files_present": [
+    "ACORD",
+    "LEGAL",
+    "MEDICAL",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

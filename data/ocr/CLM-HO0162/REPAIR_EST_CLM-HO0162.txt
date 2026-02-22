@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Jones
+Claim: CLM-HO0162
+Total Estimated Repairs: $172,306
+Prepared for: Travelers

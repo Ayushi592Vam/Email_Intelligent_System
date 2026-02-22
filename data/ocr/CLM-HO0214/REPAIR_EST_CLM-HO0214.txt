@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Smith
+Claim: CLM-HO0214
+Total Estimated Repairs: $144,038
+Prepared for: Liberty Mutual

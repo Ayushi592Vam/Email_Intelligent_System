@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0212",
+  "policy_number": "AU1000212",
+  "insured_name": "Robert Martin",
+  "carrier": "State Farm",
+  "date_of_loss": "01/07/2020",
+  "estimated_amount": "65613",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2017 Toyota Camry",
+  "vin": "38PVALN454JXHHMZ3",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0207",
+  "policy_number": "AU1000207",
+  "insured_name": "William Hernandez",
+  "carrier": "Nationwide",
+  "date_of_loss": "08/04/2019",
+  "estimated_amount": "45467",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2017 Honda Accord",
+  "vin": "MA0US2AJL10VBUV67",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

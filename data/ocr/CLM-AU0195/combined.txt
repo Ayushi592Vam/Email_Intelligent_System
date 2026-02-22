@@ -1,0 +1,104 @@
+
+===== FILE: ACORD25_CLM-AU0195.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/01/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services Joseph Gonzalez
+4025 Stockard Drive, Suite 876 431 Pine Blvd
+Frisco, TX 75034 Dallas, TX 32434
+Phone: 486-579-5668 Phone: 298-823-8263
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000195
+Effective Date: 12/31/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000195 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0195
+Date of Loss: 12/31/2019
+Estimated Amount: $37,055
+Vehicle: 2018 Toyota Camry, VIN: WZEZWL1G756Z7B59V
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0195.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0195.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/01/2020 Claim: CLM-AU0195
+PATIENT INFORMATION
+Name: Joseph Gonzalez DOB: 03/21/1986
+SSN: 117-37-8247 Phone: 298-823-8263
+Address: 431 Pine Blvd, Dallas, TX 32434
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 12/31/2019 Treating Physician: Dr. Brown
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 12/31/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Williams, MD
+License: 260352
+Date: 01/01/2020
+
+
+===== FILE: POLICE_CLM-AU0195.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019571211
+INCIDENT INFORMATION
+Date/Time: 12/31/2019 at 21:54
+Location: 2823 Maple Ave, Dallas, TX
+Type: Comprehensive
+Weather: Foggy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Joseph Gonzalez
+License: TX80664481
+Vehicle: 2018 Toyota Camry, VIN: WZEZWL1G756Z7B59V
+Driver 2: Christopher Smith
+Vehicle: 2018 BMW 3 Series
+NARRATIVE
+On 12/31/2019, at approximately 09:04, officers responded to
+a comprehensive at the intersection of 2315 Park Dr. Upon arrival, officers observed
+when Driver 2 (Christopher Smith) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 1686
+Date: 01/01/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0195.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Gonzalez
+Claim: CLM-AU0195
+Total Estimated Repairs: $37,055
+Prepared for: Allstate

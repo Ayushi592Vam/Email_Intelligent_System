@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0198
+Policy Number: AU1000198
+Insured: David Miller
+Carrier: Allstate
+Date of Loss: 11/12/2019
+Estimated Amount: $11,238
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2020 BMW 3 | VIN: C3EHHL7VP0P96WC57
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0006",
+  "policy_number": "AU1000006",
+  "insured_name": "Patricia Wilson",
+  "carrier": "Nationwide",
+  "date_of_loss": "12/29/2019",
+  "estimated_amount": "6902",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 BMW 3",
+  "vin": "SCFF9A9BJUFUGKZCV",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

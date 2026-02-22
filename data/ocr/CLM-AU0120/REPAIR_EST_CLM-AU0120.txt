@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Wilson
+Claim: CLM-AU0120
+Total Estimated Repairs: $6,692
+Prepared for: Travelers

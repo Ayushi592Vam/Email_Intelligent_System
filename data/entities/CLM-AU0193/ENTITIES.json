@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0193",
+  "policy_number": "AU1000193",
+  "insured_name": "James Martin",
+  "carrier": "Nationwide",
+  "date_of_loss": "11/22/2019",
+  "estimated_amount": "11471",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2020 Chevrolet Silverado",
+  "vin": "XCTRC1EZA94V2AFNU",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

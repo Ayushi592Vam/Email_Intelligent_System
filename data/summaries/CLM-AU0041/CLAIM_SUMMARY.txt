@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0041
+Policy Number: AU1000041
+Insured: Michael Jones
+Carrier: State Farm
+Date of Loss: 08/26/2019
+Estimated Amount: $31,494
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2019 BMW 3 | VIN: AFNHAZ64VVJ975T4H
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Garcia
+Claim: CLM-AU0142
+Total Estimated Repairs: $33,624
+Prepared for: Liberty Mutual

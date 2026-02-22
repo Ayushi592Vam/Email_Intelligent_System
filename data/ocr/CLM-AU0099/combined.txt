@@ -1,0 +1,116 @@
+
+===== FILE: ACORD25_CLM-AU0099.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/22/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Susan Johnson
+4025 Stockard Drive, Suite 876 2329 Cedar Blvd
+Frisco, TX 75034 Atlanta, GA 71405
+Phone: 958-390-2411 Phone: 274-517-8396
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Travelers
+Policy Number: AU1000099
+Effective Date: 08/20/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000099 $250,000 Each Accident
+Category: Personal Liability $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0099
+Date of Loss: 08/20/2019
+Estimated Amount: $23,080
+Vehicle: 2017 Tesla Model 3, VIN: MNXFFV20MZ567KARV
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0099.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0099.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0099.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+7631 Elm Ave
+Atlanta, GA 71405
+Phone: 544-902-1895 | Fax: 595-819-2791
+Date: 08/22/2019
+Travelers
+Claims Department
+P.O. Box 12345
+Dallas, TX 75705
+RE: Demand for Settlement - Susan Johnson
+Claim Number: CLM-AU0099
+Date of Loss: 08/20/2019
+Your Insured: Susan Johnson
+Dear Claims Adjuster:
+This firm represents Susan Johnson in connection with the above-referenced claim.
+On 08/20/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $28,200
+Lost Wages: $13,683
+Property Damage: $23,080
+Pain and Suffering: $66,857
+TOTAL DEMAND: $108,506
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Johnson & Associates
+Attorney for Susan Johnson
+
+
+===== FILE: MEDICAL_CLM-AU0099.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/22/2019 Claim: CLM-AU0099
+PATIENT INFORMATION
+Name: Susan Johnson DOB: 05/12/1976
+SSN: 448-75-1384 Phone: 274-517-8396
+Address: 2329 Cedar Blvd, Atlanta, GA 71405
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 08/20/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 08/20/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Williams, MD
+License: 848485
+Date: 08/22/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0099.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Johnson
+Claim: CLM-AU0099
+Total Estimated Repairs: $23,080
+Prepared for: Travelers

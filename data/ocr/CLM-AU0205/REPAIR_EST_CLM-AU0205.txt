@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Anderson
+Claim: CLM-AU0205
+Total Estimated Repairs: $24,895
+Prepared for: Farmers

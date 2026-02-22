@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0163",
+  "policy_number": "HO2000163",
+  "insured_name": "Mary Martinez",
+  "carrier": "Travelers",
+  "date_of_loss": "11/23/2019",
+  "estimated_amount": "71235",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6542 Park Blvd, Atlanta, GA 32045",
+  "loss_type": "natural disaster"
+}

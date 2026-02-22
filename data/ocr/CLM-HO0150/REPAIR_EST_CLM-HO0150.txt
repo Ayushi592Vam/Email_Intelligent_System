@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Davis
+Claim: CLM-HO0150
+Total Estimated Repairs: $12,420
+Prepared for: Travelers

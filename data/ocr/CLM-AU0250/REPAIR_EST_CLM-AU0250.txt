@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Wilson
+Claim: CLM-AU0250
+Total Estimated Repairs: $8,468
+Prepared for: Allstate

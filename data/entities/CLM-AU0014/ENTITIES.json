@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0014",
+  "policy_number": "AU1000014",
+  "insured_name": "Joseph Lopez",
+  "carrier": "Farmers",
+  "date_of_loss": "12/05/2019",
+  "estimated_amount": "23495",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Chevrolet Silverado",
+  "vin": "90FCLDRE8CGG8C12E",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

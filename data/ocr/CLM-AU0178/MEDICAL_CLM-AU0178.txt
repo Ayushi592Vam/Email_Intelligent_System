@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/08/2019 Claim: CLM-AU0178
+PATIENT INFORMATION
+Name: Richard Taylor DOB: 11/18/1963
+SSN: 265-65-9645 Phone: 234-800-5161
+Address: 1467 Park St, Atlanta, GA 22259
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 10/06/2019 Treating Physician: Dr. Johnson
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 10/06/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Moore, MD
+License: 684826
+Date: 10/08/2019

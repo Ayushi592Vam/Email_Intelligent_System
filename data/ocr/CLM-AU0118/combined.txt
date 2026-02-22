@@ -1,0 +1,79 @@
+
+===== FILE: ACORD25_CLM-AU0118.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/14/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services Robert Jones
+4025 Stockard Drive, Suite 876 8418 Elm Ln
+Frisco, TX 75034 New York, NY 31941
+Phone: 468-415-4934 Phone: 939-808-9812
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000118
+Effective Date: 01/09/2020
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000118 $250,000 Each Accident
+Category: Personal Liability $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0118
+Date of Loss: 01/09/2020
+Estimated Amount: $22,234
+Vehicle: 2018 Chevrolet Silverado, VIN: WS91EGJ1UPZWRB92M
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0118.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0118.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0118.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/14/2020 Claim: CLM-AU0118
+PATIENT INFORMATION
+Name: Robert Jones DOB: 08/06/1979
+SSN: 266-34-5444 Phone: 939-808-9812
+Address: 8418 Elm Ln, New York, NY 31941
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 01/09/2020 Treating Physician: Dr. Taylor
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 01/09/2020.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Martinez, MD
+License: 798707
+Date: 01/14/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0118.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Jones
+Claim: CLM-AU0118
+Total Estimated Repairs: $22,234
+Prepared for: Progressive

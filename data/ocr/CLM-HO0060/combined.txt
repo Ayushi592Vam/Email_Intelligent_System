@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0060.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/23/2019
+INSURED INFORMATION
+Name: Thomas Jones
+Property Address: 5684 Maple St
+New York, NY 84429
+Phone: 460-514-6209
+Email: thomas.jones@example.com
+INSURANCE COMPANY
+Company: State Farm
+Policy Number: HO2000060
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2000
+Square Footage: 1332 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0060
+Date of Loss: 10/22/2019
+Time of Loss: 5:30 PM
+Cause of Loss: Theft
+Estimated Damage: $121,884
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals extensive fire damage to roo
+f and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0060.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0060.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Jones
+Claim: CLM-HO0060
+Total Estimated Repairs: $121,884
+Prepared for: State Farm

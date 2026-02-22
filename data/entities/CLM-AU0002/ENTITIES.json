@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0002",
+  "policy_number": "AU1000002",
+  "insured_name": "James Miller",
+  "carrier": "Travelers",
+  "date_of_loss": "11/17/2019",
+  "estimated_amount": "22118",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2020 Chevrolet Silverado",
+  "vin": "TTFC713CEX7S6Z3N7",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

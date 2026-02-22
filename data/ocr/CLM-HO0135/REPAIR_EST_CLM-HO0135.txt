@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Karen Jones
+Claim: CLM-HO0135
+Total Estimated Repairs: $13,513
+Prepared for: Geico

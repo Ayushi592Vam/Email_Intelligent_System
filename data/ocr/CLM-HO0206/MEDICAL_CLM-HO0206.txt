@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/03/2019 Claim: CLM-HO0206
+PATIENT INFORMATION
+Name: Jessica Hernandez DOB: 04/21/1972
+SSN: 149-88-2660 Phone: 298-668-2832
+Address: 8513 Maple Ave, Chicago, IL 26290
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 10/01/2019 Treating Physician: Dr. Smith
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 10/01/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Jackson, MD
+License: 105815
+Date: 10/03/2019

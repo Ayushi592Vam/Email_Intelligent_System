@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0013",
+  "policy_number": "HO2000013",
+  "insured_name": "Jessica Lopez",
+  "carrier": "State Farm",
+  "date_of_loss": "09/05/2019",
+  "estimated_amount": "16097",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8389 Cedar St, Houston, TX 28572",
+  "loss_type": "natural disaster"
+}

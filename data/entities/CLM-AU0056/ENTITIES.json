@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0056",
+  "policy_number": "AU1000056",
+  "insured_name": "Joseph Hernandez",
+  "carrier": "Nationwide",
+  "date_of_loss": "01/01/2020",
+  "estimated_amount": "11041",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2017 Ford F",
+  "vin": "FX3J6SNG31DPZUV2X",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

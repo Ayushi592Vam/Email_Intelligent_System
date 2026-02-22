@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Lopez
+Claim: CLM-HO0152
+Total Estimated Repairs: $15,245
+Prepared for: Geico

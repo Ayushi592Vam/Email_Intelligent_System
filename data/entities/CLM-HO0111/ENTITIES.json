@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0111",
+  "policy_number": "HO2000111",
+  "insured_name": "Barbara Wilson",
+  "carrier": "Travelers",
+  "date_of_loss": "12/20/2019",
+  "estimated_amount": "31724",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1204 Park Ct, Phoenix, AZ 77128",
+  "loss_type": "natural disaster"
+}

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0221
+Policy Number: AU1000221
+Insured: Richard Williams
+Carrier: Farmers
+Date of Loss: 12/15/2019
+Estimated Amount: $46,799
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: Yes
+
+Vehicle: 2017 Chevrolet Silverado | VIN: 3K69MG7VF25EV2JMZ
+
+Severity: CRITICAL (90)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

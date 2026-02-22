@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0044",
+  "policy_number": "AU1000044",
+  "insured_name": "Richard Gonzalez",
+  "carrier": "Farmers",
+  "date_of_loss": "12/14/2019",
+  "estimated_amount": "47459",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 Chevrolet Silverado",
+  "vin": "HLTSBA4DU4BXFX0PK",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

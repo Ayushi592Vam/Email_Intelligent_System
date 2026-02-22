@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0083",
+  "policy_number": "HO2000083",
+  "insured_name": "Joseph Williams",
+  "carrier": "Geico",
+  "date_of_loss": "07/15/2019",
+  "estimated_amount": "13324",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3947 Elm St, New York, NY 15880",
+  "loss_type": "fire"
+}

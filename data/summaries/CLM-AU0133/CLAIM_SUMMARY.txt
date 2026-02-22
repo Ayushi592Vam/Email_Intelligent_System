@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0133
+Policy Number: AU1000133
+Insured: Michael Lopez
+Carrier: Geico
+Date of Loss: 09/06/2019
+Estimated Amount: $14,416
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 Toyota Camry | VIN: BYSSSMGLYFUW3S0LR
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0015",
+  "policy_number": "HO2000015",
+  "insured_name": "Richard Jones",
+  "carrier": "Farmers",
+  "date_of_loss": "01/09/2020",
+  "estimated_amount": "5451",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "5610 Main Ct, New York, NY 57790",
+  "loss_type": "theft"
+}

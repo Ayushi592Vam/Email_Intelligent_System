@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0218",
+  "policy_number": "HO2000218",
+  "insured_name": "Sarah Anderson",
+  "carrier": "Allstate",
+  "date_of_loss": "12/10/2019",
+  "estimated_amount": "33379",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4445 Oak Dr, Dallas, TX 64402",
+  "loss_type": "water damage"
+}

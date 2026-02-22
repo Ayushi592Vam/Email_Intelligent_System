@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0216
+Policy Number: AU1000216
+Insured: Barbara Johnson
+Carrier: Allstate
+Date of Loss: 08/10/2019
+Estimated Amount: $31,677
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2020 Honda Accord | VIN: KL1BVG48YETP69KMX
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-HO0196
+Policy Number: HO2000196
+Insured: Sarah Smith
+Carrier: Unknown
+Date of Loss: 12/28/2019
+Estimated Amount: $51,913
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: N/A
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

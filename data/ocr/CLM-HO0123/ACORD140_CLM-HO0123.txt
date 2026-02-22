@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/04/2019
+INSURED INFORMATION
+Name: Jessica Lopez
+Property Address: 4878 Cedar Dr
+Chicago, IL 86056
+Phone: 360-952-7762
+Email: jessica.lopez@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000123
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1995
+Square Footage: 3045 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0123
+Date of Loss: 08/04/2019
+Time of Loss: 9:00 AM
+Cause of Loss: Fire
+Estimated Damage: $9,772
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals significant water intrusion a
+ffecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

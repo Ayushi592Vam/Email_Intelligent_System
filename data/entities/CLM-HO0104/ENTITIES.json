@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0104",
+  "policy_number": "HO2000104",
+  "insured_name": "William Martin",
+  "carrier": "Geico",
+  "date_of_loss": "07/29/2019",
+  "estimated_amount": "33602",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9720 Oak Ct, Miami, FL 24513",
+  "loss_type": "natural disaster"
+}

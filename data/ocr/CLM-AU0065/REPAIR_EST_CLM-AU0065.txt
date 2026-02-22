@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Lopez
+Claim: CLM-AU0065
+Total Estimated Repairs: $48,017
+Prepared for: Farmers

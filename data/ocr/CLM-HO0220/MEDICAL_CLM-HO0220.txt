@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/04/2019 Claim: CLM-HO0220
+PATIENT INFORMATION
+Name: Robert Jackson DOB: 07/07/1981
+SSN: 544-18-2702 Phone: 467-618-7089
+Address: 3945 Maple Blvd, Dallas, TX 96193
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 09/30/2019 Treating Physician: Dr. Williams
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 09/30/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Smith, MD
+License: 736462
+Date: 10/04/2019

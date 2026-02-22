@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0247",
+  "policy_number": "HO2000247",
+  "insured_name": "Karen Moore",
+  "carrier": "Travelers",
+  "date_of_loss": "11/02/2019",
+  "estimated_amount": "107485",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3943 Elm Ave, Dallas, TX 97080",
+  "loss_type": "liability"
+}

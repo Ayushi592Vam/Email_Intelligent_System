@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/26/2019 Claim: CLM-HO0095
+PATIENT INFORMATION
+Name: Elizabeth Garcia DOB: 12/21/1959
+SSN: 987-17-3547 Phone: 233-851-4392
+Address: 8322 Oak St, Atlanta, GA 94488
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 12/21/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 12/21/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Jackson, MD
+License: 780919
+Date: 12/26/2019

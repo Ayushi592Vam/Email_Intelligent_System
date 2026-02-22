@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0089",
+  "policy_number": "HO2000089",
+  "insured_name": "Patricia Moore",
+  "carrier": "Progressive",
+  "date_of_loss": "11/16/2019",
+  "estimated_amount": "22257",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8686 Pine St, Dallas, TX 56751",
+  "loss_type": "fire"
+}

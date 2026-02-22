@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Martin
+Claim: CLM-AU0180
+Total Estimated Repairs: $17,810
+Prepared for: Travelers

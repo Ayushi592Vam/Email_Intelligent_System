@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Christopher Johnson
+Claim: CLM-HO0082
+Total Estimated Repairs: $122,001
+Prepared for: Progressive

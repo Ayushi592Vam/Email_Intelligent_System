@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0039.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/03/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Susan Miller
+4025 Stockard Drive, Suite 876 1136 Pine Blvd
+Frisco, TX 75034 Phoenix, AZ 80876
+Phone: 352-402-5947 Phone: 851-578-6641
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000039
+Effective Date: 10/01/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000039 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0039
+Date of Loss: 10/01/2019
+Estimated Amount: $56,367
+Vehicle: 2020 BMW 3 Series, VIN: WTKE1ETD6FBDGG8SJ
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0039.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0039.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0039.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/03/2019 Claim: CLM-AU0039
+PATIENT INFORMATION
+Name: Susan Miller DOB: 12/14/1951
+SSN: 106-24-3060 Phone: 851-578-6641
+Address: 1136 Pine Blvd, Phoenix, AZ 80876
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 10/01/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 10/01/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Miller, MD
+License: 310201
+Date: 10/03/2019
+
+
+===== FILE: POLICE_CLM-AU0039.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Phoenix Police Department Report #: 2019110582
+INCIDENT INFORMATION
+Date/Time: 10/01/2019 at 13:42
+Location: 8767 Main Blvd, Phoenix, AZ
+Type: Uninsured Motorist
+Weather: Clear, Road: Wet
+PARTIES INVOLVED
+Driver 1: Susan Miller
+License: AZ58234328
+Vehicle: 2020 BMW 3 Series, VIN: WTKE1ETD6FBDGG8SJ
+Driver 2: Susan Williams
+Vehicle: 2017 Chevrolet Silverado
+NARRATIVE
+On 10/01/2019, at approximately 10:05, officers responded to
+a uninsured motorist at the intersection of 988 Cedar Ct. Upon arrival, officers observed
+when Driver 2 (Susan Williams) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 5299
+Date: 10/03/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0039.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Miller
+Claim: CLM-AU0039
+Total Estimated Repairs: $56,367
+Prepared for: Allstate

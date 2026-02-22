@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0055",
+  "policy_number": "AU1000055",
+  "insured_name": "Thomas Smith",
+  "carrier": "Geico",
+  "date_of_loss": "11/13/2019",
+  "estimated_amount": "11582",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 Tesla Model",
+  "vin": "07G0EMVJ32M0CK6DJ",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

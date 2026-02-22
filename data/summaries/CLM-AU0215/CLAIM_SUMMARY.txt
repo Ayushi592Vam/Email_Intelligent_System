@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0215
+Policy Number: AU1000215
+Insured: John Smith
+Carrier: Travelers
+Date of Loss: 07/16/2019
+Estimated Amount: $5,374
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2017 BMW 3 | VIN: 3NA77KUYC5HAUR6GX
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

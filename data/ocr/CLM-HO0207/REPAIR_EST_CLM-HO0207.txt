@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Wilson
+Claim: CLM-HO0207
+Total Estimated Repairs: $6,784
+Prepared for: Geico

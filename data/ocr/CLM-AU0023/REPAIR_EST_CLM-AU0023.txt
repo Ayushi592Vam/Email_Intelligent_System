@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Miller
+Claim: CLM-AU0023
+Total Estimated Repairs: $56,399
+Prepared for: Geico

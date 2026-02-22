@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Martin
+Claim: CLM-HO0119
+Total Estimated Repairs: $29,987
+Prepared for: Progressive

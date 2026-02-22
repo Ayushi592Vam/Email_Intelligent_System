@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0230
+Policy Number: AU1000230
+Insured: William Anderson
+Carrier: Allstate
+Date of Loss: 12/06/2019
+Estimated Amount: $17,948
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 Toyota Camry | VIN: 4CLFR4UVD2KLN26BJ
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

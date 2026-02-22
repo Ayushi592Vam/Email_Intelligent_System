@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Jones
+Claim: CLM-HO0224
+Total Estimated Repairs: $69,471
+Prepared for: Liberty Mutual

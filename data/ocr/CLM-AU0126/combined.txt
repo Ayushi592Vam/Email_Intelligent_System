@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0126.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/15/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Thomas Moore
+4025 Stockard Drive, Suite 876 5306 Maple Ln
+Frisco, TX 75034 Dallas, TX 22179
+Phone: 275-559-7949 Phone: 444-763-3147
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000126
+Effective Date: 11/14/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000126 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0126
+Date of Loss: 11/14/2019
+Estimated Amount: $22,039
+Vehicle: 2015 Honda Accord, VIN: BRDCZ8KN4B3Y0596T
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0126.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0126.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0126.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/15/2019 Claim: CLM-AU0126
+PATIENT INFORMATION
+Name: Thomas Moore DOB: 02/13/1991
+SSN: 352-76-8156 Phone: 444-763-3147
+Address: 5306 Maple Ln, Dallas, TX 22179
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 11/14/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 11/14/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Hernandez, MD
+License: 494898
+Date: 11/15/2019
+
+
+===== FILE: POLICE_CLM-AU0126.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019055164
+INCIDENT INFORMATION
+Date/Time: 11/14/2019 at 14:25
+Location: 4413 Elm Ave, Dallas, TX
+Type: Comprehensive
+Weather: Rainy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Thomas Moore
+License: TX44043357
+Vehicle: 2015 Honda Accord, VIN: BRDCZ8KN4B3Y0596T
+Driver 2: Sarah Taylor
+Vehicle: 2010 Ford F-150
+NARRATIVE
+On 11/14/2019, at approximately 18:57, officers responded to
+a comprehensive at the intersection of 9485 Pine Dr. Upon arrival, officers observed
+when Driver 2 (Sarah Taylor) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 8841
+Date: 11/15/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0126.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Moore
+Claim: CLM-AU0126
+Total Estimated Repairs: $22,039
+Prepared for: Allstate

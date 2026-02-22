@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0021",
+  "policy_number": "AU1000021",
+  "insured_name": "Thomas Wilson",
+  "carrier": "Nationwide",
+  "date_of_loss": "11/04/2019",
+  "estimated_amount": "43493",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2020 Tesla Model",
+  "vin": "DRXXJ1HXK3WZ4HKKZ",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0111",
+  "policy_number": "AU1000111",
+  "insured_name": "Mary Garcia",
+  "carrier": "Geico",
+  "date_of_loss": "12/14/2019",
+  "estimated_amount": "24835",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Honda Accord",
+  "vin": "VTSWSHH3SSXCAX5PJ",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

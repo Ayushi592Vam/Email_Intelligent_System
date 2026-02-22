@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Brown
+Claim: CLM-AU0051
+Total Estimated Repairs: $10,641
+Prepared for: Liberty Mutual

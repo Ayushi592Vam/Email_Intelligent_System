@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0154
+Policy Number: AU1000154
+Insured: Christopher Jackson
+Carrier: Nationwide
+Date of Loss: 09/24/2019
+Estimated Amount: $50,541
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2016 BMW 3 | VIN: A6LK471ETYYRPVJ57
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

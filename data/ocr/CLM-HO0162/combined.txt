@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0162.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/22/2019
+INSURED INFORMATION
+Name: Thomas Jones
+Property Address: 8411 Cedar Dr
+Chicago, IL 91595
+Phone: 802-507-1857
+Email: thomas.jones@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000162
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1996
+Square Footage: 2062 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0162
+Date of Loss: 12/18/2019
+Time of Loss: 4:45 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $172,306
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals significant water
+intrusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0162.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0162.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/22/2019 Claim: CLM-HO0162
+PATIENT INFORMATION
+Name: Thomas Jones DOB: 01/24/1969
+SSN: 517-75-7019 Phone: 802-507-1857
+Address: 8411 Cedar Dr, Chicago, IL 91595
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 12/18/2019 Treating Physician: Dr. Davis
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 12/18/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Hernandez, MD
+License: 917539
+Date: 12/22/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0162.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Jones
+Claim: CLM-HO0162
+Total Estimated Repairs: $172,306
+Prepared for: Travelers

@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/14/2020 Claim: CLM-AU0118
+PATIENT INFORMATION
+Name: Robert Jones DOB: 08/06/1979
+SSN: 266-34-5444 Phone: 939-808-9812
+Address: 8418 Elm Ln, New York, NY 31941
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 01/09/2020 Treating Physician: Dr. Taylor
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 01/09/2020.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Martinez, MD
+License: 798707
+Date: 01/14/2020

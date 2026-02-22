@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0245.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/30/2019
+INSURED INFORMATION
+Name: Robert Jackson
+Property Address: 8826 Washington Ct
+New York, NY 24046
+Phone: 283-328-3511
+Email: robert.jackson@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000245
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1972
+Square Footage: 2586 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0245
+Date of Loss: 12/26/2019
+Time of Loss: 4:30 AM
+Cause of Loss: Theft
+Estimated Damage: $30,883
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0245.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0245.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/30/2019 Claim: CLM-HO0245
+PATIENT INFORMATION
+Name: Robert Jackson DOB: 02/03/1972
+SSN: 806-26-5272 Phone: 283-328-3511
+Address: 8826 Washington Ct, New York, NY 24046
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 12/26/2019 Treating Physician: Dr. Moore
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 12/26/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Taylor, MD
+License: 861270
+Date: 12/30/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0245.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Jackson
+Claim: CLM-HO0245
+Total Estimated Repairs: $30,883
+Prepared for: Nationwide

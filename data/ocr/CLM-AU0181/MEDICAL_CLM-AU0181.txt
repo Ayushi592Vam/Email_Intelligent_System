@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/13/2020 Claim: CLM-AU0181
+PATIENT INFORMATION
+Name: William Martinez DOB: 06/21/1991
+SSN: 793-56-2489 Phone: 702-595-8021
+Address: 2632 Cedar Ln, Miami, FL 27502
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 01/08/2020 Treating Physician: Dr. Williams
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 01/08/2020.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Jackson, MD
+License: 858019
+Date: 01/13/2020

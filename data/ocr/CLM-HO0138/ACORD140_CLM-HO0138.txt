@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/27/2019
+INSURED INFORMATION
+Name: Sarah Jackson
+Property Address: 8270 Park Ave
+Miami, FL 53449
+Phone: 888-553-1300
+Email: sarah.jackson@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000138
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2013
+Square Footage: 3364 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0138
+Date of Loss: 12/25/2019
+Time of Loss: 1:15 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $122,863
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals structural damage
+requiring immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

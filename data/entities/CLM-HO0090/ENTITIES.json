@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0090",
+  "policy_number": "HO2000090",
+  "insured_name": "William Brown",
+  "carrier": "Allstate",
+  "date_of_loss": "11/04/2019",
+  "estimated_amount": "138434",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9085 Pine Dr, Houston, TX 18480",
+  "loss_type": "theft"
+}

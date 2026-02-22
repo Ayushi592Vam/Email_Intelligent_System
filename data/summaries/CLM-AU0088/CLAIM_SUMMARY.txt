@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0088
+Policy Number: AU1000088
+Insured: John Davis
+Carrier: Farmers
+Date of Loss: 11/29/2019
+Estimated Amount: $48,268
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 Honda Accord | VIN: HV43MCYWBZ2UXHXTR
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

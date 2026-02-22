@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/24/2019 Claim: CLM-HO0039
+PATIENT INFORMATION
+Name: Robert Williams DOB: 01/05/1984
+SSN: 958-19-1243 Phone: 361-761-7370
+Address: 2500 Maple Ln, Phoenix, AZ 73237
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 11/24/2019 Treating Physician: Dr. Miller
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 11/24/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Davis, MD
+License: 467445
+Date: 11/24/2019

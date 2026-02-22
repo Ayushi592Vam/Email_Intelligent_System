@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0106",
+  "policy_number": "HO2000106",
+  "insured_name": "Mary Jackson",
+  "carrier": "Progressive",
+  "date_of_loss": "08/29/2019",
+  "estimated_amount": "105788",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1661 Oak Dr, Atlanta, GA 56562",
+  "loss_type": "fire"
+}

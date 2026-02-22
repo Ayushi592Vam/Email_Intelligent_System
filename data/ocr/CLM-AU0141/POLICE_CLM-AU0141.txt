@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+New York Police Department Report #: 2019883906
+INCIDENT INFORMATION
+Date/Time: 07/18/2019 at 11:03
+Location: 426 Main Ln, New York, NY
+Type: Collision
+Weather: Clear, Road: Wet
+PARTIES INVOLVED
+Driver 1: David Hernandez
+License: NY51943288
+Vehicle: 2020 Honda Accord, VIN: BYX9WD6SM1Y9PB0NH
+Driver 2: John Taylor
+Vehicle: 2010 Ford F-150
+NARRATIVE
+On 07/18/2019, at approximately 09:24, officers responded to
+a collision at the intersection of 6882 Park Ave. Upon arrival, officers observed
+when Driver 2 (John Taylor) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 8227
+Date: 07/20/2019

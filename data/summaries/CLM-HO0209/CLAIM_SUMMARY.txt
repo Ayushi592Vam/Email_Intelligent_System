@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-HO0209
+Policy Number: HO2000209
+Insured: John Moore
+Carrier: Unknown
+Date of Loss: 01/08/2020
+Estimated Amount: $55,192
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: N/A
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

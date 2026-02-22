@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0068",
+  "policy_number": "HO2000068",
+  "insured_name": "Barbara Williams",
+  "carrier": "Allstate",
+  "date_of_loss": "12/17/2019",
+  "estimated_amount": "22475",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8082 Washington Ct, Houston, TX 60159",
+  "loss_type": "water damage"
+}

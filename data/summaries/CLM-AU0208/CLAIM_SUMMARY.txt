@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0208
+Policy Number: AU1000208
+Insured: Jessica Smith
+Carrier: State Farm
+Date of Loss: 07/23/2019
+Estimated Amount: $15,906
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2018 Honda Accord | VIN: ESHZ12MKMRCL9Z8YB
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

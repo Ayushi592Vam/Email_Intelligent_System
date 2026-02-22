@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0062",
+  "policy_number": "HO2000062",
+  "insured_name": "John Smith",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "11/21/2019",
+  "estimated_amount": "5194",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7294 Maple Ln, Houston, TX 64851",
+  "loss_type": "natural disaster"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0194",
+  "policy_number": "HO2000194",
+  "insured_name": "William Brown",
+  "carrier": "State Farm",
+  "date_of_loss": "12/16/2019",
+  "estimated_amount": "44973",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7791 Pine Blvd, Atlanta, GA 87233",
+  "loss_type": "theft"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0160",
+  "policy_number": "AU1000160",
+  "insured_name": "Barbara Miller",
+  "carrier": "Farmers",
+  "date_of_loss": "11/12/2019",
+  "estimated_amount": "16976",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 BMW 3",
+  "vin": "AC0WDBTA4R15ABZH0",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

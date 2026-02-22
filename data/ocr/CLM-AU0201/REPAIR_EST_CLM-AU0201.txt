@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Jones
+Claim: CLM-AU0201
+Total Estimated Repairs: $4,321
+Prepared for: Nationwide

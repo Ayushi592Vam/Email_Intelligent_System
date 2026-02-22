@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Christopher Smith
+Claim: CLM-AU0234
+Total Estimated Repairs: $5,915
+Prepared for: State Farm

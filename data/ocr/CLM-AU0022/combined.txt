@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0022.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 07/31/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Michael Smith
+4025 Stockard Drive, Suite 876 8546 Main Ln
+Frisco, TX 75034 Dallas, TX 98730
+Phone: 685-438-1605 Phone: 667-389-4945
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000022
+Effective Date: 07/29/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000022 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0022
+Date of Loss: 07/29/2019
+Estimated Amount: $12,196
+Vehicle: 2018 Audi A4, VIN: YU9323LRUV83SS5E5
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0022.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0022.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0022.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019044712
+INCIDENT INFORMATION
+Date/Time: 07/29/2019 at 14:44
+Location: 7937 Maple Ave, Dallas, TX
+Type: Collision
+Weather: Clear, Road: Wet
+PARTIES INVOLVED
+Driver 1: Michael Smith
+License: TX30894237
+Vehicle: 2018 Audi A4, VIN: YU9323LRUV83SS5E5
+Driver 2: Linda Brown
+Vehicle: 2016 Toyota Camry
+NARRATIVE
+On 07/29/2019, at approximately 21:38, officers responded to
+a collision at the intersection of 1860 Maple Ave. Upon arrival, officers observed
+when Driver 2 (Linda Brown) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 3602
+Date: 07/31/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0022.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Smith
+Claim: CLM-AU0022
+Total Estimated Repairs: $12,196
+Prepared for: Progressive

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Davis
+Claim: CLM-HO0125
+Total Estimated Repairs: $87,922
+Prepared for: Liberty Mutual

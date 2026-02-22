@@ -1,0 +1,79 @@
+
+===== FILE: ACORD140_CLM-HO0220.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/04/2019
+INSURED INFORMATION
+Name: Robert Jackson
+Property Address: 3945 Maple Blvd
+Dallas, TX 96193
+Phone: 467-618-7089
+Email: robert.jackson@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000220
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2006
+Square Footage: 2547 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0220
+Date of Loss: 09/30/2019
+Time of Loss: 1:15 AM
+Cause of Loss: Liability
+Estimated Damage: $20,972
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0220.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0220.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0220.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/04/2019 Claim: CLM-HO0220
+PATIENT INFORMATION
+Name: Robert Jackson DOB: 07/07/1981
+SSN: 544-18-2702 Phone: 467-618-7089
+Address: 3945 Maple Blvd, Dallas, TX 96193
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 09/30/2019 Treating Physician: Dr. Williams
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 09/30/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Smith, MD
+License: 736462
+Date: 10/04/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0220.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Jackson
+Claim: CLM-HO0220
+Total Estimated Repairs: $20,972
+Prepared for: Farmers

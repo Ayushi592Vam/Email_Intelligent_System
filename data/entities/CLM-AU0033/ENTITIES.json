@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0033",
+  "policy_number": "AU1000033",
+  "insured_name": "Joseph Moore",
+  "carrier": "Allstate",
+  "date_of_loss": "09/17/2019",
+  "estimated_amount": "20224",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2016 Ford F",
+  "vin": "NXBU35M8TR3AB97XP",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

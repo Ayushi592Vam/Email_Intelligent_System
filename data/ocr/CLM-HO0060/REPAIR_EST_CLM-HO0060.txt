@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Jones
+Claim: CLM-HO0060
+Total Estimated Repairs: $121,884
+Prepared for: State Farm

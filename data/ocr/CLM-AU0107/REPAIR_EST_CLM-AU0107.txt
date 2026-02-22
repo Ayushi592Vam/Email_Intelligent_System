@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Johnson
+Claim: CLM-AU0107
+Total Estimated Repairs: $33,243
+Prepared for: Farmers

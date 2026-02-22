@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0146",
+  "policy_number": "AU1000146",
+  "insured_name": "Linda Hernandez",
+  "carrier": "Travelers",
+  "date_of_loss": "10/22/2019",
+  "estimated_amount": "14664",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 Chevrolet Silverado",
+  "vin": "23W4MAKNJVSH39GAH",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Moore
+Claim: CLM-AU0126
+Total Estimated Repairs: $22,039
+Prepared for: Allstate

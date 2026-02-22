@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Anderson
+Claim: CLM-HO0023
+Total Estimated Repairs: $77,231
+Prepared for: Travelers

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0134",
+  "policy_number": "HO2000134",
+  "insured_name": "Richard Rodriguez",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "12/22/2019",
+  "estimated_amount": "64096",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1597 Main Dr, Chicago, IL 27929",
+  "loss_type": "vandalism"
+}

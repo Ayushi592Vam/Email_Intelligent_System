@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0208",
+  "policy_number": "AU1000208",
+  "insured_name": "Jessica Smith",
+  "carrier": "State Farm",
+  "date_of_loss": "07/23/2019",
+  "estimated_amount": "15906",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2018 Honda Accord",
+  "vin": "ESHZ12MKMRCL9Z8YB",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

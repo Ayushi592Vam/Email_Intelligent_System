@@ -1,0 +1,86 @@
+
+===== FILE: ACORD140_CLM-HO0111.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/22/2019
+INSURED INFORMATION
+Name: Barbara Wilson
+Property Address: 1204 Park Ct
+Phoenix, AZ 77128
+Phone: 318-575-5335
+Email: barbara.wilson@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000111
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1986
+Square Footage: 2291 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0111
+Date of Loss: 12/20/2019
+Time of Loss: 1:45 AM
+Cause of Loss: Natural Disaster
+Estimated Damage: $31,724
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals structural damage
+requiring immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0111.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0111.png =====
+
+
+
+===== FILE: LEGAL_CLM-HO0111.pdf =====
+--- PAGE 1 ---
+SMITH LEGAL GROUP
+Attorneys at Law
+2514 Pine Blvd
+Phoenix, AZ 77128
+Phone: 864-778-4661 | Fax: 224-832-7347
+Date: 12/22/2019
+Travelers
+Claims Department
+P.O. Box 12345
+Houston, AZ 82428
+RE: Demand for Settlement - Barbara Wilson
+Claim Number: CLM-HO0111
+Date of Loss: 12/20/2019
+Your Insured: Barbara Wilson
+Dear Claims Adjuster:
+This firm represents Barbara Wilson in connection with the above-referenced claim.
+On 12/20/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $32,146
+Lost Wages: $6,549
+Property Damage: $31,724
+Pain and Suffering: $26,976
+TOTAL DEMAND: $62,056
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+John Smith, Esq.
+Smith Legal Group
+Attorney for Barbara Wilson
+
+
+===== FILE: REPAIR_EST_CLM-HO0111.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Barbara Wilson
+Claim: CLM-HO0111
+Total Estimated Repairs: $31,724
+Prepared for: Travelers

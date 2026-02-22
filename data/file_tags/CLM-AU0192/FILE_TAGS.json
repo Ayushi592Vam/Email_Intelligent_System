@@ -1,0 +1,23 @@
+{
+  "ACORD25_CLM-AU0192.txt": [
+    "ACORD"
+  ],
+  "combined.txt": [
+    "ACORD",
+    "MEDICAL",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ],
+  "DAMAGE_1_CLM-AU0192.txt": [
+    "PHOTOS"
+  ],
+  "DAMAGE_2_CLM-AU0192.txt": [
+    "PHOTOS"
+  ],
+  "MEDICAL_CLM-AU0192.txt": [
+    "MEDICAL"
+  ],
+  "REPAIR_EST_CLM-AU0192.txt": [
+    "REPAIR_ESTIMATE"
+  ]
+}

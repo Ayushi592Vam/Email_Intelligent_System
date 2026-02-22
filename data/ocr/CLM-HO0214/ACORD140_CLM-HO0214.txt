@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/02/2019
+INSURED INFORMATION
+Name: Mary Smith
+Property Address: 1101 Washington Ln
+Atlanta, GA 30893
+Phone: 672-848-2879
+Email: mary.smith@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000214
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1975
+Square Footage: 3463 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0214
+Date of Loss: 10/28/2019
+Time of Loss: 7:45 PM
+Cause of Loss: Vandalism
+Estimated Damage: $144,038
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

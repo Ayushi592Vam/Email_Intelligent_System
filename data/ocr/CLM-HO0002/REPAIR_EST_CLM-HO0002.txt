@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Martin
+Claim: CLM-HO0002
+Total Estimated Repairs: $10,865
+Prepared for: Geico

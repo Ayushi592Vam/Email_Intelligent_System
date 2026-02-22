@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0178
+Policy Number: AU1000178
+Insured: Richard Taylor
+Carrier: Liberty Mutual
+Date of Loss: 10/06/2019
+Estimated Amount: $38,099
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2018 Audi A4 | VIN: NUDC7HXBV0F1LW9NX
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

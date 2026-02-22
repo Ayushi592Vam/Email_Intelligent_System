@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/21/2019
+INSURED INFORMATION
+Name: Mary Anderson
+Property Address: 2859 Maple Ct
+Los Angeles, CA 65249
+Phone: 441-703-9571
+Email: mary.anderson@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000057
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2002
+Square Footage: 1320 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0057
+Date of Loss: 08/17/2019
+Time of Loss: 7:00 AM
+Cause of Loss: Liability
+Estimated Damage: $24,842
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

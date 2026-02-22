@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0198",
+  "policy_number": "AU1000198",
+  "insured_name": "David Miller",
+  "carrier": "Allstate",
+  "date_of_loss": "11/12/2019",
+  "estimated_amount": "11238",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2020 BMW 3",
+  "vin": "C3EHHL7VP0P96WC57",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

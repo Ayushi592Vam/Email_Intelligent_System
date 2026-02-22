@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0035",
+  "policy_number": "AU1000035",
+  "insured_name": "Jessica Wilson",
+  "carrier": "State Farm",
+  "date_of_loss": "09/05/2019",
+  "estimated_amount": "14714",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Chevrolet Silverado",
+  "vin": "MNYZZHGFY9A4U0Y1L",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

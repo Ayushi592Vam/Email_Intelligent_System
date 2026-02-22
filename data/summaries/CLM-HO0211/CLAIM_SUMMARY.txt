@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-HO0211
+Policy Number: HO2000211
+Insured: John Anderson
+Carrier: Unknown
+Date of Loss: 10/14/2019
+Estimated Amount: $37,195
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: Yes
+
+Vehicle: N/A
+
+Severity: HIGH (60)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

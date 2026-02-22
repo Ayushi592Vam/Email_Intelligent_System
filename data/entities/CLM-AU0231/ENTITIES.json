@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0231",
+  "policy_number": "AU1000231",
+  "insured_name": "David Anderson",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "11/30/2019",
+  "estimated_amount": "41387",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2020 Ford F",
+  "vin": "PKVKPP86KXVJRMEGY",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

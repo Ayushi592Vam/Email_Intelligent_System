@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0082",
+  "policy_number": "AU1000082",
+  "insured_name": "Barbara Rodriguez",
+  "carrier": "Progressive",
+  "date_of_loss": "08/16/2019",
+  "estimated_amount": "13528",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2015 BMW 3",
+  "vin": "2KVJ5SH2E05E2MP8S",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

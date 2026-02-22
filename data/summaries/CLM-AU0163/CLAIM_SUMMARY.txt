@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0163
+Policy Number: AU1000163
+Insured: Karen Davis
+Carrier: Farmers
+Date of Loss: 08/14/2019
+Estimated Amount: $10,459
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2017 Tesla Model | VIN: 2BNWG2W5E1DJM3Z2V
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

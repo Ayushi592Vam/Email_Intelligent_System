@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0153.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/14/2019
+INSURED INFORMATION
+Name: Thomas Moore
+Property Address: 5004 Cedar Blvd
+Miami, FL 38899
+Phone: 670-592-5926
+Email: thomas.moore@example.com
+INSURANCE COMPANY
+Company: State Farm
+Policy Number: HO2000153
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1977
+Square Footage: 2548 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0153
+Date of Loss: 11/14/2019
+Time of Loss: 7:15 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $7,541
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals extensive fire da
+mage to roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0153.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0153.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0153.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Moore
+Claim: CLM-HO0153
+Total Estimated Repairs: $7,541
+Prepared for: State Farm

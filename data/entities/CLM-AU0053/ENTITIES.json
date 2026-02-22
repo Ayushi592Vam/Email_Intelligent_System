@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0053",
+  "policy_number": "AU1000053",
+  "insured_name": "Patricia Davis",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "08/18/2019",
+  "estimated_amount": "31572",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 Honda Accord",
+  "vin": "G1NRCEXNJ7SNCUYNB",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

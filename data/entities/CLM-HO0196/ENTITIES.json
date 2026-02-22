@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0196",
+  "policy_number": "HO2000196",
+  "insured_name": "Sarah Smith",
+  "carrier": "Travelers",
+  "date_of_loss": "12/28/2019",
+  "estimated_amount": "51913",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6302 Park Ln, Miami, FL 22082",
+  "loss_type": "theft"
+}

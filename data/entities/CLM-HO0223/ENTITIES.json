@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0223",
+  "policy_number": "HO2000223",
+  "insured_name": "Jennifer Martinez",
+  "carrier": "Travelers",
+  "date_of_loss": "11/12/2019",
+  "estimated_amount": "30396",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "2512 Cedar Ave, Miami, FL 58486",
+  "loss_type": "water damage"
+}

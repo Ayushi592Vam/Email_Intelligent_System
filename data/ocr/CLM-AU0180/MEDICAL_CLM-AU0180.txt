@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/29/2019 Claim: CLM-AU0180
+PATIENT INFORMATION
+Name: Robert Martin DOB: 03/27/1957
+SSN: 294-86-1727 Phone: 592-620-5224
+Address: 2869 Maple St, Atlanta, GA 73729
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 12/25/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 12/25/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Williams, MD
+License: 169912
+Date: 12/29/2019

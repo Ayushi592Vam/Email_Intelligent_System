@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0238",
+  "policy_number": "HO2000238",
+  "insured_name": "Patricia Wilson",
+  "carrier": "Allstate",
+  "date_of_loss": "11/07/2019",
+  "estimated_amount": "117707",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3271 Elm Blvd, Phoenix, AZ 38096",
+  "loss_type": "vandalism"
+}

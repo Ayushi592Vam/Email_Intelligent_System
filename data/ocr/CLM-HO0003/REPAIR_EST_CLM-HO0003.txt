@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Brown
+Claim: CLM-HO0003
+Total Estimated Repairs: $94,595
+Prepared for: Travelers

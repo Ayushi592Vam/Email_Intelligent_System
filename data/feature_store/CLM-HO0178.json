@@ -1,0 +1,21 @@
+{
+  "claim_number": "CLM-HO0178",
+  "claim_type": "HOME",
+  "has_medical": true,
+  "has_police": false,
+  "has_legal": false,
+  "num_attachments": 5,
+  "num_photos": 1,
+  "severity": "MEDIUM",
+  "severity_score": 30,
+  "signals": [
+    "INJURY_REPORTED",
+    "HOME_LOSS_THEFT"
+  ],
+  "files_present": [
+    "ACORD",
+    "MEDICAL",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

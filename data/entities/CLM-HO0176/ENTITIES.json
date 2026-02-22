@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0176",
+  "policy_number": "HO2000176",
+  "insured_name": "Christopher Garcia",
+  "carrier": "Geico",
+  "date_of_loss": "11/06/2019",
+  "estimated_amount": "19510",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4151 Park St, Los Angeles, CA 71975",
+  "loss_type": "fire"
+}

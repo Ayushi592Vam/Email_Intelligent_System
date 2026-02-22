@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0048
+Policy Number: AU1000048
+Insured: Susan Williams
+Carrier: Nationwide
+Date of Loss: 07/20/2019
+Estimated Amount: $14,792
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 Tesla Model | VIN: 5L9R3DCAX37FXFBEN
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

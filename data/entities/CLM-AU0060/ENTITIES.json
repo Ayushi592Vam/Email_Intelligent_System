@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0060",
+  "policy_number": "AU1000060",
+  "insured_name": "Mary Hernandez",
+  "carrier": "Progressive",
+  "date_of_loss": "08/14/2019",
+  "estimated_amount": "46877",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Audi A4",
+  "vin": "H91TNBJAWLKMG2CAY",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

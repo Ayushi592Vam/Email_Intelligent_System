@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/18/2019 Claim: CLM-AU0221
+PATIENT INFORMATION
+Name: Richard Williams DOB: 09/07/1952
+SSN: 127-41-7757 Phone: 245-741-3340
+Address: 6441 Cedar Ct, Chicago, IL 84957
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 12/15/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 12/15/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Williams, MD
+License: 327351
+Date: 12/18/2019

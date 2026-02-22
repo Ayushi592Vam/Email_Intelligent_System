@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Smith
+Claim: CLM-HO0196
+Total Estimated Repairs: $51,913
+Prepared for: Travelers

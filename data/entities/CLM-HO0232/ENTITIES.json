@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0232",
+  "policy_number": "HO2000232",
+  "insured_name": "James Lopez",
+  "carrier": "Travelers",
+  "date_of_loss": "11/10/2019",
+  "estimated_amount": "7594",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "805 Main Ct, Houston, TX 44194",
+  "loss_type": "theft"
+}

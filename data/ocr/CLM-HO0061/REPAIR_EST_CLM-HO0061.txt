@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Rodriguez
+Claim: CLM-HO0061
+Total Estimated Repairs: $77,832
+Prepared for: Progressive

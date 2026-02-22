@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0027.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/28/2019
+INSURED INFORMATION
+Name: John Jones
+Property Address: 6547 Oak Blvd
+New York, NY 86381
+Phone: 599-355-2747
+Email: john.jones@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000027
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1971
+Square Footage: 2359 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0027
+Date of Loss: 08/26/2019
+Time of Loss: 6:30 PM
+Cause of Loss: Theft
+Estimated Damage: $61,036
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals extensive fire damage to roo
+f and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0027.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0027.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Jones
+Claim: CLM-HO0027
+Total Estimated Repairs: $61,036
+Prepared for: Farmers

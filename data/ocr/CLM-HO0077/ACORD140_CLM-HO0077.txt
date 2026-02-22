@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/18/2019
+INSURED INFORMATION
+Name: Barbara Davis
+Property Address: 3746 Washington St
+Los Angeles, CA 32956
+Phone: 732-495-5738
+Email: barbara.davis@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000077
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1986
+Square Footage: 2951 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0077
+Date of Loss: 09/14/2019
+Time of Loss: 6:30 PM
+Cause of Loss: Liability
+Estimated Damage: $6,162
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

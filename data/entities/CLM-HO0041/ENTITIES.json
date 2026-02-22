@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0041",
+  "policy_number": "HO2000041",
+  "insured_name": "Jennifer Jackson",
+  "carrier": "Farmers",
+  "date_of_loss": "11/15/2019",
+  "estimated_amount": "104532",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "2718 Oak Ave, Chicago, IL 98474",
+  "loss_type": "liability"
+}

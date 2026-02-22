@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Anderson
+Claim: CLM-AU0083
+Total Estimated Repairs: $11,825
+Prepared for: Farmers

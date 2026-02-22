@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0105",
+  "policy_number": "HO2000105",
+  "insured_name": "Patricia Brown",
+  "carrier": "Farmers",
+  "date_of_loss": "11/14/2019",
+  "estimated_amount": "10702",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4571 Cedar Ave, Atlanta, GA 15350",
+  "loss_type": "fire"
+}

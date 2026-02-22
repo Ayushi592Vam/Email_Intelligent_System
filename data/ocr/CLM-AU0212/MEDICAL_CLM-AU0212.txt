@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/10/2020 Claim: CLM-AU0212
+PATIENT INFORMATION
+Name: Robert Martin DOB: 07/09/1978
+SSN: 257-34-6841 Phone: 345-532-3017
+Address: 9242 Cedar Ct, Phoenix, AZ 83320
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 01/07/2020 Treating Physician: Dr. Davis
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 01/07/2020.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Smith, MD
+License: 964617
+Date: 01/10/2020

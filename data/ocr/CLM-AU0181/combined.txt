@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0181.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/13/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services William Martinez
+4025 Stockard Drive, Suite 876 2632 Cedar Ln
+Frisco, TX 75034 Miami, FL 27502
+Phone: 588-573-8991 Phone: 702-595-8021
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000181
+Effective Date: 01/08/2020
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000181 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0181
+Date of Loss: 01/08/2020
+Estimated Amount: $23,842
+Vehicle: 2015 Tesla Model 3, VIN: UJXJBB9LHELSN3M18
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0181.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0181.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0181.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/13/2020 Claim: CLM-AU0181
+PATIENT INFORMATION
+Name: William Martinez DOB: 06/21/1991
+SSN: 793-56-2489 Phone: 702-595-8021
+Address: 2632 Cedar Ln, Miami, FL 27502
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 01/08/2020 Treating Physician: Dr. Williams
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 01/08/2020.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Jackson, MD
+License: 858019
+Date: 01/13/2020
+
+
+===== FILE: POLICE_CLM-AU0181.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019066012
+INCIDENT INFORMATION
+Date/Time: 01/08/2020 at 18:55
+Location: 3798 Maple St, Miami, FL
+Type: Collision
+Weather: Cloudy, Road: Dry
+PARTIES INVOLVED
+Driver 1: William Martinez
+License: FL34097090
+Vehicle: 2015 Tesla Model 3, VIN: UJXJBB9LHELSN3M18
+Driver 2: William Taylor
+Vehicle: 2010 Audi A4
+NARRATIVE
+On 01/08/2020, at approximately 07:29, officers responded to
+a collision at the intersection of 1604 Oak Ln. Upon arrival, officers observed
+when Driver 2 (William Taylor) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 4906
+Date: 01/13/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0181.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Martinez
+Claim: CLM-AU0181
+Total Estimated Repairs: $23,842
+Prepared for: Allstate

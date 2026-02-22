@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0179",
+  "policy_number": "HO2000179",
+  "insured_name": "Linda Rodriguez",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "12/30/2019",
+  "estimated_amount": "13294",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8313 Maple St, Atlanta, GA 41981",
+  "loss_type": "natural disaster"
+}

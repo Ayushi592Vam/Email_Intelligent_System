@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0009",
+  "policy_number": "AU1000009",
+  "insured_name": "Christopher Anderson",
+  "carrier": "Nationwide",
+  "date_of_loss": "10/10/2019",
+  "estimated_amount": "35427",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Honda Accord",
+  "vin": "11P90VBC483HHDVMC",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0096",
+  "policy_number": "HO2000096",
+  "insured_name": "Jennifer Williams",
+  "carrier": "Progressive",
+  "date_of_loss": "07/17/2019",
+  "estimated_amount": "48879",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "5753 Elm Ave, Phoenix, AZ 52324",
+  "loss_type": "water damage"
+}

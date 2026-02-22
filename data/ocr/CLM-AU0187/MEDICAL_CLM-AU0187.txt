@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/28/2019 Claim: CLM-AU0187
+PATIENT INFORMATION
+Name: Jessica Davis DOB: 10/15/1967
+SSN: 967-43-4056 Phone: 234-661-2398
+Address: 8099 Washington St, Atlanta, GA 74768
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 10/24/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 10/24/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Gonzalez, MD
+License: 179090
+Date: 10/28/2019

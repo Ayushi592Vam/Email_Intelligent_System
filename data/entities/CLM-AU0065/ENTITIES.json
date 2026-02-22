@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0065",
+  "policy_number": "AU1000065",
+  "insured_name": "David Lopez",
+  "carrier": "Farmers",
+  "date_of_loss": "11/13/2019",
+  "estimated_amount": "48017",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Honda Accord",
+  "vin": "DB2FDYV9AWP4FSTHP",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0240
+Policy Number: AU1000240
+Insured: John Williams
+Carrier: Nationwide
+Date of Loss: 07/27/2019
+Estimated Amount: $9,133
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2018 Chevrolet Silverado | VIN: 37X60EFTCMHVCB604
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0036",
+  "policy_number": "HO2000036",
+  "insured_name": "Mary Martinez",
+  "carrier": "Farmers",
+  "date_of_loss": "10/27/2019",
+  "estimated_amount": "92767",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8588 Maple Ave, Atlanta, GA 55617",
+  "loss_type": "fire"
+}

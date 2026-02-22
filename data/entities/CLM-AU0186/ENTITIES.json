@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0186",
+  "policy_number": "AU1000186",
+  "insured_name": "Mary Anderson",
+  "carrier": "State Farm",
+  "date_of_loss": "08/01/2019",
+  "estimated_amount": "11045",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2017 Audi A4",
+  "vin": "HL0MDATR69MHR1W1T",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

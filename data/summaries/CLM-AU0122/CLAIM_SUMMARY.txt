@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0122
+Policy Number: AU1000122
+Insured: John Miller
+Carrier: Farmers
+Date of Loss: 12/11/2019
+Estimated Amount: $23,360
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2015 Honda Accord | VIN: 82K9S2938PLGFD8NX
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

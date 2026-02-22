@@ -1,0 +1,116 @@
+
+===== FILE: ACORD25_CLM-AU0221.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/18/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Richard Williams
+4025 Stockard Drive, Suite 876 6441 Cedar Ct
+Frisco, TX 75034 Chicago, IL 84957
+Phone: 892-613-5055 Phone: 245-741-3340
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Farmers
+Policy Number: AU1000221
+Effective Date: 12/15/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000221 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0221
+Date of Loss: 12/15/2019
+Estimated Amount: $46,799
+Vehicle: 2017 Chevrolet Silverado, VIN: 3K69MG7VF25EV2JMZ
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0221.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0221.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0221.pdf =====
+--- PAGE 1 ---
+SMITH LEGAL GROUP
+Attorneys at Law
+2244 Main Ln
+Chicago, IL 84957
+Phone: 775-486-8861 | Fax: 241-511-7917
+Date: 12/18/2019
+Farmers
+Claims Department
+P.O. Box 12345
+Phoenix, AZ 71580
+RE: Demand for Settlement - Richard Williams
+Claim Number: CLM-AU0221
+Date of Loss: 12/15/2019
+Your Insured: Richard Williams
+Dear Claims Adjuster:
+This firm represents Richard Williams in connection with the above-referenced claim.
+On 12/15/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $32,276
+Lost Wages: $8,982
+Property Damage: $46,799
+Pain and Suffering: $46,762
+TOTAL DEMAND: $118,359
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+John Smith, Esq.
+Smith Legal Group
+Attorney for Richard Williams
+
+
+===== FILE: MEDICAL_CLM-AU0221.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/18/2019 Claim: CLM-AU0221
+PATIENT INFORMATION
+Name: Richard Williams DOB: 09/07/1952
+SSN: 127-41-7757 Phone: 245-741-3340
+Address: 6441 Cedar Ct, Chicago, IL 84957
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 12/15/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 12/15/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Williams, MD
+License: 327351
+Date: 12/18/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0221.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Richard Williams
+Claim: CLM-AU0221
+Total Estimated Repairs: $46,799
+Prepared for: Farmers

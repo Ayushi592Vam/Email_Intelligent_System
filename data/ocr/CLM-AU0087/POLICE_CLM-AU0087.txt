@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Chicago Police Department Report #: 2019056030
+INCIDENT INFORMATION
+Date/Time: 10/24/2019 at 11:14
+Location: 4263 Oak Blvd, Chicago, IL
+Type: Comprehensive
+Weather: Foggy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Linda Smith
+License: IL61535075
+Vehicle: 2015 Tesla Model 3, VIN: ZGSNXPJRB5X0FE8JT
+Driver 2: Robert Lopez
+Vehicle: 2012 Toyota Camry
+NARRATIVE
+On 10/24/2019, at approximately 17:20, officers responded to
+a comprehensive at the intersection of 7665 Cedar Dr. Upon arrival, officers observed
+when Driver 2 (Robert Lopez) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 1069
+Date: 10/29/2019

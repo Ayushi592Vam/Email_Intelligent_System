@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0009
+Policy Number: AU1000009
+Insured: Christopher Anderson
+Carrier: Nationwide
+Date of Loss: 10/10/2019
+Estimated Amount: $35,427
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2018 Honda Accord | VIN: 11P90VBC483HHDVMC
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

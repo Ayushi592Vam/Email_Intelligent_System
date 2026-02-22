@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Miller
+Claim: CLM-AU0198
+Total Estimated Repairs: $11,238
+Prepared for: Allstate

@@ -1,0 +1,75 @@
+
+===== FILE: ACORD25_CLM-AU0168.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/15/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Sarah Rodriguez
+4025 Stockard Drive, Suite 876 8221 Maple Ave
+Frisco, TX 75034 Chicago, IL 67169
+Phone: 212-972-8648 Phone: 347-664-9549
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000168
+Effective Date: 12/15/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000168 $250,000 Each Accident
+Category: Personal Liability $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0168
+Date of Loss: 12/15/2019
+Estimated Amount: $22,618
+Vehicle: 2016 Honda Accord, VIN: 83R1WX97E1XL1H9F8
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0168.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0168.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/15/2019 Claim: CLM-AU0168
+PATIENT INFORMATION
+Name: Sarah Rodriguez DOB: 05/10/1969
+SSN: 342-33-3231 Phone: 347-664-9549
+Address: 8221 Maple Ave, Chicago, IL 67169
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 12/15/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 12/15/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Taylor, MD
+License: 328898
+Date: 12/15/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0168.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Rodriguez
+Claim: CLM-AU0168
+Total Estimated Repairs: $22,618
+Prepared for: State Farm

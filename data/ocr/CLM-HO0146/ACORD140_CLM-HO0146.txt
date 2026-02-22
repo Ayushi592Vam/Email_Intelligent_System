@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/19/2019
+INSURED INFORMATION
+Name: Joseph Anderson
+Property Address: 636 Main Blvd
+Chicago, IL 67915
+Phone: 430-729-8326
+Email: joseph.anderson@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000146
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2007
+Square Footage: 2414 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0146
+Date of Loss: 07/18/2019
+Time of Loss: 9:15 PM
+Cause of Loss: Water Damage
+Estimated Damage: $92,865
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals structural damage req
+uiring immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

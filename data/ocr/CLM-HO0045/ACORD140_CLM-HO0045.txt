@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/29/2019
+INSURED INFORMATION
+Name: Susan Miller
+Property Address: 4360 Cedar St
+Chicago, IL 52789
+Phone: 392-912-1867
+Email: susan.miller@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000045
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1976
+Square Footage: 1920 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0045
+Date of Loss: 08/29/2019
+Time of Loss: 9:30 AM
+Cause of Loss: Fire
+Estimated Damage: $18,385
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals extensive fire damage to roof
+and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

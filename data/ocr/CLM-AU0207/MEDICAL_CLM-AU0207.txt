@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/07/2019 Claim: CLM-AU0207
+PATIENT INFORMATION
+Name: William Hernandez DOB: 09/22/1953
+SSN: 136-58-7859 Phone: 706-985-2842
+Address: 7810 Main Blvd, Chicago, IL 63843
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 08/04/2019 Treating Physician: Dr. Miller
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 08/04/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Martinez, MD
+License: 140369
+Date: 08/07/2019

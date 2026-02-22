@@ -1,0 +1,22 @@
+{
+  "claim_number": "CLM-HO0111",
+  "claim_type": "HOME",
+  "has_medical": false,
+  "has_police": false,
+  "has_legal": true,
+  "num_attachments": 6,
+  "num_photos": 2,
+  "severity": "HIGH",
+  "severity_score": 65,
+  "signals": [
+    "LEGAL_INVOLVEMENT",
+    "HIGH_LOSS_AMOUNT",
+    "HOME_LOSS_NATURAL_DISASTER"
+  ],
+  "files_present": [
+    "ACORD",
+    "LEGAL",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

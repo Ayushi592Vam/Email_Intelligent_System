@@ -1,0 +1,82 @@
+
+===== FILE: ACORD25_CLM-AU0093.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/04/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Thomas Martinez
+4025 Stockard Drive, Suite 876 9317 Pine St
+Frisco, TX 75034 Dallas, TX 48767
+Phone: 796-409-5766 Phone: 561-211-4085
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000093
+Effective Date: 08/01/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000093 $250,000 Each Accident
+Category: Personal Liability $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0093
+Date of Loss: 08/01/2019
+Estimated Amount: $55,326
+Vehicle: 2016 Honda Accord, VIN: WAR87B8G1JGGSF0HC
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0093.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0093.pdf =====
+--- PAGE 1 ---
+BROWN & PARTNERS LLP
+Attorneys at Law
+5625 Oak Ct
+Dallas, TX 48767
+Phone: 413-587-6638 | Fax: 292-614-3936
+Date: 08/04/2019
+Allstate
+Claims Department
+P.O. Box 12345
+Phoenix, AZ 83064
+RE: Demand for Settlement - Thomas Martinez
+Claim Number: CLM-AU0093
+Date of Loss: 08/01/2019
+Your Insured: Thomas Martinez
+Dear Claims Adjuster:
+This firm represents Thomas Martinez in connection with the above-referenced claim.
+On 08/01/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $16,682
+Lost Wages: $10,701
+Property Damage: $55,326
+Pain and Suffering: $40,029
+TOTAL DEMAND: $130,402
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Brown & Partners LLP
+Attorney for Thomas Martinez
+
+
+===== FILE: REPAIR_EST_CLM-AU0093.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Martinez
+Claim: CLM-AU0093
+Total Estimated Repairs: $55,326
+Prepared for: Allstate

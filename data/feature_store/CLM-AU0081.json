@@ -1,0 +1,24 @@
+{
+  "claim_number": "CLM-AU0081",
+  "claim_type": "AUTO",
+  "has_medical": true,
+  "has_police": true,
+  "has_legal": false,
+  "num_attachments": 7,
+  "num_photos": 2,
+  "severity": "CRITICAL",
+  "severity_score": 110,
+  "signals": [
+    "INJURY_REPORTED",
+    "POLICE_INVOLVEMENT",
+    "SEVERE_LOSS_AMOUNT",
+    "AUTO_BODILY_INJURY"
+  ],
+  "files_present": [
+    "ACORD",
+    "MEDICAL",
+    "PHOTOS",
+    "POLICE",
+    "REPAIR_ESTIMATE"
+  ]
+}

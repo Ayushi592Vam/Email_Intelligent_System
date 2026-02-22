@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/09/2019
+INSURED INFORMATION
+Name: Linda Wilson
+Property Address: 4914 Oak Ave
+Phoenix, AZ 44498
+Phone: 734-939-2681
+Email: linda.wilson@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000021
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2009
+Square Footage: 2620 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0021
+Date of Loss: 09/09/2019
+Time of Loss: 8:30 PM
+Cause of Loss: Vandalism
+Estimated Damage: $18,117
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

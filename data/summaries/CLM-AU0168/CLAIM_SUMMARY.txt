@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0168
+Policy Number: AU1000168
+Insured: Sarah Rodriguez
+Carrier: State Farm
+Date of Loss: 12/15/2019
+Estimated Amount: $22,618
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 Honda Accord | VIN: 83R1WX97E1XL1H9F8
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

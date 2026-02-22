@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Jackson
+Claim: CLM-HO0026
+Total Estimated Repairs: $19,372
+Prepared for: Progressive

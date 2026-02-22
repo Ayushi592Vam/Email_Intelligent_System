@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0214",
+  "policy_number": "HO2000214",
+  "insured_name": "Mary Smith",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "10/28/2019",
+  "estimated_amount": "144038",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1101 Washington Ln, Atlanta, GA 30893",
+  "loss_type": "vandalism"
+}

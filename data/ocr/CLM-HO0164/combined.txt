@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0164.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/17/2019
+INSURED INFORMATION
+Name: Mary Brown
+Property Address: 8616 Maple Dr
+Dallas, TX 87421
+Phone: 882-987-9193
+Email: mary.brown@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000164
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1991
+Square Footage: 2211 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0164
+Date of Loss: 11/14/2019
+Time of Loss: 4:45 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $125,629
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals moderate damage t
+o interior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0164.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0164.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0164.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Brown
+Claim: CLM-HO0164
+Total Estimated Repairs: $125,629
+Prepared for: Allstate

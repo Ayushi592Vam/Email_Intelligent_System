@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/11/2019 Claim: CLM-AU0216
+PATIENT INFORMATION
+Name: Barbara Johnson DOB: 03/21/1992
+SSN: 187-96-9352 Phone: 951-860-7369
+Address: 8870 Maple Ln, Phoenix, AZ 20599
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 08/10/2019 Treating Physician: Dr. Lopez
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 08/10/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Garcia, MD
+License: 473163
+Date: 08/11/2019

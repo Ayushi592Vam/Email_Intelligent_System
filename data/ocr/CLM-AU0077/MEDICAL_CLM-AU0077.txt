@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/13/2019 Claim: CLM-AU0077
+PATIENT INFORMATION
+Name: Linda Taylor DOB: 11/21/1957
+SSN: 297-27-6947 Phone: 397-769-3678
+Address: 7224 Oak St, Los Angeles, CA 33068
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 08/12/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 08/12/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Rodriguez, MD
+License: 784620
+Date: 08/13/2019

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0196",
+  "policy_number": "AU1000196",
+  "insured_name": "Michael Moore",
+  "carrier": "Allstate",
+  "date_of_loss": "11/15/2019",
+  "estimated_amount": "7914",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2017 Tesla Model",
+  "vin": "LJU5YVZB4E08KGPH9",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

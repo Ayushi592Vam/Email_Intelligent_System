@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Miller
+Claim: CLM-AU0122
+Total Estimated Repairs: $23,360
+Prepared for: Farmers

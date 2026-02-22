@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0045",
+  "policy_number": "HO2000045",
+  "insured_name": "Susan Miller",
+  "carrier": "Allstate",
+  "date_of_loss": "08/29/2019",
+  "estimated_amount": "18385",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4360 Cedar St, Chicago, IL 52789",
+  "loss_type": "fire"
+}

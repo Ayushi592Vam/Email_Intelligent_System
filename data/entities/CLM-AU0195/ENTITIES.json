@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0195",
+  "policy_number": "AU1000195",
+  "insured_name": "Joseph Gonzalez",
+  "carrier": "Allstate",
+  "date_of_loss": "12/31/2019",
+  "estimated_amount": "37055",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Toyota Camry",
+  "vin": "WZEZWL1G756Z7B59V",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

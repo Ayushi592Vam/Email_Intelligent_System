@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0217",
+  "policy_number": "HO2000217",
+  "insured_name": "Mary Moore",
+  "carrier": "Progressive",
+  "date_of_loss": "12/08/2019",
+  "estimated_amount": "18309",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1577 Washington Ave, Dallas, TX 64853",
+  "loss_type": "natural disaster"
+}

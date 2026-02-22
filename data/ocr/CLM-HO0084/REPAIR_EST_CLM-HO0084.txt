@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Miller
+Claim: CLM-HO0084
+Total Estimated Repairs: $6,023
+Prepared for: Progressive

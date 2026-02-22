@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0173",
+  "policy_number": "AU1000173",
+  "insured_name": "Patricia Davis",
+  "carrier": "Travelers",
+  "date_of_loss": "10/15/2019",
+  "estimated_amount": "13743",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 BMW 3",
+  "vin": "188EUUECZ4CB5UYAN",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0021
+Policy Number: AU1000021
+Insured: Thomas Wilson
+Carrier: Nationwide
+Date of Loss: 11/04/2019
+Estimated Amount: $43,493
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2020 Tesla Model | VIN: DRXXJ1HXK3WZ4HKKZ
+
+Severity: CRITICAL (110)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0065.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/27/2019
+INSURED INFORMATION
+Name: Thomas Smith
+Property Address: 4971 Maple Blvd
+Houston, TX 35666
+Phone: 643-607-7129
+Email: thomas.smith@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000065
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1995
+Square Footage: 2669 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0065
+Date of Loss: 11/26/2019
+Time of Loss: 8:15 AM
+Cause of Loss: Water Damage
+Estimated Damage: $5,336
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals moderate damage to in
+terior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0065.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0065.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0065.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Smith
+Claim: CLM-HO0065
+Total Estimated Repairs: $5,336
+Prepared for: Travelers

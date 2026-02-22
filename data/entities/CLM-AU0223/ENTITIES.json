@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0223",
+  "policy_number": "AU1000223",
+  "insured_name": "Jennifer Williams",
+  "carrier": "Farmers",
+  "date_of_loss": "11/25/2019",
+  "estimated_amount": "30076",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Toyota Camry",
+  "vin": "4124RU0GHAYK9ZTPX",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

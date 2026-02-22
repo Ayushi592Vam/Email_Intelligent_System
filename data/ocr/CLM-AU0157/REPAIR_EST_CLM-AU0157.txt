@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Taylor
+Claim: CLM-AU0157
+Total Estimated Repairs: $38,134
+Prepared for: Allstate

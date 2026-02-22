@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0238
+Policy Number: AU1000238
+Insured: Linda Davis
+Carrier: Allstate
+Date of Loss: 10/22/2019
+Estimated Amount: $3,730
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2015 Tesla Model | VIN: 4XSHS67ZDW00GBPYV
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

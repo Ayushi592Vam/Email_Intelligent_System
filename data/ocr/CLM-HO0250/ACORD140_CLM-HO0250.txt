@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/02/2019
+INSURED INFORMATION
+Name: Christopher Rodriguez
+Property Address: 7299 Oak Dr
+Miami, FL 75333
+Phone: 645-946-8290
+Email: christopher.rodriguez@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000250
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1974
+Square Footage: 1485 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0250
+Date of Loss: 07/30/2019
+Time of Loss: 10:30 PM
+Cause of Loss: Theft
+Estimated Damage: $23,254
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals significant water intrusion
+affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

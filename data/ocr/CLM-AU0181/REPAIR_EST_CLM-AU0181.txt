@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Martinez
+Claim: CLM-AU0181
+Total Estimated Repairs: $23,842
+Prepared for: Allstate

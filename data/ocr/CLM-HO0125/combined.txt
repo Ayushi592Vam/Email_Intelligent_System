@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0125.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/18/2019
+INSURED INFORMATION
+Name: James Davis
+Property Address: 8598 Maple Dr
+Dallas, TX 18817
+Phone: 845-314-4819
+Email: james.davis@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000125
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1986
+Square Footage: 3223 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0125
+Date of Loss: 08/14/2019
+Time of Loss: 4:30 AM
+Cause of Loss: Liability
+Estimated Damage: $87,922
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0125.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0125.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Davis
+Claim: CLM-HO0125
+Total Estimated Repairs: $87,922
+Prepared for: Liberty Mutual

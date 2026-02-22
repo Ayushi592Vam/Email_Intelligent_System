@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0219
+Policy Number: AU1000219
+Insured: Sarah Johnson
+Carrier: State Farm
+Date of Loss: 10/29/2019
+Estimated Amount: $26,277
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2015 Toyota Camry | VIN: NTBB43N5C1H8PCTCE
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

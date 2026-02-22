@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/09/2019 Claim: CLM-AU0105
+PATIENT INFORMATION
+Name: Mary Brown DOB: 01/23/1993
+SSN: 896-83-5154 Phone: 552-577-5246
+Address: 840 Oak Dr, Dallas, TX 59008
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 09/07/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 09/07/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Garcia, MD
+License: 909983
+Date: 09/09/2019

@@ -1,0 +1,75 @@
+
+===== FILE: ACORD25_CLM-AU0123.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/03/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Jennifer Jones
+4025 Stockard Drive, Suite 876 2356 Cedar St
+Frisco, TX 75034 Atlanta, GA 82287
+Phone: 983-773-2756 Phone: 793-275-8768
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Liberty Mutual
+Policy Number: AU1000123
+Effective Date: 09/01/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000123 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0123
+Date of Loss: 09/01/2019
+Estimated Amount: $17,146
+Vehicle: 2016 Chevrolet Silverado, VIN: 2L1N0KAMTVPA6HGXP
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0123.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0123.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/03/2019 Claim: CLM-AU0123
+PATIENT INFORMATION
+Name: Jennifer Jones DOB: 01/17/1960
+SSN: 905-71-3149 Phone: 793-275-8768
+Address: 2356 Cedar St, Atlanta, GA 82287
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 09/01/2019 Treating Physician: Dr. Rodriguez
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 09/01/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Taylor, MD
+License: 198115
+Date: 09/03/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0123.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jennifer Jones
+Claim: CLM-AU0123
+Total Estimated Repairs: $17,146
+Prepared for: Liberty Mutual

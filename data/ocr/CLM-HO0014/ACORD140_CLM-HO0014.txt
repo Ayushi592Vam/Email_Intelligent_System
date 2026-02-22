@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/19/2019
+INSURED INFORMATION
+Name: James Garcia
+Property Address: 9978 Maple Ave
+Miami, FL 76997
+Phone: 286-230-3796
+Email: james.garcia@example.com
+INSURANCE COMPANY
+Company: State Farm
+Policy Number: HO2000014
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1995
+Square Footage: 1343 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0014
+Date of Loss: 11/18/2019
+Time of Loss: 12:45 PM
+Cause of Loss: Water Damage
+Estimated Damage: $7,945
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals moderate damage to in
+terior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0008.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/18/2019
+INSURED INFORMATION
+Name: Mary Wilson
+Property Address: 7006 Oak Blvd
+Miami, FL 15497
+Phone: 655-800-6105
+Email: mary.wilson@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000008
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1973
+Square Footage: 3496 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0008
+Date of Loss: 11/16/2019
+Time of Loss: 7:00 PM
+Cause of Loss: Liability
+Estimated Damage: $8,390
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals structural damage requir
+ing immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0008.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0008.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Wilson
+Claim: CLM-HO0008
+Total Estimated Repairs: $8,390
+Prepared for: Progressive

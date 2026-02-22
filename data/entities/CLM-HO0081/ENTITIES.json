@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0081",
+  "policy_number": "HO2000081",
+  "insured_name": "Sarah Jackson",
+  "carrier": "Farmers",
+  "date_of_loss": "10/20/2019",
+  "estimated_amount": "30272",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4623 Elm Ln, Los Angeles, CA 81746",
+  "loss_type": "natural disaster"
+}

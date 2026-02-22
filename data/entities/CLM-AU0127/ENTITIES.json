@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0127",
+  "policy_number": "AU1000127",
+  "insured_name": "Susan Garcia",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "10/11/2019",
+  "estimated_amount": "45452",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2016 Chevrolet Silverado",
+  "vin": "DGXZ53DB2XVSZJF8H",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

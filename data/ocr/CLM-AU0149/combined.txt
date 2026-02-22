@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0149.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/06/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Thomas Johnson
+4025 Stockard Drive, Suite 876 1809 Maple Ave
+Frisco, TX 75034 Chicago, IL 29359
+Phone: 955-392-8296 Phone: 790-523-6546
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Farmers
+Policy Number: AU1000149
+Effective Date: 12/03/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000149 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0149
+Date of Loss: 12/03/2019
+Estimated Amount: $54,227
+Vehicle: 2019 Chevrolet Silverado, VIN: X9YPJB039C783F631
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0149.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0149.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0149.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/06/2019 Claim: CLM-AU0149
+PATIENT INFORMATION
+Name: Thomas Johnson DOB: 06/25/1975
+SSN: 871-24-3569 Phone: 790-523-6546
+Address: 1809 Maple Ave, Chicago, IL 29359
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 12/03/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 12/03/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Moore, MD
+License: 398848
+Date: 12/06/2019
+
+
+===== FILE: POLICE_CLM-AU0149.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Chicago Police Department Report #: 2019225865
+INCIDENT INFORMATION
+Date/Time: 12/03/2019 at 08:13
+Location: 1749 Oak Blvd, Chicago, IL
+Type: Collision
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Thomas Johnson
+License: IL78823334
+Vehicle: 2019 Chevrolet Silverado, VIN: X9YPJB039C783F631
+Driver 2: Sarah Martinez
+Vehicle: 2015 Chevrolet Silverado
+NARRATIVE
+On 12/03/2019, at approximately 10:36, officers responded to
+a collision at the intersection of 5180 Main Ave. Upon arrival, officers observed
+when Driver 2 (Sarah Martinez) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 3982
+Date: 12/06/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0149.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Johnson
+Claim: CLM-AU0149
+Total Estimated Repairs: $54,227
+Prepared for: Farmers

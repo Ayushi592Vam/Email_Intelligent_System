@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Karen Anderson
+Claim: CLM-AU0011
+Total Estimated Repairs: $11,521
+Prepared for: State Farm

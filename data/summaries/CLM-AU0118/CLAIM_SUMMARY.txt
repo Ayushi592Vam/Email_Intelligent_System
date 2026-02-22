@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0118
+Policy Number: AU1000118
+Insured: Robert Jones
+Carrier: Progressive
+Date of Loss: 01/09/2020
+Estimated Amount: $22,234
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2018 Chevrolet Silverado | VIN: WS91EGJ1UPZWRB92M
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

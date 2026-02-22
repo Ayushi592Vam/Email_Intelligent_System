@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0131",
+  "policy_number": "AU1000131",
+  "insured_name": "William Williams",
+  "carrier": "Progressive",
+  "date_of_loss": "01/08/2020",
+  "estimated_amount": "30671",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Chevrolet Silverado",
+  "vin": "RLMJ3U7JNG5A97341",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

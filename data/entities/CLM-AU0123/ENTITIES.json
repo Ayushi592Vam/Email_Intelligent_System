@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0123",
+  "policy_number": "AU1000123",
+  "insured_name": "Jennifer Jones",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "09/01/2019",
+  "estimated_amount": "17146",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 Chevrolet Silverado",
+  "vin": "2L1N0KAMTVPA6HGXP",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

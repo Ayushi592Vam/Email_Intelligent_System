@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0003
+Policy Number: AU1000003
+Insured: John Wilson
+Carrier: Progressive
+Date of Loss: 09/16/2019
+Estimated Amount: $11,270
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2017 Honda Accord | VIN: T6J7AH8USURFPN0EG
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

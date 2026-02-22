@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0147.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/24/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Barbara Martinez
+4025 Stockard Drive, Suite 876 3410 Park Blvd
+Frisco, TX 75034 Atlanta, GA 44059
+Phone: 355-540-8251 Phone: 649-966-2364
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000147
+Effective Date: 09/19/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000147 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0147
+Date of Loss: 09/19/2019
+Estimated Amount: $9,985
+Vehicle: 2019 Chevrolet Silverado, VIN: HTZRZK8C4AZHKG2N8
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0147.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0147.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Atlanta Police Department Report #: 2019946982
+INCIDENT INFORMATION
+Date/Time: 09/19/2019 at 07:14
+Location: 2593 Cedar Ct, Atlanta, GA
+Type: Comprehensive
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Barbara Martinez
+License: GA40418025
+Vehicle: 2019 Chevrolet Silverado, VIN: HTZRZK8C4AZHKG2N8
+Driver 2: Susan Miller
+Vehicle: 2016 Ford F-150
+NARRATIVE
+On 09/19/2019, at approximately 19:00, officers responded to
+a comprehensive at the intersection of 4049 Oak Blvd. Upon arrival, officers observed
+when Driver 2 (Susan Miller) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 3404
+Date: 09/24/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0147.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Barbara Martinez
+Claim: CLM-AU0147
+Total Estimated Repairs: $9,985
+Prepared for: State Farm

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0102
+Policy Number: AU1000102
+Insured: John Rodriguez
+Carrier: Allstate
+Date of Loss: 12/09/2019
+Estimated Amount: $8,227
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2015 Ford F | VIN: 0YLV75R00GCJJMFW2
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

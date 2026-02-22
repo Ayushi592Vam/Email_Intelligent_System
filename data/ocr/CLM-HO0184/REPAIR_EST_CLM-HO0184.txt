@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Gonzalez
+Claim: CLM-HO0184
+Total Estimated Repairs: $45,841
+Prepared for: Progressive

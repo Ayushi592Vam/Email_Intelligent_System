@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Jackson
+Claim: CLM-HO0022
+Total Estimated Repairs: $40,892
+Prepared for: Geico

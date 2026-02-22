@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 07/28/2019 Claim: CLM-AU0132
+PATIENT INFORMATION
+Name: Richard Taylor DOB: 07/25/1951
+SSN: 890-55-7221 Phone: 822-786-5923
+Address: 271 Pine Blvd, Atlanta, GA 82821
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 07/23/2019 Treating Physician: Dr. Williams
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 07/23/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Smith, MD
+License: 182851
+Date: 07/28/2019

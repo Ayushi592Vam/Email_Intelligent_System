@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Garcia
+Claim: CLM-HO0140
+Total Estimated Repairs: $33,906
+Prepared for: Allstate

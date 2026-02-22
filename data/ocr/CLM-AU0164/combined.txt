@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0164.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/05/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Christopher Rodriguez
+4025 Stockard Drive, Suite 876 6054 Park Blvd
+Frisco, TX 75034 Dallas, TX 27735
+Phone: 645-649-1276 Phone: 552-487-5087
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Liberty Mutual
+Policy Number: AU1000164
+Effective Date: 10/05/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000164 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0164
+Date of Loss: 10/05/2019
+Estimated Amount: $8,602
+Vehicle: 2016 BMW 3 Series, VIN: G4LV4CKZS5CCT3U99
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0164.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0164.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019606379
+INCIDENT INFORMATION
+Date/Time: 10/05/2019 at 10:47
+Location: 5113 Elm Ct, Dallas, TX
+Type: Collision
+Weather: Foggy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Christopher Rodriguez
+License: TX50292675
+Vehicle: 2016 BMW 3 Series, VIN: G4LV4CKZS5CCT3U99
+Driver 2: Elizabeth Martin
+Vehicle: 2012 Honda Accord
+NARRATIVE
+On 10/05/2019, at approximately 19:42, officers responded to
+a collision at the intersection of 8504 Maple Ln. Upon arrival, officers observed
+when Driver 2 (Elizabeth Martin) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 2342
+Date: 10/05/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0164.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Christopher Rodriguez
+Claim: CLM-AU0164
+Total Estimated Repairs: $8,602
+Prepared for: Liberty Mutual

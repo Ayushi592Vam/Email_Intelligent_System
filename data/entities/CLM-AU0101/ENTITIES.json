@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0101",
+  "policy_number": "AU1000101",
+  "insured_name": "Robert Wilson",
+  "carrier": "Travelers",
+  "date_of_loss": "12/17/2019",
+  "estimated_amount": "3219",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Toyota Camry",
+  "vin": "51DG0SBW3ZHZ7P9XD",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

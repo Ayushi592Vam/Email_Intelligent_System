@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0085",
+  "policy_number": "HO2000085",
+  "insured_name": "Mary Davis",
+  "carrier": "Nationwide",
+  "date_of_loss": "10/16/2019",
+  "estimated_amount": "116031",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3579 Washington Dr, Atlanta, GA 49237",
+  "loss_type": "natural disaster"
+}

@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/17/2019
+INSURED INFORMATION
+Name: Thomas Jones
+Property Address: 5186 Park Blvd
+Miami, FL 62294
+Phone: 600-448-1494
+Email: thomas.jones@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000216
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1993
+Square Footage: 1819 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0216
+Date of Loss: 12/17/2019
+Time of Loss: 1:45 AM
+Cause of Loss: Theft
+Estimated Damage: $6,837
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals structural damage requiring
+immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

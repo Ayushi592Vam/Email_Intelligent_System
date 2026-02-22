@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Brown
+Claim: CLM-HO0078
+Total Estimated Repairs: $38,955
+Prepared for: Geico

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0120",
+  "policy_number": "HO2000120",
+  "insured_name": "James Martin",
+  "carrier": "Farmers",
+  "date_of_loss": "12/22/2019",
+  "estimated_amount": "19499",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8064 Park Ln, Atlanta, GA 57739",
+  "loss_type": "fire"
+}

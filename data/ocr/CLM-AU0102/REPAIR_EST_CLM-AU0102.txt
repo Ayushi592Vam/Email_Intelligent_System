@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Rodriguez
+Claim: CLM-AU0102
+Total Estimated Repairs: $8,227
+Prepared for: Allstate

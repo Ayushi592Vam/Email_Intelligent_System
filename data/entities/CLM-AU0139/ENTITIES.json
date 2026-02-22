@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0139",
+  "policy_number": "AU1000139",
+  "insured_name": "Christopher Lopez",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "09/30/2019",
+  "estimated_amount": "32065",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2018 Tesla Model",
+  "vin": "MPS2DERL5X8C5E5CT",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

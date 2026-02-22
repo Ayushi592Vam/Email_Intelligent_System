@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0018.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/19/2019
+INSURED INFORMATION
+Name: Susan Davis
+Property Address: 4069 Cedar Ave
+New York, NY 26537
+Phone: 393-830-3486
+Email: susan.davis@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000018
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1984
+Square Footage: 1877 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0018
+Date of Loss: 08/17/2019
+Time of Loss: 12:30 AM
+Cause of Loss: Theft
+Estimated Damage: $111,299
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals significant water intrusion
+affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0018.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0018.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0018.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Davis
+Claim: CLM-HO0018
+Total Estimated Repairs: $111,299
+Prepared for: Farmers

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0190",
+  "policy_number": "HO2000190",
+  "insured_name": "Christopher Rodriguez",
+  "carrier": "Nationwide",
+  "date_of_loss": "09/26/2019",
+  "estimated_amount": "18523",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "5249 Park Ave, Miami, FL 25987",
+  "loss_type": "water damage"
+}

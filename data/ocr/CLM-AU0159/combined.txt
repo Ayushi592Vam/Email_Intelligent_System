@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0159.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/21/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Joseph Hernandez
+4025 Stockard Drive, Suite 876 2431 Pine Ave
+Frisco, TX 75034 Chicago, IL 91682
+Phone: 984-397-5931 Phone: 727-785-3198
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000159
+Effective Date: 10/20/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000159 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0159
+Date of Loss: 10/20/2019
+Estimated Amount: $14,731
+Vehicle: 2015 Honda Accord, VIN: 58JEFPU615S14Z5ZR
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0159.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0159.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0159.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Chicago Police Department Report #: 2019761496
+INCIDENT INFORMATION
+Date/Time: 10/20/2019 at 13:25
+Location: 5308 Maple Ln, Chicago, IL
+Type: Comprehensive
+Weather: Foggy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Joseph Hernandez
+License: IL34625015
+Vehicle: 2015 Honda Accord, VIN: 58JEFPU615S14Z5ZR
+Driver 2: John Moore
+Vehicle: 2019 Tesla Model 3
+NARRATIVE
+On 10/20/2019, at approximately 09:07, officers responded to
+a comprehensive at the intersection of 4199 Main Ave. Upon arrival, officers observed
+when Driver 2 (John Moore) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 2663
+Date: 10/21/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0159.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Hernandez
+Claim: CLM-AU0159
+Total Estimated Repairs: $14,731
+Prepared for: Allstate

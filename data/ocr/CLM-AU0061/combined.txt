@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0061.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/17/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Joseph Jackson
+4025 Stockard Drive, Suite 876 5067 Maple St
+Frisco, TX 75034 Atlanta, GA 44255
+Phone: 306-585-3985 Phone: 643-569-4866
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000061
+Effective Date: 09/13/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000061 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0061
+Date of Loss: 09/13/2019
+Estimated Amount: $61,722
+Vehicle: 2019 Honda Accord, VIN: DXV5G6BUE2M4FMBS8
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0061.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0061.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0061.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/17/2019 Claim: CLM-AU0061
+PATIENT INFORMATION
+Name: Joseph Jackson DOB: 07/03/1968
+SSN: 847-27-1224 Phone: 643-569-4866
+Address: 5067 Maple St, Atlanta, GA 44255
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 09/13/2019 Treating Physician: Dr. Rodriguez
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 09/13/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Lopez, MD
+License: 564733
+Date: 09/17/2019
+
+
+===== FILE: POLICE_CLM-AU0061.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Atlanta Police Department Report #: 2019559593
+INCIDENT INFORMATION
+Date/Time: 09/13/2019 at 14:06
+Location: 6679 Washington Dr, Atlanta, GA
+Type: Uninsured Motorist
+Weather: Foggy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Joseph Jackson
+License: GA34638185
+Vehicle: 2019 Honda Accord, VIN: DXV5G6BUE2M4FMBS8
+Driver 2: Linda Anderson
+Vehicle: 2018 Chevrolet Silverado
+NARRATIVE
+On 09/13/2019, at approximately 13:09, officers responded to
+a uninsured motorist at the intersection of 945 Elm Ct. Upon arrival, officers observed
+when Driver 2 (Linda Anderson) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 6098
+Date: 09/17/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0061.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Jackson
+Claim: CLM-AU0061
+Total Estimated Repairs: $61,722
+Prepared for: Allstate

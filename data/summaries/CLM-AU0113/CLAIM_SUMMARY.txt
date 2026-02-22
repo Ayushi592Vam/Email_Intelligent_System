@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0113
+Policy Number: AU1000113
+Insured: Barbara Moore
+Carrier: Allstate
+Date of Loss: 09/01/2019
+Estimated Amount: $11,569
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2018 Toyota Camry | VIN: ZWD8GZW4R80XZNH6R
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

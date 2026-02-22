@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0079.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/24/2019
+INSURED INFORMATION
+Name: Susan Moore
+Property Address: 8928 Main Blvd
+Miami, FL 94347
+Phone: 205-344-5510
+Email: susan.moore@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000079
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2005
+Square Footage: 2531 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0079
+Date of Loss: 07/20/2019
+Time of Loss: 3:30 AM
+Cause of Loss: Liability
+Estimated Damage: $19,259
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0079.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0079.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0079.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Moore
+Claim: CLM-HO0079
+Total Estimated Repairs: $19,259
+Prepared for: Farmers

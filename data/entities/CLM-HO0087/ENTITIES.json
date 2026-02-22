@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0087",
+  "policy_number": "HO2000087",
+  "insured_name": "Michael Smith",
+  "carrier": "Geico",
+  "date_of_loss": "08/24/2019",
+  "estimated_amount": "113921",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3822 Main Ave, Atlanta, GA 52087",
+  "loss_type": "water damage"
+}

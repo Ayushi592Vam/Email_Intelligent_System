@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/25/2019
+INSURED INFORMATION
+Name: Sarah Jackson
+Property Address: 4623 Elm Ln
+Los Angeles, CA 81746
+Phone: 521-985-6118
+Email: sarah.jackson@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000081
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1987
+Square Footage: 2574 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0081
+Date of Loss: 10/20/2019
+Time of Loss: 4:15 AM
+Cause of Loss: Natural Disaster
+Estimated Damage: $30,272
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals extensive fire da
+mage to roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

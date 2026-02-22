@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0005
+Policy Number: AU1000005
+Insured: Sarah Williams
+Carrier: Nationwide
+Date of Loss: 10/03/2019
+Estimated Amount: $10,008
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2019 BMW 3 | VIN: ELGW67G1WFVE3XYXU
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

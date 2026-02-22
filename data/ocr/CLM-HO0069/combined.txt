@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0069.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/15/2019
+INSURED INFORMATION
+Name: Susan Davis
+Property Address: 7709 Park Ave
+Chicago, IL 94133
+Phone: 807-785-5757
+Email: susan.davis@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000069
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2005
+Square Footage: 2125 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0069
+Date of Loss: 11/12/2019
+Time of Loss: 12:00 PM
+Cause of Loss: Fire
+Estimated Damage: $74,339
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals structural damage requiring i
+mmediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0069.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0069.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0069.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Davis
+Claim: CLM-HO0069
+Total Estimated Repairs: $74,339
+Prepared for: Geico

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0107",
+  "policy_number": "HO2000107",
+  "insured_name": "Elizabeth Hernandez",
+  "carrier": "Nationwide",
+  "date_of_loss": "09/21/2019",
+  "estimated_amount": "13551",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6990 Park Dr, Phoenix, AZ 72915",
+  "loss_type": "natural disaster"
+}

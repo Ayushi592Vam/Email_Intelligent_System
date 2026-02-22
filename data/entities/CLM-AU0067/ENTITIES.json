@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0067",
+  "policy_number": "AU1000067",
+  "insured_name": "William Williams",
+  "carrier": "Nationwide",
+  "date_of_loss": "11/12/2019",
+  "estimated_amount": "4292",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Audi A4",
+  "vin": "BJ1U6FBR1CLB0D77S",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

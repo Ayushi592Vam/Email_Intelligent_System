@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0167",
+  "policy_number": "HO2000167",
+  "insured_name": "Thomas Anderson",
+  "carrier": "Travelers",
+  "date_of_loss": "11/04/2019",
+  "estimated_amount": "22356",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8453 Park Blvd, Miami, FL 20983",
+  "loss_type": "fire"
+}

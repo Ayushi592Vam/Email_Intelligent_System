@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/07/2020 Claim: CLM-AU0148
+PATIENT INFORMATION
+Name: Elizabeth Davis DOB: 07/18/1975
+SSN: 850-79-3304 Phone: 277-207-5451
+Address: 7873 Oak Ln, Houston, TX 38335
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 01/04/2020 Treating Physician: Dr. Lopez
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 01/04/2020.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Miller, MD
+License: 748162
+Date: 01/07/2020

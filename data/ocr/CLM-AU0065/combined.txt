@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0065.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/15/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services David Lopez
+4025 Stockard Drive, Suite 876 7362 Oak Dr
+Frisco, TX 75034 Miami, FL 55498
+Phone: 279-632-8817 Phone: 626-887-3319
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Farmers
+Policy Number: AU1000065
+Effective Date: 11/13/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000065 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0065
+Date of Loss: 11/13/2019
+Estimated Amount: $48,017
+Vehicle: 2018 Honda Accord, VIN: DB2FDYV9AWP4FSTHP
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0065.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0065.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0065.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/15/2019 Claim: CLM-AU0065
+PATIENT INFORMATION
+Name: David Lopez DOB: 09/20/1962
+SSN: 505-10-4441 Phone: 626-887-3319
+Address: 7362 Oak Dr, Miami, FL 55498
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 11/13/2019 Treating Physician: Dr. Johnson
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 11/13/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Wilson, MD
+License: 590489
+Date: 11/15/2019
+
+
+===== FILE: POLICE_CLM-AU0065.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019444471
+INCIDENT INFORMATION
+Date/Time: 11/13/2019 at 08:01
+Location: 2762 Oak St, Miami, FL
+Type: Comprehensive
+Weather: Cloudy, Road: Icy
+PARTIES INVOLVED
+Driver 1: David Lopez
+License: FL75865675
+Vehicle: 2018 Honda Accord, VIN: DB2FDYV9AWP4FSTHP
+Driver 2: Jessica Martin
+Vehicle: 2019 Ford F-150
+NARRATIVE
+On 11/13/2019, at approximately 15:56, officers responded to
+a comprehensive at the intersection of 1800 Maple Ct. Upon arrival, officers observed
+when Driver 2 (Jessica Martin) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 3129
+Date: 11/15/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0065.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Lopez
+Claim: CLM-AU0065
+Total Estimated Repairs: $48,017
+Prepared for: Farmers

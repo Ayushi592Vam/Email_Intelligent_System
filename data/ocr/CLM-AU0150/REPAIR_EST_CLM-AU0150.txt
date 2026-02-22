@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Linda Brown
+Claim: CLM-AU0150
+Total Estimated Repairs: $81,134
+Prepared for: Allstate

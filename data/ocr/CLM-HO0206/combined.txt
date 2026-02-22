@@ -1,0 +1,79 @@
+
+===== FILE: ACORD140_CLM-HO0206.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/03/2019
+INSURED INFORMATION
+Name: Jessica Hernandez
+Property Address: 8513 Maple Ave
+Chicago, IL 26290
+Phone: 298-668-2832
+Email: jessica.hernandez@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000206
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2006
+Square Footage: 2238 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0206
+Date of Loss: 10/01/2019
+Time of Loss: 12:30 PM
+Cause of Loss: Liability
+Estimated Damage: $52,394
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0206.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0206.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0206.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/03/2019 Claim: CLM-HO0206
+PATIENT INFORMATION
+Name: Jessica Hernandez DOB: 04/21/1972
+SSN: 149-88-2660 Phone: 298-668-2832
+Address: 8513 Maple Ave, Chicago, IL 26290
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 10/01/2019 Treating Physician: Dr. Smith
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 10/01/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Jackson, MD
+License: 105815
+Date: 10/03/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0206.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Hernandez
+Claim: CLM-HO0206
+Total Estimated Repairs: $52,394
+Prepared for: Allstate

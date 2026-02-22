@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0142",
+  "policy_number": "AU1000142",
+  "insured_name": "Mary Garcia",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "09/06/2019",
+  "estimated_amount": "33624",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2015 Honda Accord",
+  "vin": "VDLEWX60C7B7DB0U3",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

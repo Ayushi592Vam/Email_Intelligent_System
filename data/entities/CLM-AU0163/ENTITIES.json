@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0163",
+  "policy_number": "AU1000163",
+  "insured_name": "Karen Davis",
+  "carrier": "Farmers",
+  "date_of_loss": "08/14/2019",
+  "estimated_amount": "10459",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2017 Tesla Model",
+  "vin": "2BNWG2W5E1DJM3Z2V",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

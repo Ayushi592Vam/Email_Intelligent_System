@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/31/2019 Claim: CLM-HO0006
+PATIENT INFORMATION
+Name: Michael Lopez DOB: 05/14/1952
+SSN: 545-22-4468 Phone: 618-749-2373
+Address: 5422 Oak Ct, Phoenix, AZ 14256
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 10/29/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 10/29/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Williams, MD
+License: 512195
+Date: 10/31/2019

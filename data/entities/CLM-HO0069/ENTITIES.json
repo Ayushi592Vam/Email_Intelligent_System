@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0069",
+  "policy_number": "HO2000069",
+  "insured_name": "Susan Davis",
+  "carrier": "Geico",
+  "date_of_loss": "11/12/2019",
+  "estimated_amount": "74339",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7709 Park Ave, Chicago, IL 94133",
+  "loss_type": "fire"
+}

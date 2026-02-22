@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/02/2019 Claim: CLM-AU0085
+PATIENT INFORMATION
+Name: Elizabeth Martin DOB: 07/11/1977
+SSN: 615-54-9655 Phone: 587-743-3619
+Address: 1351 Cedar Dr, Houston, TX 70611
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 11/27/2019 Treating Physician: Dr. Anderson
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 11/27/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Lopez, MD
+License: 831824
+Date: 12/02/2019

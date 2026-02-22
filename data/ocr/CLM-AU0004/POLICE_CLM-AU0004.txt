@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Phoenix Police Department Report #: 2019771662
+INCIDENT INFORMATION
+Date/Time: 12/29/2019 at 09:07
+Location: 3423 Elm Dr, Phoenix, AZ
+Type: Collision
+Weather: Foggy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Susan Martin
+License: AZ31854956
+Vehicle: 2016 Tesla Model 3, VIN: P8WAT63CDC7ZF0BZZ
+Driver 2: Thomas Johnson
+Vehicle: 2013 Honda Accord
+NARRATIVE
+On 12/29/2019, at approximately 21:07, officers responded to
+a collision at the intersection of 1888 Pine Dr. Upon arrival, officers observed
+when Driver 2 (Thomas Johnson) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 9787
+Date: 01/03/2020

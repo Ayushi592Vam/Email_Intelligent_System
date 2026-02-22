@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0147",
+  "policy_number": "AU1000147",
+  "insured_name": "Barbara Martinez",
+  "carrier": "State Farm",
+  "date_of_loss": "09/19/2019",
+  "estimated_amount": "9985",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Chevrolet Silverado",
+  "vin": "HTZRZK8C4AZHKG2N8",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

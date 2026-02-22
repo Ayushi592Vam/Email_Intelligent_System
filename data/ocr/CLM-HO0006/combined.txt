@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0006.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/31/2019
+INSURED INFORMATION
+Name: Michael Lopez
+Property Address: 5422 Oak Ct
+Phoenix, AZ 14256
+Phone: 618-749-2373
+Email: michael.lopez@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000006
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1975
+Square Footage: 1492 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0006
+Date of Loss: 10/29/2019
+Time of Loss: 7:15 PM
+Cause of Loss: Fire
+Estimated Damage: $53,258
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals significant water intrusion a
+ffecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0006.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0006.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/31/2019 Claim: CLM-HO0006
+PATIENT INFORMATION
+Name: Michael Lopez DOB: 05/14/1952
+SSN: 545-22-4468 Phone: 618-749-2373
+Address: 5422 Oak Ct, Phoenix, AZ 14256
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 10/29/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 10/29/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Williams, MD
+License: 512195
+Date: 10/31/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0006.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Lopez
+Claim: CLM-HO0006
+Total Estimated Repairs: $53,258
+Prepared for: Liberty Mutual

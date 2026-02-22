@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Gonzalez
+Claim: CLM-AU0050
+Total Estimated Repairs: $6,458
+Prepared for: Allstate

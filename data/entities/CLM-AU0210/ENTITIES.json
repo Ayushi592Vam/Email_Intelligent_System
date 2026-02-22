@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0210",
+  "policy_number": "AU1000210",
+  "insured_name": "Linda Hernandez",
+  "carrier": "Nationwide",
+  "date_of_loss": "12/09/2019",
+  "estimated_amount": "74011",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2018 Ford F",
+  "vin": "G7P22ZCP414ZF0YL5",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

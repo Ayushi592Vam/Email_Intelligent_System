@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/18/2019 Claim: CLM-AU0019
+PATIENT INFORMATION
+Name: Elizabeth Rodriguez DOB: 11/08/1951
+SSN: 276-11-7105 Phone: 660-292-2768
+Address: 5442 Cedar Ave, Chicago, IL 91149
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 08/13/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 08/13/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Smith, MD
+License: 341499
+Date: 08/18/2019

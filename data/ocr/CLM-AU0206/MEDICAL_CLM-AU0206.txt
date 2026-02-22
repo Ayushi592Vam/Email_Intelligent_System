@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/23/2019 Claim: CLM-AU0206
+PATIENT INFORMATION
+Name: Robert Taylor DOB: 12/04/1957
+SSN: 148-21-9229 Phone: 359-358-3378
+Address: 9814 Main Dr, Houston, TX 80431
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 08/20/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 08/20/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Martinez, MD
+License: 421696
+Date: 08/23/2019

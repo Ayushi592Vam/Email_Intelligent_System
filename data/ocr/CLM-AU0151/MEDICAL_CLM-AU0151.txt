@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/20/2019 Claim: CLM-AU0151
+PATIENT INFORMATION
+Name: James Hernandez DOB: 02/24/1970
+SSN: 422-82-4940 Phone: 872-640-8616
+Address: 7249 Washington Ct, Los Angeles, CA 58533
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 08/18/2019 Treating Physician: Dr. Moore
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 08/18/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Johnson, MD
+License: 313993
+Date: 08/20/2019

@@ -1,0 +1,11 @@
+{
+  "claim_number": "CLM-AU0125",
+  "claim_type": "AUTO",
+  "severity": "HIGH",
+  "severity_score": 70,
+  "signals_detected": [
+    "INJURY_REPORTED",
+    "POLICE_INVOLVEMENT",
+    "AUTO_BODILY_INJURY"
+  ]
+}

@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0072.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/10/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Jennifer Williams
+4025 Stockard Drive, Suite 876 5935 Maple Dr
+Frisco, TX 75034 Atlanta, GA 95879
+Phone: 222-669-1265 Phone: 887-678-6357
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000072
+Effective Date: 12/10/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000072 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0072
+Date of Loss: 12/10/2019
+Estimated Amount: $41,228
+Vehicle: 2015 Chevrolet Silverado, VIN: 08HDGBMBTBHXABG77
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0072.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0072.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Atlanta Police Department Report #: 2019992885
+INCIDENT INFORMATION
+Date/Time: 12/10/2019 at 12:46
+Location: 8637 Park Ct, Atlanta, GA
+Type: Uninsured Motorist
+Weather: Foggy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Jennifer Williams
+License: GA89968786
+Vehicle: 2015 Chevrolet Silverado, VIN: 08HDGBMBTBHXABG77
+Driver 2: Robert Jackson
+Vehicle: 2013 Audi A4
+NARRATIVE
+On 12/10/2019, at approximately 08:44, officers responded to
+a uninsured motorist at the intersection of 7664 Maple Ave. Upon arrival, officers observed
+when Driver 2 (Robert Jackson) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 3909
+Date: 12/10/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0072.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jennifer Williams
+Claim: CLM-AU0072
+Total Estimated Repairs: $41,228
+Prepared for: Nationwide

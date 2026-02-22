@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/18/2019 Claim: CLM-HO0194
+PATIENT INFORMATION
+Name: William Brown DOB: 09/09/1982
+SSN: 352-71-8275 Phone: 515-236-9497
+Address: 7791 Pine Blvd, Atlanta, GA 87233
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 12/16/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 12/16/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Martinez, MD
+License: 693833
+Date: 12/18/2019

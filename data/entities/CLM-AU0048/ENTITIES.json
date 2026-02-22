@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0048",
+  "policy_number": "AU1000048",
+  "insured_name": "Susan Williams",
+  "carrier": "Nationwide",
+  "date_of_loss": "07/20/2019",
+  "estimated_amount": "14792",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Tesla Model",
+  "vin": "5L9R3DCAX37FXFBEN",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

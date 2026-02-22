@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0023",
+  "policy_number": "AU1000023",
+  "insured_name": "James Miller",
+  "carrier": "Geico",
+  "date_of_loss": "01/09/2020",
+  "estimated_amount": "56399",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2018 Ford F",
+  "vin": "UE94MTX7S2B7CPTVT",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

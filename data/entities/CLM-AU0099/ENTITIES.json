@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0099",
+  "policy_number": "AU1000099",
+  "insured_name": "Susan Johnson",
+  "carrier": "Travelers",
+  "date_of_loss": "08/20/2019",
+  "estimated_amount": "23080",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": "2017 Tesla Model",
+  "vin": "MNXFFV20MZ567KARV",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

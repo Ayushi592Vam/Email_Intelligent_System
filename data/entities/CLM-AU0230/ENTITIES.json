@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0230",
+  "policy_number": "AU1000230",
+  "insured_name": "William Anderson",
+  "carrier": "Allstate",
+  "date_of_loss": "12/06/2019",
+  "estimated_amount": "17948",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 Toyota Camry",
+  "vin": "4CLFR4UVD2KLN26BJ",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

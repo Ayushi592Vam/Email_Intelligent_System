@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/22/2019 Claim: CLM-AU0010
+PATIENT INFORMATION
+Name: Patricia Brown DOB: 11/08/1952
+SSN: 662-86-3330 Phone: 606-738-2286
+Address: 8852 Pine Ave, Houston, TX 97779
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 09/20/2019 Treating Physician: Dr. Johnson
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 09/20/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Gonzalez, MD
+License: 915297
+Date: 09/22/2019

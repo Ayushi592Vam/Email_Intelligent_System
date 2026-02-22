@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Rodriguez
+Claim: CLM-HO0236
+Total Estimated Repairs: $113,139
+Prepared for: Allstate

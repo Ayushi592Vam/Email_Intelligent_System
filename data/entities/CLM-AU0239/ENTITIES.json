@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0239",
+  "policy_number": "AU1000239",
+  "insured_name": "Barbara Taylor",
+  "carrier": "Nationwide",
+  "date_of_loss": "11/02/2019",
+  "estimated_amount": "13858",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2015 Toyota Camry",
+  "vin": "S2SKWY64Y5F6TKYC9",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

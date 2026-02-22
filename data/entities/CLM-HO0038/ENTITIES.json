@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0038",
+  "policy_number": "HO2000038",
+  "insured_name": "Joseph Hernandez",
+  "carrier": "Allstate",
+  "date_of_loss": "08/07/2019",
+  "estimated_amount": "7711",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1832 Elm Blvd, Chicago, IL 90276",
+  "loss_type": "liability"
+}

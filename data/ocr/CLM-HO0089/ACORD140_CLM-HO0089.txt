@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/19/2019
+INSURED INFORMATION
+Name: Patricia Moore
+Property Address: 8686 Pine St
+Dallas, TX 56751
+Phone: 305-253-5018
+Email: patricia.moore@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000089
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1997
+Square Footage: 2085 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0089
+Date of Loss: 11/16/2019
+Time of Loss: 4:00 PM
+Cause of Loss: Fire
+Estimated Damage: $22,257
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals moderate damage to interior a
+nd exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

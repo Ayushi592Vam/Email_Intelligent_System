@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Jackson
+Claim: CLM-AU0061
+Total Estimated Repairs: $61,722
+Prepared for: Allstate

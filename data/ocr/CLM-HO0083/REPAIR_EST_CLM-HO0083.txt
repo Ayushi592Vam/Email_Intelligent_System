@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Williams
+Claim: CLM-HO0083
+Total Estimated Repairs: $13,324
+Prepared for: Geico

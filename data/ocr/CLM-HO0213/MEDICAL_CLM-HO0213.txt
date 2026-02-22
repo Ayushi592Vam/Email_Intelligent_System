@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/26/2019 Claim: CLM-HO0213
+PATIENT INFORMATION
+Name: Christopher Davis DOB: 10/28/1968
+SSN: 686-53-8488 Phone: 881-542-7423
+Address: 3886 Pine Blvd, Dallas, TX 75172
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 10/22/2019 Treating Physician: Dr. Gonzalez
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 10/22/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Martin, MD
+License: 293309
+Date: 10/26/2019

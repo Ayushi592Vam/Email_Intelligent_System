@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Jones
+Claim: CLM-AU0041
+Total Estimated Repairs: $31,494
+Prepared for: State Farm

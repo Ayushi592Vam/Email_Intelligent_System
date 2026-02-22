@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0126
+Policy Number: AU1000126
+Insured: Thomas Moore
+Carrier: Allstate
+Date of Loss: 11/14/2019
+Estimated Amount: $22,039
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2015 Honda Accord | VIN: BRDCZ8KN4B3Y0596T
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

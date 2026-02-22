@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0161",
+  "policy_number": "HO2000161",
+  "insured_name": "Michael Moore",
+  "carrier": "Allstate",
+  "date_of_loss": "07/27/2019",
+  "estimated_amount": "16595",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3869 Park Dr, New York, NY 24830",
+  "loss_type": "natural disaster"
+}

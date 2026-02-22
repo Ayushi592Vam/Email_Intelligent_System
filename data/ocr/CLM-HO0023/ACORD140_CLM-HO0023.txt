@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/10/2019
+INSURED INFORMATION
+Name: Susan Anderson
+Property Address: 8820 Main Dr
+New York, NY 26589
+Phone: 574-906-7474
+Email: susan.anderson@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000023
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2009
+Square Footage: 1674 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0023
+Date of Loss: 09/10/2019
+Time of Loss: 12:15 PM
+Cause of Loss: Liability
+Estimated Damage: $77,231
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0200",
+  "policy_number": "HO2000200",
+  "insured_name": "Karen Martinez",
+  "carrier": "Geico",
+  "date_of_loss": "07/23/2019",
+  "estimated_amount": "5231",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "5010 Elm Dr, Houston, TX 78081",
+  "loss_type": "fire"
+}

@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/01/2019
+INSURED INFORMATION
+Name: Sarah Taylor
+Property Address: 8372 Park Ln
+Dallas, TX 28391
+Phone: 587-669-5181
+Email: sarah.taylor@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000225
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2000
+Square Footage: 2468 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0225
+Date of Loss: 11/28/2019
+Time of Loss: 12:00 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $24,706
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals moderate damage t
+o interior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

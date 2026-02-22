@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0115
+Policy Number: AU1000115
+Insured: Jennifer Smith
+Carrier: State Farm
+Date of Loss: 08/03/2019
+Estimated Amount: $33,553
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2016 Chevrolet Silverado | VIN: 7RK3TNRH5GNGBM733
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

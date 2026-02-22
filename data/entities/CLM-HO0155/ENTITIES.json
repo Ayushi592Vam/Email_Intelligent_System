@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0155",
+  "policy_number": "HO2000155",
+  "insured_name": "William Hernandez",
+  "carrier": "State Farm",
+  "date_of_loss": "07/28/2019",
+  "estimated_amount": "26098",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "5636 Cedar Dr, New York, NY 21371",
+  "loss_type": "vandalism"
+}

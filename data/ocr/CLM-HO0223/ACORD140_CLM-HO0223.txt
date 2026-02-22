@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/15/2019
+INSURED INFORMATION
+Name: Jennifer Martinez
+Property Address: 2512 Cedar Ave
+Miami, FL 58486
+Phone: 423-438-9902
+Email: jennifer.martinez@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000223
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2012
+Square Footage: 2676 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0223
+Date of Loss: 11/12/2019
+Time of Loss: 3:15 AM
+Cause of Loss: Water Damage
+Estimated Damage: $30,396
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals structural damage req
+uiring immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

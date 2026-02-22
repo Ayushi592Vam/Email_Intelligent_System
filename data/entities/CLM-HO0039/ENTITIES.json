@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0039",
+  "policy_number": "HO2000039",
+  "insured_name": "Robert Williams",
+  "carrier": "Progressive",
+  "date_of_loss": "11/24/2019",
+  "estimated_amount": "52234",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "2500 Maple Ln, Phoenix, AZ 73237",
+  "loss_type": "natural disaster"
+}

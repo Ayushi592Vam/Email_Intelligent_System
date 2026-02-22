@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0028",
+  "policy_number": "HO2000028",
+  "insured_name": "Jessica Hernandez",
+  "carrier": "Farmers",
+  "date_of_loss": "12/12/2019",
+  "estimated_amount": "44943",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1209 Pine Ct, Houston, TX 27336",
+  "loss_type": "vandalism"
+}

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Moore
+Claim: CLM-HO0209
+Total Estimated Repairs: $55,192
+Prepared for: Geico

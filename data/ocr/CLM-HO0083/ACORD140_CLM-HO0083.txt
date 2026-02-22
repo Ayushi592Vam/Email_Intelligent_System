@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/18/2019
+INSURED INFORMATION
+Name: Joseph Williams
+Property Address: 3947 Elm St
+New York, NY 15880
+Phone: 260-392-2551
+Email: joseph.williams@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000083
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1977
+Square Footage: 2880 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0083
+Date of Loss: 07/15/2019
+Time of Loss: 5:00 AM
+Cause of Loss: Fire
+Estimated Damage: $13,324
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals extensive fire damage to roof
+and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

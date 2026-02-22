@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0118",
+  "policy_number": "AU1000118",
+  "insured_name": "Robert Jones",
+  "carrier": "Progressive",
+  "date_of_loss": "01/09/2020",
+  "estimated_amount": "22234",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2018 Chevrolet Silverado",
+  "vin": "WS91EGJ1UPZWRB92M",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

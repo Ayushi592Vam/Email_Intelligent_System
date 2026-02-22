@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0216",
+  "policy_number": "HO2000216",
+  "insured_name": "Thomas Jones",
+  "carrier": "Travelers",
+  "date_of_loss": "12/17/2019",
+  "estimated_amount": "6837",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "5186 Park Blvd, Miami, FL 62294",
+  "loss_type": "theft"
+}

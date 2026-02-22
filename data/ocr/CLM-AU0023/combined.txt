@@ -1,0 +1,115 @@
+
+===== FILE: ACORD25_CLM-AU0023.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/09/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services James Miller
+4025 Stockard Drive, Suite 876 5134 Main Blvd
+Frisco, TX 75034 Miami, FL 84836
+Phone: 471-667-8363 Phone: 324-322-7781
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Geico
+Policy Number: AU1000023
+Effective Date: 01/09/2020
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000023 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0023
+Date of Loss: 01/09/2020
+Estimated Amount: $56,399
+Vehicle: 2018 Ford F-150, VIN: UE94MTX7S2B7CPTVT
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0023.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0023.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0023.pdf =====
+--- PAGE 1 ---
+BROWN & PARTNERS LLP
+Attorneys at Law
+448 Elm Ln
+Miami, FL 84836
+Phone: 270-748-1527 | Fax: 943-214-9425
+Date: 01/09/2020
+Geico
+Claims Department
+P.O. Box 12345
+Dallas, TX 82594
+RE: Demand for Settlement - James Miller
+Claim Number: CLM-AU0023
+Date of Loss: 01/09/2020
+Your Insured: James Miller
+Dear Claims Adjuster:
+This firm represents James Miller in connection with the above-referenced claim.
+On 01/09/2020, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $21,198
+Lost Wages: $13,707
+Property Damage: $56,399
+Pain and Suffering: $27,977
+TOTAL DEMAND: $100,015
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+John Smith, Esq.
+Brown & Partners LLP
+Attorney for James Miller
+
+
+===== FILE: POLICE_CLM-AU0023.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019802350
+INCIDENT INFORMATION
+Date/Time: 01/09/2020 at 08:43
+Location: 3717 Maple Dr, Miami, FL
+Type: Uninsured Motorist
+Weather: Cloudy, Road: Icy
+PARTIES INVOLVED
+Driver 1: James Miller
+License: FL13380714
+Vehicle: 2018 Ford F-150, VIN: UE94MTX7S2B7CPTVT
+Driver 2: William Davis
+Vehicle: 2014 Honda Accord
+NARRATIVE
+On 01/09/2020, at approximately 14:53, officers responded to
+a uninsured motorist at the intersection of 6749 Pine Ln. Upon arrival, officers observed
+when Driver 2 (William Davis) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 4502
+Date: 01/09/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0023.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Miller
+Claim: CLM-AU0023
+Total Estimated Repairs: $56,399
+Prepared for: Geico

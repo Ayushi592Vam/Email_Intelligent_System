@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Smith
+Claim: CLM-AU0208
+Total Estimated Repairs: $15,906
+Prepared for: State Farm

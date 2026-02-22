@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0184",
+  "policy_number": "AU1000184",
+  "insured_name": "James Taylor",
+  "carrier": "Nationwide",
+  "date_of_loss": "08/31/2019",
+  "estimated_amount": "18741",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2016 BMW 3",
+  "vin": "43RHETZ9DG2YPY5HC",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

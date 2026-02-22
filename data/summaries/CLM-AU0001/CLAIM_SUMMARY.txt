@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0001
+Policy Number: AU1000001
+Insured: Mary Brown
+Carrier: Allstate
+Date of Loss: 11/20/2019
+Estimated Amount: $12,684
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2019 Toyota Camry | VIN: EVVTB6PFMAH2N1TFV
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

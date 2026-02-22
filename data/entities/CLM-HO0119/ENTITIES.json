@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0119",
+  "policy_number": "HO2000119",
+  "insured_name": "John Martin",
+  "carrier": "Progressive",
+  "date_of_loss": "08/26/2019",
+  "estimated_amount": "29987",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "2265 Maple St, Miami, FL 99845",
+  "loss_type": "liability"
+}

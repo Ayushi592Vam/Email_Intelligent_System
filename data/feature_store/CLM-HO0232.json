@@ -1,0 +1,19 @@
+{
+  "claim_number": "CLM-HO0232",
+  "claim_type": "HOME",
+  "has_medical": false,
+  "has_police": false,
+  "has_legal": false,
+  "num_attachments": 5,
+  "num_photos": 2,
+  "severity": "LOW",
+  "severity_score": 0,
+  "signals": [
+    "HOME_LOSS_THEFT"
+  ],
+  "files_present": [
+    "ACORD",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

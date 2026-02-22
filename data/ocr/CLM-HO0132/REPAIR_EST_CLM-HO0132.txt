@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Johnson
+Claim: CLM-HO0132
+Total Estimated Repairs: $57,867
+Prepared for: Travelers

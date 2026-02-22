@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0062.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/30/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Michael Garcia
+4025 Stockard Drive, Suite 876 2462 Oak St
+Frisco, TX 75034 Houston, TX 77633
+Phone: 345-309-2200 Phone: 689-925-7273
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000062
+Effective Date: 12/25/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000062 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0062
+Date of Loss: 12/25/2019
+Estimated Amount: $36,556
+Vehicle: 2017 BMW 3 Series, VIN: C8WBC55VNLLJULDRP
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0062.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0062.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0062.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Houston Police Department Report #: 2019787521
+INCIDENT INFORMATION
+Date/Time: 12/25/2019 at 07:37
+Location: 8498 Park Ct, Houston, TX
+Type: Comprehensive
+Weather: Clear, Road: Dry
+PARTIES INVOLVED
+Driver 1: Michael Garcia
+License: TX96651839
+Vehicle: 2017 BMW 3 Series, VIN: C8WBC55VNLLJULDRP
+Driver 2: Linda Johnson
+Vehicle: 2016 Toyota Camry
+NARRATIVE
+On 12/25/2019, at approximately 10:36, officers responded to
+a comprehensive at the intersection of 7080 Cedar Blvd. Upon arrival, officers observed
+when Driver 2 (Linda Johnson) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 7038
+Date: 12/30/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0062.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Garcia
+Claim: CLM-AU0062
+Total Estimated Repairs: $36,556
+Prepared for: State Farm

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Lopez
+Claim: CLM-HO0103
+Total Estimated Repairs: $19,470
+Prepared for: Travelers

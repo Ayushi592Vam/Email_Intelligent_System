@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0053",
+  "policy_number": "HO2000053",
+  "insured_name": "Susan Jones",
+  "carrier": "Progressive",
+  "date_of_loss": "11/06/2019",
+  "estimated_amount": "12790",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6664 Washington Dr, Dallas, TX 50438",
+  "loss_type": "liability"
+}

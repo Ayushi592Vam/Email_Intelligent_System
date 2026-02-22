@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0204.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/01/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Mary Jones
+4025 Stockard Drive, Suite 876 1663 Pine St
+Frisco, TX 75034 Atlanta, GA 35951
+Phone: 701-822-1938 Phone: 952-210-7474
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000204
+Effective Date: 11/29/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000204 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0204
+Date of Loss: 11/29/2019
+Estimated Amount: $38,690
+Vehicle: 2016 Audi A4, VIN: MXG2CXRTWYH9CPCYJ
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0204.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0204.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0204.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Atlanta Police Department Report #: 2019518484
+INCIDENT INFORMATION
+Date/Time: 11/29/2019 at 07:08
+Location: 2522 Washington St, Atlanta, GA
+Type: Uninsured Motorist
+Weather: Rainy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Mary Jones
+License: GA61356103
+Vehicle: 2016 Audi A4, VIN: MXG2CXRTWYH9CPCYJ
+Driver 2: Patricia Wilson
+Vehicle: 2015 BMW 3 Series
+NARRATIVE
+On 11/29/2019, at approximately 07:30, officers responded to
+a uninsured motorist at the intersection of 2796 Main St. Upon arrival, officers observed
+when Driver 2 (Patricia Wilson) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 9869
+Date: 12/01/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0204.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Jones
+Claim: CLM-AU0204
+Total Estimated Repairs: $38,690
+Prepared for: Allstate

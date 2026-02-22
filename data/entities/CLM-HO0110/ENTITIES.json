@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0110",
+  "policy_number": "HO2000110",
+  "insured_name": "Elizabeth Lopez",
+  "carrier": "State Farm",
+  "date_of_loss": "01/05/2020",
+  "estimated_amount": "9430",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9675 Washington St, New York, NY 63604",
+  "loss_type": "water damage"
+}

@@ -1,0 +1,17 @@
+{
+  "claim_number": "CLM-AU0090",
+  "claim_type": "AUTO",
+  "has_medical": false,
+  "has_police": false,
+  "has_legal": false,
+  "num_attachments": 4,
+  "num_photos": 1,
+  "severity": "LOW",
+  "severity_score": 0,
+  "signals": [],
+  "files_present": [
+    "ACORD",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

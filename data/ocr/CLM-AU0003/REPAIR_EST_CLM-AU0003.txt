@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Wilson
+Claim: CLM-AU0003
+Total Estimated Repairs: $11,270
+Prepared for: Progressive

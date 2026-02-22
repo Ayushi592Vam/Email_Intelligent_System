@@ -1,0 +1,82 @@
+
+===== FILE: ACORD140_CLM-HO0192.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/03/2019
+INSURED INFORMATION
+Name: Mary Rodriguez
+Property Address: 7486 Elm Dr
+Houston, TX 53772
+Phone: 371-558-6911
+Email: mary.rodriguez@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000192
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2009
+Square Footage: 2948 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0192
+Date of Loss: 10/31/2019
+Time of Loss: 1:15 PM
+Cause of Loss: Water Damage
+Estimated Damage: $27,848
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals significant water int
+rusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0192.png =====
+
+
+
+===== FILE: LEGAL_CLM-HO0192.pdf =====
+--- PAGE 1 ---
+SMITH LEGAL GROUP
+Attorneys at Law
+941 Elm Ln
+Houston, TX 53772
+Phone: 245-755-5221 | Fax: 423-549-9226
+Date: 11/03/2019
+Nationwide
+Claims Department
+P.O. Box 12345
+Dallas, TX 71724
+RE: Demand for Settlement - Mary Rodriguez
+Claim Number: CLM-HO0192
+Date of Loss: 10/31/2019
+Your Insured: Mary Rodriguez
+Dear Claims Adjuster:
+This firm represents Mary Rodriguez in connection with the above-referenced claim.
+On 10/31/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $29,501
+Lost Wages: $9,478
+Property Damage: $27,848
+Pain and Suffering: $63,990
+TOTAL DEMAND: $82,577
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Smith Legal Group
+Attorney for Mary Rodriguez
+
+
+===== FILE: REPAIR_EST_CLM-HO0192.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Rodriguez
+Claim: CLM-HO0192
+Total Estimated Repairs: $27,848
+Prepared for: Nationwide

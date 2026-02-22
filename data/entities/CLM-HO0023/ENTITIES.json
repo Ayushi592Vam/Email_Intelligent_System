@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0023",
+  "policy_number": "HO2000023",
+  "insured_name": "Susan Anderson",
+  "carrier": "Travelers",
+  "date_of_loss": "09/10/2019",
+  "estimated_amount": "77231",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8820 Main Dr, New York, NY 26589",
+  "loss_type": "liability"
+}

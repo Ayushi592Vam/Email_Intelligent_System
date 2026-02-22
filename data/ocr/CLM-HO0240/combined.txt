@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0240.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/17/2019
+INSURED INFORMATION
+Name: Susan Miller
+Property Address: 4315 Washington Blvd
+Chicago, IL 10739
+Phone: 205-274-5661
+Email: susan.miller@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000240
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1991
+Square Footage: 2027 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0240
+Date of Loss: 08/15/2019
+Time of Loss: 6:45 AM
+Cause of Loss: Liability
+Estimated Damage: $75,297
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0240.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0240.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/17/2019 Claim: CLM-HO0240
+PATIENT INFORMATION
+Name: Susan Miller DOB: 12/23/1991
+SSN: 460-24-9227 Phone: 205-274-5661
+Address: 4315 Washington Blvd, Chicago, IL 10739
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 08/15/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 08/15/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Moore, MD
+License: 928099
+Date: 08/17/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0240.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Miller
+Claim: CLM-HO0240
+Total Estimated Repairs: $75,297
+Prepared for: Allstate

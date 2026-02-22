@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0170",
+  "policy_number": "HO2000170",
+  "insured_name": "Michael Jackson",
+  "carrier": "Allstate",
+  "date_of_loss": "09/05/2019",
+  "estimated_amount": "121796",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6935 Park Ave, Dallas, TX 33144",
+  "loss_type": "fire"
+}

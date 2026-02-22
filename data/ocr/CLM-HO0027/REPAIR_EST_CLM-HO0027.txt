@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Jones
+Claim: CLM-HO0027
+Total Estimated Repairs: $61,036
+Prepared for: Farmers

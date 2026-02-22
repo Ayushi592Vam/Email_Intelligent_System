@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0044.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/22/2019
+INSURED INFORMATION
+Name: Michael Garcia
+Property Address: 7677 Oak St
+Los Angeles, CA 34763
+Phone: 478-841-8257
+Email: michael.garcia@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000044
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1984
+Square Footage: 2151 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0044
+Date of Loss: 12/19/2019
+Time of Loss: 11:45 PM
+Cause of Loss: Vandalism
+Estimated Damage: $135,523
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0044.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0044.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0044.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Garcia
+Claim: CLM-HO0044
+Total Estimated Repairs: $135,523
+Prepared for: Nationwide

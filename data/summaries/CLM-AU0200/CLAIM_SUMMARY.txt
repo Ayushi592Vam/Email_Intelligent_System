@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0200
+Policy Number: AU1000200
+Insured: Karen Smith
+Carrier: Allstate
+Date of Loss: 12/05/2019
+Estimated Amount: $16,084
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2019 BMW 3 | VIN: 0FJEW2R8XK85T3R1K
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

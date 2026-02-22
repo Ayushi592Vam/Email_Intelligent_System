@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0111
+Policy Number: AU1000111
+Insured: Mary Garcia
+Carrier: Geico
+Date of Loss: 12/14/2019
+Estimated Amount: $24,835
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2015 Honda Accord | VIN: VTSWSHH3SSXCAX5PJ
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

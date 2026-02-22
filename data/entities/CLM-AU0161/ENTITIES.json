@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0161",
+  "policy_number": "AU1000161",
+  "insured_name": "Patricia Taylor",
+  "carrier": "Travelers",
+  "date_of_loss": "09/06/2019",
+  "estimated_amount": "50764",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Audi A4",
+  "vin": "GXBBB72UMZC3BAA54",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

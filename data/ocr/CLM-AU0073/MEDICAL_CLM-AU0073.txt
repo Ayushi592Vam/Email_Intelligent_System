@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/15/2019 Claim: CLM-AU0073
+PATIENT INFORMATION
+Name: Barbara Martin DOB: 07/16/1977
+SSN: 421-26-9559 Phone: 385-243-3454
+Address: 8186 Main Dr, Atlanta, GA 62383
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 10/12/2019 Treating Physician: Dr. Rodriguez
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 10/12/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Taylor, MD
+License: 512239
+Date: 10/15/2019

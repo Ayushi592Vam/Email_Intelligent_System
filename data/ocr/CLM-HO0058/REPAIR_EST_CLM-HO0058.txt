@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Brown
+Claim: CLM-HO0058
+Total Estimated Repairs: $104,272
+Prepared for: Farmers

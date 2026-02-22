@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Jackson
+Claim: CLM-HO0245
+Total Estimated Repairs: $30,883
+Prepared for: Nationwide

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0153
+Policy Number: AU1000153
+Insured: Mary Hernandez
+Carrier: Liberty Mutual
+Date of Loss: 09/06/2019
+Estimated Amount: $45,687
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2015 Ford F | VIN: AJX82L4SBLT54PW95
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

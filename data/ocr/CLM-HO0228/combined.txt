@@ -1,0 +1,86 @@
+
+===== FILE: ACORD140_CLM-HO0228.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 01/02/2020
+INSURED INFORMATION
+Name: Thomas Gonzalez
+Property Address: 307 Washington Ct
+Los Angeles, CA 68222
+Phone: 501-699-9774
+Email: thomas.gonzalez@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000228
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2005
+Square Footage: 3081 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0228
+Date of Loss: 01/02/2020
+Time of Loss: 9:45 AM
+Cause of Loss: Fire
+Estimated Damage: $28,697
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals structural damage requiring i
+mmediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0228.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0228.png =====
+
+
+
+===== FILE: LEGAL_CLM-HO0228.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+2968 Elm Blvd
+Los Angeles, CA 68222
+Phone: 579-206-2330 | Fax: 457-220-7971
+Date: 01/02/2020
+Farmers
+Claims Department
+P.O. Box 12345
+Dallas, AZ 79602
+RE: Demand for Settlement - Thomas Gonzalez
+Claim Number: CLM-HO0228
+Date of Loss: 01/02/2020
+Your Insured: Thomas Gonzalez
+Dear Claims Adjuster:
+This firm represents Thomas Gonzalez in connection with the above-referenced claim.
+On 01/02/2020, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $13,174
+Lost Wages: $12,918
+Property Damage: $28,697
+Pain and Suffering: $64,197
+TOTAL DEMAND: $95,914
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Johnson & Associates
+Attorney for Thomas Gonzalez
+
+
+===== FILE: REPAIR_EST_CLM-HO0228.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Gonzalez
+Claim: CLM-HO0228
+Total Estimated Repairs: $28,697
+Prepared for: Farmers

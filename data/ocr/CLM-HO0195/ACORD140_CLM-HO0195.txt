@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/24/2019
+INSURED INFORMATION
+Name: Mary Jackson
+Property Address: 5396 Maple Ln
+Dallas, TX 19630
+Phone: 719-271-3371
+Email: mary.jackson@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000195
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1990
+Square Footage: 1300 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0195
+Date of Loss: 07/19/2019
+Time of Loss: 9:00 PM
+Cause of Loss: Theft
+Estimated Damage: $92,725
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals significant water intrusion
+affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

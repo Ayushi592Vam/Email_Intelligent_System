@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0116",
+  "policy_number": "AU1000116",
+  "insured_name": "Jessica Hernandez",
+  "carrier": "State Farm",
+  "date_of_loss": "01/04/2020",
+  "estimated_amount": "14414",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Tesla Model",
+  "vin": "DRYU18YXU8A90V4V5",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

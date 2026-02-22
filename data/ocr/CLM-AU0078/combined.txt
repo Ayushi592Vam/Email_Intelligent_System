@@ -1,0 +1,79 @@
+
+===== FILE: ACORD25_CLM-AU0078.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/18/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services David Johnson
+4025 Stockard Drive, Suite 876 2504 Pine Dr
+Frisco, TX 75034 Chicago, IL 60508
+Phone: 667-555-1494 Phone: 476-511-1333
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000078
+Effective Date: 11/18/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000078 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0078
+Date of Loss: 11/18/2019
+Estimated Amount: $20,184
+Vehicle: 2020 Toyota Camry, VIN: NLU3PJTX9VVTPDE9L
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0078.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0078.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0078.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/18/2019 Claim: CLM-AU0078
+PATIENT INFORMATION
+Name: David Johnson DOB: 08/19/1962
+SSN: 424-93-2099 Phone: 476-511-1333
+Address: 2504 Pine Dr, Chicago, IL 60508
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 11/18/2019 Treating Physician: Dr. Wilson
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 11/18/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Taylor, MD
+License: 508835
+Date: 11/18/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0078.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Johnson
+Claim: CLM-AU0078
+Total Estimated Repairs: $20,184
+Prepared for: Progressive

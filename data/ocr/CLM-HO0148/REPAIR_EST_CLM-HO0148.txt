@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Smith
+Claim: CLM-HO0148
+Total Estimated Repairs: $15,311
+Prepared for: Liberty Mutual

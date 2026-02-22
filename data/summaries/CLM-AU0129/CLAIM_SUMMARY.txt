@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0129
+Policy Number: AU1000129
+Insured: Jennifer Moore
+Carrier: State Farm
+Date of Loss: 08/03/2019
+Estimated Amount: $34,563
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2019 BMW 3 | VIN: 2Y0HNMAE6LETCJL45
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

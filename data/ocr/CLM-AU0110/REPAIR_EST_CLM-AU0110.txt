@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Gonzalez
+Claim: CLM-AU0110
+Total Estimated Repairs: $5,188
+Prepared for: Travelers

@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/12/2019
+INSURED INFORMATION
+Name: Sarah Moore
+Property Address: 7069 Oak Dr
+Dallas, TX 23755
+Phone: 581-388-7527
+Email: sarah.moore@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000047
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1971
+Square Footage: 2545 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0047
+Date of Loss: 10/09/2019
+Time of Loss: 7:30 AM
+Cause of Loss: Fire
+Estimated Damage: $74,948
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals moderate damage to interior a
+nd exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

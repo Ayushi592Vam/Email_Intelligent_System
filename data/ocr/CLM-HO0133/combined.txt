@@ -1,0 +1,82 @@
+
+===== FILE: ACORD140_CLM-HO0133.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/01/2019
+INSURED INFORMATION
+Name: Susan Jones
+Property Address: 4859 Cedar Blvd
+Atlanta, GA 20808
+Phone: 698-908-6484
+Email: susan.jones@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000133
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1989
+Square Footage: 2087 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0133
+Date of Loss: 11/01/2019
+Time of Loss: 5:45 AM
+Cause of Loss: Natural Disaster
+Estimated Damage: $35,000
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals significant water
+intrusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0133.png =====
+
+
+
+===== FILE: LEGAL_CLM-HO0133.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+1534 Cedar Ave
+Atlanta, GA 20808
+Phone: 636-855-3201 | Fax: 222-319-6366
+Date: 11/01/2019
+Farmers
+Claims Department
+P.O. Box 12345
+Phoenix, TX 70691
+RE: Demand for Settlement - Susan Jones
+Claim Number: CLM-HO0133
+Date of Loss: 11/01/2019
+Your Insured: Susan Jones
+Dear Claims Adjuster:
+This firm represents Susan Jones in connection with the above-referenced claim.
+On 11/01/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $29,975
+Lost Wages: $11,960
+Property Damage: $35,000
+Pain and Suffering: $39,455
+TOTAL DEMAND: $88,141
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Johnson & Associates
+Attorney for Susan Jones
+
+
+===== FILE: REPAIR_EST_CLM-HO0133.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Jones
+Claim: CLM-HO0133
+Total Estimated Repairs: $35,000
+Prepared for: Farmers

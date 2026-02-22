@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0191.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/18/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services James Anderson
+4025 Stockard Drive, Suite 876 8801 Elm St
+Frisco, TX 75034 Dallas, TX 45289
+Phone: 614-467-5693 Phone: 395-543-3733
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Travelers
+Policy Number: AU1000191
+Effective Date: 12/14/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000191 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0191
+Date of Loss: 12/14/2019
+Estimated Amount: $28,034
+Vehicle: 2017 Ford F-150, VIN: FCLZH80Z13GH62STZ
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0191.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0191.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0191.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019258367
+INCIDENT INFORMATION
+Date/Time: 12/14/2019 at 11:19
+Location: 4389 Park Dr, Dallas, TX
+Type: Uninsured Motorist
+Weather: Rainy, Road: Wet
+PARTIES INVOLVED
+Driver 1: James Anderson
+License: TX74794856
+Vehicle: 2017 Ford F-150, VIN: FCLZH80Z13GH62STZ
+Driver 2: Thomas Garcia
+Vehicle: 2018 BMW 3 Series
+NARRATIVE
+On 12/14/2019, at approximately 11:55, officers responded to
+a uninsured motorist at the intersection of 1366 Park Ave. Upon arrival, officers observed
+when Driver 2 (Thomas Garcia) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 3606
+Date: 12/18/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0191.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Anderson
+Claim: CLM-AU0191
+Total Estimated Repairs: $28,034
+Prepared for: Travelers

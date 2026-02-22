@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Chicago Police Department Report #: 2019370806
+INCIDENT INFORMATION
+Date/Time: 12/06/2019 at 14:15
+Location: 4948 Pine Ct, Chicago, IL
+Type: Collision
+Weather: Rainy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Patricia Taylor
+License: IL19570257
+Vehicle: 2019 Audi A4, VIN: GTCT995U6DJ9AP7FL
+Driver 2: David Jones
+Vehicle: 2014 Honda Accord
+NARRATIVE
+On 12/06/2019, at approximately 15:55, officers responded to
+a collision at the intersection of 5045 Elm Dr. Upon arrival, officers observed
+when Driver 2 (David Jones) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 7431
+Date: 12/11/2019

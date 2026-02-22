@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0017",
+  "policy_number": "AU1000017",
+  "insured_name": "Richard Williams",
+  "carrier": "State Farm",
+  "date_of_loss": "01/07/2020",
+  "estimated_amount": "20517",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2018 Tesla Model",
+  "vin": "0MX0CX6KVVRMSHGJC",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/06/2019 Claim: CLM-AU0142
+PATIENT INFORMATION
+Name: Mary Garcia DOB: 01/17/1991
+SSN: 608-91-1060 Phone: 635-930-8889
+Address: 4843 Pine Blvd, Chicago, IL 39903
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 09/06/2019 Treating Physician: Dr. Johnson
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 09/06/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Rodriguez, MD
+License: 564582
+Date: 09/06/2019

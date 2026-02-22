@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0007",
+  "policy_number": "AU1000007",
+  "insured_name": "Patricia Smith",
+  "carrier": "Progressive",
+  "date_of_loss": "07/15/2019",
+  "estimated_amount": "5519",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 Toyota Camry",
+  "vin": "SZ7BNTMAKRF6W9SDZ",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

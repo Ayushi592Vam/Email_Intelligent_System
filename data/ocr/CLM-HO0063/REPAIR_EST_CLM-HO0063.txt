@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Johnson
+Claim: CLM-HO0063
+Total Estimated Repairs: $24,576
+Prepared for: Geico

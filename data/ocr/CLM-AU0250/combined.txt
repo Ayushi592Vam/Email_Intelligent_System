@@ -1,0 +1,75 @@
+
+===== FILE: ACORD25_CLM-AU0250.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/13/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Michael Wilson
+4025 Stockard Drive, Suite 876 8961 Washington St
+Frisco, TX 75034 Houston, TX 93768
+Phone: 782-287-4722 Phone: 289-602-3216
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000250
+Effective Date: 11/13/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000250 $250,000 Each Accident
+Category: Personal Liability $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0250
+Date of Loss: 11/13/2019
+Estimated Amount: $8,468
+Vehicle: 2016 Toyota Camry, VIN: 3TU4V39P774K7GZTN
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0250.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0250.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/13/2019 Claim: CLM-AU0250
+PATIENT INFORMATION
+Name: Michael Wilson DOB: 02/27/1967
+SSN: 489-31-6982 Phone: 289-602-3216
+Address: 8961 Washington St, Houston, TX 93768
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 11/13/2019 Treating Physician: Dr. Gonzalez
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 11/13/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Garcia, MD
+License: 330291
+Date: 11/13/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0250.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Wilson
+Claim: CLM-AU0250
+Total Estimated Repairs: $8,468
+Prepared for: Allstate

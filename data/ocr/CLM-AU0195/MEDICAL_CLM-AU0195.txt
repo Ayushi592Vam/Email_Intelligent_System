@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/01/2020 Claim: CLM-AU0195
+PATIENT INFORMATION
+Name: Joseph Gonzalez DOB: 03/21/1986
+SSN: 117-37-8247 Phone: 298-823-8263
+Address: 431 Pine Blvd, Dallas, TX 32434
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 12/31/2019 Treating Physician: Dr. Brown
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 12/31/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Williams, MD
+License: 260352
+Date: 01/01/2020

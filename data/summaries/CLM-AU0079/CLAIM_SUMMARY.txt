@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0079
+Policy Number: AU1000079
+Insured: John Davis
+Carrier: State Farm
+Date of Loss: 11/24/2019
+Estimated Amount: $16,454
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2018 Chevrolet Silverado | VIN: 69FSEPKVE3ZZ7T0CP
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

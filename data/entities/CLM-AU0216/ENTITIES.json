@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0216",
+  "policy_number": "AU1000216",
+  "insured_name": "Barbara Johnson",
+  "carrier": "Allstate",
+  "date_of_loss": "08/10/2019",
+  "estimated_amount": "31677",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 Honda Accord",
+  "vin": "KL1BVG48YETP69KMX",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

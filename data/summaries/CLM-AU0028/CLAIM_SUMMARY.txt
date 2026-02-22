@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0028
+Policy Number: AU1000028
+Insured: Barbara Rodriguez
+Carrier: Travelers
+Date of Loss: 07/25/2019
+Estimated Amount: $8,578
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2015 Honda Accord | VIN: HVZXUEHDP9UPZGYYX
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,104 @@
+
+===== FILE: ACORD25_CLM-AU0160.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/15/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Barbara Miller
+4025 Stockard Drive, Suite 876 2786 Washington Ct
+Frisco, TX 75034 Miami, FL 48120
+Phone: 965-754-9541 Phone: 346-936-2937
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Farmers
+Policy Number: AU1000160
+Effective Date: 11/12/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000160 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0160
+Date of Loss: 11/12/2019
+Estimated Amount: $16,976
+Vehicle: 2020 BMW 3 Series, VIN: AC0WDBTA4R15ABZH0
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0160.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0160.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/15/2019 Claim: CLM-AU0160
+PATIENT INFORMATION
+Name: Barbara Miller DOB: 12/09/1950
+SSN: 135-21-1492 Phone: 346-936-2937
+Address: 2786 Washington Ct, Miami, FL 48120
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 11/12/2019 Treating Physician: Dr. Davis
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 11/12/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Garcia, MD
+License: 213282
+Date: 11/15/2019
+
+
+===== FILE: POLICE_CLM-AU0160.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019291303
+INCIDENT INFORMATION
+Date/Time: 11/12/2019 at 12:08
+Location: 1127 Pine Ct, Miami, FL
+Type: Comprehensive
+Weather: Cloudy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Barbara Miller
+License: FL49922887
+Vehicle: 2020 BMW 3 Series, VIN: AC0WDBTA4R15ABZH0
+Driver 2: Mary Jones
+Vehicle: 2012 Tesla Model 3
+NARRATIVE
+On 11/12/2019, at approximately 15:34, officers responded to
+a comprehensive at the intersection of 2600 Park Ct. Upon arrival, officers observed
+when Driver 2 (Mary Jones) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 9252
+Date: 11/15/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0160.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Barbara Miller
+Claim: CLM-AU0160
+Total Estimated Repairs: $16,976
+Prepared for: Farmers

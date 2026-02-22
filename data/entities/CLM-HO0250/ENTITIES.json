@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0250",
+  "policy_number": "HO2000250",
+  "insured_name": "Christopher Rodriguez",
+  "carrier": "Nationwide",
+  "date_of_loss": "07/30/2019",
+  "estimated_amount": "23254",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7299 Oak Dr, Miami, FL 75333",
+  "loss_type": "theft"
+}

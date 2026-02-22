@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0034.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/20/2019
+INSURED INFORMATION
+Name: David Davis
+Property Address: 5762 Main Ct
+Houston, TX 46439
+Phone: 799-433-5837
+Email: david.davis@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000034
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1999
+Square Footage: 2415 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0034
+Date of Loss: 11/16/2019
+Time of Loss: 7:15 PM
+Cause of Loss: Vandalism
+Estimated Damage: $79,980
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0034.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0034.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Davis
+Claim: CLM-HO0034
+Total Estimated Repairs: $79,980
+Prepared for: Geico

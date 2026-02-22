@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/12/2019
+INSURED INFORMATION
+Name: David Jackson
+Property Address: 6027 Maple Ln
+Houston, TX 24481
+Phone: 494-572-9134
+Email: david.jackson@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000022
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2010
+Square Footage: 2317 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0022
+Date of Loss: 10/10/2019
+Time of Loss: 3:00 PM
+Cause of Loss: Fire
+Estimated Damage: $40,892
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals significant water intrusion a
+ffecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

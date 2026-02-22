@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0245.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/01/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Elizabeth Taylor
+4025 Stockard Drive, Suite 876 3150 Park Ave
+Frisco, TX 75034 Los Angeles, CA 24658
+Phone: 437-601-6941 Phone: 517-731-6084
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Farmers
+Policy Number: AU1000245
+Effective Date: 10/27/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000245 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0245
+Date of Loss: 10/27/2019
+Estimated Amount: $9,681
+Vehicle: 2017 BMW 3 Series, VIN: G022YX1J4WE04XTU0
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0245.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0245.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0245.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Los Angeles Police Department Report #: 2019163233
+INCIDENT INFORMATION
+Date/Time: 10/27/2019 at 17:55
+Location: 338 Main Ave, Los Angeles, CA
+Type: Collision
+Weather: Foggy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Elizabeth Taylor
+License: CA82033862
+Vehicle: 2017 BMW 3 Series, VIN: G022YX1J4WE04XTU0
+Driver 2: Susan Wilson
+Vehicle: 2011 BMW 3 Series
+NARRATIVE
+On 10/27/2019, at approximately 10:30, officers responded to
+a collision at the intersection of 4174 Elm Ave. Upon arrival, officers observed
+when Driver 2 (Susan Wilson) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 9911
+Date: 11/01/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0245.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Taylor
+Claim: CLM-AU0245
+Total Estimated Repairs: $9,681
+Prepared for: Farmers

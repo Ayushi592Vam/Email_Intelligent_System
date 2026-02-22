@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0068",
+  "policy_number": "AU1000068",
+  "insured_name": "Christopher Martin",
+  "carrier": "Travelers",
+  "date_of_loss": "08/13/2019",
+  "estimated_amount": "22561",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2017 Tesla Model",
+  "vin": "TVBBTZDAW8PSER7G2",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

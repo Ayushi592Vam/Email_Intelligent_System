@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0209",
+  "policy_number": "AU1000209",
+  "insured_name": "Elizabeth Garcia",
+  "carrier": "Geico",
+  "date_of_loss": "10/02/2019",
+  "estimated_amount": "27196",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2015 Toyota Camry",
+  "vin": "29NL8G0EB2SX0NSA2",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0218",
+  "policy_number": "AU1000218",
+  "insured_name": "Barbara Johnson",
+  "carrier": "Allstate",
+  "date_of_loss": "08/03/2019",
+  "estimated_amount": "6490",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 BMW 3",
+  "vin": "7CLXRC43XL01PZ2F3",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

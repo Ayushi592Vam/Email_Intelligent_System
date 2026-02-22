@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0239",
+  "policy_number": "HO2000239",
+  "insured_name": "Jennifer Davis",
+  "carrier": "Progressive",
+  "date_of_loss": "12/09/2019",
+  "estimated_amount": "40471",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7587 Elm Ave, Dallas, TX 72509",
+  "loss_type": "vandalism"
+}

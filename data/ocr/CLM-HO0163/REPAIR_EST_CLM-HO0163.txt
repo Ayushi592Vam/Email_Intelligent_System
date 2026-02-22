@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Martinez
+Claim: CLM-HO0163
+Total Estimated Repairs: $71,235
+Prepared for: Travelers

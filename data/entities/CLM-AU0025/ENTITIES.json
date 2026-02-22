@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0025",
+  "policy_number": "AU1000025",
+  "insured_name": "Jennifer Martinez",
+  "carrier": "Travelers",
+  "date_of_loss": "12/27/2019",
+  "estimated_amount": "3684",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 BMW 3",
+  "vin": "MVHNNH2H2T9DVT5XC",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

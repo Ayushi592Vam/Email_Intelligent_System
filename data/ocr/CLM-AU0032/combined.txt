@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0032.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/06/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Christopher Lopez
+4025 Stockard Drive, Suite 876 412 Park Ave
+Frisco, TX 75034 Dallas, TX 25617
+Phone: 997-740-8962 Phone: 770-742-8255
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000032
+Effective Date: 08/05/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000032 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0032
+Date of Loss: 08/05/2019
+Estimated Amount: $4,939
+Vehicle: 2017 Audi A4, VIN: YAM7BLM18HRA1Z85H
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0032.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0032.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019121142
+INCIDENT INFORMATION
+Date/Time: 08/05/2019 at 16:42
+Location: 1090 Washington Ave, Dallas, TX
+Type: Comprehensive
+Weather: Clear, Road: Wet
+PARTIES INVOLVED
+Driver 1: Christopher Lopez
+License: TX79955265
+Vehicle: 2017 Audi A4, VIN: YAM7BLM18HRA1Z85H
+Driver 2: Joseph Martin
+Vehicle: 2012 Toyota Camry
+NARRATIVE
+On 08/05/2019, at approximately 16:10, officers responded to
+a comprehensive at the intersection of 6859 Elm Ave. Upon arrival, officers observed
+when Driver 2 (Joseph Martin) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 8333
+Date: 08/06/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0032.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Christopher Lopez
+Claim: CLM-AU0032
+Total Estimated Repairs: $4,939
+Prepared for: State Farm

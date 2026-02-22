@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0091
+Policy Number: AU1000091
+Insured: Patricia Johnson
+Carrier: Geico
+Date of Loss: 11/29/2019
+Estimated Amount: $39,201
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2015 Tesla Model | VIN: 0HLH5ZEVNWRTFVY2S
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

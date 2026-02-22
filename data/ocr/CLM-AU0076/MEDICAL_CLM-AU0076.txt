@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/15/2019 Claim: CLM-AU0076
+PATIENT INFORMATION
+Name: William Wilson DOB: 08/21/1953
+SSN: 855-97-6795 Phone: 230-660-6590
+Address: 5350 Main Ct, Atlanta, GA 63989
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 10/12/2019 Treating Physician: Dr. Lopez
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 10/12/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Rodriguez, MD
+License: 146942
+Date: 10/15/2019

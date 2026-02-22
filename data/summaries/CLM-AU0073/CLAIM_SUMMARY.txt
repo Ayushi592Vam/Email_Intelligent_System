@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0073
+Policy Number: AU1000073
+Insured: Barbara Martin
+Carrier: Geico
+Date of Loss: 10/12/2019
+Estimated Amount: $45,849
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2018 Ford F | VIN: Y75LHBVSKR9PPH7DJ
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

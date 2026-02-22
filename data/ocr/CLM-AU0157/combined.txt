@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0157.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 07/20/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services John Taylor
+4025 Stockard Drive, Suite 876 1566 Cedar St
+Frisco, TX 75034 Los Angeles, CA 76055
+Phone: 465-725-3327 Phone: 509-688-4349
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000157
+Effective Date: 07/15/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000157 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0157
+Date of Loss: 07/15/2019
+Estimated Amount: $38,134
+Vehicle: 2020 Chevrolet Silverado, VIN: GZLU3FSKZBL94STEH
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0157.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0157.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0157.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 07/20/2019 Claim: CLM-AU0157
+PATIENT INFORMATION
+Name: John Taylor DOB: 01/11/1985
+SSN: 177-62-5348 Phone: 509-688-4349
+Address: 1566 Cedar St, Los Angeles, CA 76055
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 07/15/2019 Treating Physician: Dr. Anderson
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 07/15/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Davis, MD
+License: 226691
+Date: 07/20/2019
+
+
+===== FILE: POLICE_CLM-AU0157.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Los Angeles Police Department Report #: 2019723389
+INCIDENT INFORMATION
+Date/Time: 07/15/2019 at 17:00
+Location: 4474 Main Blvd, Los Angeles, CA
+Type: Collision
+Weather: Rainy, Road: Dry
+PARTIES INVOLVED
+Driver 1: John Taylor
+License: CA99881154
+Vehicle: 2020 Chevrolet Silverado, VIN: GZLU3FSKZBL94STEH
+Driver 2: Michael Taylor
+Vehicle: 2017 BMW 3 Series
+NARRATIVE
+On 07/15/2019, at approximately 18:18, officers responded to
+a collision at the intersection of 1282 Cedar Ct. Upon arrival, officers observed
+when Driver 2 (Michael Taylor) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 9123
+Date: 07/20/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0157.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Taylor
+Claim: CLM-AU0157
+Total Estimated Repairs: $38,134
+Prepared for: Allstate

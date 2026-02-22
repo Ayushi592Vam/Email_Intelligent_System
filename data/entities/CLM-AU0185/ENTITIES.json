@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0185",
+  "policy_number": "AU1000185",
+  "insured_name": "Christopher Wilson",
+  "carrier": "Geico",
+  "date_of_loss": "09/15/2019",
+  "estimated_amount": "6594",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2020 Chevrolet Silverado",
+  "vin": "50G1BRJF48TDWF9WF",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

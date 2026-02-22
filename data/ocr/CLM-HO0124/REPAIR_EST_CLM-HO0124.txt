@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Richard Rodriguez
+Claim: CLM-HO0124
+Total Estimated Repairs: $28,903
+Prepared for: State Farm

@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/07/2019 Claim: CLM-HO0090
+PATIENT INFORMATION
+Name: William Brown DOB: 04/16/1959
+SSN: 895-43-2731 Phone: 728-786-4076
+Address: 9085 Pine Dr, Houston, TX 18480
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 11/04/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 11/04/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Jackson, MD
+License: 227086
+Date: 11/07/2019

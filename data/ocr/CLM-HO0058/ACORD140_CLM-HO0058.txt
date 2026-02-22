@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/26/2019
+INSURED INFORMATION
+Name: Joseph Brown
+Property Address: 5270 Washington Dr
+Chicago, IL 18103
+Phone: 218-219-3057
+Email: joseph.brown@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000058
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2012
+Square Footage: 1414 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0058
+Date of Loss: 12/21/2019
+Time of Loss: 11:30 AM
+Cause of Loss: Theft
+Estimated Damage: $104,272
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals significant water intrusion
+affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/05/2019 Claim: CLM-AU0231
+PATIENT INFORMATION
+Name: David Anderson DOB: 09/06/1951
+SSN: 990-24-1106 Phone: 514-527-2760
+Address: 5396 Maple Blvd, Chicago, IL 12803
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 11/30/2019 Treating Physician: Dr. Miller
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 11/30/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Wilson, MD
+License: 237227
+Date: 12/05/2019

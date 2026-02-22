@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0187",
+  "policy_number": "HO2000187",
+  "insured_name": "Elizabeth Jones",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "10/20/2019",
+  "estimated_amount": "24781",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3702 Maple St, Miami, FL 32054",
+  "loss_type": "vandalism"
+}

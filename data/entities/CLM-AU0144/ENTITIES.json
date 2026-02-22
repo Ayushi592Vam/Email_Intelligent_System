@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0144",
+  "policy_number": "AU1000144",
+  "insured_name": "Richard Moore",
+  "carrier": "Allstate",
+  "date_of_loss": "01/02/2020",
+  "estimated_amount": "11292",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2020 Tesla Model",
+  "vin": "NTFJGFVZKDZXRKAA6",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0001",
+  "policy_number": "AU1000001",
+  "insured_name": "Mary Brown",
+  "carrier": "Allstate",
+  "date_of_loss": "11/20/2019",
+  "estimated_amount": "12684",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2019 Toyota Camry",
+  "vin": "EVVTB6PFMAH2N1TFV",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

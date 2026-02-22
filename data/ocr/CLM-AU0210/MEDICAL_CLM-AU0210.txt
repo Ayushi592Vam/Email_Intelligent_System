@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/09/2019 Claim: CLM-AU0210
+PATIENT INFORMATION
+Name: Linda Hernandez DOB: 12/14/1966
+SSN: 919-87-7328 Phone: 438-764-3753
+Address: 1002 Elm Dr, Miami, FL 37204
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 12/09/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 12/09/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Johnson, MD
+License: 339775
+Date: 12/09/2019

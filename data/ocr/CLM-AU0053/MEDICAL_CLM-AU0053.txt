@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/19/2019 Claim: CLM-AU0053
+PATIENT INFORMATION
+Name: Patricia Davis DOB: 08/16/1962
+SSN: 287-85-8119 Phone: 356-964-7866
+Address: 1376 Elm St, Dallas, TX 32147
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 08/18/2019 Treating Physician: Dr. Rodriguez
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 08/18/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Hernandez, MD
+License: 780810
+Date: 08/19/2019

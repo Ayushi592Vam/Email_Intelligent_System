@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0205",
+  "policy_number": "AU1000205",
+  "insured_name": "Robert Anderson",
+  "carrier": "Farmers",
+  "date_of_loss": "10/03/2019",
+  "estimated_amount": "24895",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 Tesla Model",
+  "vin": "HDC9NE898M9NG5JZT",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

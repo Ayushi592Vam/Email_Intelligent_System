@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/24/2019
+INSURED INFORMATION
+Name: Joseph Taylor
+Property Address: 2698 Oak St
+Houston, TX 82002
+Phone: 971-451-8328
+Email: joseph.taylor@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000004
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1988
+Square Footage: 2691 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0004
+Date of Loss: 11/20/2019
+Time of Loss: 1:30 AM
+Cause of Loss: Liability
+Estimated Damage: $64,822
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

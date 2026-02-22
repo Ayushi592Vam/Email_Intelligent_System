@@ -1,0 +1,75 @@
+
+===== FILE: ACORD25_CLM-AU0017.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/10/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services Richard Williams
+4025 Stockard Drive, Suite 876 9680 Oak St
+Frisco, TX 75034 Chicago, IL 54282
+Phone: 674-525-8623 Phone: 323-764-3721
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000017
+Effective Date: 01/07/2020
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000017 $250,000 Each Accident
+Category: Personal Liability $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0017
+Date of Loss: 01/07/2020
+Estimated Amount: $20,517
+Vehicle: 2018 Tesla Model 3, VIN: 0MX0CX6KVVRMSHGJC
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0017.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0017.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/10/2020 Claim: CLM-AU0017
+PATIENT INFORMATION
+Name: Richard Williams DOB: 06/16/1985
+SSN: 260-21-8462 Phone: 323-764-3721
+Address: 9680 Oak St, Chicago, IL 54282
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 01/07/2020 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 01/07/2020.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Taylor, MD
+License: 998119
+Date: 01/10/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0017.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Richard Williams
+Claim: CLM-AU0017
+Total Estimated Repairs: $20,517
+Prepared for: State Farm

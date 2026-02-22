@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Smith
+Claim: CLM-HO0233
+Total Estimated Repairs: $23,976
+Prepared for: Nationwide

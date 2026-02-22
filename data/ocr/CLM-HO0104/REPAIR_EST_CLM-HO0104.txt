@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Martin
+Claim: CLM-HO0104
+Total Estimated Repairs: $33,602
+Prepared for: Geico

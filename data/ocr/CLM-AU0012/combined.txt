@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0012.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/29/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Thomas Williams
+4025 Stockard Drive, Suite 876 7066 Maple Ct
+Frisco, TX 75034 Miami, FL 82402
+Phone: 410-377-9113 Phone: 376-695-5819
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000012
+Effective Date: 10/27/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000012 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0012
+Date of Loss: 10/27/2019
+Estimated Amount: $13,767
+Vehicle: 2019 Ford F-150, VIN: 4W3YVJFF0KCA188GK
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0012.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0012.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0012.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019654973
+INCIDENT INFORMATION
+Date/Time: 10/27/2019 at 11:22
+Location: 4399 Main Ct, Miami, FL
+Type: Uninsured Motorist
+Weather: Clear, Road: Wet
+PARTIES INVOLVED
+Driver 1: Thomas Williams
+License: FL37734968
+Vehicle: 2019 Ford F-150, VIN: 4W3YVJFF0KCA188GK
+Driver 2: Christopher Gonzalez
+Vehicle: 2012 Honda Accord
+NARRATIVE
+On 10/27/2019, at approximately 11:48, officers responded to
+a uninsured motorist at the intersection of 4244 Elm Ave. Upon arrival, officers observed
+when Driver 2 (Christopher Gonzalez) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 2961
+Date: 10/29/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0012.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Williams
+Claim: CLM-AU0012
+Total Estimated Repairs: $13,767
+Prepared for: State Farm

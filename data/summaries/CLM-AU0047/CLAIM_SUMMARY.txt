@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0047
+Policy Number: AU1000047
+Insured: Mary Smith
+Carrier: Travelers
+Date of Loss: 08/25/2019
+Estimated Amount: $26,409
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: Yes
+
+Vehicle: 2017 Ford F | VIN: SPDET3NRXMZUVZWMX
+
+Severity: HIGH (60)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

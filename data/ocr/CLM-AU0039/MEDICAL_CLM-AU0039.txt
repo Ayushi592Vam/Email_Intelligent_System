@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/03/2019 Claim: CLM-AU0039
+PATIENT INFORMATION
+Name: Susan Miller DOB: 12/14/1951
+SSN: 106-24-3060 Phone: 851-578-6641
+Address: 1136 Pine Blvd, Phoenix, AZ 80876
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 10/01/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 10/01/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Miller, MD
+License: 310201
+Date: 10/03/2019

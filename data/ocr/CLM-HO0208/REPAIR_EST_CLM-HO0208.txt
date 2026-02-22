@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Rodriguez
+Claim: CLM-HO0208
+Total Estimated Repairs: $13,726
+Prepared for: Nationwide

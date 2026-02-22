@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/26/2019
+INSURED INFORMATION
+Name: Joseph Wilson
+Property Address: 5372 Maple St
+Chicago, IL 54310
+Phone: 816-683-3175
+Email: joseph.wilson@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000114
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1970
+Square Footage: 2941 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0114
+Date of Loss: 07/26/2019
+Time of Loss: 2:15 AM
+Cause of Loss: Natural Disaster
+Estimated Damage: $21,407
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals extensive fire da
+mage to roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

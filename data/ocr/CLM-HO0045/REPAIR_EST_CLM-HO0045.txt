@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Miller
+Claim: CLM-HO0045
+Total Estimated Repairs: $18,385
+Prepared for: Allstate

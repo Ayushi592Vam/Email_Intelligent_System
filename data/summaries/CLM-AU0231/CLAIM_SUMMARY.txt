@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0231
+Policy Number: AU1000231
+Insured: David Anderson
+Carrier: Liberty Mutual
+Date of Loss: 11/30/2019
+Estimated Amount: $41,387
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2020 Ford F | VIN: PKVKPP86KXVJRMEGY
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0114
+Policy Number: AU1000114
+Insured: John Gonzalez
+Carrier: State Farm
+Date of Loss: 11/24/2019
+Estimated Amount: $16,254
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2015 Toyota Camry | VIN: H1MC6G97PMRJU08GL
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

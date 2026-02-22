@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0182",
+  "policy_number": "AU1000182",
+  "insured_name": "Jennifer Brown",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "12/01/2019",
+  "estimated_amount": "48019",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 Ford F",
+  "vin": "N9T2RV708W01TFZJM",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0168",
+  "policy_number": "HO2000168",
+  "insured_name": "Barbara Smith",
+  "carrier": "Progressive",
+  "date_of_loss": "09/06/2019",
+  "estimated_amount": "15272",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1892 Elm Ct, Phoenix, AZ 72252",
+  "loss_type": "theft"
+}

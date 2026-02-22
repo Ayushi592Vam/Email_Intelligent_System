@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0047",
+  "policy_number": "HO2000047",
+  "insured_name": "Sarah Moore",
+  "carrier": "Allstate",
+  "date_of_loss": "10/09/2019",
+  "estimated_amount": "74948",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7069 Oak Dr, Dallas, TX 23755",
+  "loss_type": "fire"
+}

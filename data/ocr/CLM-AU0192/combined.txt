@@ -1,0 +1,79 @@
+
+===== FILE: ACORD25_CLM-AU0192.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/05/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Thomas Smith
+4025 Stockard Drive, Suite 876 780 Main Ct
+Frisco, TX 75034 Atlanta, GA 12625
+Phone: 774-214-7424 Phone: 351-835-6755
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000192
+Effective Date: 09/02/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000192 $250,000 Each Accident
+Category: Personal Liability $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0192
+Date of Loss: 09/02/2019
+Estimated Amount: $46,499
+Vehicle: 2016 Audi A4, VIN: HWL3NSU8PGJRDXEXE
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0192.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0192.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0192.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/05/2019 Claim: CLM-AU0192
+PATIENT INFORMATION
+Name: Thomas Smith DOB: 12/25/1976
+SSN: 744-87-9512 Phone: 351-835-6755
+Address: 780 Main Ct, Atlanta, GA 12625
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 09/02/2019 Treating Physician: Dr. Taylor
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 09/02/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Johnson, MD
+License: 234821
+Date: 09/05/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0192.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Smith
+Claim: CLM-AU0192
+Total Estimated Repairs: $46,499
+Prepared for: Allstate

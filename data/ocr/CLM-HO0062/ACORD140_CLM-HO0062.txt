@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/25/2019
+INSURED INFORMATION
+Name: John Smith
+Property Address: 7294 Maple Ln
+Houston, TX 64851
+Phone: 219-360-6624
+Email: john.smith@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000062
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1999
+Square Footage: 2394 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0062
+Date of Loss: 11/21/2019
+Time of Loss: 11:00 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $5,194
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals moderate damage t
+o interior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

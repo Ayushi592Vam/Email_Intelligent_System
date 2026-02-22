@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0192
+Policy Number: AU1000192
+Insured: Thomas Smith
+Carrier: Allstate
+Date of Loss: 09/02/2019
+Estimated Amount: $46,499
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 Audi A4 | VIN: HWL3NSU8PGJRDXEXE
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

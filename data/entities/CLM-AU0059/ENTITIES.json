@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0059",
+  "policy_number": "AU1000059",
+  "insured_name": "John Johnson",
+  "carrier": "Allstate",
+  "date_of_loss": "08/26/2019",
+  "estimated_amount": "7695",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 Ford F",
+  "vin": "SWKP7UPJEU7ZZEH79",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

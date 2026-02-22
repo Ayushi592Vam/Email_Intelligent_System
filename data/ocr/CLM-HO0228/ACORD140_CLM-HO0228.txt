@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 01/02/2020
+INSURED INFORMATION
+Name: Thomas Gonzalez
+Property Address: 307 Washington Ct
+Los Angeles, CA 68222
+Phone: 501-699-9774
+Email: thomas.gonzalez@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000228
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2005
+Square Footage: 3081 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0228
+Date of Loss: 01/02/2020
+Time of Loss: 9:45 AM
+Cause of Loss: Fire
+Estimated Damage: $28,697
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals structural damage requiring i
+mmediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

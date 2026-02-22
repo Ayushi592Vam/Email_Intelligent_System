@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0058
+Policy Number: AU1000058
+Insured: David Jones
+Carrier: Travelers
+Date of Loss: 01/07/2020
+Estimated Amount: $12,188
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2015 Toyota Camry | VIN: PR3RBMRC4CAA006V0
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

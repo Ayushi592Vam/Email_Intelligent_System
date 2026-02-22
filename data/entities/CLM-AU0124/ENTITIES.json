@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0124",
+  "policy_number": "AU1000124",
+  "insured_name": "Patricia Lopez",
+  "carrier": "Travelers",
+  "date_of_loss": "01/10/2020",
+  "estimated_amount": "25743",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2020 Ford F",
+  "vin": "97JB4ZBR9VXF9MUB2",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

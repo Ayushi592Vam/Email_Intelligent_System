@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Smith
+Claim: CLM-HO0065
+Total Estimated Repairs: $5,336
+Prepared for: Travelers

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0241",
+  "policy_number": "HO2000241",
+  "insured_name": "Joseph Hernandez",
+  "carrier": "Progressive",
+  "date_of_loss": "10/20/2019",
+  "estimated_amount": "11974",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "2808 Park Ct, Dallas, TX 47845",
+  "loss_type": "liability"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0106",
+  "policy_number": "AU1000106",
+  "insured_name": "Linda Jones",
+  "carrier": "Travelers",
+  "date_of_loss": "09/10/2019",
+  "estimated_amount": "8574",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Tesla Model",
+  "vin": "BB2PJYFTRH4EJ4YMM",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

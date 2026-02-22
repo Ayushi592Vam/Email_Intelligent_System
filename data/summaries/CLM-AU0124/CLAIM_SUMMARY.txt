@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0124
+Policy Number: AU1000124
+Insured: Patricia Lopez
+Carrier: Travelers
+Date of Loss: 01/10/2020
+Estimated Amount: $25,743
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2020 Ford F | VIN: 97JB4ZBR9VXF9MUB2
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

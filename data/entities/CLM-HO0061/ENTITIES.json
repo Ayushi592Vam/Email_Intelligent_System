@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0061",
+  "policy_number": "HO2000061",
+  "insured_name": "William Rodriguez",
+  "carrier": "Progressive",
+  "date_of_loss": "01/10/2020",
+  "estimated_amount": "77832",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7895 Oak Ln, Dallas, TX 40496",
+  "loss_type": "vandalism"
+}

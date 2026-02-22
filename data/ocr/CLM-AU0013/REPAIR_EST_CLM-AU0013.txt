@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Brown
+Claim: CLM-AU0013
+Total Estimated Repairs: $13,553
+Prepared for: Progressive

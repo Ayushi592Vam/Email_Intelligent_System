@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/03/2019
+INSURED INFORMATION
+Name: Christopher Lopez
+Property Address: 4413 Park Blvd
+New York, NY 98804
+Phone: 350-447-2819
+Email: christopher.lopez@example.com
+INSURANCE COMPANY
+Company: State Farm
+Policy Number: HO2000048
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1996
+Square Footage: 2926 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0048
+Date of Loss: 08/02/2019
+Time of Loss: 9:30 PM
+Cause of Loss: Theft
+Estimated Damage: $88,540
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals structural damage requiring
+immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0228",
+  "policy_number": "HO2000228",
+  "insured_name": "Thomas Gonzalez",
+  "carrier": "Farmers",
+  "date_of_loss": "01/02/2020",
+  "estimated_amount": "28697",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "307 Washington Ct, Los Angeles, CA 68222",
+  "loss_type": "fire"
+}

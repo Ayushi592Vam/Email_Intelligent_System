@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0069
+Policy Number: AU1000069
+Insured: David Martin
+Carrier: Geico
+Date of Loss: 09/21/2019
+Estimated Amount: $42,876
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 Honda Accord | VIN: WV5WA0V8UGVGGPPHN
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

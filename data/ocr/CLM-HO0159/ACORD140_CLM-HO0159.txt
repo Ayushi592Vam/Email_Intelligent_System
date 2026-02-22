@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/07/2019
+INSURED INFORMATION
+Name: Robert Williams
+Property Address: 1361 Maple Ln
+New York, NY 73249
+Phone: 792-279-4448
+Email: robert.williams@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000159
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1987
+Square Footage: 2592 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0159
+Date of Loss: 11/05/2019
+Time of Loss: 11:15 PM
+Cause of Loss: Water Damage
+Estimated Damage: $19,546
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals structural damage req
+uiring immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

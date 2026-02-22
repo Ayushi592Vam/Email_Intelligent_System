@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0084",
+  "policy_number": "AU1000084",
+  "insured_name": "Jessica Taylor",
+  "carrier": "Allstate",
+  "date_of_loss": "09/25/2019",
+  "estimated_amount": "67708",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2015 Toyota Camry",
+  "vin": "6DZT4PLRLRYVAEUWJ",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

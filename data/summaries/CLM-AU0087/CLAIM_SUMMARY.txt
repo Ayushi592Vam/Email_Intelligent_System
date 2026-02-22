@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0087
+Policy Number: AU1000087
+Insured: Linda Smith
+Carrier: State Farm
+Date of Loss: 10/24/2019
+Estimated Amount: $7,197
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2015 Tesla Model | VIN: ZGSNXPJRB5X0FE8JT
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

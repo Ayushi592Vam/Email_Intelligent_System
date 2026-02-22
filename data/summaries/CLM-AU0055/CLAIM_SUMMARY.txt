@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0055
+Policy Number: AU1000055
+Insured: Thomas Smith
+Carrier: Geico
+Date of Loss: 11/13/2019
+Estimated Amount: $11,582
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 Tesla Model | VIN: 07G0EMVJ32M0CK6DJ
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

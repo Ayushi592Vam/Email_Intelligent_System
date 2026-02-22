@@ -1,0 +1,10 @@
+{
+  "claim_number": "CLM-AU0047",
+  "claim_type": "AUTO",
+  "severity": "HIGH",
+  "severity_score": 65,
+  "signals_detected": [
+    "LEGAL_INVOLVEMENT",
+    "HIGH_LOSS_AMOUNT"
+  ]
+}

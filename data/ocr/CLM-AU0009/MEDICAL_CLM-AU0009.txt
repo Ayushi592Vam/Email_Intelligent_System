@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/11/2019 Claim: CLM-AU0009
+PATIENT INFORMATION
+Name: Christopher Anderson DOB: 06/20/1977
+SSN: 312-48-9904 Phone: 829-917-1001
+Address: 8130 Oak Blvd, Miami, FL 72495
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 10/10/2019 Treating Physician: Dr. Johnson
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 10/10/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Taylor, MD
+License: 550977
+Date: 10/11/2019

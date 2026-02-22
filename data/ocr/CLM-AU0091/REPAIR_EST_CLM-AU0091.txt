@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Patricia Johnson
+Claim: CLM-AU0091
+Total Estimated Repairs: $39,201
+Prepared for: Geico

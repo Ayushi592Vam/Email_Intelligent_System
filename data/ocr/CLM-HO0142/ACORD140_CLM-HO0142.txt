@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/13/2019
+INSURED INFORMATION
+Name: James Anderson
+Property Address: 813 Cedar Blvd
+Chicago, IL 61985
+Phone: 888-424-9091
+Email: james.anderson@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000142
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2000
+Square Footage: 1892 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0142
+Date of Loss: 09/13/2019
+Time of Loss: 9:15 AM
+Cause of Loss: Water Damage
+Estimated Damage: $109,935
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals extensive fire damage
+to roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

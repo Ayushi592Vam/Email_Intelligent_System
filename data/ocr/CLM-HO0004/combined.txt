@@ -1,0 +1,86 @@
+
+===== FILE: ACORD140_CLM-HO0004.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/24/2019
+INSURED INFORMATION
+Name: Joseph Taylor
+Property Address: 2698 Oak St
+Houston, TX 82002
+Phone: 971-451-8328
+Email: joseph.taylor@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000004
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1988
+Square Footage: 2691 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0004
+Date of Loss: 11/20/2019
+Time of Loss: 1:30 AM
+Cause of Loss: Liability
+Estimated Damage: $64,822
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0004.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0004.png =====
+
+
+
+===== FILE: LEGAL_CLM-HO0004.pdf =====
+--- PAGE 1 ---
+BROWN & PARTNERS LLP
+Attorneys at Law
+201 Park Ln
+Houston, TX 82002
+Phone: 864-799-5523 | Fax: 240-517-7509
+Date: 11/24/2019
+Nationwide
+Claims Department
+P.O. Box 12345
+Dallas, AZ 74914
+RE: Demand for Settlement - Joseph Taylor
+Claim Number: CLM-HO0004
+Date of Loss: 11/20/2019
+Your Insured: Joseph Taylor
+Dear Claims Adjuster:
+This firm represents Joseph Taylor in connection with the above-referenced claim.
+On 11/20/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $22,137
+Lost Wages: $3,755
+Property Damage: $64,822
+Pain and Suffering: $57,474
+TOTAL DEMAND: $158,492
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Brown & Partners LLP
+Attorney for Joseph Taylor
+
+
+===== FILE: REPAIR_EST_CLM-HO0004.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Taylor
+Claim: CLM-HO0004
+Total Estimated Repairs: $64,822
+Prepared for: Nationwide

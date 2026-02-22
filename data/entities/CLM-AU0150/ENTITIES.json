@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0150",
+  "policy_number": "AU1000150",
+  "insured_name": "Linda Brown",
+  "carrier": "Allstate",
+  "date_of_loss": "09/06/2019",
+  "estimated_amount": "81134",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": "2017 Chevrolet Silverado",
+  "vin": "ABS70BRRF6EK5DN8S",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

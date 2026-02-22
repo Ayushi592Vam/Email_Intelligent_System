@@ -1,0 +1,145 @@
+
+===== FILE: ACORD25_CLM-AU0036.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/20/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Karen Garcia
+4025 Stockard Drive, Suite 876 5042 Oak St
+Frisco, TX 75034 Houston, TX 73927
+Phone: 978-731-8722 Phone: 338-306-9429
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000036
+Effective Date: 08/20/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000036 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0036
+Date of Loss: 08/20/2019
+Estimated Amount: $50,296
+Vehicle: 2017 Audi A4, VIN: YET3CF8ZX61PLP09F
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0036.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0036.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0036.pdf =====
+--- PAGE 1 ---
+WILLIAMS LAW FIRM
+Attorneys at Law
+7133 Oak Ct
+Houston, TX 73927
+Phone: 871-416-6654 | Fax: 404-960-6838
+Date: 08/20/2019
+Nationwide
+Claims Department
+P.O. Box 12345
+Phoenix, TX 78142
+RE: Demand for Settlement - Karen Garcia
+Claim Number: CLM-AU0036
+Date of Loss: 08/20/2019
+Your Insured: Karen Garcia
+Dear Claims Adjuster:
+This firm represents Karen Garcia in connection with the above-referenced claim.
+On 08/20/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $34,191
+Lost Wages: $9,220
+Property Damage: $50,296
+Pain and Suffering: $64,491
+TOTAL DEMAND: $111,882
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Williams Law Firm
+Attorney for Karen Garcia
+
+
+===== FILE: MEDICAL_CLM-AU0036.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/20/2019 Claim: CLM-AU0036
+PATIENT INFORMATION
+Name: Karen Garcia DOB: 05/07/1968
+SSN: 187-66-4435 Phone: 338-306-9429
+Address: 5042 Oak St, Houston, TX 73927
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 08/20/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 08/20/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Wilson, MD
+License: 615997
+Date: 08/20/2019
+
+
+===== FILE: POLICE_CLM-AU0036.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Houston Police Department Report #: 2019231655
+INCIDENT INFORMATION
+Date/Time: 08/20/2019 at 11:22
+Location: 2556 Main Dr, Houston, TX
+Type: Collision
+Weather: Foggy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Karen Garcia
+License: TX96283959
+Vehicle: 2017 Audi A4, VIN: YET3CF8ZX61PLP09F
+Driver 2: Barbara Martin
+Vehicle: 2013 Ford F-150
+NARRATIVE
+On 08/20/2019, at approximately 20:32, officers responded to
+a collision at the intersection of 5160 Pine Blvd. Upon arrival, officers observed
+when Driver 2 (Barbara Martin) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 4194
+Date: 08/20/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0036.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Karen Garcia
+Claim: CLM-AU0036
+Total Estimated Repairs: $50,296
+Prepared for: Nationwide

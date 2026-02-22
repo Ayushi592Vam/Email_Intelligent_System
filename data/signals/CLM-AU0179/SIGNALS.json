@@ -1,0 +1,9 @@
+{
+  "claim_number": "CLM-AU0179",
+  "claim_type": "AUTO",
+  "severity": "MEDIUM",
+  "severity_score": 40,
+  "signals_detected": [
+    "LEGAL_INVOLVEMENT"
+  ]
+}

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Smith
+Claim: CLM-AU0022
+Total Estimated Repairs: $12,196
+Prepared for: Progressive

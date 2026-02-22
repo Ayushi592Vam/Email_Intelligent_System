@@ -1,0 +1,79 @@
+
+===== FILE: ACORD25_CLM-AU0187.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/28/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Jessica Davis
+4025 Stockard Drive, Suite 876 8099 Washington St
+Frisco, TX 75034 Atlanta, GA 74768
+Phone: 205-988-8203 Phone: 234-661-2398
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000187
+Effective Date: 10/24/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000187 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0187
+Date of Loss: 10/24/2019
+Estimated Amount: $17,033
+Vehicle: 2019 Chevrolet Silverado, VIN: JX03N0KWHGN3JDMZF
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0187.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0187.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0187.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/28/2019 Claim: CLM-AU0187
+PATIENT INFORMATION
+Name: Jessica Davis DOB: 10/15/1967
+SSN: 967-43-4056 Phone: 234-661-2398
+Address: 8099 Washington St, Atlanta, GA 74768
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 10/24/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 10/24/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Gonzalez, MD
+License: 179090
+Date: 10/28/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0187.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Davis
+Claim: CLM-AU0187
+Total Estimated Repairs: $17,033
+Prepared for: State Farm

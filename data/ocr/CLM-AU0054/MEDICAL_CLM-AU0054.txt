@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/01/2020 Claim: CLM-AU0054
+PATIENT INFORMATION
+Name: Thomas Williams DOB: 02/11/1961
+SSN: 920-94-6697 Phone: 372-843-2696
+Address: 8050 Oak Dr, Los Angeles, CA 43653
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 12/29/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 12/29/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Lopez, MD
+License: 376320
+Date: 01/01/2020

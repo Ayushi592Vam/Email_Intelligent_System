@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0025",
+  "policy_number": "HO2000025",
+  "insured_name": "William Smith",
+  "carrier": "State Farm",
+  "date_of_loss": "12/16/2019",
+  "estimated_amount": "171920",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6341 Pine St, Houston, TX 10931",
+  "loss_type": "theft"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0178",
+  "policy_number": "AU1000178",
+  "insured_name": "Richard Taylor",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "10/06/2019",
+  "estimated_amount": "38099",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Audi A4",
+  "vin": "NUDC7HXBV0F1LW9NX",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0052.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/21/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Susan Jackson
+4025 Stockard Drive, Suite 876 4170 Washington Dr
+Frisco, TX 75034 Los Angeles, CA 82809
+Phone: 300-420-4324 Phone: 312-974-3857
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Travelers
+Policy Number: AU1000052
+Effective Date: 10/17/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000052 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0052
+Date of Loss: 10/17/2019
+Estimated Amount: $37,300
+Vehicle: 2019 Audi A4, VIN: KP4SPBEUW6MG6EL2R
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0052.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0052.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0052.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Los Angeles Police Department Report #: 2019768330
+INCIDENT INFORMATION
+Date/Time: 10/17/2019 at 10:14
+Location: 3092 Maple Ave, Los Angeles, CA
+Type: Comprehensive
+Weather: Cloudy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Susan Jackson
+License: CA84190470
+Vehicle: 2019 Audi A4, VIN: KP4SPBEUW6MG6EL2R
+Driver 2: Mary Lopez
+Vehicle: 2013 BMW 3 Series
+NARRATIVE
+On 10/17/2019, at approximately 08:45, officers responded to
+a comprehensive at the intersection of 4594 Main St. Upon arrival, officers observed
+when Driver 2 (Mary Lopez) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 2402
+Date: 10/21/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0052.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Jackson
+Claim: CLM-AU0052
+Total Estimated Repairs: $37,300
+Prepared for: Travelers

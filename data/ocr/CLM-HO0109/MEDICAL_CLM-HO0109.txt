@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/27/2019 Claim: CLM-HO0109
+PATIENT INFORMATION
+Name: Karen Jones DOB: 06/25/1962
+SSN: 719-70-6726 Phone: 783-905-4162
+Address: 8158 Pine Dr, Dallas, TX 79438
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 09/26/2019 Treating Physician: Dr. Gonzalez
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 09/26/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Hernandez, MD
+License: 903129
+Date: 09/27/2019

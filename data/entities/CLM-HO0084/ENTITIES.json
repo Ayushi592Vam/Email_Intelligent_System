@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0084",
+  "policy_number": "HO2000084",
+  "insured_name": "Thomas Miller",
+  "carrier": "Progressive",
+  "date_of_loss": "11/28/2019",
+  "estimated_amount": "6023",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4408 Maple Ct, Chicago, IL 46611",
+  "loss_type": "theft"
+}

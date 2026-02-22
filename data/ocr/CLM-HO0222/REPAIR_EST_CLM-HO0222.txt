@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Christopher Moore
+Claim: CLM-HO0222
+Total Estimated Repairs: $22,641
+Prepared for: Progressive

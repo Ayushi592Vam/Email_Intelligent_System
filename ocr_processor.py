@@ -1,99 +1,132 @@
-# EMAIL_INTELLIGENT_SYSTEM/ocr_processor.py
+# EMAIL_INTELLIGENT_SYSTEM/file_tagger.py
 
-import os
 from pathlib import Path
-import pytesseract
-from PIL import Image
-import pdfplumber
-
-# 🔴 IMPORTANT: tesseract.exe path (tumhara path)
-pytesseract.pytesseract.tesseract_cmd = (
-    r"C:\Users\AyushiPrashantNagpur\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
-)
+import json
+import re
 
 BASE_DIR = Path(__file__).resolve().parent
-RAW_DIR = BASE_DIR / "data" / "raw" / "ClaimsEnterpriseEML"
 OCR_DIR = BASE_DIR / "data" / "ocr"
+OUT_DIR = BASE_DIR / "data" / "file_tags"
+OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-OCR_DIR.mkdir(parents=True, exist_ok=True)
+# -------------------------------------------------
+# FILE TAGGING TAXONOMY (STRICT, BUSINESS-SAFE)
+# -------------------------------------------------
 
-SUPPORTED_IMAGES = {".png", ".jpg", ".jpeg"}
-SUPPORTED_PDFS = {".pdf"}
+FILE_TAXONOMY = {
+    "MEDICAL": [
+        r"medical report",
+        r"hospital",
+        r"treatment",
+        r"physician",
+        r"diagnosis",
+        r"injury",
+        r"clinic"
+    ],
+    "POLICE": [
+        r"police report",
+        r"incident report",
+        r"accident report",
+        r"fir\s*no",
+        r"case\s*number",
+        r"report\s*number",
+        r"police department"
+    ],
+    "LEGAL": [
+        r"legal notice",
+        r"attorney",
+        r"lawyer",
+        r"court",
+        r"lawsuit",
+        r"litigation",
+        r"summons"
+    ],
+    "REPAIR_ESTIMATE": [
+        r"repair estimate",
+        r"estimated repairs",
+        r"damage estimate",
+        r"labor cost",
+        r"parts cost"
+    ],
+    "ACORD": [
+        r"acord\s*25",
+        r"acord\s*140",
+        r"certificate of insurance"
+    ],
+    "PROPERTY": [
+        r"property",
+        r"residence",
+        r"home",
+        r"condo",
+        r"dwelling",
+        r"structure"
+    ]
+}
 
+# -------------------------------------------------
+# FILE TAGGING LOGIC
+# -------------------------------------------------
 
-# ------------------------------------------------------------------
-# OCR helpers
-# ------------------------------------------------------------------
+def tag_file(text: str, filename: str):
+    tags = set()
 
-def ocr_image(path: Path) -> str:
-    img = Image.open(path)
-    return pytesseract.image_to_string(img)
+    lower_text = text.lower()
+    lower_name = filename.lower()
 
+    # -------------------------------------------------
+    # 1️⃣ PHOTO FILES — filename based ONLY
+    # -------------------------------------------------
+    if any(x in lower_name for x in ["damage", "photo", "img", "image"]):
+        tags.add("PHOTOS")
+        return list(tags)
 
-def ocr_pdf(path: Path) -> str:
-    text = ""
-    with pdfplumber.open(path) as pdf:
-        for i, page in enumerate(pdf.pages, start=1):
-            page_text = page.extract_text()
-            if page_text:
-                text += f"\n--- PAGE {i} ---\n{page_text}\n"
-    return text.strip()
+    # -------------------------------------------------
+    # 2️⃣ POLICE FILE — filename hard rule
+    # -------------------------------------------------
+    if "police" in lower_name:
+        tags.add("POLICE")
+        return list(tags)
 
+    # -------------------------------------------------
+    # 3️⃣ TEXT-BASED STRICT TAGGING
+    # -------------------------------------------------
+    for tag, patterns in FILE_TAXONOMY.items():
+        for pattern in patterns:
+            if re.search(pattern, lower_text):
+                tags.add(tag)
+                break
 
-# ------------------------------------------------------------------
-# Process one claim folder
-# ------------------------------------------------------------------
+    # -------------------------------------------------
+    # 4️⃣ FALLBACK
+    # -------------------------------------------------
+    if not tags:
+        tags.add("OTHER")
 
-def process_claim_folder(claim_folder: Path):
-    claim_id = claim_folder.name
-    out_dir = OCR_DIR / claim_id
-    out_dir.mkdir(parents=True, exist_ok=True)
+    return list(tags)
 
-    combined_text = []
-
-    for file in claim_folder.iterdir():
-        if file.suffix.lower() in SUPPORTED_IMAGES:
-            print(f"[OCR-IMG] {claim_id} -> {file.name}")
-            text = ocr_image(file)
-
-        elif file.suffix.lower() in SUPPORTED_PDFS:
-            print(f"[OCR-PDF] {claim_id} -> {file.name}")
-            text = ocr_pdf(file)
-
-        else:
-            continue
-
-        txt_path = out_dir / f"{file.stem}.txt"
-        txt_path.write_text(text, encoding="utf-8")
-
-        combined_text.append(
-            f"\n===== FILE: {file.name} =====\n{text}\n"
-        )
-
-    # Write combined OCR
-    combined_path = out_dir / "combined.txt"
-    combined_path.write_text("\n".join(combined_text), encoding="utf-8")
-
-    print(f"[DONE] OCR completed for {claim_id}")
-
-
-# ------------------------------------------------------------------
-# Main
-# ------------------------------------------------------------------
+# -------------------------------------------------
+# BATCH RUN
+# -------------------------------------------------
 
 def main():
-    if not RAW_DIR.exists():
-        raise FileNotFoundError(f"RAW DIR not found: {RAW_DIR}")
+    for claim_folder in OCR_DIR.iterdir():
+        if not claim_folder.is_dir():
+            continue
 
-    claim_folders = sorted([f for f in RAW_DIR.iterdir() if f.is_dir()])
+        claim_out = OUT_DIR / claim_folder.name
+        claim_out.mkdir(exist_ok=True)
 
-    print(f"Found {len(claim_folders)} claim folders")
+        results = {}
 
-    for folder in claim_folders:
-        process_claim_folder(folder)
+        for txt_file in claim_folder.glob("*.txt"):
+            text = txt_file.read_text(errors="ignore")
+            tags = tag_file(text, txt_file.name)
+            results[txt_file.name] = tags
 
-    print("\n✅ ALL OCR DONE")
+        with open(claim_out / "FILE_TAGS.json", "w") as f:
+            json.dump(results, f, indent=2)
 
+    print("✅ FILE TAGGING COMPLETE (STRICT MODE)")
 
 if __name__ == "__main__":
     main()

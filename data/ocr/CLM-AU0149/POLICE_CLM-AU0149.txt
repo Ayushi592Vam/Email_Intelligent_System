@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Chicago Police Department Report #: 2019225865
+INCIDENT INFORMATION
+Date/Time: 12/03/2019 at 08:13
+Location: 1749 Oak Blvd, Chicago, IL
+Type: Collision
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Thomas Johnson
+License: IL78823334
+Vehicle: 2019 Chevrolet Silverado, VIN: X9YPJB039C783F631
+Driver 2: Sarah Martinez
+Vehicle: 2015 Chevrolet Silverado
+NARRATIVE
+On 12/03/2019, at approximately 10:36, officers responded to
+a collision at the intersection of 5180 Main Ave. Upon arrival, officers observed
+when Driver 2 (Sarah Martinez) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 3982
+Date: 12/06/2019

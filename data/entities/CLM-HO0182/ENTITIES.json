@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0182",
+  "policy_number": "HO2000182",
+  "insured_name": "Karen Miller",
+  "carrier": "Allstate",
+  "date_of_loss": "12/06/2019",
+  "estimated_amount": "75042",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3070 Washington Blvd, Atlanta, GA 66571",
+  "loss_type": "vandalism"
+}

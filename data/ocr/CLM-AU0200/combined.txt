@@ -1,0 +1,115 @@
+
+===== FILE: ACORD25_CLM-AU0200.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/09/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Karen Smith
+4025 Stockard Drive, Suite 876 6412 Oak St
+Frisco, TX 75034 Miami, FL 55894
+Phone: 487-772-1549 Phone: 417-474-9423
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Allstate
+Policy Number: AU1000200
+Effective Date: 12/05/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000200 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0200
+Date of Loss: 12/05/2019
+Estimated Amount: $16,084
+Vehicle: 2019 BMW 3 Series, VIN: 0FJEW2R8XK85T3R1K
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0200.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0200.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0200.pdf =====
+--- PAGE 1 ---
+WILLIAMS LAW FIRM
+Attorneys at Law
+6840 Elm Ct
+Miami, FL 55894
+Phone: 241-657-1147 | Fax: 350-763-8703
+Date: 12/09/2019
+Allstate
+Claims Department
+P.O. Box 12345
+Phoenix, AZ 74694
+RE: Demand for Settlement - Karen Smith
+Claim Number: CLM-AU0200
+Date of Loss: 12/05/2019
+Your Insured: Karen Smith
+Dear Claims Adjuster:
+This firm represents Karen Smith in connection with the above-referenced claim.
+On 12/05/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $27,763
+Lost Wages: $3,643
+Property Damage: $16,084
+Pain and Suffering: $73,033
+TOTAL DEMAND: $89,319
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Williams Law Firm
+Attorney for Karen Smith
+
+
+===== FILE: POLICE_CLM-AU0200.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019653798
+INCIDENT INFORMATION
+Date/Time: 12/05/2019 at 12:21
+Location: 1643 Cedar Ave, Miami, FL
+Type: Comprehensive
+Weather: Foggy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Karen Smith
+License: FL81495951
+Vehicle: 2019 BMW 3 Series, VIN: 0FJEW2R8XK85T3R1K
+Driver 2: Karen Taylor
+Vehicle: 2018 Tesla Model 3
+NARRATIVE
+On 12/05/2019, at approximately 09:12, officers responded to
+a comprehensive at the intersection of 8890 Cedar St. Upon arrival, officers observed
+when Driver 2 (Karen Taylor) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 1908
+Date: 12/09/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0200.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Karen Smith
+Claim: CLM-AU0200
+Total Estimated Repairs: $16,084
+Prepared for: Allstate

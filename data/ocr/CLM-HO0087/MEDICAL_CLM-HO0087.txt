@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/27/2019 Claim: CLM-HO0087
+PATIENT INFORMATION
+Name: Michael Smith DOB: 02/26/1955
+SSN: 548-39-7593 Phone: 983-513-5132
+Address: 3822 Main Ave, Atlanta, GA 52087
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 08/24/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 08/24/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Lopez, MD
+License: 527936
+Date: 08/27/2019

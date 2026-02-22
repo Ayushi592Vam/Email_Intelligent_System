@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/16/2019 Claim: CLM-HO0001
+PATIENT INFORMATION
+Name: Patricia Miller DOB: 11/25/1994
+SSN: 545-33-8598 Phone: 584-444-6296
+Address: 8856 Cedar St, New York, NY 16685
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 10/13/2019 Treating Physician: Dr. Gonzalez
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 10/13/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Garcia, MD
+License: 583651
+Date: 10/16/2019

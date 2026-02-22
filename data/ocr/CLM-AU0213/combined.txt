@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0213.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/12/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Thomas Anderson
+4025 Stockard Drive, Suite 876 8996 Park St
+Frisco, TX 75034 New York, NY 41369
+Phone: 768-628-4342 Phone: 445-881-3614
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000213
+Effective Date: 11/09/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000213 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0213
+Date of Loss: 11/09/2019
+Estimated Amount: $6,373
+Vehicle: 2015 Toyota Camry, VIN: TF3UY2KLRJ2V14EP5
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0213.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0213.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0213.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+New York Police Department Report #: 2019361877
+INCIDENT INFORMATION
+Date/Time: 11/09/2019 at 14:17
+Location: 7688 Elm Ct, New York, NY
+Type: Comprehensive
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Thomas Anderson
+License: NY46840184
+Vehicle: 2015 Toyota Camry, VIN: TF3UY2KLRJ2V14EP5
+Driver 2: John Miller
+Vehicle: 2017 Toyota Camry
+NARRATIVE
+On 11/09/2019, at approximately 20:28, officers responded to
+a comprehensive at the intersection of 4859 Park St. Upon arrival, officers observed
+when Driver 2 (John Miller) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 8065
+Date: 11/12/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0213.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Anderson
+Claim: CLM-AU0213
+Total Estimated Repairs: $6,373
+Prepared for: State Farm

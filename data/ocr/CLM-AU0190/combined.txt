@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0190.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/08/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services John Taylor
+4025 Stockard Drive, Suite 876 9674 Maple Blvd
+Frisco, TX 75034 New York, NY 55137
+Phone: 936-265-3863 Phone: 516-688-6537
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000190
+Effective Date: 09/07/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000190 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0190
+Date of Loss: 09/07/2019
+Estimated Amount: $6,118
+Vehicle: 2018 BMW 3 Series, VIN: 4ASLH7FNWT1CU68M1
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0190.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0190.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0190.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+New York Police Department Report #: 2019508141
+INCIDENT INFORMATION
+Date/Time: 09/07/2019 at 12:19
+Location: 7330 Oak Ave, New York, NY
+Type: Uninsured Motorist
+Weather: Foggy, Road: Wet
+PARTIES INVOLVED
+Driver 1: John Taylor
+License: NY19348208
+Vehicle: 2018 BMW 3 Series, VIN: 4ASLH7FNWT1CU68M1
+Driver 2: Patricia Miller
+Vehicle: 2019 Audi A4
+NARRATIVE
+On 09/07/2019, at approximately 21:30, officers responded to
+a uninsured motorist at the intersection of 8820 Oak Ave. Upon arrival, officers observed
+when Driver 2 (Patricia Miller) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 6292
+Date: 09/08/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0190.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Taylor
+Claim: CLM-AU0190
+Total Estimated Repairs: $6,118
+Prepared for: Nationwide

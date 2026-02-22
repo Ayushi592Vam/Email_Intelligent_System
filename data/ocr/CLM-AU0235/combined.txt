@@ -1,0 +1,115 @@
+
+===== FILE: ACORD25_CLM-AU0235.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/11/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services John Gonzalez
+4025 Stockard Drive, Suite 876 3241 Elm Ln
+Frisco, TX 75034 Miami, FL 60269
+Phone: 934-363-3193 Phone: 426-657-3673
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000235
+Effective Date: 01/06/2020
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000235 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0235
+Date of Loss: 01/06/2020
+Estimated Amount: $18,609
+Vehicle: 2017 Tesla Model 3, VIN: RG406VAA2D6RVWY2X
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0235.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0235.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0235.pdf =====
+--- PAGE 1 ---
+WILLIAMS LAW FIRM
+Attorneys at Law
+6771 Washington Ct
+Miami, FL 60269
+Phone: 369-764-4758 | Fax: 670-819-8473
+Date: 01/11/2020
+Nationwide
+Claims Department
+P.O. Box 12345
+Phoenix, AZ 76246
+RE: Demand for Settlement - John Gonzalez
+Claim Number: CLM-AU0235
+Date of Loss: 01/06/2020
+Your Insured: John Gonzalez
+Dear Claims Adjuster:
+This firm represents John Gonzalez in connection with the above-referenced claim.
+On 01/06/2020, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $14,839
+Lost Wages: $10,165
+Property Damage: $18,609
+Pain and Suffering: $57,974
+TOTAL DEMAND: $57,112
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Williams Law Firm
+Attorney for John Gonzalez
+
+
+===== FILE: POLICE_CLM-AU0235.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019538203
+INCIDENT INFORMATION
+Date/Time: 01/06/2020 at 15:46
+Location: 4415 Elm Ln, Miami, FL
+Type: Comprehensive
+Weather: Foggy, Road: Icy
+PARTIES INVOLVED
+Driver 1: John Gonzalez
+License: FL14730827
+Vehicle: 2017 Tesla Model 3, VIN: RG406VAA2D6RVWY2X
+Driver 2: Robert Gonzalez
+Vehicle: 2015 Honda Accord
+NARRATIVE
+On 01/06/2020, at approximately 12:33, officers responded to
+a comprehensive at the intersection of 1072 Cedar Ct. Upon arrival, officers observed
+when Driver 2 (Robert Gonzalez) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 8838
+Date: 01/11/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0235.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Gonzalez
+Claim: CLM-AU0235
+Total Estimated Repairs: $18,609
+Prepared for: Nationwide

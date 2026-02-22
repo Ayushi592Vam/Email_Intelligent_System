@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0150
+Policy Number: AU1000150
+Insured: Linda Brown
+Carrier: Allstate
+Date of Loss: 09/06/2019
+Estimated Amount: $81,134
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: Yes
+
+Vehicle: 2017 Chevrolet Silverado | VIN: ABS70BRRF6EK5DN8S
+
+Severity: CRITICAL (90)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

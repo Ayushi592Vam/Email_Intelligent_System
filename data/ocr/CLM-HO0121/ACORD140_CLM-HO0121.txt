@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/26/2019
+INSURED INFORMATION
+Name: Patricia Williams
+Property Address: 391 Pine Ln
+Miami, FL 16995
+Phone: 317-444-2406
+Email: patricia.williams@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000121
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1976
+Square Footage: 2522 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0121
+Date of Loss: 12/24/2019
+Time of Loss: 7:30 AM
+Cause of Loss: Water Damage
+Estimated Damage: $20,691
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals moderate damage to in
+terior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

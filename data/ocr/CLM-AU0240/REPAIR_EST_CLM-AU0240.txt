@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Williams
+Claim: CLM-AU0240
+Total Estimated Repairs: $9,133
+Prepared for: Nationwide

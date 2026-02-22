@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Smith
+Claim: CLM-HO0025
+Total Estimated Repairs: $171,920
+Prepared for: State Farm

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0106
+Policy Number: AU1000106
+Insured: Linda Jones
+Carrier: Travelers
+Date of Loss: 09/10/2019
+Estimated Amount: $8,574
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 Tesla Model | VIN: BB2PJYFTRH4EJ4YMM
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

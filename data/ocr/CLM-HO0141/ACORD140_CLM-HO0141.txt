@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/07/2019
+INSURED INFORMATION
+Name: Barbara Johnson
+Property Address: 804 Oak Ct
+Chicago, IL 91366
+Phone: 636-940-7221
+Email: barbara.johnson@example.com
+INSURANCE COMPANY
+Company: State Farm
+Policy Number: HO2000141
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1996
+Square Footage: 2784 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0141
+Date of Loss: 09/07/2019
+Time of Loss: 8:00 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $26,181
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals moderate damage t
+o interior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

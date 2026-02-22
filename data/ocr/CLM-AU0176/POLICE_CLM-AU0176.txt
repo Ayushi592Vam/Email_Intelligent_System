@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Phoenix Police Department Report #: 2019014103
+INCIDENT INFORMATION
+Date/Time: 08/11/2019 at 20:39
+Location: 1800 Elm Ct, Phoenix, AZ
+Type: Collision
+Weather: Cloudy, Road: Dry
+PARTIES INVOLVED
+Driver 1: John Garcia
+License: AZ38300009
+Vehicle: 2018 Tesla Model 3, VIN: 4WD31YRPVYW5RV1LG
+Driver 2: William Smith
+Vehicle: 2019 Honda Accord
+NARRATIVE
+On 08/11/2019, at approximately 14:42, officers responded to
+a collision at the intersection of 6275 Pine Ln. Upon arrival, officers observed
+when Driver 2 (William Smith) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 5584
+Date: 08/13/2019

@@ -1,0 +1,78 @@
+
+===== FILE: ACORD25_CLM-AU0234.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/14/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Christopher Smith
+4025 Stockard Drive, Suite 876 1528 Pine Ct
+Frisco, TX 75034 Dallas, TX 19892
+Phone: 796-956-2864 Phone: 548-520-7116
+INSURER(S) AFFORDING COVERAGE
+INSURER A: State Farm
+Policy Number: AU1000234
+Effective Date: 08/14/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000234 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0234
+Date of Loss: 08/14/2019
+Estimated Amount: $5,915
+Vehicle: 2018 Ford F-150, VIN: 8NEW207G4Z1CE058V
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0234.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0234.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0234.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019370244
+INCIDENT INFORMATION
+Date/Time: 08/14/2019 at 18:41
+Location: 5755 Washington St, Dallas, TX
+Type: Comprehensive
+Weather: Clear, Road: Icy
+PARTIES INVOLVED
+Driver 1: Christopher Smith
+License: TX57574925
+Vehicle: 2018 Ford F-150, VIN: 8NEW207G4Z1CE058V
+Driver 2: Elizabeth Moore
+Vehicle: 2011 Audi A4
+NARRATIVE
+On 08/14/2019, at approximately 11:58, officers responded to
+a comprehensive at the intersection of 2177 Oak Ct. Upon arrival, officers observed
+when Driver 2 (Elizabeth Moore) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 9052
+Date: 08/14/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0234.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Christopher Smith
+Claim: CLM-AU0234
+Total Estimated Repairs: $5,915
+Prepared for: State Farm

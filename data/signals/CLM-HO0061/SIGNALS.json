@@ -1,0 +1,10 @@
+{
+  "claim_number": "CLM-HO0061",
+  "claim_type": "HOME",
+  "severity": "MEDIUM",
+  "severity_score": 40,
+  "signals_detected": [
+    "SEVERE_LOSS_AMOUNT",
+    "HOME_LOSS_VANDALISM"
+  ]
+}

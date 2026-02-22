@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Linda Davis
+Claim: CLM-AU0238
+Total Estimated Repairs: $3,730
+Prepared for: Allstate

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0030",
+  "policy_number": "AU1000030",
+  "insured_name": "William Williams",
+  "carrier": "Geico",
+  "date_of_loss": "09/24/2019",
+  "estimated_amount": "22358",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": "2018 Honda Accord",
+  "vin": "254UGG2CLPPLX5L61",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

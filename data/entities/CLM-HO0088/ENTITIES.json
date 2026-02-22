@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0088",
+  "policy_number": "HO2000088",
+  "insured_name": "Jennifer Davis",
+  "carrier": "Progressive",
+  "date_of_loss": "12/28/2019",
+  "estimated_amount": "77411",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1496 Main Blvd, Chicago, IL 41565",
+  "loss_type": "fire"
+}

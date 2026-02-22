@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0092
+Policy Number: AU1000092
+Insured: James Jackson
+Carrier: Travelers
+Date of Loss: 08/05/2019
+Estimated Amount: $11,382
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 Ford F | VIN: HFPJPAKKVMSCCB4K6
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0107
+Policy Number: AU1000107
+Insured: James Johnson
+Carrier: Farmers
+Date of Loss: 12/05/2019
+Estimated Amount: $33,243
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2017 Ford F | VIN: T75UTASJHJ5A2Y42U
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

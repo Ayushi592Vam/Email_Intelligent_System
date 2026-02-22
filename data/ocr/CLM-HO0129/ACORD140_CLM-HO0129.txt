@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/30/2019
+INSURED INFORMATION
+Name: Elizabeth Brown
+Property Address: 6870 Oak Blvd
+Los Angeles, CA 18961
+Phone: 954-397-9488
+Email: elizabeth.brown@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000129
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1971
+Square Footage: 1622 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0129
+Date of Loss: 12/28/2019
+Time of Loss: 3:45 PM
+Cause of Loss: Vandalism
+Estimated Damage: $47,299
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals significant water intrus
+ion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

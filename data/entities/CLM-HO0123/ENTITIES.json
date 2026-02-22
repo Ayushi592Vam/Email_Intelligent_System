@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0123",
+  "policy_number": "HO2000123",
+  "insured_name": "Jessica Lopez",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "08/04/2019",
+  "estimated_amount": "9772",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4878 Cedar Dr, Chicago, IL 86056",
+  "loss_type": "fire"
+}

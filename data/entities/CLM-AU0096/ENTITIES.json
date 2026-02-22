@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0096",
+  "policy_number": "AU1000096",
+  "insured_name": "Mary Rodriguez",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "08/24/2019",
+  "estimated_amount": "35304",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2017 Honda Accord",
+  "vin": "025A2M2UNXLU68S01",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

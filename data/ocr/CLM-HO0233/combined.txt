@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0233.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/01/2019
+INSURED INFORMATION
+Name: John Smith
+Property Address: 3509 Main Dr
+Dallas, TX 33002
+Phone: 387-402-5821
+Email: john.smith@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000233
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1982
+Square Footage: 2396 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0233
+Date of Loss: 07/30/2019
+Time of Loss: 4:45 AM
+Cause of Loss: Fire
+Estimated Damage: $23,976
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals extensive fire damage to roof
+and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0233.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0233.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Smith
+Claim: CLM-HO0233
+Total Estimated Repairs: $23,976
+Prepared for: Nationwide

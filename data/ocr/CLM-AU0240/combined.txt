@@ -1,0 +1,115 @@
+
+===== FILE: ACORD25_CLM-AU0240.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 07/29/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services John Williams
+4025 Stockard Drive, Suite 876 9873 Washington Blvd
+Frisco, TX 75034 Dallas, TX 47632
+Phone: 264-301-9491 Phone: 569-661-8597
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Nationwide
+Policy Number: AU1000240
+Effective Date: 07/27/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000240 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0240
+Date of Loss: 07/27/2019
+Estimated Amount: $9,133
+Vehicle: 2018 Chevrolet Silverado, VIN: 37X60EFTCMHVCB604
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0240.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0240.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0240.pdf =====
+--- PAGE 1 ---
+SMITH LEGAL GROUP
+Attorneys at Law
+9294 Oak St
+Dallas, TX 47632
+Phone: 561-827-6206 | Fax: 910-725-3769
+Date: 07/29/2019
+Nationwide
+Claims Department
+P.O. Box 12345
+Dallas, TX 82783
+RE: Demand for Settlement - John Williams
+Claim Number: CLM-AU0240
+Date of Loss: 07/27/2019
+Your Insured: John Williams
+Dear Claims Adjuster:
+This firm represents John Williams in connection with the above-referenced claim.
+On 07/27/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $19,460
+Lost Wages: $14,705
+Property Damage: $9,133
+Pain and Suffering: $35,411
+TOTAL DEMAND: $68,063
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Smith Legal Group
+Attorney for John Williams
+
+
+===== FILE: POLICE_CLM-AU0240.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019513455
+INCIDENT INFORMATION
+Date/Time: 07/27/2019 at 20:15
+Location: 7604 Washington Ct, Dallas, TX
+Type: Uninsured Motorist
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: John Williams
+License: TX69622494
+Vehicle: 2018 Chevrolet Silverado, VIN: 37X60EFTCMHVCB604
+Driver 2: Elizabeth Gonzalez
+Vehicle: 2017 BMW 3 Series
+NARRATIVE
+On 07/27/2019, at approximately 12:37, officers responded to
+a uninsured motorist at the intersection of 5625 Oak St. Upon arrival, officers observed
+when Driver 2 (Elizabeth Gonzalez) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 8035
+Date: 07/29/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0240.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Williams
+Claim: CLM-AU0240
+Total Estimated Repairs: $9,133
+Prepared for: Nationwide

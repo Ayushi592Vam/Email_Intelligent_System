@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Taylor
+Claim: CLM-AU0236
+Total Estimated Repairs: $7,086
+Prepared for: Liberty Mutual

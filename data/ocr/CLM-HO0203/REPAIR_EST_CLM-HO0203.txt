@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Anderson
+Claim: CLM-HO0203
+Total Estimated Repairs: $123,823
+Prepared for: Progressive

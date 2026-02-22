@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Davis
+Claim: CLM-AU0034
+Total Estimated Repairs: $3,502
+Prepared for: Geico

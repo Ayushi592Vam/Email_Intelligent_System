@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0131",
+  "policy_number": "HO2000131",
+  "insured_name": "John Wilson",
+  "carrier": "Travelers",
+  "date_of_loss": "10/26/2019",
+  "estimated_amount": "16890",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7955 Main Blvd, Phoenix, AZ 75310",
+  "loss_type": "fire"
+}

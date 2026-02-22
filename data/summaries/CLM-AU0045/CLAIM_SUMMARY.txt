@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0045
+Policy Number: AU1000045
+Insured: Robert Jackson
+Carrier: Geico
+Date of Loss: 10/09/2019
+Estimated Amount: $53,624
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2020 Audi A4 | VIN: KEJGD83C744D59FK0
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

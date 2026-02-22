@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0149
+Policy Number: AU1000149
+Insured: Thomas Johnson
+Carrier: Farmers
+Date of Loss: 12/03/2019
+Estimated Amount: $54,227
+
+Injuries Reported: Yes
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 Chevrolet Silverado | VIN: X9YPJB039C783F631
+
+Severity: HIGH (70)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

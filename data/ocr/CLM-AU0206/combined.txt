@@ -1,0 +1,116 @@
+
+===== FILE: ACORD25_CLM-AU0206.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/23/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Robert Taylor
+4025 Stockard Drive, Suite 876 9814 Main Dr
+Frisco, TX 75034 Houston, TX 80431
+Phone: 778-304-9149 Phone: 359-358-3378
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Geico
+Policy Number: AU1000206
+Effective Date: 08/20/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000206 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0206
+Date of Loss: 08/20/2019
+Estimated Amount: $57,508
+Vehicle: 2017 Honda Accord, VIN: HND290PTKAUEXWUVA
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0206.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0206.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0206.pdf =====
+--- PAGE 1 ---
+SMITH LEGAL GROUP
+Attorneys at Law
+4032 Oak Blvd
+Houston, TX 80431
+Phone: 773-858-4444 | Fax: 505-434-1197
+Date: 08/23/2019
+Geico
+Claims Department
+P.O. Box 12345
+Phoenix, TX 83139
+RE: Demand for Settlement - Robert Taylor
+Claim Number: CLM-AU0206
+Date of Loss: 08/20/2019
+Your Insured: Robert Taylor
+Dear Claims Adjuster:
+This firm represents Robert Taylor in connection with the above-referenced claim.
+On 08/20/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $8,443
+Lost Wages: $7,158
+Property Damage: $57,508
+Pain and Suffering: $31,837
+TOTAL DEMAND: $102,658
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+John Smith, Esq.
+Smith Legal Group
+Attorney for Robert Taylor
+
+
+===== FILE: MEDICAL_CLM-AU0206.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/23/2019 Claim: CLM-AU0206
+PATIENT INFORMATION
+Name: Robert Taylor DOB: 12/04/1957
+SSN: 148-21-9229 Phone: 359-358-3378
+Address: 9814 Main Dr, Houston, TX 80431
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 08/20/2019 Treating Physician: Dr. Jones
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 08/20/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Martinez, MD
+License: 421696
+Date: 08/23/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0206.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Taylor
+Claim: CLM-AU0206
+Total Estimated Repairs: $57,508
+Prepared for: Geico

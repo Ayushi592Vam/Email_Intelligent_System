@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0075",
+  "policy_number": "HO2000075",
+  "insured_name": "Karen Hernandez",
+  "carrier": "Allstate",
+  "date_of_loss": "11/25/2019",
+  "estimated_amount": "113985",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6416 Oak Dr, Houston, TX 14500",
+  "loss_type": "fire"
+}

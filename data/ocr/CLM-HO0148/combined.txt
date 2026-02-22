@@ -1,0 +1,79 @@
+
+===== FILE: ACORD140_CLM-HO0148.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/30/2019
+INSURED INFORMATION
+Name: James Smith
+Property Address: 7716 Maple Dr
+Atlanta, GA 48742
+Phone: 710-403-8481
+Email: james.smith@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000148
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2014
+Square Footage: 3125 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0148
+Date of Loss: 08/28/2019
+Time of Loss: 12:00 AM
+Cause of Loss: Liability
+Estimated Damage: $15,311
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals moderate damage to inter
+ior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0148.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0148.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0148.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/30/2019 Claim: CLM-HO0148
+PATIENT INFORMATION
+Name: James Smith DOB: 09/15/1955
+SSN: 932-98-9160 Phone: 710-403-8481
+Address: 7716 Maple Dr, Atlanta, GA 48742
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 08/28/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 08/28/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Garcia, MD
+License: 811490
+Date: 08/30/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0148.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Smith
+Claim: CLM-HO0148
+Total Estimated Repairs: $15,311
+Prepared for: Liberty Mutual

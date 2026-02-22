@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/29/2019 Claim: CLM-HO0196
+PATIENT INFORMATION
+Name: Sarah Smith DOB: 12/21/1956
+SSN: 107-92-2387 Phone: 419-762-8705
+Address: 6302 Park Ln, Miami, FL 22082
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 12/28/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 12/28/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Davis, MD
+License: 644087
+Date: 12/29/2019

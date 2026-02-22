@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0154",
+  "policy_number": "HO2000154",
+  "insured_name": "Patricia Hernandez",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "09/18/2019",
+  "estimated_amount": "31120",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6982 Maple Dr, New York, NY 33694",
+  "loss_type": "liability"
+}

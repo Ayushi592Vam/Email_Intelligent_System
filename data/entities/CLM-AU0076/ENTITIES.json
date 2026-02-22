@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0076",
+  "policy_number": "AU1000076",
+  "insured_name": "William Wilson",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "10/12/2019",
+  "estimated_amount": "53182",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2016 Ford F",
+  "vin": "NA6HTBL83F1CJR66N",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

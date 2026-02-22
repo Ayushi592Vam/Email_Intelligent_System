@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0180",
+  "policy_number": "AU1000180",
+  "insured_name": "Robert Martin",
+  "carrier": "Travelers",
+  "date_of_loss": "12/25/2019",
+  "estimated_amount": "17810",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2020 BMW 3",
+  "vin": "BTS8B9ERJ5CFHN91R",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

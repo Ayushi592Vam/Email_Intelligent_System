@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0198",
+  "policy_number": "HO2000198",
+  "insured_name": "Elizabeth Martin",
+  "carrier": "Travelers",
+  "date_of_loss": "07/25/2019",
+  "estimated_amount": "24906",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4317 Pine Dr, Phoenix, AZ 43667",
+  "loss_type": "water damage"
+}

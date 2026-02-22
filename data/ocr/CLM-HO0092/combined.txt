@@ -1,0 +1,79 @@
+
+===== FILE: ACORD140_CLM-HO0092.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/24/2019
+INSURED INFORMATION
+Name: Robert Gonzalez
+Property Address: 8294 Pine Ave
+Houston, TX 51986
+Phone: 353-818-8968
+Email: robert.gonzalez@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000092
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1980
+Square Footage: 1820 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0092
+Date of Loss: 12/20/2019
+Time of Loss: 7:30 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $17,035
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals moderate damage t
+o interior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0092.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0092.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0092.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/24/2019 Claim: CLM-HO0092
+PATIENT INFORMATION
+Name: Robert Gonzalez DOB: 03/06/1950
+SSN: 576-74-5220 Phone: 353-818-8968
+Address: 8294 Pine Ave, Houston, TX 51986
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 12/20/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 12/20/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Rodriguez, MD
+License: 859047
+Date: 12/24/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0092.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Gonzalez
+Claim: CLM-HO0092
+Total Estimated Repairs: $17,035
+Prepared for: Liberty Mutual

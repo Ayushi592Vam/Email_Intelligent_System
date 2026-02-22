@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0013.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/28/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Thomas Brown
+4025 Stockard Drive, Suite 876 9633 Maple Ct
+Frisco, TX 75034 Los Angeles, CA 12822
+Phone: 747-842-8754 Phone: 740-391-3079
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000013
+Effective Date: 08/27/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000013 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0013
+Date of Loss: 08/27/2019
+Estimated Amount: $13,553
+Vehicle: 2015 Ford F-150, VIN: UYNWCNGT7JSV1GC5U
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0013.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0013.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Los Angeles Police Department Report #: 2019061656
+INCIDENT INFORMATION
+Date/Time: 08/27/2019 at 13:39
+Location: 9406 Main Blvd, Los Angeles, CA
+Type: Uninsured Motorist
+Weather: Clear, Road: Icy
+PARTIES INVOLVED
+Driver 1: Thomas Brown
+License: CA31797498
+Vehicle: 2015 Ford F-150, VIN: UYNWCNGT7JSV1GC5U
+Driver 2: John Brown
+Vehicle: 2018 Honda Accord
+NARRATIVE
+On 08/27/2019, at approximately 09:00, officers responded to
+a uninsured motorist at the intersection of 9986 Elm Ln. Upon arrival, officers observed
+when Driver 2 (John Brown) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 2047
+Date: 08/28/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0013.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Brown
+Claim: CLM-AU0013
+Total Estimated Repairs: $13,553
+Prepared for: Progressive

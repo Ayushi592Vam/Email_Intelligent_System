@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Lopez
+Claim: CLM-AU0133
+Total Estimated Repairs: $14,416
+Prepared for: Geico

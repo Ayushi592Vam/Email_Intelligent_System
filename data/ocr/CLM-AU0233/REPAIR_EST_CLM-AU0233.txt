@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Anderson
+Claim: CLM-AU0233
+Total Estimated Repairs: $30,232
+Prepared for: Geico

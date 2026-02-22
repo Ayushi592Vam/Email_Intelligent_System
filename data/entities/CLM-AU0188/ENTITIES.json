@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0188",
+  "policy_number": "AU1000188",
+  "insured_name": "Jessica Gonzalez",
+  "carrier": "Progressive",
+  "date_of_loss": "11/02/2019",
+  "estimated_amount": "13765",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2019 Toyota Camry",
+  "vin": "C4L2PY52DVBEJHHTR",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

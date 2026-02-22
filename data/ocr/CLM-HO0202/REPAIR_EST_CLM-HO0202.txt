@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Garcia
+Claim: CLM-HO0202
+Total Estimated Repairs: $22,585
+Prepared for: Geico

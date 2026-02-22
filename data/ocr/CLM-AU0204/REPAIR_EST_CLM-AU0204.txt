@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Jones
+Claim: CLM-AU0204
+Total Estimated Repairs: $38,690
+Prepared for: Allstate

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0029",
+  "policy_number": "HO2000029",
+  "insured_name": "Michael Jones",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "08/12/2019",
+  "estimated_amount": "23382",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "783 Pine Dr, Chicago, IL 65572",
+  "loss_type": "vandalism"
+}

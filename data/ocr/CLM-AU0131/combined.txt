@@ -1,0 +1,104 @@
+
+===== FILE: ACORD25_CLM-AU0131.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/11/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services William Williams
+4025 Stockard Drive, Suite 876 841 Main Blvd
+Frisco, TX 75034 New York, NY 64077
+Phone: 750-726-9550 Phone: 439-314-8292
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000131
+Effective Date: 01/08/2020
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000131 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0131
+Date of Loss: 01/08/2020
+Estimated Amount: $30,671
+Vehicle: 2018 Chevrolet Silverado, VIN: RLMJ3U7JNG5A97341
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0131.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0131.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/11/2020 Claim: CLM-AU0131
+PATIENT INFORMATION
+Name: William Williams DOB: 07/26/1967
+SSN: 899-76-5399 Phone: 439-314-8292
+Address: 841 Main Blvd, New York, NY 64077
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 01/08/2020 Treating Physician: Dr. Smith
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 01/08/2020.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Hernandez, MD
+License: 167583
+Date: 01/11/2020
+
+
+===== FILE: POLICE_CLM-AU0131.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+New York Police Department Report #: 2019584940
+INCIDENT INFORMATION
+Date/Time: 01/08/2020 at 16:40
+Location: 5911 Cedar Dr, New York, NY
+Type: Uninsured Motorist
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: William Williams
+License: NY23012810
+Vehicle: 2018 Chevrolet Silverado, VIN: RLMJ3U7JNG5A97341
+Driver 2: Thomas Davis
+Vehicle: 2019 Tesla Model 3
+NARRATIVE
+On 01/08/2020, at approximately 17:01, officers responded to
+a uninsured motorist at the intersection of 5942 Maple Ave. Upon arrival, officers observed
+when Driver 2 (Thomas Davis) failed to yield right of way. Impact occurred to the
+rear of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 4155
+Date: 01/11/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0131.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Williams
+Claim: CLM-AU0131
+Total Estimated Repairs: $30,671
+Prepared for: Progressive

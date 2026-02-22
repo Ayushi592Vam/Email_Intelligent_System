@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Wilson
+Claim: CLM-HO0008
+Total Estimated Repairs: $8,390
+Prepared for: Progressive

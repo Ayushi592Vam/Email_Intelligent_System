@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/10/2019
+INSURED INFORMATION
+Name: Jessica Lopez
+Property Address: 3241 Main Dr
+New York, NY 10089
+Phone: 833-865-7876
+Email: jessica.lopez@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000064
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2013
+Square Footage: 2059 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0064
+Date of Loss: 08/06/2019
+Time of Loss: 7:00 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $35,322
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals extensive fire da
+mage to roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

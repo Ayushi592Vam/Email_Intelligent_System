@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0229",
+  "policy_number": "AU1000229",
+  "insured_name": "Elizabeth Jackson",
+  "carrier": "Progressive",
+  "date_of_loss": "08/29/2019",
+  "estimated_amount": "45863",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2017 BMW 3",
+  "vin": "AHA2D5V2XXVCXG3PM",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

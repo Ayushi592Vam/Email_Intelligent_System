@@ -1,0 +1,20 @@
+{
+  "claim_number": "CLM-AU0222",
+  "claim_type": "AUTO",
+  "has_medical": false,
+  "has_police": false,
+  "has_legal": true,
+  "num_attachments": 5,
+  "num_photos": 1,
+  "severity": "MEDIUM",
+  "severity_score": 40,
+  "signals": [
+    "LEGAL_INVOLVEMENT"
+  ],
+  "files_present": [
+    "ACORD",
+    "LEGAL",
+    "PHOTOS",
+    "REPAIR_ESTIMATE"
+  ]
+}

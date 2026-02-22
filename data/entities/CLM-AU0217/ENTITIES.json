@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0217",
+  "policy_number": "AU1000217",
+  "insured_name": "David Hernandez",
+  "carrier": "Nationwide",
+  "date_of_loss": "11/30/2019",
+  "estimated_amount": "35194",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Tesla Model",
+  "vin": "KKVJ7YGE3WU1P0847",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

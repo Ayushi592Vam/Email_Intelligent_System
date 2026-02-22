@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Michael Lopez
+Claim: CLM-HO0006
+Total Estimated Repairs: $53,258
+Prepared for: Liberty Mutual

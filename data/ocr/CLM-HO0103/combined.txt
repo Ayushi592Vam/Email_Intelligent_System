@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0103.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/17/2019
+INSURED INFORMATION
+Name: James Lopez
+Property Address: 9803 Maple Ave
+Los Angeles, CA 85259
+Phone: 548-897-9929
+Email: james.lopez@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000103
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1989
+Square Footage: 3106 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0103
+Date of Loss: 12/16/2019
+Time of Loss: 6:15 AM
+Cause of Loss: Vandalism
+Estimated Damage: $19,470
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals structural damage requir
+ing immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0103.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0103.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Lopez
+Claim: CLM-HO0103
+Total Estimated Repairs: $19,470
+Prepared for: Travelers

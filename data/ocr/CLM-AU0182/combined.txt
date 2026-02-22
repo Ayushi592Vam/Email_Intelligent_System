@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0182.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/02/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Jennifer Brown
+4025 Stockard Drive, Suite 876 8539 Pine Ave
+Frisco, TX 75034 Miami, FL 75008
+Phone: 997-694-5711 Phone: 639-865-7579
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Liberty Mutual
+Policy Number: AU1000182
+Effective Date: 12/01/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000182 $250,000 Each Accident
+Category: Uninsured Motorist $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0182
+Date of Loss: 12/01/2019
+Estimated Amount: $48,019
+Vehicle: 2020 Ford F-150, VIN: N9T2RV708W01TFZJM
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0182.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0182.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019983480
+INCIDENT INFORMATION
+Date/Time: 12/01/2019 at 08:17
+Location: 9841 Main Dr, Miami, FL
+Type: Uninsured Motorist
+Weather: Foggy, Road: Icy
+PARTIES INVOLVED
+Driver 1: Jennifer Brown
+License: FL96187693
+Vehicle: 2020 Ford F-150, VIN: N9T2RV708W01TFZJM
+Driver 2: Thomas Wilson
+Vehicle: 2016 Audi A4
+NARRATIVE
+On 12/01/2019, at approximately 12:23, officers responded to
+a uninsured motorist at the intersection of 7322 Oak Ct. Upon arrival, officers observed
+when Driver 2 (Thomas Wilson) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 1995
+Date: 12/02/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0182.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jennifer Brown
+Claim: CLM-AU0182
+Total Estimated Repairs: $48,019
+Prepared for: Liberty Mutual

@@ -1,0 +1,26 @@
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+New York Police Department Report #: 2019484303
+INCIDENT INFORMATION
+Date/Time: 11/24/2019 at 15:39
+Location: 9034 Elm Ave, New York, NY
+Type: Collision
+Weather: Cloudy, Road: Icy
+PARTIES INVOLVED
+Driver 1: John Gonzalez
+License: NY63664443
+Vehicle: 2015 Toyota Camry, VIN: H1MC6G97PMRJU08GL
+Driver 2: James Taylor
+Vehicle: 2016 Ford F-150
+NARRATIVE
+On 11/24/2019, at approximately 19:20, officers responded to
+a collision at the intersection of 9173 Washington Dr. Upon arrival, officers observed
+when Driver 2 (James Taylor) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 2580
+Date: 11/25/2019

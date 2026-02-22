@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/01/2019
+INSURED INFORMATION
+Name: Jessica Taylor
+Property Address: 9182 Main Ln
+Houston, TX 33284
+Phone: 404-283-5111
+Email: jessica.taylor@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000193
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1971
+Square Footage: 2022 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0193
+Date of Loss: 08/28/2019
+Time of Loss: 1:00 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $79,054
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals significant water
+intrusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

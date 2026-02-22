@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/06/2019 Claim: CLM-HO0078
+PATIENT INFORMATION
+Name: David Brown DOB: 03/13/1953
+SSN: 506-14-8344 Phone: 486-765-7579
+Address: 8129 Oak St, Dallas, TX 46799
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 10/06/2019 Treating Physician: Dr. Rodriguez
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 10/06/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Gonzalez, MD
+License: 474369
+Date: 10/06/2019

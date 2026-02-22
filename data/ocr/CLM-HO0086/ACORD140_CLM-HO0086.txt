@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/13/2019
+INSURED INFORMATION
+Name: William Garcia
+Property Address: 4492 Pine St
+Dallas, TX 21769
+Phone: 989-834-7119
+Email: william.garcia@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000086
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1988
+Square Footage: 2222 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0086
+Date of Loss: 11/13/2019
+Time of Loss: 1:15 AM
+Cause of Loss: Vandalism
+Estimated Damage: $77,534
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals moderate damage to inter
+ior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

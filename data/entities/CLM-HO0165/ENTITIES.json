@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0165",
+  "policy_number": "HO2000165",
+  "insured_name": "Michael Brown",
+  "carrier": "Farmers",
+  "date_of_loss": "11/28/2019",
+  "estimated_amount": "22891",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "7124 Washington Blvd, Dallas, TX 18423",
+  "loss_type": "natural disaster"
+}

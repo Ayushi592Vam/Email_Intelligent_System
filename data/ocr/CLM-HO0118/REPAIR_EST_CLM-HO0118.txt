@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Gonzalez
+Claim: CLM-HO0118
+Total Estimated Repairs: $12,946
+Prepared for: Farmers

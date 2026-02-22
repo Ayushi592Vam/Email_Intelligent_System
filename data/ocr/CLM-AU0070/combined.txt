@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0070.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 01/03/2020
+PRODUCER INSURED
+Fire Insurance Brokerage Services Christopher Jones
+4025 Stockard Drive, Suite 876 8214 Oak St
+Frisco, TX 75034 Los Angeles, CA 25742
+Phone: 561-211-3397 Phone: 386-587-6428
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000070
+Effective Date: 01/02/2020
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000070 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0070
+Date of Loss: 01/02/2020
+Estimated Amount: $61,082
+Vehicle: 2018 BMW 3 Series, VIN: JM231NPWBK0MFFUFB
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0070.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0070.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0070.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/03/2020 Claim: CLM-AU0070
+PATIENT INFORMATION
+Name: Christopher Jones DOB: 11/25/1976
+SSN: 922-24-1273 Phone: 386-587-6428
+Address: 8214 Oak St, Los Angeles, CA 25742
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 01/02/2020 Treating Physician: Dr. Hernandez
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 01/02/2020.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Wilson, MD
+License: 609270
+Date: 01/03/2020
+
+
+===== FILE: POLICE_CLM-AU0070.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Los Angeles Police Department Report #: 2019136803
+INCIDENT INFORMATION
+Date/Time: 01/02/2020 at 11:53
+Location: 7753 Oak Ave, Los Angeles, CA
+Type: Collision
+Weather: Rainy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Christopher Jones
+License: CA40354811
+Vehicle: 2018 BMW 3 Series, VIN: JM231NPWBK0MFFUFB
+Driver 2: Jessica Williams
+Vehicle: 2011 Ford F-150
+NARRATIVE
+On 01/02/2020, at approximately 17:31, officers responded to
+a collision at the intersection of 264 Elm St. Upon arrival, officers observed
+when Driver 2 (Jessica Williams) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 7488
+Date: 01/03/2020
+
+
+===== FILE: REPAIR_EST_CLM-AU0070.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Christopher Jones
+Claim: CLM-AU0070
+Total Estimated Repairs: $61,082
+Prepared for: Progressive

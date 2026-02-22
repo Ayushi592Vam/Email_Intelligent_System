@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0160",
+  "policy_number": "HO2000160",
+  "insured_name": "Michael Lopez",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "07/20/2019",
+  "estimated_amount": "16121",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "1515 Oak Dr, Miami, FL 10567",
+  "loss_type": "vandalism"
+}

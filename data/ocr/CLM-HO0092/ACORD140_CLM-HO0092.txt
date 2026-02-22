@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/24/2019
+INSURED INFORMATION
+Name: Robert Gonzalez
+Property Address: 8294 Pine Ave
+Houston, TX 51986
+Phone: 353-818-8968
+Email: robert.gonzalez@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000092
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1980
+Square Footage: 1820 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0092
+Date of Loss: 12/20/2019
+Time of Loss: 7:30 PM
+Cause of Loss: Natural Disaster
+Estimated Damage: $17,035
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to natural disaster. Initial inspection reveals moderate damage t
+o interior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

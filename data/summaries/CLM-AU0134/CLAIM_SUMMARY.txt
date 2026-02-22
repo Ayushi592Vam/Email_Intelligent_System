@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0134
+Policy Number: AU1000134
+Insured: Joseph Miller
+Carrier: Liberty Mutual
+Date of Loss: 11/30/2019
+Estimated Amount: $9,731
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2016 Toyota Camry | VIN: TPU47TYAA4KJJVZT6
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

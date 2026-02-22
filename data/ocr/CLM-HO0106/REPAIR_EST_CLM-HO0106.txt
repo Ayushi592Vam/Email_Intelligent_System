@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Jackson
+Claim: CLM-HO0106
+Total Estimated Repairs: $105,788
+Prepared for: Progressive

@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/20/2019 Claim: CLM-HO0066
+PATIENT INFORMATION
+Name: Michael Rodriguez DOB: 09/14/1984
+SSN: 486-41-3758 Phone: 814-483-4546
+Address: 712 Cedar St, New York, NY 22008
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 10/18/2019 Treating Physician: Dr. Johnson
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 10/18/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Taylor, MD
+License: 958103
+Date: 10/20/2019

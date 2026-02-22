@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0158",
+  "policy_number": "AU1000158",
+  "insured_name": "Patricia Taylor",
+  "carrier": "Progressive",
+  "date_of_loss": "12/06/2019",
+  "estimated_amount": "5669",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Audi A4",
+  "vin": "GTCT995U6DJ9AP7FL",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,49 @@
+
+===== FILE: ACORD140_CLM-HO0051.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/23/2019
+INSURED INFORMATION
+Name: Jessica Martinez
+Property Address: 3748 Pine Dr
+Los Angeles, CA 82289
+Phone: 273-623-2789
+Email: jessica.martinez@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000051
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1992
+Square Footage: 1929 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0051
+Date of Loss: 07/19/2019
+Time of Loss: 5:45 AM
+Cause of Loss: Fire
+Estimated Damage: $98,448
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals extensive fire damage to roof
+and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0051.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0051.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0051.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Martinez
+Claim: CLM-HO0051
+Total Estimated Repairs: $98,448
+Prepared for: Travelers

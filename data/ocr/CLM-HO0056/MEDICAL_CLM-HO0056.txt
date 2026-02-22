@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/02/2019 Claim: CLM-HO0056
+PATIENT INFORMATION
+Name: Jennifer Martin DOB: 03/26/1964
+SSN: 144-48-9353 Phone: 346-473-2590
+Address: 3425 Washington Ln, Dallas, TX 73547
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 08/02/2019 Treating Physician: Dr. Williams
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 08/02/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Jones, MD
+License: 151027
+Date: 08/02/2019

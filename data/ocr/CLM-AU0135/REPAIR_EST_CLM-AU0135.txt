@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jennifer Smith
+Claim: CLM-AU0135
+Total Estimated Repairs: $8,948
+Prepared for: Progressive

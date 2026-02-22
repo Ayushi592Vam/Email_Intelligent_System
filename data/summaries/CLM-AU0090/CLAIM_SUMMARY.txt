@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0090
+Policy Number: AU1000090
+Insured: Christopher Taylor
+Carrier: Allstate
+Date of Loss: 12/08/2019
+Estimated Amount: $12,424
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2019 Toyota Camry | VIN: S4E7LNARBHL5PGVWD
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

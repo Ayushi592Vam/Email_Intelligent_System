@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0031.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/11/2019
+INSURED INFORMATION
+Name: Joseph Anderson
+Property Address: 4379 Elm Blvd
+Los Angeles, CA 91664
+Phone: 233-520-6079
+Email: joseph.anderson@example.com
+INSURANCE COMPANY
+Company: State Farm
+Policy Number: HO2000031
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2007
+Square Footage: 2255 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0031
+Date of Loss: 11/06/2019
+Time of Loss: 7:30 AM
+Cause of Loss: Fire
+Estimated Damage: $116,081
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to fire. Initial inspection reveals structural damage requiring i
+mmediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0031.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0031.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Anderson
+Claim: CLM-HO0031
+Total Estimated Repairs: $116,081
+Prepared for: State Farm

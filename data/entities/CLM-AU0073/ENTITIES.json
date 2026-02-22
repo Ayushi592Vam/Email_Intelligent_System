@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0073",
+  "policy_number": "AU1000073",
+  "insured_name": "Barbara Martin",
+  "carrier": "Geico",
+  "date_of_loss": "10/12/2019",
+  "estimated_amount": "45849",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2018 Ford F",
+  "vin": "Y75LHBVSKR9PPH7DJ",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

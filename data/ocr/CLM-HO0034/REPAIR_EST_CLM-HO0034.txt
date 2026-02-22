@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: David Davis
+Claim: CLM-HO0034
+Total Estimated Repairs: $79,980
+Prepared for: Geico

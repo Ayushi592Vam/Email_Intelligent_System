@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0211",
+  "policy_number": "AU1000211",
+  "insured_name": "Michael Johnson",
+  "carrier": "Allstate",
+  "date_of_loss": "10/22/2019",
+  "estimated_amount": "36374",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2015 Toyota Camry",
+  "vin": "517CRPXPMXZD2UGCX",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

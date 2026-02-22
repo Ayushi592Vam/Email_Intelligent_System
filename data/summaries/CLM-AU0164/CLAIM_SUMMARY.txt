@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0164
+Policy Number: AU1000164
+Insured: Christopher Rodriguez
+Carrier: Liberty Mutual
+Date of Loss: 10/05/2019
+Estimated Amount: $8,602
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2016 BMW 3 | VIN: G4LV4CKZS5CCT3U99
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

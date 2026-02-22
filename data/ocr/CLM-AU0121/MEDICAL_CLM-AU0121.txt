@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/05/2019 Claim: CLM-AU0121
+PATIENT INFORMATION
+Name: Joseph Rodriguez DOB: 12/04/1974
+SSN: 792-41-5653 Phone: 798-912-2972
+Address: 9861 Washington Dr, Chicago, IL 27003
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 10/04/2019 Treating Physician: Dr. Hernandez
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 10/04/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 6 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Williams, MD
+License: 379085
+Date: 10/05/2019

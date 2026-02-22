@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0215",
+  "policy_number": "AU1000215",
+  "insured_name": "John Smith",
+  "carrier": "Travelers",
+  "date_of_loss": "07/16/2019",
+  "estimated_amount": "5374",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2017 BMW 3",
+  "vin": "3NA77KUYC5HAUR6GX",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

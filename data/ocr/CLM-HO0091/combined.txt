@@ -1,0 +1,79 @@
+
+===== FILE: ACORD140_CLM-HO0091.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/29/2019
+INSURED INFORMATION
+Name: James Taylor
+Property Address: 149 Maple Dr
+New York, NY 86681
+Phone: 450-882-2329
+Email: james.taylor@example.com
+INSURANCE COMPANY
+Company: Geico
+Policy Number: HO2000091
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1989
+Square Footage: 1376 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0091
+Date of Loss: 07/26/2019
+Time of Loss: 6:30 AM
+Cause of Loss: Liability
+Estimated Damage: $39,295
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals structural damage requir
+ing immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0091.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0091.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0091.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 07/29/2019 Claim: CLM-HO0091
+PATIENT INFORMATION
+Name: James Taylor DOB: 09/16/1990
+SSN: 397-68-2016 Phone: 450-882-2329
+Address: 149 Maple Dr, New York, NY 86681
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 07/26/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 07/26/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Wilson, MD
+License: 663737
+Date: 07/29/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0091.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Taylor
+Claim: CLM-HO0091
+Total Estimated Repairs: $39,295
+Prepared for: Geico

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0022",
+  "policy_number": "AU1000022",
+  "insured_name": "Michael Smith",
+  "carrier": "Progressive",
+  "date_of_loss": "07/29/2019",
+  "estimated_amount": "12196",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Audi A4",
+  "vin": "YU9323LRUV83SS5E5",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

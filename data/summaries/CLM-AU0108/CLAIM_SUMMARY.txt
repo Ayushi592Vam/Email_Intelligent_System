@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0108
+Policy Number: AU1000108
+Insured: Michael Jones
+Carrier: State Farm
+Date of Loss: 12/24/2019
+Estimated Amount: $34,167
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 Audi A4 | VIN: LXPX9MP5ZCKHD892F
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

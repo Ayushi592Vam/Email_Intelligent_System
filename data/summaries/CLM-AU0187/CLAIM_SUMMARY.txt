@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0187
+Policy Number: AU1000187
+Insured: Jessica Davis
+Carrier: State Farm
+Date of Loss: 10/24/2019
+Estimated Amount: $17,033
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2019 Chevrolet Silverado | VIN: JX03N0KWHGN3JDMZF
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

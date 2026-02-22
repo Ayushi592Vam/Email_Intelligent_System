@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0007.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 07/19/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Patricia Smith
+4025 Stockard Drive, Suite 876 7199 Elm Blvd
+Frisco, TX 75034 Houston, TX 84242
+Phone: 229-629-9131 Phone: 294-657-4318
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000007
+Effective Date: 07/15/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000007 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0007
+Date of Loss: 07/15/2019
+Estimated Amount: $5,519
+Vehicle: 2020 Toyota Camry, VIN: SZ7BNTMAKRF6W9SDZ
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0007.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0007.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Houston Police Department Report #: 2019097574
+INCIDENT INFORMATION
+Date/Time: 07/15/2019 at 08:33
+Location: 5760 Washington Dr, Houston, TX
+Type: Comprehensive
+Weather: Rainy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Patricia Smith
+License: TX78738932
+Vehicle: 2020 Toyota Camry, VIN: SZ7BNTMAKRF6W9SDZ
+Driver 2: Jessica Williams
+Vehicle: 2018 Chevrolet Silverado
+NARRATIVE
+On 07/15/2019, at approximately 13:53, officers responded to
+a comprehensive at the intersection of 7804 Park Ct. Upon arrival, officers observed
+when Driver 2 (Jessica Williams) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 7620
+Date: 07/19/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0007.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Patricia Smith
+Claim: CLM-AU0007
+Total Estimated Repairs: $5,519
+Prepared for: Progressive

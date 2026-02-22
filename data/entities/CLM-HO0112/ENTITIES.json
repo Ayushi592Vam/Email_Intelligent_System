@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0112",
+  "policy_number": "HO2000112",
+  "insured_name": "Jennifer Jackson",
+  "carrier": "Geico",
+  "date_of_loss": "10/30/2019",
+  "estimated_amount": "53962",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9920 Elm Ave, Chicago, IL 75714",
+  "loss_type": "natural disaster"
+}

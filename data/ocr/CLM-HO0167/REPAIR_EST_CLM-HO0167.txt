@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Anderson
+Claim: CLM-HO0167
+Total Estimated Repairs: $22,356
+Prepared for: Travelers

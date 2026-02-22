@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/03/2019 Claim: CLM-AU0123
+PATIENT INFORMATION
+Name: Jennifer Jones DOB: 01/17/1960
+SSN: 905-71-3149 Phone: 793-275-8768
+Address: 2356 Cedar St, Atlanta, GA 82287
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 09/01/2019 Treating Physician: Dr. Rodriguez
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 09/01/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Taylor, MD
+License: 198115
+Date: 09/03/2019

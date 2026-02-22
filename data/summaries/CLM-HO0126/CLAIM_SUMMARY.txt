@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-HO0126
+Policy Number: HO2000126
+Insured: Richard Smith
+Carrier: Unknown
+Date of Loss: 12/31/2019
+Estimated Amount: $100,502
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: N/A
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

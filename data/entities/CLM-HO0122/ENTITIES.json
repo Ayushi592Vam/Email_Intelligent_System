@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0122",
+  "policy_number": "HO2000122",
+  "insured_name": "Sarah Martin",
+  "carrier": "Farmers",
+  "date_of_loss": "10/22/2019",
+  "estimated_amount": "5668",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6576 Oak St, Miami, FL 62291",
+  "loss_type": "theft"
+}

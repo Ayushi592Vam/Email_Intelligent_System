@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0250
+Policy Number: AU1000250
+Insured: Michael Wilson
+Carrier: Allstate
+Date of Loss: 11/13/2019
+Estimated Amount: $8,468
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2016 Toyota Camry | VIN: 3TU4V39P774K7GZTN
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

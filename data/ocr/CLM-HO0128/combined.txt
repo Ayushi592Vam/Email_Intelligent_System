@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0128.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/16/2019
+INSURED INFORMATION
+Name: Susan Smith
+Property Address: 1750 Washington Dr
+New York, NY 78618
+Phone: 718-834-2623
+Email: susan.smith@example.com
+INSURANCE COMPANY
+Company: Nationwide
+Policy Number: HO2000128
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 2011
+Square Footage: 1412 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0128
+Date of Loss: 10/12/2019
+Time of Loss: 11:45 AM
+Cause of Loss: Vandalism
+Estimated Damage: $14,181
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0128.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0128.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Smith
+Claim: CLM-HO0128
+Total Estimated Repairs: $14,181
+Prepared for: Nationwide

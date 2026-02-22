@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0119",
+  "policy_number": "AU1000119",
+  "insured_name": "Jennifer Williams",
+  "carrier": "Progressive",
+  "date_of_loss": "09/01/2019",
+  "estimated_amount": "24860",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2015 Audi A4",
+  "vin": "81U35FUSCJXVEA64D",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,11 @@
+{
+  "claim_number": "CLM-AU0175",
+  "claim_type": "AUTO",
+  "severity": "CRITICAL",
+  "severity_score": 90,
+  "signals_detected": [
+    "INJURY_REPORTED",
+    "SEVERE_LOSS_AMOUNT",
+    "AUTO_BODILY_INJURY"
+  ]
+}

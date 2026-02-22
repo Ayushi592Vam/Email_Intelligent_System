@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0076",
+  "policy_number": "HO2000076",
+  "insured_name": "James Garcia",
+  "carrier": "Nationwide",
+  "date_of_loss": "11/08/2019",
+  "estimated_amount": "142211",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4273 Elm St, Atlanta, GA 14796",
+  "loss_type": "vandalism"
+}

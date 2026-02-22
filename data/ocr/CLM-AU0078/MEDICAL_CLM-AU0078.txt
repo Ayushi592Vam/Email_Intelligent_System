@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/18/2019 Claim: CLM-AU0078
+PATIENT INFORMATION
+Name: David Johnson DOB: 08/19/1962
+SSN: 424-93-2099 Phone: 476-511-1333
+Address: 2504 Pine Dr, Chicago, IL 60508
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 11/18/2019 Treating Physician: Dr. Wilson
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 11/18/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Taylor, MD
+License: 508835
+Date: 11/18/2019

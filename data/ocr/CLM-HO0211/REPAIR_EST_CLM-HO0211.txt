@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Anderson
+Claim: CLM-HO0211
+Total Estimated Repairs: $37,195
+Prepared for: State Farm

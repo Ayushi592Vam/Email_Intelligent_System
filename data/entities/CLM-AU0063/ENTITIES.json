@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0063",
+  "policy_number": "AU1000063",
+  "insured_name": "Sarah Hernandez",
+  "carrier": "Allstate",
+  "date_of_loss": "11/19/2019",
+  "estimated_amount": "48201",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": true,
+  "vehicle": "2019 Honda Accord",
+  "vin": "4PPUL07GKXMPFS3BC",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

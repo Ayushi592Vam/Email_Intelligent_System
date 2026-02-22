@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0068.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/19/2019
+INSURED INFORMATION
+Name: Barbara Williams
+Property Address: 8082 Washington Ct
+Houston, TX 60159
+Phone: 928-896-2683
+Email: barbara.williams@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000068
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1999
+Square Footage: 2795 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0068
+Date of Loss: 12/17/2019
+Time of Loss: 12:15 AM
+Cause of Loss: Water Damage
+Estimated Damage: $22,475
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals significant water int
+rusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0068.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0068.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Barbara Williams
+Claim: CLM-HO0068
+Total Estimated Repairs: $22,475
+Prepared for: Allstate

@@ -1,0 +1,75 @@
+
+===== FILE: ACORD140_CLM-HO0090.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/07/2019
+INSURED INFORMATION
+Name: William Brown
+Property Address: 9085 Pine Dr
+Houston, TX 18480
+Phone: 728-786-4076
+Email: william.brown@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000090
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1984
+Square Footage: 2970 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0090
+Date of Loss: 11/04/2019
+Time of Loss: 9:00 AM
+Cause of Loss: Theft
+Estimated Damage: $138,434
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals significant water intrusion
+affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0090.png =====
+
+
+
+===== FILE: MEDICAL_CLM-HO0090.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/07/2019 Claim: CLM-HO0090
+PATIENT INFORMATION
+Name: William Brown DOB: 04/16/1959
+SSN: 895-43-2731 Phone: 728-786-4076
+Address: 9085 Pine Dr, Houston, TX 18480
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 11/04/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 11/04/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Jackson, MD
+License: 227086
+Date: 11/07/2019
+
+
+===== FILE: REPAIR_EST_CLM-HO0090.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Brown
+Claim: CLM-HO0090
+Total Estimated Repairs: $138,434
+Prepared for: Allstate

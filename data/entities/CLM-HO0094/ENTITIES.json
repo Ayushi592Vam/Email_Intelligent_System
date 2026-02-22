@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0094",
+  "policy_number": "HO2000094",
+  "insured_name": "Jennifer Martin",
+  "carrier": "Farmers",
+  "date_of_loss": "08/31/2019",
+  "estimated_amount": "17496",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3242 Oak Ln, Phoenix, AZ 69365",
+  "loss_type": "liability"
+}

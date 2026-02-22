@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0093.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 12/31/2019
+INSURED INFORMATION
+Name: Thomas Jones
+Property Address: 1272 Main St
+New York, NY 64815
+Phone: 605-407-2131
+Email: thomas.jones@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000093
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 2014
+Square Footage: 3455 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0093
+Date of Loss: 12/30/2019
+Time of Loss: 6:15 PM
+Cause of Loss: Liability
+Estimated Damage: $18,484
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0093.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0093.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Jones
+Claim: CLM-HO0093
+Total Estimated Repairs: $18,484
+Prepared for: Liberty Mutual

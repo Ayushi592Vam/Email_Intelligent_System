@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/25/2019 Claim: CLM-AU0114
+PATIENT INFORMATION
+Name: John Gonzalez DOB: 05/06/1954
+SSN: 135-61-3348 Phone: 925-407-3535
+Address: 1959 Main Blvd, New York, NY 97569
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 11/24/2019 Treating Physician: Dr. Miller
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 11/24/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 12 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Davis, MD
+License: 491170
+Date: 11/25/2019

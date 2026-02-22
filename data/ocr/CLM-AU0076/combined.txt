@@ -1,0 +1,75 @@
+
+===== FILE: ACORD25_CLM-AU0076.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 10/15/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services William Wilson
+4025 Stockard Drive, Suite 876 5350 Main Ct
+Frisco, TX 75034 Atlanta, GA 63989
+Phone: 844-901-6569 Phone: 230-660-6590
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Liberty Mutual
+Policy Number: AU1000076
+Effective Date: 10/12/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000076 $250,000 Each Accident
+Category: Medical Payments $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0076
+Date of Loss: 10/12/2019
+Estimated Amount: $53,182
+Vehicle: 2016 Ford F-150, VIN: NA6HTBL83F1CJR66N
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0076.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0076.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 10/15/2019 Claim: CLM-AU0076
+PATIENT INFORMATION
+Name: William Wilson DOB: 08/21/1953
+SSN: 855-97-6795 Phone: 230-660-6590
+Address: 5350 Main Ct, Atlanta, GA 63989
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 10/12/2019 Treating Physician: Dr. Lopez
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 10/12/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 8 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Rodriguez, MD
+License: 146942
+Date: 10/15/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0076.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Wilson
+Claim: CLM-AU0076
+Total Estimated Repairs: $53,182
+Prepared for: Liberty Mutual

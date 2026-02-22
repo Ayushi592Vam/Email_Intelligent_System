@@ -1,0 +1,86 @@
+
+===== FILE: ACORD25_CLM-AU0179.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 07/15/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Susan Wilson
+4025 Stockard Drive, Suite 876 4199 Washington Blvd
+Frisco, TX 75034 Phoenix, AZ 24202
+Phone: 866-317-7519 Phone: 313-552-6633
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Geico
+Policy Number: AU1000179
+Effective Date: 07/15/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000179 $250,000 Each Accident
+Category: Personal Liability $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0179
+Date of Loss: 07/15/2019
+Estimated Amount: $16,314
+Vehicle: 2019 Tesla Model 3, VIN: Y2HEUS3YXM51L5ABV
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0179.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0179.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0179.pdf =====
+--- PAGE 1 ---
+SMITH LEGAL GROUP
+Attorneys at Law
+5292 Maple Dr
+Phoenix, AZ 24202
+Phone: 277-993-6201 | Fax: 899-632-4103
+Date: 07/15/2019
+Geico
+Claims Department
+P.O. Box 12345
+Houston, TX 72332
+RE: Demand for Settlement - Susan Wilson
+Claim Number: CLM-AU0179
+Date of Loss: 07/15/2019
+Your Insured: Susan Wilson
+Dear Claims Adjuster:
+This firm represents Susan Wilson in connection with the above-referenced claim.
+On 07/15/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $11,475
+Lost Wages: $12,787
+Property Damage: $16,314
+Pain and Suffering: $71,220
+TOTAL DEMAND: $90,179
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+John Smith, Esq.
+Smith Legal Group
+Attorney for Susan Wilson
+
+
+===== FILE: REPAIR_EST_CLM-AU0179.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Susan Wilson
+Claim: CLM-AU0179
+Total Estimated Repairs: $16,314
+Prepared for: Geico

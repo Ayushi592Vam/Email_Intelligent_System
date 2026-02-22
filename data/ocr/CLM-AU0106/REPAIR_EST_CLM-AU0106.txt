@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Linda Jones
+Claim: CLM-AU0106
+Total Estimated Repairs: $8,574
+Prepared for: Travelers

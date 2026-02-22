@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0005",
+  "policy_number": "HO2000005",
+  "insured_name": "Linda Lopez",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "08/09/2019",
+  "estimated_amount": "113039",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6953 Cedar St, Dallas, TX 57685",
+  "loss_type": "vandalism"
+}

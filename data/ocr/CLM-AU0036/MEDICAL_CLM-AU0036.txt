@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/20/2019 Claim: CLM-AU0036
+PATIENT INFORMATION
+Name: Karen Garcia DOB: 05/07/1968
+SSN: 187-66-4435 Phone: 338-306-9429
+Address: 5042 Oak St, Houston, TX 73927
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 08/20/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 08/20/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 11 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Wilson, MD
+License: 615997
+Date: 08/20/2019

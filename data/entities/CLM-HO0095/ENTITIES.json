@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0095",
+  "policy_number": "HO2000095",
+  "insured_name": "Elizabeth Garcia",
+  "carrier": "Liberty Mutual",
+  "date_of_loss": "12/21/2019",
+  "estimated_amount": "54408",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8322 Oak St, Atlanta, GA 94488",
+  "loss_type": "theft"
+}

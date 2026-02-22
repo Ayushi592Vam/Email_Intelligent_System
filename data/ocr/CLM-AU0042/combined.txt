@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0042.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 11/27/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Thomas Jackson
+4025 Stockard Drive, Suite 876 6850 Cedar Dr
+Frisco, TX 75034 Dallas, TX 69867
+Phone: 366-866-8218 Phone: 476-406-2518
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Geico
+Policy Number: AU1000042
+Effective Date: 11/22/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000042 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0042
+Date of Loss: 11/22/2019
+Estimated Amount: $5,204
+Vehicle: 2020 Tesla Model 3, VIN: G1PXVYFZ9RNEV5JR5
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0042.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0042.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019510175
+INCIDENT INFORMATION
+Date/Time: 11/22/2019 at 10:39
+Location: 3261 Cedar Ct, Dallas, TX
+Type: Collision
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Thomas Jackson
+License: TX53396498
+Vehicle: 2020 Tesla Model 3, VIN: G1PXVYFZ9RNEV5JR5
+Driver 2: Elizabeth Miller
+Vehicle: 2012 BMW 3 Series
+NARRATIVE
+On 11/22/2019, at approximately 18:06, officers responded to
+a collision at the intersection of 1433 Elm Blvd. Upon arrival, officers observed
+when Driver 2 (Elizabeth Miller) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 1681
+Date: 11/27/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0042.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Jackson
+Claim: CLM-AU0042
+Total Estimated Repairs: $5,204
+Prepared for: Geico

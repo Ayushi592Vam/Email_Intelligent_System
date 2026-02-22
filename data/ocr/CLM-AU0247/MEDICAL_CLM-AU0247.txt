@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 09/02/2019 Claim: CLM-AU0247
+PATIENT INFORMATION
+Name: Karen Davis DOB: 12/07/1951
+SSN: 875-34-1752 Phone: 203-391-2829
+Address: 8811 Pine Ave, New York, NY 11364
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 09/02/2019 Treating Physician: Dr. Taylor
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 09/02/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Muscle Strain
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 10 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Hernandez, MD
+License: 425248
+Date: 09/02/2019

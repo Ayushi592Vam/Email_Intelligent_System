@@ -1,0 +1,82 @@
+
+===== FILE: ACORD140_CLM-HO0219.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 09/12/2019
+INSURED INFORMATION
+Name: Jessica Wilson
+Property Address: 449 Oak Blvd
+Atlanta, GA 49880
+Phone: 237-624-8344
+Email: jessica.wilson@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000219
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1977
+Square Footage: 1683 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0219
+Date of Loss: 09/10/2019
+Time of Loss: 9:30 AM
+Cause of Loss: Water Damage
+Estimated Damage: $34,363
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals extensive fire damage
+to roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0219.png =====
+
+
+
+===== FILE: LEGAL_CLM-HO0219.pdf =====
+--- PAGE 1 ---
+SMITH LEGAL GROUP
+Attorneys at Law
+3982 Maple Blvd
+Atlanta, GA 49880
+Phone: 663-977-2952 | Fax: 999-361-1208
+Date: 09/12/2019
+Progressive
+Claims Department
+P.O. Box 12345
+Dallas, AZ 76984
+RE: Demand for Settlement - Jessica Wilson
+Claim Number: CLM-HO0219
+Date of Loss: 09/10/2019
+Your Insured: Jessica Wilson
+Dear Claims Adjuster:
+This firm represents Jessica Wilson in connection with the above-referenced claim.
+On 09/10/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $31,128
+Lost Wages: $13,679
+Property Damage: $34,363
+Pain and Suffering: $52,373
+TOTAL DEMAND: $96,722
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Smith Legal Group
+Attorney for Jessica Wilson
+
+
+===== FILE: REPAIR_EST_CLM-HO0219.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Wilson
+Claim: CLM-HO0219
+Total Estimated Repairs: $34,363
+Prepared for: Progressive

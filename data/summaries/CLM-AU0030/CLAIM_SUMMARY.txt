@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0030
+Policy Number: AU1000030
+Insured: William Williams
+Carrier: Geico
+Date of Loss: 09/24/2019
+Estimated Amount: $22,358
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: Yes
+
+Vehicle: 2018 Honda Accord | VIN: 254UGG2CLPPLX5L61
+
+Severity: HIGH (60)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Taylor
+Claim: CLM-AU0206
+Total Estimated Repairs: $57,508
+Prepared for: Geico

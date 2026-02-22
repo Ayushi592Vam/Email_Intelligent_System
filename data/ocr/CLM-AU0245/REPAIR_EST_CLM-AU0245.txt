@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Taylor
+Claim: CLM-AU0245
+Total Estimated Repairs: $9,681
+Prepared for: Farmers

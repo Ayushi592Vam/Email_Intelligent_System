@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0019",
+  "policy_number": "AU1000019",
+  "insured_name": "Elizabeth Rodriguez",
+  "carrier": "Progressive",
+  "date_of_loss": "08/13/2019",
+  "estimated_amount": "32677",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2020 Ford F",
+  "vin": "HB74X48NYS7J11R6L",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

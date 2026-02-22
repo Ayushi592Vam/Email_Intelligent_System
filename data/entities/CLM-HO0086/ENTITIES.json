@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0086",
+  "policy_number": "HO2000086",
+  "insured_name": "William Garcia",
+  "carrier": "Allstate",
+  "date_of_loss": "11/13/2019",
+  "estimated_amount": "77534",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4492 Pine St, Dallas, TX 21769",
+  "loss_type": "vandalism"
+}

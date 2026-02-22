@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0166
+Policy Number: AU1000166
+Insured: Jessica Taylor
+Carrier: State Farm
+Date of Loss: 09/03/2019
+Estimated Amount: $10,969
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2015 Ford F | VIN: WTUM369LHC1VREXA5
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

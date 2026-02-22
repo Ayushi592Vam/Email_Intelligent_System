@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Linda Johnson
+Claim: CLM-HO0177
+Total Estimated Repairs: $86,833
+Prepared for: Geico

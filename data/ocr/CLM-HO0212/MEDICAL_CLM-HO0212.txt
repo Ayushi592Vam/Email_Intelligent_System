@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 11/22/2019 Claim: CLM-HO0212
+PATIENT INFORMATION
+Name: Christopher Rodriguez DOB: 08/12/1962
+SSN: 915-52-2779 Phone: 570-225-7715
+Address: 9449 Washington Dr, New York, NY 43899
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 11/21/2019 Treating Physician: Dr. Anderson
+CHIEF COMPLAINT
+Patient presents with fractured rib following motor vehicle accident on 11/21/2019.
+DIAGNOSIS
+Primary: Fractured Rib
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Davis, MD
+License: 399324
+Date: 11/22/2019

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0099",
+  "policy_number": "HO2000099",
+  "insured_name": "Richard Davis",
+  "carrier": "Geico",
+  "date_of_loss": "10/10/2019",
+  "estimated_amount": "42170",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3148 Park Blvd, Los Angeles, CA 39486",
+  "loss_type": "vandalism"
+}

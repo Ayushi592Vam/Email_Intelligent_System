@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0074",
+  "policy_number": "AU1000074",
+  "insured_name": "Michael Gonzalez",
+  "carrier": "Farmers",
+  "date_of_loss": "09/01/2019",
+  "estimated_amount": "8858",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2016 Toyota Camry",
+  "vin": "4N3N9DNN94T6LLK5Z",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

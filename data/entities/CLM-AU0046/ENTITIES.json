@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0046",
+  "policy_number": "AU1000046",
+  "insured_name": "John Brown",
+  "carrier": "Farmers",
+  "date_of_loss": "08/14/2019",
+  "estimated_amount": "41757",
+  "injuries_reported": true,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2018 Honda Accord",
+  "vin": "FP3X4D0GU3CLPWFDA",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

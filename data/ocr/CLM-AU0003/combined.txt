@@ -1,0 +1,74 @@
+
+===== FILE: ACORD25_CLM-AU0003.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/21/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services John Wilson
+4025 Stockard Drive, Suite 876 7495 Maple Ct
+Frisco, TX 75034 Dallas, TX 13400
+Phone: 858-730-5165 Phone: 527-338-4045
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000003
+Effective Date: 09/16/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000003 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0003
+Date of Loss: 09/16/2019
+Estimated Amount: $11,270
+Vehicle: 2017 Honda Accord, VIN: T6J7AH8USURFPN0EG
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0003.png =====
+
+
+
+===== FILE: POLICE_CLM-AU0003.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019104584
+INCIDENT INFORMATION
+Date/Time: 09/16/2019 at 18:05
+Location: 3733 Pine Ln, Dallas, TX
+Type: Comprehensive
+Weather: Foggy, Road: Dry
+PARTIES INVOLVED
+Driver 1: John Wilson
+License: TX14983617
+Vehicle: 2017 Honda Accord, VIN: T6J7AH8USURFPN0EG
+Driver 2: Elizabeth Williams
+Vehicle: 2016 Honda Accord
+NARRATIVE
+On 09/16/2019, at approximately 07:52, officers responded to
+a comprehensive at the intersection of 519 Main Blvd. Upon arrival, officers observed
+when Driver 2 (Elizabeth Williams) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: J. Martinez
+Badge: 2181
+Date: 09/21/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0003.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Wilson
+Claim: CLM-AU0003
+Total Estimated Repairs: $11,270
+Prepared for: Progressive

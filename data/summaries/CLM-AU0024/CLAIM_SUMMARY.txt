@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0024
+Policy Number: AU1000024
+Insured: Thomas Garcia
+Carrier: Travelers
+Date of Loss: 08/16/2019
+Estimated Amount: $21,943
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2015 Honda Accord | VIN: NU5NBSA79HY313YEL
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

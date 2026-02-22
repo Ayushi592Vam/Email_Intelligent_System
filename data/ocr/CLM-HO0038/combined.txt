@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0038.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/07/2019
+INSURED INFORMATION
+Name: Joseph Hernandez
+Property Address: 1832 Elm Blvd
+Chicago, IL 90276
+Phone: 379-439-1778
+Email: joseph.hernandez@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000038
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1990
+Square Footage: 1770 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0038
+Date of Loss: 08/07/2019
+Time of Loss: 11:45 PM
+Cause of Loss: Liability
+Estimated Damage: $7,711
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals extensive fire damage to
+roof and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0038.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0038.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Joseph Hernandez
+Claim: CLM-HO0038
+Total Estimated Repairs: $7,711
+Prepared for: Allstate

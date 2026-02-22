@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0180.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/29/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Robert Martin
+4025 Stockard Drive, Suite 876 2869 Maple St
+Frisco, TX 75034 Atlanta, GA 73729
+Phone: 345-746-2904 Phone: 592-620-5224
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Travelers
+Policy Number: AU1000180
+Effective Date: 12/25/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000180 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0180
+Date of Loss: 12/25/2019
+Estimated Amount: $17,810
+Vehicle: 2020 BMW 3 Series, VIN: BTS8B9ERJ5CFHN91R
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0180.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0180.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0180.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/29/2019 Claim: CLM-AU0180
+PATIENT INFORMATION
+Name: Robert Martin DOB: 03/27/1957
+SSN: 294-86-1727 Phone: 592-620-5224
+Address: 2869 Maple St, Atlanta, GA 73729
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 12/25/2019 Treating Physician: Dr. Garcia
+CHIEF COMPLAINT
+Patient presents with whiplash following motor vehicle accident on 12/25/2019.
+DIAGNOSIS
+Primary: Whiplash
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Williams, MD
+License: 169912
+Date: 12/29/2019
+
+
+===== FILE: POLICE_CLM-AU0180.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Atlanta Police Department Report #: 2019668768
+INCIDENT INFORMATION
+Date/Time: 12/25/2019 at 08:32
+Location: 165 Park Ln, Atlanta, GA
+Type: Collision
+Weather: Cloudy, Road: Wet
+PARTIES INVOLVED
+Driver 1: Robert Martin
+License: GA30819463
+Vehicle: 2020 BMW 3 Series, VIN: BTS8B9ERJ5CFHN91R
+Driver 2: Elizabeth Martinez
+Vehicle: 2014 Chevrolet Silverado
+NARRATIVE
+On 12/25/2019, at approximately 19:04, officers responded to
+a collision at the intersection of 1836 Pine St. Upon arrival, officers observed
+when Driver 2 (Elizabeth Martinez) failed to yield right of way. Impact occurred to the
+passenger side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for failure to yield.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 2483
+Date: 12/29/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0180.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Robert Martin
+Claim: CLM-AU0180
+Total Estimated Repairs: $17,810
+Prepared for: Travelers

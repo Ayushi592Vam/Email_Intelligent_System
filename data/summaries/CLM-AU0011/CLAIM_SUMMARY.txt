@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0011
+Policy Number: AU1000011
+Insured: Karen Anderson
+Carrier: State Farm
+Date of Loss: 12/09/2019
+Estimated Amount: $11,521
+
+Injuries Reported: No
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2020 Honda Accord | VIN: 9VHZDRV64VU79D8YR
+
+Severity: LOW (20)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

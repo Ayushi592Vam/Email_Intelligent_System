@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Martin
+Claim: CLM-HO0120
+Total Estimated Repairs: $19,499
+Prepared for: Farmers

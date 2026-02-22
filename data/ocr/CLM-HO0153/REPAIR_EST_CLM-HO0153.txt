@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Thomas Moore
+Claim: CLM-HO0153
+Total Estimated Repairs: $7,541
+Prepared for: State Farm

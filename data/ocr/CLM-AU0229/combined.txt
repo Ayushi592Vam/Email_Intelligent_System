@@ -1,0 +1,145 @@
+
+===== FILE: ACORD25_CLM-AU0229.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 08/31/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Elizabeth Jackson
+4025 Stockard Drive, Suite 876 556 Main Ave
+Frisco, TX 75034 New York, NY 60123
+Phone: 922-649-4271 Phone: 240-992-8172
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000229
+Effective Date: 08/29/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000229 $250,000 Each Accident
+Category: Comprehensive $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0229
+Date of Loss: 08/29/2019
+Estimated Amount: $45,863
+Vehicle: 2017 BMW 3 Series, VIN: AHA2D5V2XXVCXG3PM
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0229.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0229.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0229.pdf =====
+--- PAGE 1 ---
+WILLIAMS LAW FIRM
+Attorneys at Law
+3414 Cedar St
+New York, NY 60123
+Phone: 276-407-3650 | Fax: 555-495-5926
+Date: 08/31/2019
+Progressive
+Claims Department
+P.O. Box 12345
+Dallas, AZ 78488
+RE: Demand for Settlement - Elizabeth Jackson
+Claim Number: CLM-AU0229
+Date of Loss: 08/29/2019
+Your Insured: Elizabeth Jackson
+Dear Claims Adjuster:
+This firm represents Elizabeth Jackson in connection with the above-referenced claim.
+On 08/29/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $20,090
+Lost Wages: $14,987
+Property Damage: $45,863
+Pain and Suffering: $66,908
+TOTAL DEMAND: $117,249
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Williams Law Firm
+Attorney for Elizabeth Jackson
+
+
+===== FILE: MEDICAL_CLM-AU0229.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/31/2019 Claim: CLM-AU0229
+PATIENT INFORMATION
+Name: Elizabeth Jackson DOB: 09/25/1982
+SSN: 945-15-2024 Phone: 240-992-8172
+Address: 556 Main Ave, New York, NY 60123
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 08/29/2019 Treating Physician: Dr. Brown
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 08/29/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Brown, MD
+License: 895837
+Date: 08/31/2019
+
+
+===== FILE: POLICE_CLM-AU0229.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+New York Police Department Report #: 2019868891
+INCIDENT INFORMATION
+Date/Time: 08/29/2019 at 09:09
+Location: 8873 Main Ave, New York, NY
+Type: Comprehensive
+Weather: Clear, Road: Wet
+PARTIES INVOLVED
+Driver 1: Elizabeth Jackson
+License: NY49326436
+Vehicle: 2017 BMW 3 Series, VIN: AHA2D5V2XXVCXG3PM
+Driver 2: Thomas Anderson
+Vehicle: 2019 BMW 3 Series
+NARRATIVE
+On 08/29/2019, at approximately 16:43, officers responded to
+a comprehensive at the intersection of 1882 Washington Ln. Upon arrival, officers observed
+when Driver 2 (Thomas Anderson) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: R. Thompson
+Badge: 1474
+Date: 08/31/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0229.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Jackson
+Claim: CLM-AU0229
+Total Estimated Repairs: $45,863
+Prepared for: Progressive

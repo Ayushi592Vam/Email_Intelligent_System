@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/18/2019 Claim: CLM-HO0117
+PATIENT INFORMATION
+Name: Barbara Anderson DOB: 04/27/1964
+SSN: 973-95-6956 Phone: 384-875-8551
+Address: 9166 Elm Ct, Los Angeles, CA 73956
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 12/13/2019 Treating Physician: Dr. Martin
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 12/13/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Emergency Room
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Williams, MD
+License: 571380
+Date: 12/18/2019

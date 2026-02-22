@@ -1,0 +1,86 @@
+
+===== FILE: ACORD140_CLM-HO0197.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/12/2019
+INSURED INFORMATION
+Name: Sarah Anderson
+Property Address: 7650 Oak Ct
+Los Angeles, CA 11265
+Phone: 209-566-1186
+Email: sarah.anderson@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000197
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Condo
+Year Built: 1982
+Square Footage: 1893 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0197
+Date of Loss: 11/07/2019
+Time of Loss: 12:00 PM
+Cause of Loss: Theft
+Estimated Damage: $24,865
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals moderate damage to interior
+and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0197.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-HO0197.png =====
+
+
+
+===== FILE: LEGAL_CLM-HO0197.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+348 Oak Ct
+Los Angeles, CA 11265
+Phone: 586-553-8763 | Fax: 766-551-9943
+Date: 11/12/2019
+Liberty Mutual
+Claims Department
+P.O. Box 12345
+Dallas, TX 72711
+RE: Demand for Settlement - Sarah Anderson
+Claim Number: CLM-HO0197
+Date of Loss: 11/07/2019
+Your Insured: Sarah Anderson
+Dear Claims Adjuster:
+This firm represents Sarah Anderson in connection with the above-referenced claim.
+On 11/07/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $18,252
+Lost Wages: $12,140
+Property Damage: $24,865
+Pain and Suffering: $43,425
+TOTAL DEMAND: $74,455
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Johnson & Associates
+Attorney for Sarah Anderson
+
+
+===== FILE: REPAIR_EST_CLM-HO0197.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Anderson
+Claim: CLM-HO0197
+Total Estimated Repairs: $24,865
+Prepared for: Liberty Mutual

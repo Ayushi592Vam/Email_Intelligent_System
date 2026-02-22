@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 07/29/2019
+INSURED INFORMATION
+Name: Elizabeth Martin
+Property Address: 4317 Pine Dr
+Phoenix, AZ 43667
+Phone: 894-235-8229
+Email: elizabeth.martin@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000198
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1980
+Square Footage: 3017 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0198
+Date of Loss: 07/25/2019
+Time of Loss: 1:00 PM
+Cause of Loss: Water Damage
+Estimated Damage: $24,906
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to water damage. Initial inspection reveals significant water int
+rusion affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

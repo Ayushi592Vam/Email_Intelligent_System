@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0064",
+  "policy_number": "HO2000064",
+  "insured_name": "Jessica Lopez",
+  "carrier": "Nationwide",
+  "date_of_loss": "08/06/2019",
+  "estimated_amount": "35322",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "3241 Main Dr, New York, NY 10089",
+  "loss_type": "natural disaster"
+}

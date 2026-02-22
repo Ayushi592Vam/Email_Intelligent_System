@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0016",
+  "policy_number": "HO2000016",
+  "insured_name": "Jessica Johnson",
+  "carrier": "Nationwide",
+  "date_of_loss": "08/06/2019",
+  "estimated_amount": "74364",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "6784 Cedar Blvd, Houston, TX 57331",
+  "loss_type": "vandalism"
+}

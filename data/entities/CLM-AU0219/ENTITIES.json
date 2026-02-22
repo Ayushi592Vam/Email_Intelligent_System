@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0219",
+  "policy_number": "AU1000219",
+  "insured_name": "Sarah Johnson",
+  "carrier": "State Farm",
+  "date_of_loss": "10/29/2019",
+  "estimated_amount": "26277",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2015 Toyota Camry",
+  "vin": "NTBB43N5C1H8PCTCE",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Brown
+Claim: CLM-AU0046
+Total Estimated Repairs: $41,757
+Prepared for: Farmers

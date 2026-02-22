@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Barbara Smith
+Claim: CLM-HO0168
+Total Estimated Repairs: $15,272
+Prepared for: Progressive

@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0189
+Policy Number: AU1000189
+Insured: Karen Moore
+Carrier: Liberty Mutual
+Date of Loss: 10/12/2019
+Estimated Amount: $58,688
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: Yes
+
+Vehicle: 2019 Audi A4 | VIN: XYFMRHYYDKK6JK8TF
+
+Severity: CRITICAL (80)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0021",
+  "policy_number": "HO2000021",
+  "insured_name": "Linda Wilson",
+  "carrier": "Allstate",
+  "date_of_loss": "09/09/2019",
+  "estimated_amount": "18117",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "4914 Oak Ave, Phoenix, AZ 44498",
+  "loss_type": "vandalism"
+}

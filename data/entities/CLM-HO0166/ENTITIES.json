@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0166",
+  "policy_number": "HO2000166",
+  "insured_name": "Elizabeth Anderson",
+  "carrier": "Geico",
+  "date_of_loss": "01/04/2020",
+  "estimated_amount": "75611",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8948 Washington Dr, Chicago, IL 18602",
+  "loss_type": "natural disaster"
+}

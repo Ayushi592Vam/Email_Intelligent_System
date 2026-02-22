@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Williams
+Claim: CLM-AU0131
+Total Estimated Repairs: $30,671
+Prepared for: Progressive

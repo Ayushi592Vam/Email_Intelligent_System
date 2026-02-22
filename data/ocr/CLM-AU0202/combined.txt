@@ -1,0 +1,111 @@
+
+===== FILE: ACORD25_CLM-AU0202.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 09/15/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Jessica Williams
+4025 Stockard Drive, Suite 876 691 Cedar Ln
+Frisco, TX 75034 Dallas, TX 77338
+Phone: 602-323-8064 Phone: 822-235-1489
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Liberty Mutual
+Policy Number: AU1000202
+Effective Date: 09/13/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000202 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0202
+Date of Loss: 09/13/2019
+Estimated Amount: $15,498
+Vehicle: 2016 Audi A4, VIN: 45CSL26J71S8DZMBR
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0202.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0202.pdf =====
+--- PAGE 1 ---
+JOHNSON & ASSOCIATES
+Attorneys at Law
+5657 Main Ave
+Dallas, TX 77338
+Phone: 354-984-7406 | Fax: 512-606-3192
+Date: 09/15/2019
+Liberty Mutual
+Claims Department
+P.O. Box 12345
+Dallas, AZ 70641
+RE: Demand for Settlement - Jessica Williams
+Claim Number: CLM-AU0202
+Date of Loss: 09/13/2019
+Your Insured: Jessica Williams
+Dear Claims Adjuster:
+This firm represents Jessica Williams in connection with the above-referenced claim.
+On 09/13/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $21,191
+Lost Wages: $6,053
+Property Damage: $15,498
+Pain and Suffering: $29,467
+TOTAL DEMAND: $48,249
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Robert Williams, Esq.
+Johnson & Associates
+Attorney for Jessica Williams
+
+
+===== FILE: POLICE_CLM-AU0202.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Dallas Police Department Report #: 2019164288
+INCIDENT INFORMATION
+Date/Time: 09/13/2019 at 09:50
+Location: 3248 Pine Ct, Dallas, TX
+Type: Collision
+Weather: Clear, Road: Icy
+PARTIES INVOLVED
+Driver 1: Jessica Williams
+License: TX53367601
+Vehicle: 2016 Audi A4, VIN: 45CSL26J71S8DZMBR
+Driver 2: James Smith
+Vehicle: 2014 BMW 3 Series
+NARRATIVE
+On 09/13/2019, at approximately 17:00, officers responded to
+a collision at the intersection of 7277 Maple St. Upon arrival, officers observed
+when Driver 2 (James Smith) failed to yield right of way. Impact occurred to the
+front of Driver 1's vehicle. Both drivers were
+uninjured. Damage to both vehicles estimated at moderate to severe.
+Citations issued to Driver 2 for unsafe lane change.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: S. Williams
+Badge: 7468
+Date: 09/15/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0202.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jessica Williams
+Claim: CLM-AU0202
+Total Estimated Repairs: $15,498
+Prepared for: Liberty Mutual

@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: John Wilson
+Claim: CLM-HO0131
+Total Estimated Repairs: $16,890
+Prepared for: Travelers

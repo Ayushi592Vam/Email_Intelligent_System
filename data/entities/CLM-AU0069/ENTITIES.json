@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0069",
+  "policy_number": "AU1000069",
+  "insured_name": "David Martin",
+  "carrier": "Geico",
+  "date_of_loss": "09/21/2019",
+  "estimated_amount": "42876",
+  "injuries_reported": false,
+  "police_report": true,
+  "legal_involvement": false,
+  "vehicle": "2019 Honda Accord",
+  "vin": "WV5WA0V8UGVGGPPHN",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

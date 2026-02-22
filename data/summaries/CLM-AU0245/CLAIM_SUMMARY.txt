@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0245
+Policy Number: AU1000245
+Insured: Elizabeth Taylor
+Carrier: Farmers
+Date of Loss: 10/27/2019
+Estimated Amount: $9,681
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2017 BMW 3 | VIN: G022YX1J4WE04XTU0
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

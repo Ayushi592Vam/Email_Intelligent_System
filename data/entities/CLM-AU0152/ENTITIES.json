@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0152",
+  "policy_number": "AU1000152",
+  "insured_name": "William Davis",
+  "carrier": "Progressive",
+  "date_of_loss": "12/10/2019",
+  "estimated_amount": "37723",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": "2018 Audi A4",
+  "vin": "NA1SDRNMG5TRMA1WS",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_type": "AUTO",
+  "claim_number": "CLM-AU0220",
+  "policy_number": "AU1000220",
+  "insured_name": "Thomas Rodriguez",
+  "carrier": "Travelers",
+  "date_of_loss": "12/19/2019",
+  "estimated_amount": "39592",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": "2018 Toyota Camry",
+  "vin": "H5U9SU3MHZWLWPB80",
+  "property_address": null,
+  "loss_type": "vehicle damage"
+}

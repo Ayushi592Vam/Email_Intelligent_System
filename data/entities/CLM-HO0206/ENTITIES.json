@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0206",
+  "policy_number": "HO2000206",
+  "insured_name": "Jessica Hernandez",
+  "carrier": "Allstate",
+  "date_of_loss": "10/01/2019",
+  "estimated_amount": "52394",
+  "injuries_reported": true,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "8513 Maple Ave, Chicago, IL 26290",
+  "loss_type": "liability"
+}

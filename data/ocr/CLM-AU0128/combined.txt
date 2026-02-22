@@ -1,0 +1,108 @@
+
+===== FILE: ACORD25_CLM-AU0128.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/01/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services Patricia Williams
+4025 Stockard Drive, Suite 876 1104 Maple St
+Frisco, TX 75034 Miami, FL 31018
+Phone: 225-912-8761 Phone: 942-889-4976
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000128
+Effective Date: 12/01/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000128 $250,000 Each Accident
+Category: Collision $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0128
+Date of Loss: 12/01/2019
+Estimated Amount: $26,885
+Vehicle: 2019 Audi A4, VIN: KL2N3CLKABPF818CE
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0128.png =====
+
+
+
+===== FILE: DAMAGE_2_CLM-AU0128.png =====
+
+
+
+===== FILE: MEDICAL_CLM-AU0128.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/01/2019 Claim: CLM-AU0128
+PATIENT INFORMATION
+Name: Patricia Williams DOB: 08/17/1987
+SSN: 527-90-8133 Phone: 942-889-4976
+Address: 1104 Maple St, Miami, FL 31018
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 12/01/2019 Treating Physician: Dr. Williams
+CHIEF COMPLAINT
+Patient presents with concussion following motor vehicle accident on 12/01/2019.
+DIAGNOSIS
+Primary: Concussion
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 9 weeks
+PROGNOSIS
+Fair - may require extended treatment period.
+Physician: Dr. Anderson, MD
+License: 835763
+Date: 12/01/2019
+
+
+===== FILE: POLICE_CLM-AU0128.pdf =====
+--- PAGE 1 ---
+POLICE ACCIDENT REPORT
+Miami Police Department Report #: 2019543062
+INCIDENT INFORMATION
+Date/Time: 12/01/2019 at 15:11
+Location: 1687 Elm Ln, Miami, FL
+Type: Collision
+Weather: Rainy, Road: Dry
+PARTIES INVOLVED
+Driver 1: Patricia Williams
+License: FL27395805
+Vehicle: 2019 Audi A4, VIN: KL2N3CLKABPF818CE
+Driver 2: Sarah Garcia
+Vehicle: 2017 Audi A4
+NARRATIVE
+On 12/01/2019, at approximately 17:27, officers responded to
+a collision at the intersection of 3384 Maple Ct. Upon arrival, officers observed
+when Driver 2 (Sarah Garcia) failed to yield right of way. Impact occurred to the
+driver side of Driver 1's vehicle. Both drivers were
+transported to hospital for evaluation. Damage to both vehicles estimated at moderate to severe
+Citations issued to Driver 2 for running red light.
+No witnesses were present at scene. Photos and measurements taken.
+REPORTING OFFICER
+Officer: K. Johnson
+Badge: 1649
+Date: 12/01/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0128.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Patricia Williams
+Claim: CLM-AU0128
+Total Estimated Repairs: $26,885
+Prepared for: Progressive

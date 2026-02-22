@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0193",
+  "policy_number": "HO2000193",
+  "insured_name": "Jessica Taylor",
+  "carrier": "Progressive",
+  "date_of_loss": "08/28/2019",
+  "estimated_amount": "79054",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": true,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9182 Main Ln, Houston, TX 33284",
+  "loss_type": "natural disaster"
+}

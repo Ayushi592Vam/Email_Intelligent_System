@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0232
+Policy Number: AU1000232
+Insured: William Davis
+Carrier: Liberty Mutual
+Date of Loss: 10/19/2019
+Estimated Amount: $3,152
+
+Injuries Reported: No
+Police Report: Yes
+Legal Involvement: No
+
+Vehicle: 2019 Ford F | VIN: 85G6FLANAJCYMTV3G
+
+Severity: MEDIUM (40)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

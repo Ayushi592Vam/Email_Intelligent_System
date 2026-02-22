@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0041.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/20/2019
+INSURED INFORMATION
+Name: Jennifer Jackson
+Property Address: 2718 Oak Ave
+Chicago, IL 98474
+Phone: 807-894-8139
+Email: jennifer.jackson@example.com
+INSURANCE COMPANY
+Company: Farmers
+Policy Number: HO2000041
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Tom Anderson
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1985
+Square Footage: 1294 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0041
+Date of Loss: 11/15/2019
+Time of Loss: 2:45 AM
+Cause of Loss: Liability
+Estimated Damage: $104,532
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals structural damage requir
+ing immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0041.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0041.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Jennifer Jackson
+Claim: CLM-HO0041
+Total Estimated Repairs: $104,532
+Prepared for: Farmers

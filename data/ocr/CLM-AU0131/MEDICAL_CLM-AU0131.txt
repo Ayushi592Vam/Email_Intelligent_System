@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 01/11/2020 Claim: CLM-AU0131
+PATIENT INFORMATION
+Name: William Williams DOB: 07/26/1967
+SSN: 899-76-5399 Phone: 439-314-8292
+Address: 841 Main Blvd, New York, NY 64077
+MEDICAL FACILITY
+Facility: Memorial Hospital
+Date of Service: 01/08/2020 Treating Physician: Dr. Smith
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 01/08/2020.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Contusions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Surgery
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Hernandez, MD
+License: 167583
+Date: 01/11/2020

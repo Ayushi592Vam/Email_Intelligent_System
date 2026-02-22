@@ -1,0 +1,112 @@
+
+===== FILE: ACORD25_CLM-AU0152.pdf =====
+--- PAGE 1 ---
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY): 12/15/2019
+PRODUCER INSURED
+Fire Insurance Brokerage Services William Davis
+4025 Stockard Drive, Suite 876 2955 Cedar Ct
+Frisco, TX 75034 Los Angeles, CA 96691
+Phone: 799-827-8938 Phone: 663-668-9718
+INSURER(S) AFFORDING COVERAGE
+INSURER A: Progressive
+Policy Number: AU1000152
+Effective Date: 12/10/2019
+Expiration Date: 12/31/2026
+COVERAGES
+TYPE OF INSURANCE POLICY NUMBER LIMITS
+3 AUTOMOBILE LIABILITY AU1000152 $250,000 Each Accident
+Category: Personal Liability $100,000 Each Person
+ANY AUTO $50,000 Property Damage
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES / SPECIAL PROVISIONS
+Claim Number: CLM-AU0152
+Date of Loss: 12/10/2019
+Estimated Amount: $37,723
+Vehicle: 2018 Audi A4, VIN: NA1SDRNMG5TRMA1WS
+ACORD 25 (2016/03) © 1988-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE
+CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR
+ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE DOES NOT CONSTITUTE
+A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE
+
+
+===== FILE: DAMAGE_1_CLM-AU0152.png =====
+
+
+
+===== FILE: LEGAL_CLM-AU0152.pdf =====
+--- PAGE 1 ---
+WILLIAMS LAW FIRM
+Attorneys at Law
+1701 Washington Ln
+Los Angeles, CA 96691
+Phone: 364-606-7836 | Fax: 817-475-2533
+Date: 12/15/2019
+Progressive
+Claims Department
+P.O. Box 12345
+Phoenix, TX 84051
+RE: Demand for Settlement - William Davis
+Claim Number: CLM-AU0152
+Date of Loss: 12/10/2019
+Your Insured: William Davis
+Dear Claims Adjuster:
+This firm represents William Davis in connection with the above-referenced claim.
+On 12/10/2019, our client sustained injuries and property damage as a direct result of
+the incident described in your claim file. Our client has incurred substantial medical expenses
+lost wages, and continues to suffer from pain and limitations in daily activities.
+DAMAGES SUMMARY:
+Medical Expenses: $25,817
+Lost Wages: $13,990
+Property Damage: $37,723
+Pain and Suffering: $73,704
+TOTAL DEMAND: $90,018
+This demand is made in good faith based on the injuries, damages, and losses sustained by our
+client. We request that you respond to this demand within 30 days of receipt. Should you fail t
+respond appropriately, we are prepared to pursue all available legal remedies including filing
+Please direct all communications to our office.
+Sincerely,
+Sarah Johnson, Esq.
+Williams Law Firm
+Attorney for William Davis
+
+
+===== FILE: MEDICAL_CLM-AU0152.pdf =====
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/15/2019 Claim: CLM-AU0152
+PATIENT INFORMATION
+Name: William Davis DOB: 05/18/1963
+SSN: 537-10-9877 Phone: 663-668-9718
+Address: 2955 Cedar Ct, Los Angeles, CA 96691
+MEDICAL FACILITY
+Facility: City Medical Center
+Date of Service: 12/10/2019 Treating Physician: Dr. Martinez
+CHIEF COMPLAINT
+Patient presents with soft tissue injury following motor vehicle accident on 12/10/2019.
+DIAGNOSIS
+Primary: Soft Tissue Injury
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Orthopedic Specialist
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 4 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Gonzalez, MD
+License: 327861
+Date: 12/15/2019
+
+
+===== FILE: REPAIR_EST_CLM-AU0152.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Davis
+Claim: CLM-AU0152
+Total Estimated Repairs: $37,723
+Prepared for: Progressive

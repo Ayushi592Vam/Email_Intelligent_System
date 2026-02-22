@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Mary Martin
+Claim: CLM-AU0140
+Total Estimated Repairs: $3,232
+Prepared for: Farmers

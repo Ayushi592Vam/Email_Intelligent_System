@@ -1,0 +1,22 @@
+
+CLAIM SUMMARY
+--------------------------------------------------
+Claim Type: AUTO
+Claim Number: CLM-AU0233
+Policy Number: AU1000233
+Insured: Elizabeth Anderson
+Carrier: Geico
+Date of Loss: 10/19/2019
+Estimated Amount: $30,232
+
+Injuries Reported: Yes
+Police Report: No
+Legal Involvement: No
+
+Vehicle: 2017 BMW 3 | VIN: PUPD1E7C3B5JFM0UN
+
+Severity: MEDIUM (50)
+
+Summary Narrative:
+Loss reported under active policy. OCR documents reviewed including ACORD forms,
+repair estimates, and supporting evidence. Claim requires adjuster review.

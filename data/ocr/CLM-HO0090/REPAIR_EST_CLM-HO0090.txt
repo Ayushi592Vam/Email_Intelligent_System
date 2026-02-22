@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: William Brown
+Claim: CLM-HO0090
+Total Estimated Repairs: $138,434
+Prepared for: Allstate

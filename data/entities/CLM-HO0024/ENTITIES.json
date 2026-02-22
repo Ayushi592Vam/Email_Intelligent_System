@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0024",
+  "policy_number": "HO2000024",
+  "insured_name": "Susan Jackson",
+  "carrier": "Travelers",
+  "date_of_loss": "10/16/2019",
+  "estimated_amount": "108679",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9992 Pine Ave, Miami, FL 56973",
+  "loss_type": "vandalism"
+}

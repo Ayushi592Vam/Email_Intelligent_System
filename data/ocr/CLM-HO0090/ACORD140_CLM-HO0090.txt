@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/07/2019
+INSURED INFORMATION
+Name: William Brown
+Property Address: 9085 Pine Dr
+Houston, TX 18480
+Phone: 728-786-4076
+Email: william.brown@example.com
+INSURANCE COMPANY
+Company: Allstate
+Policy Number: HO2000090
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1984
+Square Footage: 2970 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0090
+Date of Loss: 11/04/2019
+Time of Loss: 9:00 AM
+Cause of Loss: Theft
+Estimated Damage: $138,434
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals significant water intrusion
+affecting multiple rooms.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

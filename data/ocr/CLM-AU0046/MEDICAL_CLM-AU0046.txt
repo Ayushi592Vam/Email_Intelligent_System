@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 08/18/2019 Claim: CLM-AU0046
+PATIENT INFORMATION
+Name: John Brown DOB: 11/23/1984
+SSN: 155-43-9722 Phone: 250-476-9088
+Address: 5195 Washington Dr, Phoenix, AZ 73334
+MEDICAL FACILITY
+Facility: County General Medical Center
+Date of Service: 08/14/2019 Treating Physician: Dr. Jackson
+CHIEF COMPLAINT
+Patient presents with back strain following motor vehicle accident on 08/14/2019.
+DIAGNOSIS
+Primary: Back Strain
+Secondary: Abrasions
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Urgent Care
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 5 weeks
+PROGNOSIS
+Excellent if patient follows prescribed treatment plan.
+Physician: Dr. Johnson, MD
+License: 872090
+Date: 08/18/2019

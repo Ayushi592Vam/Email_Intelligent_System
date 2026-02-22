@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 11/19/2019
+INSURED INFORMATION
+Name: James Johnson
+Property Address: 1236 Main Ct
+New York, NY 91680
+Phone: 679-760-5213
+Email: james.johnson@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000132
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 1970
+Square Footage: 1991 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0132
+Date of Loss: 11/18/2019
+Time of Loss: 10:45 AM
+Cause of Loss: Theft
+Estimated Damage: $57,867
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to theft. Initial inspection reveals extensive fire damage to roo
+f and attic area.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

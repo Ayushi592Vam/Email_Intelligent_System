@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: James Anderson
+Claim: CLM-AU0191
+Total Estimated Repairs: $28,034
+Prepared for: Travelers

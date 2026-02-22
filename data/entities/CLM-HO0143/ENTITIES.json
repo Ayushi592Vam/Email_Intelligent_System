@@ -1,0 +1,16 @@
+{
+  "claim_type": "HOME",
+  "claim_number": "CLM-HO0143",
+  "policy_number": "HO2000143",
+  "insured_name": "Joseph Martin",
+  "carrier": "Progressive",
+  "date_of_loss": "11/29/2019",
+  "estimated_amount": "8290",
+  "injuries_reported": false,
+  "police_report": false,
+  "legal_involvement": false,
+  "vehicle": null,
+  "vin": null,
+  "property_address": "9807 Washington Ln, Miami, FL 16604",
+  "loss_type": "vandalism"
+}

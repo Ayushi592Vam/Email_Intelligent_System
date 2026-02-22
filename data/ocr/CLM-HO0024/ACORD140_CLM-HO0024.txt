@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/21/2019
+INSURED INFORMATION
+Name: Susan Jackson
+Property Address: 9992 Pine Ave
+Miami, FL 56973
+Phone: 803-430-8502
+Email: susan.jackson@example.com
+INSURANCE COMPANY
+Company: Travelers
+Policy Number: HO2000024
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Single Family
+Year Built: 1982
+Square Footage: 2694 sq ft
+Construction: Brick
+LOSS INFORMATION
+Claim Number: CLM-HO0024
+Date of Loss: 10/16/2019
+Time of Loss: 12:15 AM
+Cause of Loss: Vandalism
+Estimated Damage: $108,679
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals structural damage requir
+ing immediate repair.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

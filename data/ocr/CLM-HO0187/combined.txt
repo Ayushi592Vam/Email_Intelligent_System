@@ -1,0 +1,45 @@
+
+===== FILE: ACORD140_CLM-HO0187.pdf =====
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 10/25/2019
+INSURED INFORMATION
+Name: Elizabeth Jones
+Property Address: 3702 Maple St
+Miami, FL 32054
+Phone: 769-652-1469
+Email: elizabeth.jones@example.com
+INSURANCE COMPANY
+Company: Liberty Mutual
+Policy Number: HO2000187
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: Sarah Mitchell
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2007
+Square Footage: 3485 sq ft
+Construction: Stucco
+LOSS INFORMATION
+Claim Number: CLM-HO0187
+Date of Loss: 10/20/2019
+Time of Loss: 6:45 PM
+Cause of Loss: Vandalism
+Estimated Damage: $24,781
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to vandalism. Initial inspection reveals moderate damage to inter
+ior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008
+
+
+===== FILE: DAMAGE_1_CLM-HO0187.png =====
+
+
+
+===== FILE: REPAIR_EST_CLM-HO0187.pdf =====
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Elizabeth Jones
+Claim: CLM-HO0187
+Total Estimated Repairs: $24,781
+Prepared for: Liberty Mutual

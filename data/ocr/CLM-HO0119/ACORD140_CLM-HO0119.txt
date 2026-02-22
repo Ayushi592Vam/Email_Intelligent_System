@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+ACORD 140 - PROPERTY LOSS NOTICE
+DATE OF REPORT: 08/27/2019
+INSURED INFORMATION
+Name: John Martin
+Property Address: 2265 Maple St
+Miami, FL 99845
+Phone: 984-681-6829
+Email: john.martin@example.com
+INSURANCE COMPANY
+Company: Progressive
+Policy Number: HO2000119
+Policy Period: 01/01/2019 - 12/31/2020
+Agent: John Roberts
+PROPERTY INFORMATION
+Property Type: Townhouse
+Year Built: 2015
+Square Footage: 2246 sq ft
+Construction: Frame
+LOSS INFORMATION
+Claim Number: CLM-HO0119
+Date of Loss: 08/26/2019
+Time of Loss: 2:00 PM
+Cause of Loss: Liability
+Estimated Damage: $29,987
+Status: Under Investigation
+DESCRIPTION OF DAMAGE
+Property sustained damage due to liability. Initial inspection reveals moderate damage to inter
+ior and exterior components.
+ACORD 140 (2008/01) © ACORD CORPORATION 2008

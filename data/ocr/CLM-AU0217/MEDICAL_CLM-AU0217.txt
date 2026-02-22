@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+MEDICAL REPORT
+Report Date: 12/03/2019 Claim: CLM-AU0217
+PATIENT INFORMATION
+Name: David Hernandez DOB: 08/16/1972
+SSN: 193-56-6802 Phone: 390-991-2178
+Address: 3097 Park Dr, Houston, TX 48574
+MEDICAL FACILITY
+Facility: Regional Emergency Care
+Date of Service: 11/30/2019 Treating Physician: Dr. Taylor
+CHIEF COMPLAINT
+Patient presents with laceration following motor vehicle accident on 11/30/2019.
+DIAGNOSIS
+Primary: Laceration
+Secondary: Soft Tissue Damage
+ICD-10 Codes: S13.4XXA, M62.830
+TREATMENT PLAN
+Immediate: Physical Therapy
+Medications: Ibuprofen 800mg, Cyclobenzaprine 10mg
+Follow-up: 2 weeks, Physical therapy 3x weekly for 6 weeks
+Restrictions: No heavy lifting, limited driving for 2 weeks
+Estimated Recovery: 7 weeks
+PROGNOSIS
+Good with proper treatment and physical therapy compliance.
+Physician: Dr. Hernandez, MD
+License: 695449
+Date: 12/03/2019

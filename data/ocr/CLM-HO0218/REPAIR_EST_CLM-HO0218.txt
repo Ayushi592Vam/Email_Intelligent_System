@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+REPAIR ESTIMATE
+Customer: Sarah Anderson
+Claim: CLM-HO0218
+Total Estimated Repairs: $33,379
+Prepared for: Allstate
